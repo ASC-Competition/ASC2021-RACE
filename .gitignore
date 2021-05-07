@@ -127,5 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-data/
-lightning_logs/
+
+RACE.tar.gz
+RACE/
