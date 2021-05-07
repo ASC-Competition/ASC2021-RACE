@@ -26,7 +26,10 @@ import glob
 import json
 import numpy as np
 import torch
-from apex import amp
+import torch.distributed as dist
+from apex import amp 
+from schedulers import LinearWarmUpScheduler
+from utils import convert_examples_to_features
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
 
 from pytorch_pretrained_bert.tokenization import BertTokenizer
@@ -142,74 +145,6 @@ def read_race_examples(paths):
                             label = truth))
                 
     return examples 
-
-
-
-def convert_examples_to_features(examples, tokenizer, max_seq_length,
-                                 is_training):
-    """Loads a data file into a list of `InputBatch`s."""
-
-    # RACE is a multiple choice task. To perform this task using Bert,
-    # we will use the formatting proposed in "Improving Language
-    # Understanding by Generative Pre-Training" and suggested by
-    # @jacobdevlin-google in this issue
-    # https://github.com/google-research/bert/issues/38.
-    #
-    # The input will be like:
-    # [CLS] Article [SEP] Question + Option [SEP]
-    # for each option 
-    # 
-    # The model will output a single value for each input. To get the
-    # final decision of the model, we will run a softmax over these 4
-    # outputs.
-    features = []
-    max_option_len = 0
-    examples_iter = tqdm(examples, desc="Preprocessing: ", disable=False) if is_main_process() else examples
-    for example_index, example in enumerate(examples_iter):
-        context_tokens = tokenizer.tokenize(example.context_sentence)
-        start_ending_tokens = tokenizer.tokenize(example.start_ending)
-
-        choices_features = []
-        for ending_index, ending in enumerate(example.endings):
-            # We create a copy of the context tokens in order to be
-            # able to shrink it according to ending_tokens
-            context_tokens_choice = context_tokens[:]
-            ending_tokens = start_ending_tokens + tokenizer.tokenize(ending)
-            # Modifies `context_tokens_choice` and `ending_tokens` in
-            # place so that the total length is less than the
-            # specified length.  Account for [CLS], [SEP], [SEP] with
-            # "- 3"
-            _truncate_seq_pair(context_tokens_choice, ending_tokens, max_seq_length - 3)
-
-            tokens = ["[CLS]"] + context_tokens_choice + ["[SEP]"] + ending_tokens + ["[SEP]"]
-            segment_ids = [0] * (len(context_tokens_choice) + 2) + [1] * (len(ending_tokens) + 1)
-
-            input_ids = tokenizer.convert_tokens_to_ids(tokens)
-            input_mask = [1] * len(input_ids)
-
-            # Zero-pad up to the sequence length.
-            padding = [0] * (max_seq_length - len(input_ids))
-            input_ids += padding
-            input_mask += padding
-            segment_ids += padding
-
-            assert len(input_ids) == max_seq_length
-            assert len(input_mask) == max_seq_length
-            assert len(segment_ids) == max_seq_length
-
-            choices_features.append((tokens, input_ids, input_mask, segment_ids))
-
-        label = example.label
-        
-        features.append(
-            InputFeatures(
-                example_id = example.race_id,
-                choices_features = choices_features,
-                label = label
-            )
-        )
-
-    return features
 
 def _truncate_seq_pair(tokens_a, tokens_b, max_length):
     """Truncates a sequence pair in place to the maximum length."""
@@ -397,7 +332,8 @@ def main():
         train_examples = read_race_examples([train_dir+'/high', train_dir+'/middle'])
         num_train_steps = int(
             len(train_examples) / args.train_batch_size / args.gradient_accumulation_steps * args.num_train_epochs)
-
+        if args.local_rank != -1:
+            num_train_steps = num_train_steps // dist.get_world_size()
     # Prepare model
     model = BertForMultipleChoice.from_pretrained(args.bert_model,
         cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
@@ -415,20 +351,45 @@ def main():
     optimizer_grouped_parameters = [
         {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)], 'weight_decay': 0.01},
         {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
-        ]
-    t_total = num_train_steps
-    optimizer = BertAdam(optimizer_grouped_parameters,
-                             lr=args.learning_rate,
-                             warmup=args.warmup_proportion,
-                             t_total=t_total)
+    ]
+    if args.do_train:
+        if args.fp16:
+            logger.info("precision: fp16 ")
+            from apex.optimizers import FusedAdam
+            optimizer = FusedAdam(
+                optimizer_grouped_parameters,
+                lr=args.learning_rate,
+                bias_correction=False,
+            )
+            if args.loss_scale == 0:
+                model, optimizer = amp.initialize(model, optimizer, opt_level="O2", keep_batchnorm_fp32=False,
+                                                      loss_scale="dynamic")
+            else:
+                model, optimizer = amp.initialize(model, optimizer, opt_level="O2", keep_batchnorm_fp32=False, loss_scale=args.loss_scale)
+
+            scheduler = LinearWarmUpScheduler(optimizer, warmup=args.warmup_proportion, total_steps=num_train_steps)
+        else:
+            logger.info("precision: f32 ")
+            t_total = num_train_steps
+            optimizer = BertAdam(optimizer_grouped_parameters,
+                                    lr=args.learning_rate,
+                                    warmup=args.warmup_proportion,
+                                    t_total=t_total)
 
 
     global_step = 0
     train_start = time.time()
     writer = SummaryWriter(os.path.join(args.output_dir, "ascxx"))
     if args.do_train:
-        train_features = convert_examples_to_features(
-                train_examples, tokenizer, args.max_seq_length, True)
+        features_path = train_dir + '/train_features.pt'
+        if os.path.isfile(features_path):
+            logger.info("load pre-computed features")
+            train_features = torch.load(features_path)
+        else:
+            train_features = convert_examples_to_features(
+                    train_examples, tokenizer, args.max_seq_length, True)
+            torch.save(train_features, features_path)
+
         if is_main_process():
             logger.info("***** Running training *****")
             logger.info("  Num examples = %d", len(train_examples))
@@ -459,13 +420,19 @@ def main():
                     loss = loss / args.gradient_accumulation_steps
                 tr_loss += loss.item()
 
-                loss.backward()
+                if args.fp16:
+                    with amp.scale_loss(loss, optimizer) as scaled_loss:
+                        scaled_loss.backward()
+                else:
+                    loss.backward()
+                
+                # gradient clipping
                 gradClipper.step(amp.master_params(optimizer))
+
                 if (step + 1) % args.gradient_accumulation_steps == 0:
-                    # modify learning rate with special warm up BERT uses
-                    lr_this_step = args.learning_rate * warmup_linear(global_step/t_total, args.warmup_proportion)
-                    for param_group in optimizer.param_groups:
-                        param_group['lr'] = lr_this_step
+                    if args.fp16:
+                        # modify learning rate with special warm up BERT uses
+                        scheduler.step()
                     optimizer.step()
                     optimizer.zero_grad()
                     global_step += 1
