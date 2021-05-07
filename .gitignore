@@ -130,3 +130,5 @@ dmypy.json
 
 RACE.tar.gz
 RACE/
+large_models/
+model/
