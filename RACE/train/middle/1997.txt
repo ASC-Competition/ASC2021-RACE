@@ -1,0 +1,1 @@
+{"answers": ["B"], "options": [["find a good job", "live a positive life", "protect the environment", "keep us healthy"]], "questions": ["The material above tells us the ways to   _  ."], "article": "A. Choose to Be Happy                B. Do Something New.\nC. Look for the Opportunity           D. Learn from Losing", "id": "middle1997.txt"}

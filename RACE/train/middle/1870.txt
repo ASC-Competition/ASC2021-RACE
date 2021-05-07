@@ -1,0 +1,1 @@
+{"answers": ["D"], "options": [["How to learn from others.", "How to try tips.", "How to do your homework", "How to get good grades"]], "questions": ["What's the best title of the passage?"], "article": "Grades aren't everything, but if you or your parents are worried about your report cards, try some of these easy tips.", "id": "middle1870.txt"}
