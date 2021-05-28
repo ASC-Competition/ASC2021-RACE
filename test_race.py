@@ -27,19 +27,22 @@ import apex
 
 import numpy as np
 import torch
-from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler, Dataset
+from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
 from torch.utils.data.distributed import DistributedSampler
 
-from pytorch_pretrained_bert.tokenization import BertTokenizer
-from pytorch_pretrained_bert.modeling import BertForMultipleChoice
-from pytorch_pretrained_bert.optimization import BertAdam
-from pytorch_pretrained_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
+# from pytorch_pretrained_bert.tokenization import BertTokenizer
+# from pytorch_pretrained_bert.modeling import BertForMultipleChoice
+# from pytorch_pretrained_bert.optimization import BertAdam
+# from pytorch_pretrained_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
 from pytorch_pretrained_bert.utils import is_main_process
+from pytorch_pretrained_bert import tokenization_albert
+from pytorch_pretrained_bert.modeling_albert import AlbertForMultipleChoice, AlbertConfig
 
 logging.basicConfig(format = '%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
                     datefmt = '%m/%d/%Y %H:%M:%S',
                     level = logging.INFO)
 logger = logging.getLogger(__name__)
+
 
 class RaceExample(object):
     """A single training/test example for the RACE dataset."""
@@ -59,7 +62,7 @@ class RaceExample(object):
                  ending_1,
                  ending_2,
                  ending_3,
-                 label = 4):
+                 label = None):
         self.race_id = race_id
         self.context_sentence = context_sentence
         self.start_ending = start_ending
@@ -110,9 +113,39 @@ class InputFeatures(object):
         ]
         self.label = label
 
+
+
 ## paths is a list containing all paths
-def read_race_examples(filename):
+def read_race_examples(paths):
     examples = []
+    for path in paths:
+        filenames = glob.glob(path+"/*json")
+        for filename in filenames:
+            with open(filename, 'r', encoding='utf-8') as fpr:
+                data_raw = json.load(fpr)
+                article = data_raw['article']
+                ## for each qn
+                for i in range(len(data_raw['answers'])):
+                    truth = ord(data_raw['answers'][i]) - ord('A')
+                    question = data_raw['questions'][i]
+                    options = data_raw['options'][i]
+                    examples.append(
+                        RaceExample(
+                            race_id = filename+'-'+str(i),
+                            context_sentence = article,
+                            start_ending = question,
+
+                            ending_0 = options[0],
+                            ending_1 = options[1],
+                            ending_2 = options[2],
+                            ending_3 = options[3],
+                            label = truth))
+                
+    return examples 
+
+## paths is a list containing all paths
+def read_race_example(filename):
+    example=[]
     with open(filename, 'r', encoding='utf-8') as fpr:
         data_raw = json.load(fpr)
         article = data_raw['article']
@@ -121,7 +154,7 @@ def read_race_examples(filename):
             truth = ord(data_raw['answers'][i]) - ord('A')
             question = data_raw['questions'][i]
             options = data_raw['options'][i]
-            examples.append(
+            example.append(
                 RaceExample(
                     race_id = filename+'-'+str(i),
                     context_sentence = article,
@@ -133,7 +166,7 @@ def read_race_examples(filename):
                     ending_3 = options[3],
                     label = truth))
 
-    return examples
+    return example
 
 def convert_examples_to_features(examples, tokenizer, max_seq_length,
                                  is_training):
@@ -153,8 +186,8 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
     # final decision of the model, we will run a softmax over these 4
     # outputs.
     features = []
-    max_option_len = 0
-    for example_index, example in enumerate(examples):
+    examples_iter = tqdm(examples, disable=False) if is_main_process() else examples
+    for example_index, example in enumerate(examples_iter):
         context_tokens = tokenizer.tokenize(example.context_sentence)
         start_ending_tokens = tokenizer.tokenize(example.start_ending)
 
@@ -168,7 +201,6 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
             # place so that the total length is less than the
             # specified length.  Account for [CLS], [SEP], [SEP] with
             # "- 3"
-
             _truncate_seq_pair(context_tokens_choice, ending_tokens, max_seq_length - 3)
 
             tokens = ["[CLS]"] + context_tokens_choice + ["[SEP]"] + ending_tokens + ["[SEP]"]
@@ -202,6 +234,7 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
         #         logger.info(f"segment_ids: {' '.join(map(str, segment_ids))}")
         #     if is_training:
         #         logger.info(f"label: {label}")
+
         features.append(
             InputFeatures(
                 example_id = example.race_id,
@@ -215,16 +248,18 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
 def _truncate_seq_pair(tokens_a, tokens_b, max_length):
     """Truncates a sequence pair in place to the maximum length."""
 
-    # Note: only truncate sequence A 
+    # This is a simple heuristic which will always truncate the longer sequence
+    # one token at a time. This makes more sense than truncating an equal percent
+    # of tokens from each, since if one sequence is very short then each token
+    # that's truncated likely contains more information than a longer sequence.
     while True:
         total_length = len(tokens_a) + len(tokens_b)
         if total_length <= max_length:
             break
-        tokens_a.pop()
-        # if len(tokens_a) > len(tokens_b):
-        #     tokens_a.pop()
-        # else:
-        #     tokens_b.pop()
+        if len(tokens_a) > len(tokens_b):
+            tokens_a.pop()
+        else:
+            tokens_b.pop()
 
 def accuracy(out, labels):
     outputs = np.argmax(out, axis=1)
@@ -253,12 +288,13 @@ def main():
                         type=str,
                         required=True,
                         help="The input data dir. Should contain the .csv files (or other data files) for the task.")
-    parser.add_argument("--vocab_file",
-                        default=None,
-                        type=str,
-                        required=True,
-                        help="The vocab file.")
-    parser.add_argument("--bert_model", default=None, type=str, required=True,
+    parser.add_argument("--vocab_file", default=None, type=str, required=True,
+                        help="vocab_file path")
+    parser.add_argument("--spm_model_file", default=None, type=str, required=True,
+                        help="spm_model_file path")
+    parser.add_argument("--config_file", default=None, type=str, required=True,
+                        help="config_file path")
+    parser.add_argument("--pretrained_model", default=None, type=str, required=True,
                         help="Bert pre-trained model selected in the list: bert-base-uncased, "
                              "bert-large-uncased, bert-base-cased, bert-base-multilingual, bert-base-chinese.")
     parser.add_argument("--output_dir",
@@ -274,6 +310,10 @@ def main():
                         help="The maximum total input sequence length after WordPiece tokenization. \n"
                              "Sequences longer than this will be truncated, and sequences shorter \n"
                              "than this will be padded.")
+    parser.add_argument("--local_rank",
+                        type=int,
+                        default=-1,
+                        help="local_rank for distributed training on gpus")
     parser.add_argument("--do_lower_case",
                         default=False,
                         action='store_true',
@@ -282,14 +322,6 @@ def main():
                         default=False,
                         action='store_true',
                         help="Whether not to use CUDA when available")
-    parser.add_argument("--has_ans",
-                        default=True,
-                        action='store_true',
-                        help="Whether has answer in the eval dataset")
-    parser.add_argument("--local_rank",
-                        type=int,
-                        default=-1,
-                        help="local_rank for distributed training on gpus")
 
     args = parser.parse_args()
 
@@ -297,69 +329,71 @@ def main():
         device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
         n_gpu = torch.cuda.device_count()
     else:
-        torch.cuda.set_device(0)
+        torch.cuda.set_device(args.local_rank)
         device = torch.device("cuda", args.local_rank)
         n_gpu = 1
         # Initializes the distributed backend which will take care of sychronizing nodes/GPUs
         torch.distributed.init_process_group(backend='nccl')
-    logger.info("device: {} ({}) n_gpu: {}".format(device, torch.cuda.get_device_name(0), n_gpu))
 
-    tokenizer = BertTokenizer.from_pretrained(args.vocab_file, do_lower_case=args.do_lower_case)
+    os.makedirs(args.output_dir, exist_ok=True)
 
-    # Prepare model
-    model = BertForMultipleChoice.from_pretrained(args.bert_model, num_choices=4)
+    tokenizer = tokenization_albert.FullTokenizer(args.vocab_file, do_lower_case=args.do_lower_case, spm_model_file=args.spm_model_file)
+
+
+    config = AlbertConfig.from_pretrained(args.config_file, num_labels=4)
+    model = AlbertForMultipleChoice.from_pretrained(args.bert_model, config=config)    
+
     model.to(device)
 
-    ## test  
-    filenames = os.listdir(args.data_dir)
-    model.eval()
-    eval_iter = tqdm(filenames, disable=False)
-    eval_answers = {}
-    eval_accuracy = 0
-    nb_eval_examples = 0
-    for fid, filename in enumerate(eval_iter):
-        file_path = os.path.join(args.data_dir, filename)
-        eval_examples = read_race_examples(file_path)
-        eval_features = convert_examples_to_features(eval_examples, tokenizer, args.max_seq_length, True)
-        all_input_ids = torch.tensor(select_field(eval_features, 'input_ids'), dtype=torch.long)
-        all_input_mask = torch.tensor(select_field(eval_features, 'input_mask'), dtype=torch.long)
-        all_segment_ids = torch.tensor(select_field(eval_features, 'segment_ids'), dtype=torch.long)
-        all_label = torch.tensor([f.label for f in eval_features], dtype=torch.long)
-        eval_data = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label)
-        # Run prediction for full data
-        eval_sampler = SequentialSampler(eval_data)
-        eval_dataloader = DataLoader(eval_data, sampler=eval_sampler, batch_size=1)
-        eval_answer = []
-        for step, batch in enumerate(eval_dataloader):
-            batch = tuple(t.to(device) for t in batch)
-            input_ids, input_mask, segment_ids, label_ids = batch
 
-            with torch.no_grad():
-                logits = model(input_ids, segment_ids, input_mask)
+    if (args.local_rank == -1 or torch.distributed.get_rank() == 0):
+        test_dir = os.path.join(args.data_dir, 'test')
+        results = {}
+        for fid in range(500):
+            s = str(fid).zfill(5)
+            fname = test_dir+'/asc'+s+'.txt'
+            eval_examples = read_race_example(fname)
+            eval_features = convert_examples_to_features(eval_examples, tokenizer, args.max_seq_length, True)
+            all_input_ids = torch.tensor(select_field(eval_features, 'input_ids'), dtype=torch.long)
+            all_input_mask = torch.tensor(select_field(eval_features, 'input_mask'), dtype=torch.long)
+            all_segment_ids = torch.tensor(select_field(eval_features, 'segment_ids'), dtype=torch.long)
+            all_label = torch.tensor([f.label for f in eval_features], dtype=torch.long)
+            eval_data = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label)
+            # Run prediction for full data
+            eval_sampler = SequentialSampler(eval_data)
+            eval_dataloader = DataLoader(eval_data, sampler=eval_sampler, batch_size=1)
+            model.eval()
+            answers = []
+            for step, batch in enumerate(eval_dataloader):
+                batch = tuple(t.to(device) for t in batch)
+                input_ids, input_mask, segment_ids, label_ids = batch
 
-            logits = logits.detach().cpu().numpy()
-            eval_answer.extend(chr(np.argmax(logits, axis=1)+ord("A")))
-            if args.has_ans:
-                label_ids = label_ids.to('cpu').numpy()
-                tmp_eval_accuracy = accuracy(logits, label_ids)
-                # print(label_ids, np.argmax(logits, axis=1), tmp_eval_accuracy)
-                eval_accuracy += tmp_eval_accuracy
-                nb_eval_examples += input_ids.size(0)
+                with torch.no_grad():
+                    outputs = model(input_ids, input_mask, segment_ids, label_ids)
+                    tmp_eval_loss = outputs[0]
+                    outputs = model(input_ids, input_mask, segment_ids)
+                    logits = outputs[0]
 
+                logits = logits.detach().cpu().numpy()
+                result = np.argmax(logits, axis=1)
+                answers.append(chr(ord('A')+result))
+            results[s]=answers
 
-        eval_answers[filename] = eval_answer
-    final_eval_accuracy = eval_accuracy / nb_eval_examples
-    logger.info("eval accuracy: {}".format(final_eval_accuracy))
-    result = json.dumps(eval_answers)
+        with open(args.output_dir+"/asc_result.json","w") as f:
+            json.dump(results, f, indent=1)
 
-    output_eval_file = os.path.join(args.output_dir, "answers.json")
-    if not os.path.exists(args.output_dir):
-        os.makedirs(args.output_dir, exist_ok=True)
+        # eval_loss = high_eval_loss / high_nb_eval_steps
+        # eval_accuracy = high_eval_accuracy / high_nb_eval_examples
 
-    with open(output_eval_file, "w") as f:
-        f.write(result)
+        # result = {'asc_eval_loss': eval_loss,
+        #           'asc_eval_accuracy': eval_accuracy}
 
-
+        # output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
+        # with open(output_eval_file, "a+") as writer:
+        #     logger.info("***** Eval results *****")
+        #     for key in sorted(result.keys()):
+        #         logger.info("  %s = %s", key, str(result[key]))
+        #         writer.write("%s = %s\n" % (key, str(result[key])))
 
 if __name__ == "__main__":
     main()

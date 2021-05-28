@@ -1,3 +1,1 @@
-python test_race.py --data_dir=/dev/shm/RACE/test/high --bert_model=./large_models/ --vocab_file=/workspace/model/bert-large-uncased-vocab.txt --output_dir=result --max_seq_length=512 --do_lower_case
-
-
+python test_race.py  --data_dir=./RACE --vocab_file=./asc_pretrained_model/30k-clean.vocab --spm_model_file=./asc_pretrained_model/30k-clean.model --config_file=./asc_pretrained_model/config.json  --pretrained_model=asc_models/pytorch_model.bin --output_dir=results --max_seq_length=320 --do_lower_case

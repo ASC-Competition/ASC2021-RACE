@@ -24,7 +24,6 @@ import os
 import logging
 
 from .file_utils import cached_path
-from .utils import is_main_process
 
 logger = logging.getLogger(__name__)
 
@@ -142,12 +141,10 @@ class BertTokenizer(object):
                     vocab_file))
             return None
         if resolved_vocab_file == vocab_file:
-            if is_main_process():
-                logger.info("loading vocabulary file {}".format(vocab_file))
+            logger.info("loading vocabulary file {}".format(vocab_file))
         else:
-            if is_main_process():
-                logger.info("loading vocabulary file {} from cache at {}".format(
-                    vocab_file, resolved_vocab_file))
+            logger.info("loading vocabulary file {} from cache at {}".format(
+                vocab_file, resolved_vocab_file))
         if pretrained_model_name in PRETRAINED_VOCAB_POSITIONAL_EMBEDDINGS_SIZE_MAP:
             # if we're using a pretrained model, ensure the tokenizer wont index sequences longer
             # than the number of positional embeddings

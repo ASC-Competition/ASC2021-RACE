@@ -15,7 +15,6 @@
 # limitations under the License.
 """BERT finetuning runner."""
 
-import time
 import logging
 import os
 import argparse
@@ -24,20 +23,21 @@ from tqdm import tqdm, trange
 import csv
 import glob 
 import json
+import apex
+import time
 import numpy as np
 import torch
-from apex import amp
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
+from torch.utils.data.distributed import DistributedSampler
 
-from pytorch_pretrained_bert.tokenization import BertTokenizer
-from pytorch_pretrained_bert.modeling import BertForMultipleChoice
-from pytorch_pretrained_bert.optimization import BertAdam
-from pytorch_pretrained_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
-
+# from pytorch_pretrained_bert.tokenization import BertTokenizer
+# from pytorch_pretrained_bert.modeling import BertForMultipleChoice
+# from pytorch_pretrained_bert.optimization import BertAdam
+# from pytorch_pretrained_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
 from pytorch_pretrained_bert.utils import is_main_process
-
+from pytorch_pretrained_bert import tokenization_albert
+from pytorch_pretrained_bert.modeling_albert import AlbertForMultipleChoice, AlbertConfig
 from tensorboardX import SummaryWriter
-
 logging.basicConfig(format = '%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
                     datefmt = '%m/%d/%Y %H:%M:%S',
                     level = logging.INFO)
@@ -93,8 +93,6 @@ class RaceExample(object):
 
         return ", ".join(l)
 
-
-
 class InputFeatures(object):
     def __init__(self,
                  example_id,
@@ -113,13 +111,11 @@ class InputFeatures(object):
         ]
         self.label = label
 
-
-
 ## paths is a list containing all paths
 def read_race_examples(paths):
     examples = []
     for path in paths:
-        filenames = glob.glob(path+"/*txt")
+        filenames = glob.glob(path+"/*json")
         for filename in filenames:
             with open(filename, 'r', encoding='utf-8') as fpr:
                 data_raw = json.load(fpr)
@@ -143,7 +139,30 @@ def read_race_examples(paths):
                 
     return examples 
 
+## paths is a list containing all paths
+def read_race_example(filename):
+    example=[]
+    with open(filename, 'r', encoding='utf-8') as fpr:
+        data_raw = json.load(fpr)
+        article = data_raw['article']
+        ## for each qn
+        for i in range(len(data_raw['answers'])):
+            truth = ord(data_raw['answers'][i]) - ord('A')
+            question = data_raw['questions'][i]
+            options = data_raw['options'][i]
+            example.append(
+                RaceExample(
+                    race_id = filename+'-'+str(i),
+                    context_sentence = article,
+                    start_ending = question,
 
+                    ending_0 = options[0],
+                    ending_1 = options[1],
+                    ending_2 = options[2],
+                    ending_3 = options[3],
+                    label = truth))
+
+    return example
 
 def convert_examples_to_features(examples, tokenizer, max_seq_length,
                                  is_training):
@@ -163,8 +182,7 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
     # final decision of the model, we will run a softmax over these 4
     # outputs.
     features = []
-    max_option_len = 0
-    examples_iter = tqdm(examples, desc="Preprocessing: ", disable=False) if is_main_process() else examples
+    examples_iter = tqdm(examples, disable=False) if is_main_process() else examples
     for example_index, example in enumerate(examples_iter):
         context_tokens = tokenizer.tokenize(example.context_sentence)
         start_ending_tokens = tokenizer.tokenize(example.start_ending)
@@ -200,7 +218,6 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
             choices_features.append((tokens, input_ids, input_mask, segment_ids))
 
         label = example.label
-        
         features.append(
             InputFeatures(
                 example_id = example.race_id,
@@ -245,32 +262,8 @@ def warmup_linear(x, warmup=0.002):
         return x/warmup
     return 1.0 - x
 
-from apex.multi_tensor_apply import multi_tensor_applier
-class GradientClipper:
-    """
-    Clips gradient norm of an iterable of parameters.
-    """
-    def __init__(self, max_grad_norm):
-        self.max_norm = max_grad_norm
-        if multi_tensor_applier.available:
-            import amp_C
-            self._overflow_buf = torch.cuda.IntTensor([0])
-            self.multi_tensor_l2norm = amp_C.multi_tensor_l2norm
-            self.multi_tensor_scale = amp_C.multi_tensor_scale
-        else:
-            raise RuntimeError('Gradient clipping requires cuda extensions')
-
-    def step(self, parameters):
-        l = [p.grad for p in parameters if p.grad is not None]
-        total_norm, _ = multi_tensor_applier(self.multi_tensor_l2norm, self._overflow_buf, [l], False)
-        total_norm = total_norm.item()
-        if (total_norm == float('inf')): return
-        clip_coef = self.max_norm / (total_norm + 1e-6)
-        if clip_coef < 1:
-            multi_tensor_applier(self.multi_tensor_scale, self._overflow_buf, [l, l], clip_coef)
-
 def main():
-    ete_start = time.time()
+    ete_start=time.time()
     parser = argparse.ArgumentParser()
 
     ## Required parameters
@@ -281,6 +274,10 @@ def main():
                         help="The input data dir. Should contain the .csv files (or other data files) for the task.")
     parser.add_argument("--vocab_file", default=None, type=str, required=True,
                         help="vocab_file path")
+    parser.add_argument("--spm_model_file", default=None, type=str, required=True,
+                        help="spm_model_file path")
+    parser.add_argument("--config_file", default=None, type=str, required=True,
+                        help="config_file path")
     parser.add_argument("--bert_model", default=None, type=str, required=True,
                         help="Bert pre-trained model selected in the list: bert-base-uncased, "
                              "bert-large-uncased, bert-base-cased, bert-base-multilingual, bert-base-chinese.")
@@ -368,8 +365,8 @@ def main():
         # Initializes the distributed backend which will take care of sychronizing nodes/GPUs
         torch.distributed.init_process_group(backend='nccl')
     if is_main_process():
-        logger.info("device: {} ({}), n_gpu: {}, distributed training: {}, 16-bits training: {}".format(
-            device, torch.cuda.get_device_name(0), n_gpu, bool(args.local_rank != -1), args.fp16))
+        logger.info("device: {} n_gpu: {}, distributed training: {}, 16-bits training: {}".format(
+            device, n_gpu, bool(args.local_rank != -1), args.fp16))
 
     if args.gradient_accumulation_steps < 1:
         raise ValueError("Invalid gradient_accumulation_steps parameter: {}, should be >= 1".format(
@@ -388,27 +385,24 @@ def main():
 
     os.makedirs(args.output_dir, exist_ok=True)
 
-    tokenizer = BertTokenizer.from_pretrained(args.vocab_file, do_lower_case=args.do_lower_case)
+    tokenizer = tokenization_albert.FullTokenizer(args.vocab_file, do_lower_case=args.do_lower_case, spm_model_file=args.spm_model_file)
 
     train_examples = None
     num_train_steps = None
     if args.do_train:
         train_dir = os.path.join(args.data_dir, 'train')
-        train_examples = read_race_examples([train_dir+'/high', train_dir+'/middle'])
-        num_train_steps = int(
-            len(train_examples) / args.train_batch_size / args.gradient_accumulation_steps * args.num_train_epochs)
+        train_examples = read_race_examples([train_dir])
+        
+        num_train_steps = int(len(train_examples) / args.train_batch_size / args.gradient_accumulation_steps * args.num_train_epochs)
+        print(len(train_examples), args.train_batch_size, args.gradient_accumulation_steps, args.num_train_epochs)
 
-    # Prepare model
-    model = BertForMultipleChoice.from_pretrained(args.bert_model,
-        cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
-        num_choices=4)
+    config = AlbertConfig.from_pretrained(args.config_file, num_labels=4)
+    model = AlbertForMultipleChoice.from_pretrained(args.bert_model, config=config)    
+
     model.to(device)
-
     # Prepare optimizer
     param_optimizer = list(model.named_parameters())
 
-    # hack to remove pooler, which is not used
-    # thus it produce None grad that break apex
     param_optimizer = [n for n in param_optimizer if 'pooler' not in n[0]]
 
     no_decay = ['bias', 'LayerNorm.bias', 'LayerNorm.weight']
@@ -417,16 +411,40 @@ def main():
         {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
         ]
     t_total = num_train_steps
-    optimizer = BertAdam(optimizer_grouped_parameters,
+    if args.local_rank != -1:
+        t_total = t_total // torch.distributed.get_world_size()
+    if args.fp16:
+
+        try:
+            from apex.optimizers import FusedAdam
+            from apex import amp
+        except ImportError:
+            raise ImportError("Please install apex from https://www.github.com/nvidia/apex to use distributed and fp16 training.")
+
+        optimizer = FusedAdam(optimizer_grouped_parameters,
+                              lr=args.learning_rate,
+                              bias_correction=False)
+        model, optimizer = amp.initialize(
+            model,
+            optimizers=optimizer,
+            opt_level="O2",
+            keep_batchnorm_fp32=False,
+            loss_scale="dynamic" if args.loss_scale == 0 else args.loss_scale,
+        )
+    else:
+        optimizer = BertAdam(optimizer_grouped_parameters,
                              lr=args.learning_rate,
                              warmup=args.warmup_proportion,
                              t_total=t_total)
 
-
     global_step = 0
     train_start = time.time()
-    writer = SummaryWriter(os.path.join(args.output_dir, "ascxx"))
+    writer = SummaryWriter(os.path.join(args.output_dir, "asc"))
     if args.do_train:
+        # train_dir = os.path.join(args.data_dir, 'train')
+        # train_set = [train_dir]
+
+        # train_examples = read_race_examples(train_set)
         train_features = convert_examples_to_features(
                 train_examples, tokenizer, args.max_seq_length, True)
         if is_main_process():
@@ -443,24 +461,30 @@ def main():
         train_dataloader = DataLoader(train_data, sampler=train_sampler, batch_size=args.train_batch_size)
 
         model.train()
-        gradClipper = GradientClipper(max_grad_norm=1.0)
         for ep in range(int(args.num_train_epochs)):
             tr_loss = 0
+            nb_tr_examples, nb_tr_steps = 0, 0
             train_iter = tqdm(train_dataloader, disable=False) if is_main_process() else train_dataloader
             if is_main_process():
                 train_iter.set_description("Trianing Epoch: {}/{}".format(ep+1, int(args.num_train_epochs)))
             for step, batch in enumerate(train_iter):
                 batch = tuple(t.to(device) for t in batch)
                 input_ids, input_mask, segment_ids, label_ids = batch
-                loss = model(input_ids, segment_ids, input_mask, label_ids)
+                outputs = model(input_ids, input_mask, segment_ids, labels=label_ids)
+                loss = outputs[0]
                 if n_gpu > 1:
                     loss = loss.mean() # mean() to average on multi-gpu.
                 if args.gradient_accumulation_steps > 1:
                     loss = loss / args.gradient_accumulation_steps
                 tr_loss += loss.item()
+                nb_tr_examples += input_ids.size(0)
+                nb_tr_steps += 1
 
-                loss.backward()
-                gradClipper.step(amp.master_params(optimizer))
+                if args.fp16:
+                    with amp.scale_loss(loss, optimizer) as scaled_loss:
+                        scaled_loss.backward()
+                else:
+                    loss.backward()
                 if (step + 1) % args.gradient_accumulation_steps == 0:
                     # modify learning rate with special warm up BERT uses
                     lr_this_step = args.learning_rate * warmup_linear(global_step/t_total, args.warmup_proportion)
@@ -473,7 +497,6 @@ def main():
                     train_iter.set_postfix(loss=loss.item())
                 writer.add_scalar('loss', loss.item(), global_step=global_step)
 
-
     finish_time = time.time()
     writer.close()
     # Save a trained model
@@ -482,6 +505,59 @@ def main():
         model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
         output_model_file = os.path.join(args.output_dir, "pytorch_model.bin")
         torch.save(model_to_save.state_dict(), output_model_file)
+            ## evaluate on dev set
+    if is_main_process():
+        dev_dir = os.path.join(args.data_dir, 'dev')
+        dev_set = [dev_dir]
+    
+        eval_examples = read_race_examples(dev_set)
+        eval_features = convert_examples_to_features(
+            eval_examples, tokenizer, args.max_seq_length, True)
+        logger.info("***** Running evaluation: Dev *****")
+        logger.info("  Num examples = %d", len(eval_examples))
+        logger.info("  Batch size = %d", args.eval_batch_size)
+        all_input_ids = torch.tensor(select_field(eval_features, 'input_ids'), dtype=torch.long)
+        all_input_mask = torch.tensor(select_field(eval_features, 'input_mask'), dtype=torch.long)
+        all_segment_ids = torch.tensor(select_field(eval_features, 'segment_ids'), dtype=torch.long)
+        all_label = torch.tensor([f.label for f in eval_features], dtype=torch.long)
+        eval_data = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label)
+        # Run prediction for full data
+        eval_sampler = SequentialSampler(eval_data)
+        eval_dataloader = DataLoader(eval_data, sampler=eval_sampler, batch_size=args.eval_batch_size)
+        eval_iter = tqdm(eval_dataloader, disable=False) if is_main_process() else eval_dataloader
+        model.eval()
+        eval_loss, eval_accuracy = 0, 0
+        nb_eval_steps, nb_eval_examples = 0, 0
+        for step, batch in enumerate(eval_iter):
+            batch = tuple(t.to(device) for t in batch)
+            input_ids, input_mask, segment_ids, label_ids = batch
+    
+            with torch.no_grad():
+                outputs = model(input_ids, input_mask, segment_ids, label_ids)
+                tmp_eval_loss = outputs[0]
+                outputs = model(input_ids, input_mask, segment_ids)
+                logits = outputs[0]
+    
+            logits = logits.detach().cpu().numpy()
+            label_ids = label_ids.to('cpu').numpy()
+            tmp_eval_accuracy = accuracy(logits, label_ids)
+    
+            eval_loss += tmp_eval_loss.mean().item()
+            eval_accuracy += tmp_eval_accuracy
+    
+            nb_eval_examples += input_ids.size(0)
+            nb_eval_steps += 1
+    
+        eval_loss = eval_loss / nb_eval_steps
+        eval_accuracy = eval_accuracy / nb_eval_examples
+    
+        result = {'dev_eval_loss': eval_loss,
+                  'dev_eval_accuracy': eval_accuracy,
+                  'loss': eval_loss/nb_eval_steps}
+    
+        logger.info("***** Dev results *****")
+        for key in sorted(result.keys()):
+            logger.info("  %s = %s", key, str(result[key]))
 
 if __name__ == "__main__":
     main()
