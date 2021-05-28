@@ -7,7 +7,7 @@ The code is tested with nvcr.io/nvidia/pytorch:20.12-py3
 
 ## Usage
 1. Extrace the compressed dataset file (train_LE.tar.gz, dev_LE.tar.gz and test_LE.tar.gz). The default dataset directory is .source_code/RACE.
-2. Extrace the pretrained model file and config files to the folder `source_code/pretrained_model_asc`
+2. Download the model from https://storage.googleapis.com/albert_models/albert_xxlarge_v2.tar.gz and extrace the pretrained model file and config files to the folder `source_code/pretrained_model_asc`
 3. Runing the following script launches fine-tuning for reading comprehension with RACE dataset  ```cd source_code && bash ./run.sh```
 4. Inference can be perfomed with the ```cd source_code && bash ./eval.sh```
 
