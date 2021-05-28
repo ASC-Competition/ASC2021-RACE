@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "red",
+      "green",
+      "brown",
+      "white"
+    ],
+    [
+      "Alice' s",
+      "Bill' s",
+      "Gina' s",
+      "Helen' s"
+    ]
+  ],
+  "questions": [
+    "Alice likes  _  .",
+    "The cup is   _"
+  ],
+  "article": "Alice: Good afternoon, Helen!\nHelen: Good afternoon, Alice! How are you?\nAlice: I'm fine, thanks. How are you?\nHelen: I'm OK.\nAlice: Helen, what' s this in English?\nHelen: It's a cup. And it's my cup.\nAlice: Oh, it' s red. I like the color. Is that a pencil?\nHelen: No, it' s a pen and it' s brown.\nAlice: Is it your pen?\nHelen: No, it s Bill's. My pen is green.",
+  "id": "asc23182"
+}

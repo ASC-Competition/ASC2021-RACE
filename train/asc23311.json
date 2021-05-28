@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "a girl",
+      "a friend",
+      "a photo",
+      "an English friend"
+    ],
+    [
+      "a good boy",
+      "a cool boy",
+      "a nice girl",
+      "an English girl"
+    ]
+  ],
+  "questions": [
+    "--What's this? -- It's  _  .",
+    "Li Yan is  _  ."
+  ],
+  "article": "Look at this. What's this in English? Ah, it's a photo. Who's that in the photo? It's Li Yan. Li Yan is my good friend. She is a nice girl. Who's that? The boy in black? It's Jim. He is an English boy. He is very cool. He is my friend, too. We are all in the same class. I like Jim and Li Yan.\n,,.",
+  "id": "asc23311"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "two",
+      "four",
+      "six",
+      "seven"
+    ],
+    [
+      "teacher",
+      "worker",
+      "officer",
+      "doctor"
+    ]
+  ],
+  "questions": [
+    "There are   _   people in Mary's family.",
+    "Mr Peterson is a    _  ."
+  ],
+  "article": "Mary is from the USA. She has two brothers. Now her family are in China. Her father, Mr Peterson, teaches English in Xihu Middle School. Her mother works in the same school. She teaches English, too. Mary goes to school in her father's car with her mother every day.\nMary is a nice girl student. She can speak a little Chinese. She is very lovely, so she has many Chinese friends. She teaches them English, and they teach her Chinese. Her two brothers are twins. One is Bob, and the other is Bill. They look the same. They are only five. So their grandparents look after them at home. Mrs Peterson has many toys for the twin brothers. Bob likes to play with toy cars, but Bill likes to play with teddy bears. They are happy every day.",
+  "id": "asc22683"
+}

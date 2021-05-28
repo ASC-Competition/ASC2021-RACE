@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "In a bookstore.",
+      "In a clothes store.",
+      "In a hotel.",
+      "On a farm."
+    ],
+    [
+      "$48",
+      "$34",
+      "$29",
+      "$36"
+    ]
+  ],
+  "questions": [
+    "Where does Martin work?",
+    "A yellow sweater and a pair of black pants are  _  ."
+  ],
+  "article": "Martin's Clothes Store\nCome and buy your clothes at Martin's Clothes Store! We have pants, shorts, hats and more at very good prices! Come and have a look!\nClothes Price\nblack pants\nblue pants\ngreen pants $20\n$18\n$22\nshorts ( all colours)   $10\nhats (all colours)  $14\nsocks (all colours) $5\nred skirts\nblue skirts\nwhite skirts    $12\n$14\n$11\nwhite T-shirts\ngreen T-shirts  $7\n$8\nred sweaters\nyellow sweaters $30\n$28",
+  "id": "asc21394"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "It is a computer program that can write fiction stories on its own.",
+      "It is a computer program created by Rafael Perezy Perez.",
+      "It is blamed for low quality among many other descriptors.",
+      "The stories it has written is not very popular among readers."
+    ],
+    [
+      "The beginning and the end of the story should be provided.",
+      "The background of the story needs to be keyed in.",
+      "The human operator should come up with a simple storyline.",
+      "Emotions and tensions between characters should be determined."
+    ]
+  ],
+  "questions": [
+    "What can we know about MEXICA from the passage?",
+    "What is basically needed for MEXICA to start to write a story?"
+  ],
+  "article": "While it may be unlikely for a computer to write a best seller, a technology expert has created a computer program that writes its own fiction stories with minimal user input. The program, called MEXICA, is the first to generate original stories based on computerized representations of emotions and tensions between characters.\nAn Internet survey was carried out to see the popularity of the computer-generated stories, other computerized stories and stories written solely by a human. The result was that readers ranked MEXICA stories highest for flow and coherence, structure, content, suspense and overall quality. Rafael Perezy Perez, the creator of MEXICA, explained that a story might begin with something as basic as, \"The enemy wounded the knight. The princess cured the knight. The knight killed the enemy. The knight rewarded the princess. The end.\"\nThe program reads characters as variables   and assigns a numerical value, between a continuum   from -3 to +3, to emotional connections that are defined as either amorous or non-amorous. The numerical value is equivalent to the degree of emotion, with -3 being intense hate and +3 being intense love. The program also understands story tension, such as linking the word \"wounded\" with tension. This too is assigned a numerical value.\nOnce these clusters of emotional links and tensions are established, the program begins what is called an \"engagement reflection cycle\". Basically this involves searching a database of story actions and other happenings, which are called \"atoms\", and determines the best match for the characters and contexts for that moment.\nThe process repeats itself again and again until the system can no longer make any matches. At this point, the computer analyzes the story for coherence and \"interestingness\". The program views a story as interesting when tension levels increase and fall throughout the piece. If the program finds that the story is boring or incoherent in places, it will replace or insert atoms until a version is thought to be satisfactory.",
+  "id": "asc01867"
+}

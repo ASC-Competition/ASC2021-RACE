@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Mike's birthday party.",
+      "Kathy's birthday party.",
+      "Uncle Tom's birthday party.",
+      "A movie starts at 8:00."
+    ],
+    [
+      "ZJG Shopping Park.",
+      "Zhonglian(GDH) International Hotel.",
+      "Uncle Tom's restaurant.",
+      "At Kathy's home."
+    ]
+  ],
+  "questions": [
+    "What is Kathy talking about in her letter?",
+    "Where are they going to have the party?"
+  ],
+  "article": "Dear Mike,\nHow are you? Are you still coming to my birthday party in January? My family, friends and classmates are all coming. The party is on Monday, January 13 at 6:00. It's at Uncle Tom's restaurant in the city. First, we can eat and talk from 6:00 to 7:45. After that we can go to a movie in ZJG Shopping Park near Zhonglian(GDH) International Hotel. Every Monday, there's a movie on at 8:00. I hope you can come. You can meet my other friends and my sisters, too.\nWrite soon!\nKathy",
+  "id": "asc24888"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "buy what he wants in the airport",
+      "have a good rest in the airplane",
+      "reduce the pressure of the flight",
+      "get on the airplane immediately"
+    ],
+    [
+      "change for the ticket to the next flight",
+      "make sure the time for the next plane",
+      "know if other flights' delays happen",
+      "ask the reason for the plane delay"
+    ]
+  ],
+  "questions": [
+    "A person goes to the airport ahead of time mainly to   _  .",
+    "If a person calls \"Rule 240\", he wants to   _  ."
+  ],
+  "article": "Plan to get to the airport at least an hour early, or two during holidays and other busy times; this will reduce the stress of the flight. If all goes well, you will have time to relax, shop for last-minute items, or have a meal My before the flight.\nFlight Delays\nFind out why your flight is delayed. Call the free call numbers. Find out if other airlines are experiencing similar delays. If you believe the delay is due to something other than weather or air traffic problems, then mention your suspicion   and ask the airline agent to book you on the next available flight, either on the same air-line or a competing one. This is called \"Rule 240\", and all airlines are required to do it.\nFlight Cancellations  \nIf your flight is canceled, then make a reservation on the next flight to your destination. Usually, air-line personnel  will try to book everyone on their next flight. Often they will put you on a competitor's next flight only if you request it.\nIf on-time arrival is important to you, when you check flights through our reservation system you can rate your choices based on their on-time arrival records. Be sure to also check the weather conditions, as they often affect flight schedules.",
+  "id": "asc02926"
+}

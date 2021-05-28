@@ -1,0 +1,34 @@
+{
+  "answers": [
+    "C",
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "It is a small town in New Yorkfamous for steel mills.",
+      "It has always enjoyed prosperous economic success.",
+      "Many young college students there are the new hope of the district.",
+      "It is a major city in the U.S.A with a population slightly smaller than 100,000."
+    ],
+    [
+      "A magazine",
+      "A brochure about politicians",
+      "A newspaper",
+      "An advertisement about some mayor candidates"
+    ],
+    [
+      "Distrust from his citizens",
+      "pressure from other outstanding young majors",
+      "economical standstill of his city",
+      "decreasing population in his city"
+    ]
+  ],
+  "questions": [
+    "What can you infer from the article about Pittsburgh?",
+    "Where can you find this article?",
+    "What kind of Challenges will not Luke Ravenstahl cope with?"
+  ],
+  "article": "prefix = st1 /PITTSBURGH, Sept. 7 -- At 26, many people haven't even decided on a career. Luke Ravenstahl, cashing in on his family's political tradition, is already the mayor of Pittsburgh, the youngest mayor of any major city in the country. Although mayors elsewhere have been younger, Jeff Dunkel was 18 in 2001 when he was elected mayor of Mount Carbon, small towns inNew York, and elsewhere have also elected teenagers as mayors. But,Tallahassee, is the only other city with a population over 100,000 that has had a mayor as young as Mr. Ravenstahl. A supporter of Mr. Ravenstahl said concerns about Mr. Ravenstahl's age would _ once the city saw his work ethic.\nBut now comes the hard part. As he strives to be taken seriously and take charge of a city only recently back from the brink of bankruptcy, the baby-faced mayor said that even the smallest decisions felt weighty, even what to wear in the Steelers game matters.\nAnd another pressing issue is to strengthen the city's economy. Pittsburghhas lost all its mills, nearly half its population and much of its downtown commercial district in the last several decades. \"ButPittsburghhas 50,000 college students, and our challenge is to figure out how to retain them and to increase downtown development.\" He said.\nBut one of the biggest uncertainties is how long he will remain in office. According to the city charter, Mayor Ravenstahl's term will not expire until November 2009. Some city lawyers, however, have argued that he must face the electorate next year. And residents in Pittsburghare still withholding judgment on him. Deli, Jimmy Cvetic, a sandwich shop owner, said \"I call him Cool Hand Luke. He'll be all right, but he's going to need a cool hand to get through this.\"\nMayor Ravenstahl said he was still coming to terms with the challenge he faced.",
+  "id": "asc0190"
+}

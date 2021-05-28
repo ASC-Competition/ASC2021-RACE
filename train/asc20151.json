@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "the earth",
+      "the moon",
+      "the sun",
+      "the stars"
+    ],
+    [
+      "terrible",
+      "useful",
+      "unknown",
+      "not necessary"
+    ]
+  ],
+  "questions": [
+    "These satellites go round   _  .",
+    "Man-made satellites are   _   to people."
+  ],
+  "article": "Man-made satellites have been sent up into space by many countries. These satellites go round the earth and help us to learn more about the earth, the weather and other things. Most countries use these satellites to sent and receive messages. For example, with their help China can send their programs to America, too. We can also use satellites to help us to make telephone calls to foreign countries.",
+  "id": "asc20151"
+}

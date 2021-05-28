@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "$50",
+      "$100",
+      "$150",
+      "$350"
+    ],
+    [
+      "Anecdotes and Jokes",
+      "Smart Animals",
+      "Power of Love",
+      "My Story"
+    ]
+  ],
+  "questions": [
+    "How much will the magazine pay for a joke to be published?",
+    "If you want to share a story of your pets with the readers, you need to send it to  _  ."
+  ],
+  "article": "Share With Us\nWould you like to have your writing published in this magazine? Then let us know! We pay for stories, anecdotes and jokes:\nAnecdotes and Jokes  $50\nWhat made you laugh recently? A funny sign? A colleague's behaviour? Got a joke? Send it in for Laughter is the Best Medicine! Email: Juliet@sws.com\nSmart Animals  Up to $100\nSend us a tale about the strange behaviour of unique pets or wildlife in up 300 words. Email: audry@sws.com\nPower of Love  Up to $150\nActs of generosity can change lives or just give you that warm feeling full of love. Share your moments 100--500 words. Email: susan@sws.com\nMy Story  $350\nDo you have an inspiring or life-changing story to tell? Your story must be true, unpublished, original and 800--\n1000 words. Email: nanjc@sws.com\nFor more information, please visit: http://www.sws.com./share",
+  "id": "asc02455"
+}

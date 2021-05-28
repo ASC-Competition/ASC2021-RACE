@@ -1,0 +1,34 @@
+{
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "teachers or neighbours",
+      "parents or tutors",
+      "coaches or tutors",
+      "instructions or officials"
+    ],
+    [
+      "they are tired of taking their children to and from school",
+      "their children are too naughty   to go to a regular school",
+      "they are not satisfied with what is taught at local public schools",
+      "they have too many children to feed and educate"
+    ],
+    [
+      "Homeschooling is still illegal in developed countries.",
+      "Athletes and actors can not be home-schooled.",
+      "There is no curriculum for homeschooled children.",
+      "Some parents have to homeschool their children when living abroad."
+    ]
+  ],
+  "questions": [
+    "Home-schooled children are usually taught by   _  .",
+    "According to the text, some parents choose to homeschool their children because   _  .",
+    "Which of the following is TRUE about homeschooling according to the text?"
+  ],
+  "article": "Homeschooling is the education of children at home, typically by parents but sometimes by tutors, rather than in public or private school. As a matter of fact, most childhood education occurred within the family or community.\nHomeschooling is a legal choice for parents in developed countries to provide their children with a learning environment at home. Parents see many reasons for homeschool, including better test results, improved instruction, to help the public system with fewer kids, poor public school environment, religious reasons, improved character development, the expense of private education, and objection to what is taught locally in public school.\nHomeschooling can also be a choice for families living in remote   locations, living abroad, and to allow for more traveling. Also many young athletes and actors are taught at home, where a coach   or tutor is with the child for many years and then knows the child very well.\nIn some places, an approved curriculum   is required if children are to be home-schooled. In some cases a liberal arts   education is provided.",
+  "id": "asc0180"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "Noisy Life",
+      "Background Noise",
+      "Disturbed Concentration",
+      "Changeable Noise"
+    ],
+    [
+      "doesn't matter much",
+      "has become worse everywhere",
+      "has become better in big cities",
+      "has become better in villages"
+    ]
+  ],
+  "questions": [
+    "The best title for this passage is   _  .",
+    "From this passage, the pollution of noise   _  ."
+  ],
+  "article": "Life gets noisier every day and very few people can be free from noise of some sort or another. It doesn't matter where you live--in the middle of a modern city, or a faraway village--the chances that you will be disturbed by jet aero planes, transistor radios, oil-powered engines, etc. are almost everywhere.We seem to be getting used to noise, too. Some people feel quite lonely without background music while they are working.\nScientific tests have shown that total silence can be very frightening experience for human beings. However, some people enjoy listening to pop music which is very loud, and this can do harm to their eardrums .The noise level in some disco is far above the usual safety level for heavy industrial areas.\nOne recent report about noise and concentration  suggested that although a lot of people say that any noise disturbs their concentration, what really affects their ability to concentrate is a change in the level of noise. It goes on to say that a background noise, which doesn't change too much (music, for example) may even help people to concentrate.",
+  "id": "asc01483"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "asc0489",
+  "article": "Hidden London: the city's lesser-known delights Dulwich Picture Gallery As much an excuse to enjoy the village charm of Dulwich Village as to admire some delicate European masterworks, this gallery is a southeast London charmer, which was founded in 1811. Join a free guided tour to the permanent collection (3 pm Saturday and Sunday), catch the latest temporary exhibition and admire the lovely garden (open 1: 30 pm to 3: 30 pm Tuesdays).Where: Gallery Rd SE21 7ADTrain: West DulwichTemple Church Featuring in the novel TheDaVinciCode and dating back to the late 12th century, this is one of London's oldest and holiest medieval treasures. Built by the Knights Templar, the church is divided into the Round\u2014which contains the statues of crusading knights, who tried to recover the Holy Land from the Muslims in the Middle Ages\u2014and the Chancel, where the priests and singers performing in church services sit.Where: Temple EC4Y 7DEUnderground: Temple or BlackfriarsChelsea Physic Garden Endlessly satisfying the green-fingered, the plain curious or those eager to discover botanical interests in central London, this delightful walled garden was founded by the Apothecaries' Society in the 17th century and is one of the oldest botanical gardens in London.Where: 66 Royal Hospital Rd SW3 4HSUnderground: Sloane SquareEstorick Collection of Modern Italian Art Built between 1953 and 1958, the Estorick is Britain's only gallery devoted to Italian art. It draws together a fascinating collection of Futurist masterpieces from Umberto Boccioni, Giacomo Balla, Carlo Carra and others, who emphasized the importance of modern things, especially technology and machines.Where: 39a Canonbury Sq N1 2ANUnderground: Highbury or Islington",
+  "questions": [
+    "When can you follow a free guide to visit Dulwich Picture Gallery?",
+    "Where should you go if you have an interest in plants?",
+    "If you want to enjoy Italian art, you may get off at _ ."
+  ],
+  "answers": [
+    "A",
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "3 pm on Sunday.",
+      "3: 30 pm on Tuesday.",
+      "1: 30 pm on Tuesday.",
+      "1: 30 pm on Saturday."
+    ],
+    [
+      "Gallery Rd SE21 7AD",
+      "Temple EC4Y 7DE.",
+      "66 Royal Hospital Rd SW3 4HS.",
+      "39a Canonbury Sq N1 2AN."
+    ],
+    [
+      "West Dulwich",
+      "Highbury",
+      "Sloane Square",
+      "Blackfriars"
+    ]
+  ]
+}

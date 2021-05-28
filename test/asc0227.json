@@ -1,0 +1,50 @@
+{
+  "id": "asc0227",
+  "article": "My sister Kate is 13 years old. Her birthday is on November 15th. Every year, on the morning of that day, my parents take us to Zig Zag's Clothes Store. There my mother buys some clothes for Kate. Then we go to Huaxing Bookstore. There I buy some CDs for Kate, and my father buys a book for her. In the afternoon my parents have a birthday party for Kate at home. Kate's friends Frank, David and Grace come to the party. Frank brings some pens for Kate. David gives Kate some balls because she likes playing with them. Grace gives Kate a cake . Kate is very happy. Oh, I am Kate's brother. My name is John.",
+  "questions": [
+    "Kate is _ years old.",
+    " _ buys some clothes for Kate.",
+    "David and Frank are Kate's _ .",
+    "Grace gives _ to Kate.",
+    "?"
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "eleven",
+      "twelve",
+      "thirteen",
+      "fourteen"
+    ],
+    [
+      "John",
+      "Frank",
+      "John's father",
+      "John's mother"
+    ],
+    [
+      "friends",
+      "classmates",
+      "brothers",
+      "cousins"
+    ],
+    [
+      "a book",
+      "a cake",
+      "some pens",
+      "some CDs"
+    ],
+    [
+      "Kate is John's classmate.",
+      "Kate has a great tine at the party.",
+      "Kate doesn't like to play with balls.",
+      "Kate can get a notebook on her birthday."
+    ]
+  ]
+}

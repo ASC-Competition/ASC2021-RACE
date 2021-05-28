@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "D"
+  ],
+  "options": [
+    [
+      "one's picture",
+      "one's fingerprint",
+      "one's signature",
+      "one's blood type"
+    ],
+    [
+      "Israeli scientists",
+      "a radio or TV",
+      "a newspaper",
+      "a magazine"
+    ]
+  ],
+  "questions": [
+    "The new passport photos will probably contain all EXCEPT   _  .",
+    "The writer probably got the information about the new passport photos from   _  ."
+  ],
+  "article": "The passport photographs of the future could turn out to be more than just another pretty picture if a new computer technique developed by Israeli scientists catches on.\nResearchers at Ben-Gurion University, in Israel, have invented a way to hide information such as a fingerprint or signature in color images. They believe this could improve passport safety or be used to produce product bar codes  or designs that cannot be seen.\n\"The papers can be faxed, scanned  and reprinted without hidden data disappearing,\" New Scientist magazine said last week.\nJoseph Rosen and a team of scientists worked out the new instrument by creating a mathematical model.\nThe model turns a fingerprint or signature into a series of numbers which are used to shape the dots that make up a color picture.\n\"Each dot can be forced out of the usual place slightly without noticeably changing the final appearance of the image,\" the magazine said.\nSeveral images that can be hidden in a single picture are scanned into a computer which does the work.\nThe hidden images or fingerprints cannot be shown until the picture is scanned again.\nThe computer rebuilds the fingerprint by measuring the displacement of the dots in the picture.\nThe magazine said that if he model is used for passport checkpoints the picture can be unscrambled  to show the fingerprint or signature and checked against the person holding the passport.\nThe researchers are now working on a handheld, and instrument which could make unscrambling the hidden information easier.",
+  "id": "asc03119"
+}

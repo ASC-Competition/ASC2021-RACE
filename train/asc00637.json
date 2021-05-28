@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "he didn't pay the driver",
+      "he took the wrong train",
+      "the train was late",
+      "the conductor advised him to get off early"
+    ],
+    [
+      "as soon as the train stopped",
+      "after he heard the writer's explanation",
+      "after he was passing the writer",
+      "when the train arrived in Vienna at 7:15"
+    ]
+  ],
+  "questions": [
+    "The writer couldn't arrive in Paris in time because  _  .",
+    "The conductor advised the writer to get off before Vienna and take a taxi  _  ."
+  ],
+  "article": "The train was already half an hour late. I had to arrive in Vienna at 7:15 in time to catch the 7:20 train to Paris, but there was no hope of that now. I told my problem to the conductor  . He advised me to get off two stops before Vienna Station and take a taxi. When the time came, he even helped with my bag. He wished me good luck as I jumped off. A few minutes later I was racing towards the center of the city in a taxi. It was almost 7:25 when we stopped outside the station. I paid the driver quickly, picked up my bag and hurried inside. \"Paris train?\" was all I had time to say to the official I saw. You can see how I felt when he pointed to a train that was just moving out of the station.",
+  "id": "asc00637"
+}

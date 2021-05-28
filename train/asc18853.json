@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "Mr. Peterson",
+      "Mrs. Peterson",
+      "Mrs. Peterson and Mr. Peterson",
+      "Mrs. Peterson, Mr. Peterson and Mary."
+    ],
+    [
+      "teacher",
+      "farmer",
+      "officer",
+      "doctor"
+    ]
+  ],
+  "questions": [
+    "Who is in Xihu Middle school ?.",
+    "Mr. Peterson is a   _  ."
+  ],
+  "article": "Mary is from the U.S.A. She has two brothers. Now her family are in China. Her father, Mr. Peterson teaches English in Xihu Middle School. And her mother works in the same school. She teaches English, too. Mary likes red clothes very much. Her mother likes red clothes a lot, too.\nMary is a nice girl student. She is in Xihu Middle School .She can speak Chinese. She has many Chinese friends. She teaches them English, and they teach her Chinese. Her two brothers are twins. One is Bob, the other is Bill. They look the same. They are only three. So their grandparents look after  them at home. Mrs. Peterson has many toys  for the twins. Bob likes toy cars, but Bill likes toy bears. They are happy every day.",
+  "id": "asc18853"
+}

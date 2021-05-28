@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "four",
+      "three",
+      "two",
+      "five"
+    ],
+    [
+      "worker",
+      "doctor",
+      "reporter",
+      "manager"
+    ]
+  ],
+  "questions": [
+    "There are   _   people in the Johnsons.",
+    "Mr.Johnson is a   _  ."
+  ],
+  "article": "Let's meet the Johnson's family. Mr.Johnson is a manageer in a big company . He works very hard. He is very busy. He makes much money.But he is always tired . He says to his friend,\"I want to be a reporter because I like talking to people.\"\nHis wife Mrs. Johonson is a good doctor .She works in children' Hospital. She likes Chinese medicine  very much.\nThe Johnsons have a daughter called Salina.She is a teacher of French. She always tells her students many interesting stories.They are good friends. They like her.",
+  "id": "asc23463"
+}

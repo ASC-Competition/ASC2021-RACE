@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "Only from left to right.",
+      "Only from right to left.",
+      "From both directions at the same time.",
+      "From one direction at a time."
+    ],
+    [
+      "is as long as the River Danube",
+      "can be easily placed on the head of a pin",
+      "is coded with an alphabet of four letters",
+      "is smart enough to read and take photos of itself"
+    ]
+  ],
+  "questions": [
+    "How do human genomes read according to the passage?  _",
+    "We can learn from the passage that the human genome   _  ."
+  ],
+  "article": "Imagine that the genome   is a book.The book consists of 23 chapters with thousands of stories made up of paragraphs, words and letters on different levels.There are one billion words in the book, as long as 800 Bibles; if I read the genome out to you at the rate of one word per second for eight hours a day, it would take me centuries; if I wrote out the human genome, one letter per millimeter, my text would be as long as the River Danube.This is a huge volume, a book of great length, but it all fits inside an extremely small cell nuclear  that fits easily upon the head of a pin.\nThe idea of the genome as a book is not, strictly speaking, even a metaphor.It is true to a great extent.A book is a piece of digital information, written in one-directional form and defined by a code that translates a small alphabet of signs into a large dictionary of meanings through the order of their groupings.So is a genome.The only difference is that all English books read from left to right, while some parts of the genome read from left to right while some from right to left, but never both at the same time.\nWhile English books are written in words of different lengthens using twenty-six letters, genomes are written entirely in words of three-letter length, using only four letters, and instead of being written on flat pages, they are written on long chains of DNA molecules  .\nThe genome is a very clever book, because in the right condition it can both photocopy itself and read itself.",
+  "id": "asc00073"
+}

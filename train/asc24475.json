@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "a worker",
+      "a teacher",
+      "a doctor",
+      "a driver"
+    ],
+    [
+      "Lake Smith",
+      "Kate Smith",
+      "Jim Smith",
+      "Ann Smith"
+    ]
+  ],
+  "questions": [
+    "--What's Jim's father ?    --He is   _   .",
+    "Ann's mother's name is   _   ."
+  ],
+  "article": "This is a teacher's family . The father's name is Lake Smith . He's forty - four . The mother's name is Kate Smith . She's forty - two . The Smiths have a son , Jim , and a daughter , Ann . Jim is fourteen , and Ann is twelve . The son looks like his father , and the daughter looks like her mother . They are all in No.4 Middle School here . But the Smiths are teachers ; the son and daughter are students .",
+  "id": "asc24475"
+}

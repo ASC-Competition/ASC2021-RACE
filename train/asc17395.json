@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "different animals",
+      "the monkey only",
+      "all the monkeys",
+      "all of the cleverest animals"
+    ],
+    [
+      "some",
+      "none",
+      "one",
+      "each"
+    ]
+  ],
+  "questions": [
+    "Mr Smith made tests with   _  .",
+    "There was some food in   _   of the small boxes."
+  ],
+  "article": "Mr Smith made many tests   with different animals and the monkey was the cleverest of all the animals.\nOne day Mr Smith put a monkey in a room. He also put some small boxes in it. In one of the boxes there was some food. \"How long will it take the monkey to find the food? \" Mr Smith said to himself. \" Let me wait and see. \" He left the room and waited outside. Three minutes later, he put his eye to the keyhole  . What did he see? He saw the eye of the monkey. The monkey was on the other side of the door and looked at Mr Smith through the keyhole.",
+  "id": "asc17395"
+}

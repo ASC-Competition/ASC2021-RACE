@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "lamp; man",
+      "picture; lamp",
+      "lamp; girl",
+      "newspaper; shop owner"
+    ],
+    [
+      "see and buy the lamp",
+      "examine the bicycle",
+      "see and buy the bike",
+      "ask the shop owner"
+    ]
+  ],
+  "questions": [
+    "In the advertisement, there was a   _   and a   _   on the bicycle.",
+    "After he read the advertisement, Tom decided to   _  ."
+  ],
+  "article": "Tom saw an advertisement in a newspaper for a beautiful bicycle. It cost 55 pounds. So he went to the shop and asked to see one of the wonderful bicycles.\nThe owner of the shop was harpy to show one to Tom. Tom examined it carefully, and turned to the owner and said, \"There isn't a lamp on this bicycle. hut there was one on the bicycle in your advertisement.\"\n\"Yes, Sir, \"answered the man.\" But the lamp isn't included in the price of bicycle.\"\n\"Not included in the price of bicycle?\" Tom said angrily. \"But that's not honest. If the lamp is in the advertisement, it should be included in the price.\"\"Well, Sir,\" answered the shop owner coldly. \"There is also a girl on the bicycle in the advertisement. but we cannot give you a girl with the bicycle, either.\"",
+  "id": "asc24749"
+}

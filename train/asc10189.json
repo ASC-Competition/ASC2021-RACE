@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "is only an economic centre",
+      "exists on a river",
+      "covers more than thirty miles from west to east",
+      "is to the east of England"
+    ],
+    [
+      "1,605",
+      "303",
+      "23",
+      "900"
+    ]
+  ],
+  "questions": [
+    "According to the article, London   _  .",
+    "The City of London covers   _  aquare miles."
+  ],
+  "article": "London, the capital of England, is political, economic  and commercial  centre. It stands on the Thames, extending for nearly thirty miles from north to south and for nearly thirty miles from east to west.\nLondon is divided into many administrative  units. Greater London, the largest unit, cover 1,605 square miles. The heart of this unit is the City of London. It is surrounded by a ring of 12 boroughs  called Inner London or Central London, covering 303 square miles, and itself, is again surrounded by a greater ring of 20 boroughs called Outer London with an area of 1,279 square miles. Thus, Greater London is made up of the City and 32 boroughs.",
+  "id": "asc10189"
+}

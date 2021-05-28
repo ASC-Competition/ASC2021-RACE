@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "Companies rely on e-mail for communications.",
+      "More people in the world communicate by e-mail.",
+      "Many computer viruses contain spam e-mail.",
+      "More advertisers begin to promote sales through spam."
+    ],
+    [
+      "To inform.",
+      "To educate.",
+      "To persuade.",
+      "To instruct."
+    ]
+  ],
+  "questions": [
+    "According to the text, what is the major cause of the flooding spam?",
+    "What is the purpose of the text?"
+  ],
+  "article": "When I first got an e-mail account ten years ago, I received communications only from family, friends, and colleagues. Now it seems that every time I check my e-mail,I have an endless series of advertisements and other _ that do not interest me at all. If we want e-mail to continue to be useful, we need specific laws that make spamming a crime.\nIf lawmakers do not do something soon to prohibit spam, the problem will certainly get much worse. Computer programs allow spammers to send hundreds of millions of e-mails almost instantly. As more and more advertisers turn to spam to sell their products,individual e-mail boxes are often flooded with spam e-mails. Would people continue to use e-mail if they had to deal with an annoying amount of spam each time?\nThis problem is troubling individuals and companies as well. Many spam e-mails contain computer viruses that can shut down the entire network of a company. Companies rely on e-mail for their employees to communicate with each other. Spam frequently causes failures in their local communications networks, and their employees are thus unable to communicate effectively. Such a situation results in a loss of productivity and requires companies to repeatedly repair their networks. These computer problems raise production costs of companies, which are, in the end, passed on to the consumer.\nFor these reasons, I believe that lawmakers need to legislate against spare. Spammers should be fined, and perhaps sent to prison if they continue to disturb people. E-mail is a tool which helps people all over the world to communicate conveniently, but spam is destroying this convenience.",
+  "id": "asc00708"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "four years",
+      "eight years",
+      "twelve years",
+      "twenty years"
+    ],
+    [
+      "a doctor's degree - a bachelor's degree - a master's degree",
+      "a bachelor's degree - a master's degree - a doctor's degree",
+      "a master's degree - a bachelor's degree - a doctor's degree",
+      "a bachelor's degree - a doctor's degree - a master's degree"
+    ]
+  ],
+  "questions": [
+    "How long is it since Mrs. Blake graduated from middle school?",
+    "According to the article, which is the right order of the degrees a person can receive after going to university?"
+  ],
+  "article": "Mrs. Blake teaches English in a large school in the inner area of a big city on the west coast. Even since she was a young girl, she has wanted to become a teacher. She has taught eight years now and hasn't changed her mind. After she graduated from high school, she went on to college. Four years later, she received her bachelor's degree (BA) in English and her teaching certificate . Then she went to teach in the secondary schools of her state. In the summers, Mrs. Blake takes more classes; she hopes to get a master's degree ( MA ). With an MA, she will receive a higher salary and if possible, she hopes to get a doctor's degree as well. The school day at Mrs. Blake's high school, like that in many high schools in the United States, is divided into one hour each. Mrs. Blake must teach five of these periods. During her free period, which for her is from 2 to 3 P.M, Mrs. Blake must meet with parents, make our examinations, check assignments at all, Mrs. Blake works continuously from the time she arrives at school in the morning till the time she leaves for home late in the afternoon.",
+  "id": "asc12749"
+}

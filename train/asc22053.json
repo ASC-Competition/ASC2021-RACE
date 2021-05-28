@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "Brown",
+      "White",
+      "Green",
+      "Black"
+    ],
+    [
+      "a Chinese boy",
+      "an English boy",
+      "an English girl",
+      "a Chinese girl"
+    ]
+  ],
+  "questions": [
+    "Mike's last name is  _  .",
+    "Mike is  _  ."
+  ],
+  "article": "Good morning! I'm Mike Brown. I am an English boy. My telephone number is five-four-five-zero-six-seven-eight. This is my room  . The quilt is blue. In the room, there are books  , a computer   and a pencil box  .",
+  "id": "asc22053"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "England",
+      "America",
+      "China",
+      "Australia"
+    ],
+    [
+      "13",
+      "12",
+      "22",
+      "14"
+    ]
+  ],
+  "questions": [
+    "Jane is from   _  .",
+    "How old is she?"
+  ],
+  "article": "My name is Jane. I am from Shanghai, China. I want to have a pen pal in London. London is a big city. I am thirteen years old and my birthday is February 22nd. I like to listen to music and read books after school. My favourite subject in school is art. It's fun and interesting. I don't like math. It's too _ .",
+  "id": "asc22707"
+}

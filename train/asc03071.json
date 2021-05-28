@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "is mostly produced in Germany",
+      "can effectively transfer electricity",
+      "exists mostly in soil and water",
+      "is very easy to get from nature"
+    ],
+    [
+      "Germanium can be easily produced during the process of mining zinc or burning coal.",
+      "Sunflowers and corn are currently the most efficient plants to use when extracting germanium.",
+      "The process of harvesting germanium from plants isn't costly because after harvesting, the plants can be used for biogas.",
+      "The new method for extracting germanium that the Freiburg scientists are trying is greener and cheaper than the traditional one."
+    ]
+  ],
+  "questions": [
+    "We can learn from the article that germanium   _  .",
+    "What can we conclude from the article?"
+  ],
+  "article": "FOR most people, life without plants is unimaginable. They feed us, clean up our air and brighten up our gardens. But what if someone told you that even our smartphones can benefit from plants?\nMeet the scientists from the Freiburg University of Mining and Technology in Germany. According to reports from Reuters, they have come up with a way to take the important element germanium   from plants.\nThe element was first discovered in Germany (hence the name) and was used to develop the first transistor   because it can transport electricity very quickly. Nowadays, silicon-germanium alloy   plays an important role in making computers, smartphones and fiber-optic cables  .\nAlthough germanium can be found in soil around the world, it is difficult to extract  . In the traditional process, people take the material after zinc   mining or burning coal. But the Freiburg scientists decided to fall back on the natural world.\nBiology professor Hermann Heilmeier is one of the scientists who are using common plants for this uncommon process. \"Different energy crops are being planted, for example, sunflowers, corn ... we want to use them for phytomining. In German we call it 'mining with plants'.\"\nOthers have used this method in the past with metals like gold and copper  . But in their study, the Freiburg scientists brought germanium from the soil into the roots and shoots of the plants, harvested them and then took the element from the plants. The process did not cost too much because germanium can be taken after plants are processed for use as biogas  . So many of the costs are already covered in existing biogas plants.\nHowever, there is still a lot of work to do before we can all experience the benefits. At the moment germanium can only be harvested in very small amounts, just a few milligrams per liter. Now scientists are working on different plants to improve this.\n\"As is so often the case, industry is still waiting because they want to see everything already working. Then they say, 'We'll have it.' But of course we have to complete the step in between first,\" said Professor Martin Bertau, head of industrial chemistry at Freiburg University.",
+  "id": "asc03071"
+}

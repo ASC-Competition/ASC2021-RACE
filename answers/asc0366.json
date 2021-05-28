@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "C",
+    "C",
+    "B",
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "Dan",
+      "Bob",
+      "Ray",
+      "Dan and Bob"
+    ],
+    [
+      "Dan and Bob",
+      "Bob and Ray",
+      "Dan , Bob and Ray",
+      "Dan and Ray"
+    ],
+    [
+      "Bob and Ray",
+      "Dan",
+      "Bob",
+      "Ray"
+    ],
+    [
+      "Bob and Ray",
+      "Dan",
+      "Bob",
+      "Ray"
+    ],
+    [
+      "Dan and Bob",
+      "Bob and Ray",
+      "Dan and Ray",
+      "Dan , Bob and Ray"
+    ]
+  ],
+  "questions": [
+    "_    doesn't like French fries.",
+    "_   like hamburgers .",
+    "_   doesn't like eggs for breakfast .",
+    "_    likes fruit for breakfast .",
+    "_  like chicken."
+  ],
+  "article": "My name is Dan and I have two brothers, Bob and Ray .We like hamburgers for lunch.\nBob and I like French fries , but Ray doesn't . I don't like eggs for breakfast, but Bob and Ray\nDo. I like fruit for breakfast .We really like chicken and salad for dinner.",
+  "id": "asc0366"
+}

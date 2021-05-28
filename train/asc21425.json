@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Susan",
+      "Tony",
+      "John",
+      "Bill"
+    ],
+    [
+      "Uncle",
+      "father",
+      "brother",
+      "grandfather"
+    ]
+  ],
+  "questions": [
+    "Mary's brother is  _  .",
+    "Bill is John's  _  ."
+  ],
+  "article": "My name is Mary. This is my family. These are my parents. Their names are Bill and Grace Brown.Those are my grandparents.Their names are Henry and Linda Brown.This is my uncle.His name is John.That boy is my brother. His name is Tony. This is Susan.She is my uncle's daughter.",
+  "id": "asc21425"
+}

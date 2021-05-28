@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "Yes, he does.",
+      "No, he doesn't.",
+      "Yes, he is.",
+      "No, he isn't."
+    ],
+    [
+      "father and mother",
+      "brother and sister",
+      "mother and son",
+      "cousin"
+    ]
+  ],
+  "questions": [
+    "Is Mr. Brown Ann's father?",
+    "Jack and Ann are   _  ."
+  ],
+  "article": "Here are two pictures. You can see a man and a boy in one picture. Who are they? The man is Mr. Brown, and the boy's name is Jack. They are father and son. They are in Jack's room.\nNow let's look at the other picture. You can see a woman and a little girl in it. The woman is Jack's mother and the girl is her daughter, Ann. They're in Ann's room. You can see a photo of the family on the white wall. A clock is on the table. It's eleven. What's that on the floor? Oh, it's Ann's hat, but it looks *like a white cat.",
+  "id": "asc18908"
+}

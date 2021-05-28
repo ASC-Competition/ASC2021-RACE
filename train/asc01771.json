@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "Don't look out",
+      "Look out for the water",
+      "Be careful",
+      "Look everywhere"
+    ],
+    [
+      "He doesn't stand up and doesn't lie down",
+      "He doesn't come up and doesn't go down",
+      "He hasn't turned up and hasn't turned down",
+      "He hasn't got up and he hasn't come downstairs"
+    ]
+  ],
+  "questions": [
+    ". In the dialogue the phrase \"Look out\" actually means \"  _  \".",
+    ". \"He is not up\" and \"He is not down\" in the dialogue actually means       _  ."
+  ],
+  "article": "A: I once heard someone shout, \"Look out.\" I put my heard out of the window and a bucketful water fell on me. It seems that \"Look out\" may mean \"Don't look out\".\nB: I was once on a ship and heard the captain shout, \"All hands on deck .\" I put my hands on the deck and someone walked on them.\nC: I once called early on an English friend and the servant who came to the door said, \"He's not up yet. Come back in half an hour.\" When I went again for him, she said, \"He's not down yet.\" I said, \"If he's neither up nor down. Where is he?\"",
+  "id": "asc01771"
+}

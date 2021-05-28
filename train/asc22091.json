@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "Amy.",
+      "Brian.",
+      "Amy's sister.",
+      "Brian's brother."
+    ],
+    [
+      "Water.",
+      "Milk.",
+      "Coffee.",
+      "Orange juice."
+    ]
+  ],
+  "questions": [
+    "Who likes fast food?",
+    "What did Amy want to drink?"
+  ],
+  "article": "Amy likes fast food very much. She wants to go to McDonald's for dinner today. She asks Brian to take her there.\nAmy: Do you like McDonald's?\nBrian: It's OK. But you know eating too much food there is not good for your health.\nAmy: I know. But I like junk food.\nBrian: Why?\nAmy: It's _ .\nBrian: Yeah, right. Fat and salt.\nAmy: I don't care.\nBrian: You're all right. Quite slim .\nAmy: Let's go.\n(Amy and Brian stand in front of the counter.)\nWaitress: What would you like?\nAmy: A cheeseburger, a small fries, and a cup of orange juice.\nWaitress: 4.5 dollars.\nAmy: OK.\nWaitress: How about you?\nBrian: A chicken sandwich and a cup of milk.\nWaitress: That would be 2.5 dollars.\nBrian: Here you are.\nWaitress: Thanks.",
+  "id": "asc22091"
+}

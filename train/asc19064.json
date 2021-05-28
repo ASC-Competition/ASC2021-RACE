@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "Kowloon Public Pier.",
+      "Near Star Company.",
+      "On the ferry",
+      "Office Company"
+    ],
+    [
+      "HK$300.",
+      "HK$600",
+      "HK$420",
+      "HK$520"
+    ]
+  ],
+  "questions": [
+    "Where does the cruise start?",
+    "If Mr. and Mrs. Brown want to have dinner on the ferry, how much will they pay?"
+  ],
+  "article": "Hong Kong Harbour Cruise By Night\nEnjoy your wonderful dinner on the ferry and see the fantastic city lights.\nTime: 7:00 pm~10:00 pm daily\nPrice: With dinner         Without dinner\nAdult: HK$300           HK$120\nChild under 12: HK$ 210   HK$ 84\nStart/ Stop: Kowloon Public Pier (Near Star Ferry Pier)\nTicket Office:Star Company (123 Canton Road)",
+  "id": "asc19064"
+}

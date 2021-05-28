@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "in the morning",
+      "in the afternoon",
+      "in the evening",
+      "at night"
+    ],
+    [
+      "over",
+      "ill",
+      "all right",
+      "rich"
+    ]
+  ],
+  "questions": [
+    "The story took place    _   .",
+    "When the man ran in, the dentist thought he must be    _   ."
+  ],
+  "article": "One day a dentist was starting his morning work. Suddenly a man ran in. His face was red and he could only say \"Quick! Quick!\" The dentist thought he must be very ill. His assistant helped to make the poor man sit in a chair. The dentist gave the man some medicine to make him sleep. Then, he looked into the man's mouth and pulled out all the bad teeth. As soon as the man woke up, he said in a low voice, \"Quick, doctor, quick.\"\n\"It's all right now,\" the dentist told him, \"It's over.\"\n\"You don't understand,\" said the man, \"I came to tell you your house is on fire.\"",
+  "id": "asc24940"
+}

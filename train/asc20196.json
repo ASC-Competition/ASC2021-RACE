@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "notebook",
+      "key",
+      "ID card",
+      "watch"
+    ],
+    [
+      "Jim's",
+      "Gina's",
+      "Jenny's",
+      "Mary's"
+    ]
+  ],
+  "questions": [
+    "This is Mr. Wang's   _  .",
+    "_   notebook is over there."
+  ],
+  "article": "Look at these things. This is Mr. Wang's ID card. And this is Jim's watch, that's Mary's key. Gina's notebook is over there. Look! What's that on the floor? Oh, it's gold ring. It's Jenny's ring. It's very nice.\n.",
+  "id": "asc20196"
+}

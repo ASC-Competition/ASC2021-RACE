@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Use data analysis to predict the election result .",
+      "Win the election if they can raise enough funds .",
+      "Manipulate public opinion with favorable data .",
+      "Increase the chances of winning by foul means ."
+    ],
+    [
+      "They think students prefer flexible teaching methods .",
+      "They will be able to try different approaches .",
+      "They believe students learning styles vary .",
+      "They can accommodate students with special needs ."
+    ]
+  ],
+  "questions": [
+    "What do people running for political office think they can do ?",
+    "Why do many teachers favor the idea of tailoring their presentations to different students ?"
+  ],
+  "article": "How to describe the rising philosophy of the day ? I'd say it is data-ism . We now have the ability to gather huge amounts of data . This ability seems to carry with it certain cultural assumptions--that everything that can be measured should be measured ; that data is a transparent and reliable lens that allows us to filter out emotionalism and ideology ; that data will help us do remarkable things--like foretell the future . At the outset let me celebrate two things data does really well .\nFirst , it's really good at exposing when our intuitive view of reality is wrong . For example , nearly every person who runs for political office has an intuitive sense that they can powerfully influence their odds of winning the election if they can just raise and spend more money . But this is largely wrong .\nAfter the 2006 election , Sean Trende constructed a graph comparing the incumbent campaign spending advantages with their eventual victory . There was barely any relationship between more spending and a bigger victory .\nLikewise , many teachers have an intuitive sense that different students have different learning styles : some are verbal and some are visual , some focus on details and some on whole . Teachers imagine they will improve outcomes if they tailor their presentations to each student . But there's no evidence to support this either .\nSecond , data can clarify patterns of behavior we haven't yet noticed . For example , I've always assumed people who frequently use words like \" I , \" \" me , \" and \" mine \" are probably more self-centered than people who don't . But as James Pennebaker of the University of Texas notes in his book , The Secret Life of Pronouns , when people are feeling confident , they are focused on the task at hand , not on themselves . High-status , confident people use fewer \" I \" words , not more .\nIn sum , the data revolution is giving us wonderful ways to understand the present and the past . Will it transform our ability to predict and make decisions about the future ? We'll see .",
+  "id": "asc00657"
+}

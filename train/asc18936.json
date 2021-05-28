@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    [
+      "read books",
+      "travel",
+      "watch TV",
+      "go to work"
+    ]
+  ],
+  "questions": [
+    "_  is a good season for vacation.",
+    "Many people don't  _  during their vacation."
+  ],
+  "article": "Most American families like to have a vacation in summer. Summer is a good season for vacation. It is often hot in July and August.\nChildren do not go to school in those two months. Some people like to stay at home, read books, or watch TV. Many families take their lunch to eat at a place with many trees or a nice lake.\nSome people have enough time and money to travel to other countries like France, Japan and Australia. They usually fly to these countries. Many families travel by car or train to see interesting places in their own countries. Their favorite cities are New York, Chicago, Miami, San Francisco and Los Angeles.\nNot everyone likes to go to busy cities. Some families travel to mountains or beautiful valleys.\n,A, B, C, D,. (5,1,5)",
+  "id": "asc18936"
+}

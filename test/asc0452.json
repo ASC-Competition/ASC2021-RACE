@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "Relaxing.",
+      "Nice.",
+      "Cool.",
+      "Scary."
+    ],
+    [
+      "He is visiting the Yellow Crane Tower.",
+      "He is eating hot dry noodles.",
+      "He is swimming in a river.",
+      "He is having mooncakes with his family"
+    ],
+    [
+      "Sally is writing an e-mail to David.",
+      "There are three people in David's family.",
+      "In the second picture, David and his parents are swimming.",
+      "David shows Sally four pictures."
+    ],
+    [
+      "Wuhan is a great city in China",
+      "David likes the Mid-autumn Festival a lot",
+      "David's family has a great trip in Wuhan",
+      "the people in Wuhan are friendly"
+    ]
+  ],
+  "questions": [
+    "What does David think of swimming in a river?",
+    "What is David doing in the third picture?",
+    "Which of the following is TRUE according to the passage?",
+    "The passage mainly wants to tell us   _  ."
+  ],
+  "article": "Dear Sally,\nThank you for your e-mail and the photo of New York. Here are some photos of my family trip in Wuhan. In the first photo, my sister Jane is wearing Chinese traditional clothes on the Yellow Grower. In the second picture, my father and I are swimming in a river. It's so cool! In the next picture, my parents, Jane and I are eating great noodles. Its name is hot dry noodles. It looks very nice!\nIn the last picture, my family people are at my friend's home. We are having some mooncakes because it's the Mid-autumn Festival. It's an important festival in China. On this day, all the families get together and have a happy dinner.\nI think Wuhan is a nice city in China. The people there are friendly. One day I wish to go there again.\nYours,\nDavid\n,.",
+  "id": "asc0452"
+}

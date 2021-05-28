@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "Chinese",
+      "Math",
+      "English",
+      "History"
+    ],
+    [
+      "Winnie is at 15.",
+      "Winnie is an active, lovely and clever girl.",
+      "Winnie likes sports very much, such as running, volleyball and so on.",
+      "Winnie doesn't like to help others."
+    ]
+  ],
+  "questions": [
+    "Which subject is Winnie's favourite?",
+    "Which one is NOT right?"
+  ],
+  "article": "Hello, everyone!\nMy name is Winnie. I'm a 15-year-old girl. I live in the beautiful city of Rizhao.\nI'm an active , lovely and clever girl. In the school my favourite subject is Math. Maybe someone thinks it's difficult to study well. But I like it. I believe  that if you try your best, everything can be done well.\nI also like sports very much, such as running, volleyball and so on.\nI'm kind. If you need help, please come to me.\nI hope we can be good friends!\nOK. This is me, a sunny girl!",
+  "id": "asc21597"
+}

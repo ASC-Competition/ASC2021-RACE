@@ -1,0 +1,50 @@
+{
+  "id": "asc0314",
+  "article": "My name is Lisa. I'm from America, but now my dad, my mum and I are in Shanghai. My dad and my mom are English teachers. But sometimes My father goes to learn Chinese. So he is a student, too. We are in No.12 Middle School. Mary, Liu Ying, Wang Haobin are my friends. Mary is from England and she is thirteen years old. Liu Ying is from the capital of China. She and I are fourteen years old. Her English name is Rose. Wang Haobin is from Wenzhou. But he likes Shanghai.",
+  "questions": [
+    "Where is Lisa now?",
+    "What's Lisa's mother's job?",
+    "Where is Liu Ying from?",
+    "How old is Lisa?",
+    "Who is Rose?"
+  ],
+  "answers": [
+    "D",
+    "A",
+    "A",
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "In America",
+      "In Beijing",
+      "In England",
+      "In Shanghai"
+    ],
+    [
+      "A teacher",
+      "A student",
+      "A farmer",
+      "A manager"
+    ],
+    [
+      "Beijing",
+      "Shanghai",
+      "England",
+      "America"
+    ],
+    [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    [
+      "Mary",
+      "Liu Ying",
+      "Wang Haobin",
+      "I"
+    ]
+  ]
+}

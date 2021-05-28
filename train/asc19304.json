@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "In New York City.",
+      "In a school in New York City.",
+      "In the streets in New York City.",
+      "In most libraries in New York City."
+    ],
+    [
+      "workers in it",
+      "policemen in it",
+      "people living in it",
+      "computers in it"
+    ]
+  ],
+  "questions": [
+    "Where did the story happen?  _  .",
+    "The library had hundreds of   _  ."
+  ],
+  "article": "What is a library for? Most libraries have books and other things to read. Many of them have things to listen to. Some libraries even have computers. Very few people would think of a library as a place to live in.\nOne library in New York City turned into a home for 250 people for a few days. These were all people near the library. They slept on the floor. Why did the people move into the library?\nThe people moved into the library because the city wanted to close it to save money. These 250 New Yorkers loved their library. They didn't want to lose it. So they moved in. They knew that the library couldn't be closed if they were living inside it. At last the city agreed to keep the library open, and the people all went home.",
+  "id": "asc19304"
+}

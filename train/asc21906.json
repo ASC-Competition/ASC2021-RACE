@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "Mr. John",
+      "Mr. Brown",
+      "Mrs. Brown",
+      "David"
+    ],
+    [
+      "Mr. John",
+      "Mr. Brown",
+      "Mrs. John",
+      "David"
+    ]
+  ],
+  "questions": [
+    "_   will have a small party at home on Monday evening.",
+    "Mrs. Brown is looking for   _  ."
+  ],
+  "article": "Mr. John and Mr. Brown work in the same office. One day Mr. John says to Mr. Brown, \"I will have a small party in our house on Monday evening. Would you and your wife like to come?\"\nMr. Brown says, \"Thank you very much. I'd love to, but let me ask my wife first.\" So Mr. Brown goes to the other room and telephones his wife. Then he comes back and looks very worried.\n\"What's the matter?\" asks Mr. John. \"Is your wife there at home?\"\n\"No,\" answers Mr. Brown. \"She isn't there. My small son answers the telephone. I say to him, 'Is your mother there, David?' and he answers 'No, she isn't in the house. ''Where is she?' I ask, 'She is somewhere outside.' 'What's she doing?' 'She is looking for me.'\"\n,.",
+  "id": "asc21906"
+}

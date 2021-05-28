@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "the famous artist Leonardo da Vinci",
+      "an American physicist's discovery",
+      "further researches on the Mona Lisa",
+      "The uses of modern technology"
+    ],
+    [
+      "a famous artist",
+      "a famous painting",
+      "a smiling woman",
+      "a lost necklace"
+    ]
+  ],
+  "questions": [
+    "This passage is mainly about   _  .",
+    "The Mona Lisais   _  ."
+  ],
+  "article": "A camera and a computer can \"see\" something that perhaps millions of pairs of eyes failed to see for 480 years: the Mona Lisa's necklace. The discovery about the famous painting was made by an American physicist.\nThe Mona Lisa, painted by the Italian, Leonardo da Vinci, has been on show for many years in Paris. Now a row of white spots on the neck have been \"seen\". They are said to be the remains   of a necklace which the artist later painted over.\nThe painting will be examined further by using infrared scanning   techniques. Laser   technology can be used to show what lies directly under the surface of the finished work, too. This will help us to understand how the artist drew the picture: Did he begin with a quick-made drawing or have second thoughts as he painted the picture?\nThis kind of knowledge will show us the famous artist at work. It may also help to explain Mona Lisa's smile, which has puzzled art lovers for centuries.",
+  "id": "asc15616"
+}

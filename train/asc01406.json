@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "It can deliver heavy products by plane.",
+      "It uses planes without human operators.",
+      "It can delivery many products at a time.",
+      "It is much safer than other delivery ways."
+    ],
+    [
+      "doesn't really like Amazon",
+      "totally support the drone delivery system",
+      "doesn't think Amazon should get the patent",
+      "doubts about the drone delivery system"
+    ]
+  ],
+  "questions": [
+    "What is special about the new delivery system?",
+    "After reading the passage, we can infer that FAA  _"
+  ],
+  "article": "Amazon. com has received a patent  right to send its products to customers by drone planes. The company is the largest US-based online seller of products by mail and other services. Now, the company has received a patent for its planned drone delivery system.\nIn March, federal officials allowed Amazon to test its drone delivery plan. But even with a patent and the ability of drones to make deliveries, it does not appear the company will put its new delivery system in place any time soon.\nThe US Patent Office published the document, which describes Amazon's plans to use GPS to deliver products to homes and to wherever people are. The drone will use a customer's mobile device --- usually a smartphone ---to avoid hitting people or buildings and to find a _ area to land. The company wants to deliver products within 30 minutes after people order them on its website.[:++Z+X+X+K]\nHowever, the Federal Aviation Administration (FAA) is worried about the safety. Although it allowed Amazon to test the system, the agency said the operators must be able to see the planes. That greatly limits the delivery area.\nLoretta Alkalay is a professor at the Vaughn College of Aeronautics and Technology in New York. Although Amazon is not yet offering drone delivery, Professor Alkalay says it will not be long before it does. She says there are worries that the drones will hit buildings or people, or that the products and drones will be stolen or damaged by people on purpose. But she says that is because many people believe the drones would only deliver the products to the front door of a house. \"However, it is possible that homes will one day have special area on their roofs designed to receive product deliveries,\" she adds.",
+  "id": "asc01406"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "behind the school",
+      "near my home",
+      "near my school",
+      "behind my home"
+    ],
+    [
+      "four floors",
+      "five floors",
+      "three floors",
+      "six floors"
+    ]
+  ],
+  "questions": [
+    "Where is the new shopping mall?",
+    "How many floors are there in the shopping mall?"
+  ],
+  "article": "There is a new shopping mall  near my school. It is very big. There are five floors  of shops and each floor is very big. There are lots of clothes shops, but only one sports shop. There are lots of restaurants  on the top  floor, you can eat different kinds of food from different countries . I like going to see a movie. The mall is a really good place to go. It is a good place to meet friends.",
+  "id": "asc24835"
+}

@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "D",
+    "A",
+    "B",
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "Henan.",
+      "Hebei.",
+      "Dalian.",
+      "Heze."
+    ],
+    [
+      "Class 2 , Grade 7.",
+      "Class 2 , Grade 6.",
+      "Class 7 , Grade 2.",
+      "Class 3 , Grade 7."
+    ],
+    [
+      "12.",
+      "11.",
+      "13.",
+      "14."
+    ],
+    [
+      "11.",
+      "12.",
+      "13.",
+      "14."
+    ],
+    [
+      "839922660",
+      "18245036918",
+      "18845036918",
+      "18845039618"
+    ]
+  ],
+  "questions": [
+    "Where is Men Xue from?",
+    "What class is Yang Yue in?",
+    "How old is Men Xue?",
+    "Harry is   _   years older than (......) Yang Yue.",
+    "Yang Yue's   brother's telephone number is   _   ."
+  ],
+  "article": "Men Xue and Yang Yue are good friends. They are in the same school. They are in Class Two , Grade Seven. Men Xue is from Heze,Shandong. She is eleven years old . Her QQ number is 839922660. Yang Yue is from Dalian. She is twelve years old. Her brother   is Harry. He is a worker  . He is twenty-five (25). His telephone number is 18845036918.\n.",
+  "id": "asc0293"
+}

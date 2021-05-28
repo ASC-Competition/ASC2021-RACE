@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "car",
+      "sea",
+      "air",
+      "both sea and land"
+    ],
+    [
+      "Calais",
+      "London",
+      "Dover",
+      "Brussels"
+    ]
+  ],
+  "questions": [
+    "Hans went to London by   _  .",
+    "Hans lost his way in   _  ."
+  ],
+  "article": "Hans said to his friend Kurt, \"I'm going to take my car to drive to London.\"\nKurt said, \"Driving to London is very hard. You aren't going to find your hotel.\" But Hans was not afraid. He drove to Calais, put his car on the ship, took it off at Dover, and drove to London.\nHe stopped near the city and looked at his map. Then he drove into London, but he did not find his hotel. He drove round and round for an hour, and then he stopped and got out of his car. A taxi came, and Hans stopped it. \"Take me to the Brussels Hotel,\" he said. But he did not get into the taxi: he got back into his car. The taxi man laughed, but then he drove to the Brussels Hotel, and Hans followed him in his car. They reached the hotel in two minutes.\n,.",
+  "id": "asc23427"
+}

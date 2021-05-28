@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "on the sofa",
+      "on the bed",
+      "under the sofa",
+      "under the bed"
+    ],
+    [
+      "The bed",
+      "The jacket",
+      "The map",
+      "The bed and the jacket"
+    ]
+  ],
+  "questions": [
+    "My books are   _   .",
+    "_   is ( are ) green ."
+  ],
+  "article": "Hello , boys and girls ! I'm Anna Green . Look ! This is my bedroom . The wall is white . And this is my bed . B-E-D , bed . It's green . What's this on the bed ? It is a quilt . It's a yellow quilt . And that's a jacket . It's green , too . What are those on the sofa ? They are my books . Oh , what's this on the wall ? It's a map of China . What color is it ? It is green . Oh , no . It's yellow . No , it's blue , yellow and brown . I like my bedroom very much .",
+  "id": "asc23168"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "He likes playing cards.",
+      "He likes playing ball games.",
+      "He likes fighting.",
+      "He likes writing letter."
+    ],
+    [
+      "He works very hard.",
+      "He can't sleep at night.",
+      "He goes to bed late.",
+      "He watches TV too late."
+    ]
+  ],
+  "questions": [
+    "What does Mr. Smith like doing?",
+    "Why does Mr. Smith oversleep?"
+  ],
+  "article": "Mr. Smith likes playing cards at night and goes to bed very late. He often oversleeps . Mrs. Smith has to wake him up ,so he won't be late for work.\nOne day,they have a big fight . They do not speak to each other. In the evening,Mr. Smith gives his wife a piece of paper. The paper says \"Call me at seven o'clock in the morning\". Then he goes to bed.\nThe next morning,when Mr. Smith wakes up,it's already 9:00. He is very angry. He gets up and puts on his clothes. He finds another piece of paper on the table. \"It's seven o'clock. Get up!\"",
+  "id": "asc01328"
+}

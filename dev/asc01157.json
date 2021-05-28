@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "big and nice",
+      "small but nice",
+      "big but bad",
+      "small and bad"
+    ],
+    [
+      "milk",
+      "water",
+      "tea",
+      "orange"
+    ]
+  ],
+  "questions": [
+    "Liu Fei's room is   _  .",
+    "There is some   _   in the glass."
+  ],
+  "article": "This is Liu Fei's room. It's a small but nice room. On the wall, there are two maps. One is a map of China, the other is of the world. There's a desk in front of the window and on the desk there is a clock. Near the clock there is a glass. There's some water in it. And there are two pencils, one pen and some books on the desk too. There is a chair on the floor and under the chair there's a ball. Liu Fei often studies   in his room and he likes his room very much.",
+  "id": "asc01157"
+}

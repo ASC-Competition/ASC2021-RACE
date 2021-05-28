@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Big City Savers",
+      "Monthly Returns",
+      "Day Returns",
+      "Family Returns"
+    ],
+    [
+      "PS 47",
+      "PS 27",
+      "PS 24",
+      "PS15"
+    ]
+  ],
+  "questions": [
+    "If you want to go to a city75 miles away for four days ,which kind of ticket will you choose?",
+    "Mr Wu has a card of Family Returns , he buys himself a ticket of PS15 and three tickets for his family,how much will he pay?"
+  ],
+  "article": "Do you want to save money when you travel by train? Here are some ways .\nDay Returns:\nThis kind of ticket can save you 45% on the fare.You have to travel before 8.00 a.m. and after 6.00 p.m from Monday to Friday, but you can travel at any time on Saturday or Sunday.\nBig City Savers :\nYou can save much money with these tickets.You have to buy them by 4.00 p.m the day before you travel.\nMonthly Returns :\nYou can use these tickets for most journeys over 65 miles. Go any day return within(.....) a month. Monthly Returns can save you 25% on the fare.\nFamily Returns:\nYou can get a card of Family Returns for PS20. After you buy your own ticket ,you need to pay only PS3 for each of the other family members.You can travel as often as you like within two months.",
+  "id": "asc19075"
+}

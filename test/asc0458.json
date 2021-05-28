@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "a policeman",
+      "a doorman",
+      "a worker",
+      "a waiter"
+    ],
+    [
+      "Is that clock right?",
+      "What's the price of the big clock?",
+      "How are you?",
+      "What time is it,please?"
+    ],
+    [
+      "Yes, he did",
+      "Maybe",
+      "No, he didn't",
+      "Of course"
+    ],
+    [
+      "Hardworking Dan",
+      "A Big Clock",
+      "Stupid Question",
+      "Boring People"
+    ]
+  ],
+  "questions": [
+    "What does Dan do?",
+    "What question did thousands of people ask Dan a few months ago?",
+    "At last, did Dan solve   his problem?",
+    "What would be the best title for the passage?"
+  ],
+  "article": "Dan was the doorman of a club in a big city. Every day, thousands of people passed his door, and a lot of them stopped and asked him, \"What's the time, please?\"\nAfter a few months, Dan said to himself, \"I'm not going to answer all those stupid people any more. I'm going to buy a big clock and put it on the wall here.\" Then he did so.\n\"Now people aren't going to stop and ask me the time.\" He thought happily.\nBut after that, a lot of people stopped, looked at the clock and asked Dan, \"Is that clock right?\"",
+  "id": "asc0458"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "Its bikes have no baskets.",
+      "Its bikes are light and colorful.",
+      "People must return the bike to the same place after using it.",
+      "It owns more stations than the subway."
+    ],
+    [
+      "[?]1",
+      "[?]30",
+      "[?]29",
+      "no money"
+    ]
+  ],
+  "questions": [
+    "What can we learn about the Velib scheme?",
+    "If you use a Velib for 1 hour, you should pay   _  ."
+  ],
+  "article": "Like all big cities, Paris has a traffic problem: lots of cars, lots of traffic jams  and lots of pollution from exhaust fumes . So the city began a scheme  to improve the situation.\nUnder the Velib scheme('Velib' comes from velo liberte, or 'bicycle freedom') , people can take a bicycle, use it for as long as they want, and then leave it at the same or another bicycle station. The first half-hour on the bike is free, but if you don't return it after 30 minutes, you have to pay. But it's only [?]1 a day or [?]29 a year! The bicycles are heavy (25 kg), and they are all grey and have baskets. There are about 20,000 of them in the city, and around 1,450 bicycle stations. So there are a lot more Velib stations than the 298 subway stations!\nParis is not the first city to have a scheme like this. But not everybody thinks it's a great idea. One Parisian said, \"These bicycles are only for short journeys. If people want to travel across the city, they won't use a bicycle -- they'll still use their cars.\"\nA city spokesman said, \"The bicycle scheme won't solve all our traffic problems, of course. But it might help reduce air pollution. Traffic, together with factory fumes, is a big problem. There aren't any simple answers to traffic problems and pollution in cities. But unless we do something now, there will be more traffic jams and temperatures will continue to rise, so the problems in our environment will get worse. The bikes might help people to lead a healthier life, too.\"",
+  "id": "asc03137"
+}

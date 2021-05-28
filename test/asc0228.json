@@ -1,0 +1,50 @@
+{
+  "id": "asc0228",
+  "article": "Mrs. Green is going to hold a birthday party for Mary. Mary is her daughter. She is going to be thirteen years old. Mary's friends are going to come to the party. They are all girls. Mrs. Green is getting ready for the party. Mrs. White is helping her. \" That's a nice cake, \" says Mrs. White. \" Thank you very much, \" says Mrs. Green. Mrs. Green is going shopping now. She's buying fruit for the party. She buys a lot of pears, apples, oranges and bananas. Then she goes home. It's three o'clock in the afternoon. Now the first girl comes, then another. The party is going to start after thirty minutes.",
+  "questions": [
+    "_is going to hold a birthday party for Mary.",
+    "Mary is going to be _years old.",
+    "_are going to come to the party.",
+    "The party is going to begin at _in the afternoon.",
+    "Mary's friends can't eat _at the birthday party."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "Mrs. White",
+      "Mrs. Green",
+      "Mary",
+      "Mary's friend"
+    ],
+    [
+      "thirty",
+      "twenty",
+      "thirteen",
+      "ten"
+    ],
+    [
+      "Some boys",
+      "Her classmates _",
+      "Many girls",
+      "Mrs. Green and Mrs. White"
+    ],
+    [
+      "two thirty",
+      "three",
+      "four",
+      "three thirty"
+    ],
+    [
+      "cake",
+      "apples",
+      "ice-cream",
+      "bananas"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "some paintings",
+      "some pictures of butterflies only",
+      "some beautiful butterflies",
+      "some pictures of the towns from all over the world"
+    ],
+    [
+      "15 yuan",
+      "20 yuan",
+      "25 yuan",
+      "35 yuan"
+    ]
+  ],
+  "questions": [
+    "We can see  _  in the butterfly exhibition.",
+    "You are going to see the exhibition with your 14-year-old daughter, you will have to pay  _  ."
+  ],
+  "article": "A   Butterfly exhibition\nDate: 1st-31st May\nPlace: Sunshine Town Museum\nShow: All kinds of butterflies from different parts of the world\nTime: Mon.-Fri. 10:00 am-4:00 pm\nSat.-Sun.9:00 am-5:00 pm\nTickets:\nAdults: Y=20\nStudents: Y=15\nFree for children under 12\nGroup Booking:  Can be made through the group line(010)74xxxx27\nAdult groups of 10 or more: Y=15 each\nStudent groups of 10 or more: Y=10 each\nSpecial gift!\nCome to the butterfly exhibition on 1st, May and receive a free picture of butterfly.",
+  "id": "asc01156"
+}

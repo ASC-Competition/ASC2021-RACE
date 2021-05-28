@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "He lives on Center Street.",
+      "He lives in Toronto.",
+      "He lives on Green Street.",
+      "He lives in a post office."
+    ],
+    [
+      "A pen pal's house.",
+      "A mailbox.",
+      "A post office",
+      "Toronto."
+    ]
+  ],
+  "questions": [
+    "Where does Mr Brown live now?",
+    "Where does Mr Brown want to go?"
+  ],
+  "article": "Mr Brown lives on Green Street now. He wants to send a postcard to his pen pal in Toronto,but he doesn't know where the post office is.\"Which is the way to the post office?\"he asks his new neighbor Joe. \"I want to send a postcard to Toronto.\"\"The post office is quite far from here,\" answers Joe. \"If you only want to post some letters or post cards ,you needn't go to the post office. You can put them into a mailbox down the street",
+  "id": "asc20258"
+}

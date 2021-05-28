@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "go out for a walk",
+      "go out and watch people running",
+      "stay at home",
+      "stay at home and do housework"
+    ],
+    [
+      "at home",
+      "in the park",
+      "in the street",
+      "today"
+    ]
+  ],
+  "questions": [
+    "In the evening, Mr. and Mrs. Su often   _  .",
+    "Mr. and Mrs. Su have a good time   _  ."
+  ],
+  "article": "Mr. and Mrs. Su don't often go out in the evening, but today they go out for a walk after supper. They go to the park and have a good time there. On their way home, Mr. Su says to Mr. Su, \"Look! A woman is running in the street and a man is running after her.\" Mr. Su says, \"What's the matter? Let's go and help her.\"\nNow the woman gets near them. Mr. Su asks, \"Shall we help you?\" \"No, thank you,\" the woman says, \"My husband  and I are running home, and the slower  one does the housework.\"",
+  "id": "asc24550"
+}

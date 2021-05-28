@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "The boy is Jhon.",
+      "The boy name is Jone",
+      "The boy are John",
+      "The boy isn't John\n:\n2, ."
+    ],
+    [
+      "is white",
+      "are white",
+      "is black",
+      "are black\n:"
+    ]
+  ],
+  "questions": [
+    "1.",
+    "(1)The girl's dress   _  ."
+  ],
+  "article": "Look at this photo. 1 _ . He has two sisters. 2 _ . The other one in the yellow dress is his sister, Mary. Rose and Mary have the same age. They look the same. They are 3 _ . John and his sisters are in different schools.4 _ . Their dad and mom are English teachers. They like their students. The family are happy.\n,. (10)\n:",
+  "id": "asc21761"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "three",
+      "four",
+      "five",
+      "six"
+    ],
+    [
+      "sharp",
+      "Becky",
+      "Becky Sharp",
+      "none of the above"
+    ]
+  ],
+  "questions": [
+    "There are   _   people in Becky's family.",
+    "What is the girl's surname ?"
+  ],
+  "article": "Hello!\nMy name is Becky Sharp. I'm eleven years old. I've got one brother--his name's Jonson and he's fourteen. I haven't got any sisters.\nI live with my mum , dad and grandma in a small house in Chesterfield,in the north of England. There are lots of things to do here. My friends and I go to the cinema on Saturdays.\nDo you like games? I like football. My favorite team is Manchester United. I sometimes play football with my brother. I'm good at it but he isn't very good.\nI've got seven pets--a tortoise and six goldfish. I want a dog or a cat,but my mother doesn't like them.",
+  "id": "asc22992"
+}

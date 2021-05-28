@@ -1,0 +1,34 @@
+{
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "late",
+      "away",
+      "early",
+      "ill"
+    ],
+    [
+      "famous",
+      "best",
+      "nearest",
+      "free"
+    ],
+    [
+      "Seventeen-year-old students can take free rides to school.",
+      "If Tom has some problem with his leg, he can enjoy the program.",
+      "Poor students can not have free transport to school.",
+      "A safe road should be near the school and have lights."
+    ]
+  ],
+  "questions": [
+    "According to the passage, it is very important for children not to be   _  for school every day.",
+    "To enjoy the program, a child should go to a school that is   _  .",
+    "Which of the following is TRUE?"
+  ],
+  "article": "It is very important for children to get to school safely and on time every day. Luckily, there is a new program called Free Home to School Transport . It gives children free rides to school. But to enjoy the free trip. Children have to qualify .\nChildren can take free home to school transport if they:\n*are between 5 and 16 years old\n*are going to the nearest school\n*live far away from school\nNo matter how far away children live from school, they Can take the free transport if they have walking problems or there is no safe road for them. A safe road usually has crossings, lights and should be clean.\nAlso, there are still free home to school _ for children in poor families and children with special educational needs, you can find out more on the Internet and see if your children are qualified.",
+  "id": "asc0419"
+}

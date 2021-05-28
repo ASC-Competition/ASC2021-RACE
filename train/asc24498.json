@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "by taxi",
+      "in his car",
+      "on foot",
+      "by bus"
+    ],
+    [
+      "He stayed at home and didn't go to his office.",
+      "He told the police on the phone what had happened.",
+      "He tried to look for it everywhere.",
+      "He went to the cinema with his wife."
+    ]
+  ],
+  "questions": [
+    "Mr White usually went to work   _  .",
+    "What did Mr White do when he found his car missing?"
+  ],
+  "article": "One night Mr White left his car outside his house as usual. But when he came down the next morning to go to his office, he found that his car wasn't there. He called the police and told them what had happened.\nWhen Mr White came home from his office that evening, his car was back again at his usual place in front of his house. He checked it carefully to see whether it had been broken, but found two tickets and a letter on one of his seats. The letter said, \"We're very sorry. We took your car because we had all emergency .\"\nMr and Mrs White went to the cinema with the tickets that evening and enjoyed themselves very much. When they came back from the cinema, they found that thieves had taken almost everything away from their house.",
+  "id": "asc24498"
+}

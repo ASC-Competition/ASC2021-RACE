@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "He wants to know the girl's name.",
+      "He wants to know the girl.",
+      "He wants to know something about English people.",
+      "He wants to know something about America."
+    ],
+    [
+      "He sees a girl.",
+      "He sees a boy.",
+      "He sees a woman.",
+      "He sees an old man."
+    ]
+  ],
+  "questions": [
+    "What does Li Ping want to know?",
+    "Whom does Li Ping see in the street?"
+  ],
+  "article": "Li Ping is going to England. He wants to know something about English people. One day he sees an English girl in the street. Then he comes up to her.\n\"Excuse me, may I ask you some questions?\"\n\"Of course you may.\"answers the girl politely.\n\"I'll go to London. What should I notice when I'm talking with English people in London? \"asks Li Ping.\n\"Well, don't ask a woman how old she is and...\"\n\"But how old are you? \"Li Ping stops the girl and asks suddenly.\n\"I...\"The girl gets angry.\n\"Why do you get so angry?\"asks Li Ping. \"Now we are in China, not in England, you see\"",
+  "id": "asc24679"
+}

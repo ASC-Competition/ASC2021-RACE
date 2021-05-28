@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "a TV set and some red flowers",
+      "some red flowers",
+      "a TV set",
+      "a picture"
+    ],
+    [
+      "on the chair",
+      "on the bed",
+      "under the chair",
+      "under the bed"
+    ]
+  ],
+  "questions": [
+    "We can see   _   on the table.",
+    "Where's Kate's hat? It's   _  ."
+  ],
+  "article": "Kate's room is big. A TV set  is in the room. The TV set is on the table. Some red flowers   are on it, too. We can see a nice picture on the wall . We can see a hat and some books on her bed. Her _ are under the bed. A desk is near the window . On the desk is a clock. It's time to go to school  . Where's Kate's bag? Oh, it's on the chair. Kate is putting on   her shoes.",
+  "id": "asc19489"
+}

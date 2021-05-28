@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "Dr. Baltimore started his research on modiffing gene in 1975.",
+      "Scientists' opinions about the use of gene editing are consistent.",
+      "CRISPR-Cas9 has been applied to cure Leber congenital amaurosis.",
+      "More research should be made before the technology comes into wide use."
+    ],
+    [
+      "science fiction",
+      "scientific report",
+      "conference summary",
+      "commercial advertisement"
+    ]
+  ],
+  "questions": [
+    "What can be inferred from the passage?",
+    "This passage is most probably a  _"
+  ],
+  "article": "\"Over the years the unthinkable has become thinkable and today we sense we are close to being able to alter human heredity oe#).\" These were the words of David Baltimore of the California Institute of Technology, on December 1st, when he opened a three-day meeting in Washington to discuss the morality and use of human gene editing. Dr Baltimore is an old hand at these sorts of discussions, for he was also a participant in the Asilomar conference, in 1975, which brought scientists together to discuss a safe way of using the then-new tcchnology of recombinant DNA, and whose recommendations influenced a generation of biotechnology researchers.\nFour decades on, the need for a similar sort of _ has arisen. The International Summit on Human Gene Editing has been held by the national scientific academies of three countries -- America, Britain and China. They are particularly concerned about whether gene editing should be used to make heritable changes to the human germ line, something Dr Baltimore described as a deep and troubling question. Like those of Asilomar, the conclusions of this meeting will not be binding. But the hope is that, again like Asilomar, a mixture of common sense and peer pressure will create a world in which scientists are trusted to regulate themselves, rather than having politicians and civil servants do it for them. The meeting is being held against a backdrop of rapid scientific advance, Since 2012 research into a new, easy-to-use editing tool called CRISPR-Cas9 has blossomed. This technique involves a piece of RNA (a chemical messenger, which can be used to recognise a target section of DNA) and an enzyme   called a nuclease that can snip unwanted genes out and paste new ones in.\nPublic interest was aroused in April, when Chinese scientists announced they had edited genes in non-viable ( ) human embryos, and again in November when British researchers said they had successfully treated a one-year-old girl who had leukaemia ( ), using gene-edited T-cells. T-cells are part of the immune system that attack, among other things, tumour cells. The researchers altered T-cells from a healthy donor to encourage them to recognise and kill the patient's cancer, to make them immune to her leukaemia drug, and to ensure they did not attack her healthy cells.\nIn another recent development, a firm called Edit as Medicine, which is based in Cambridge, Massachusetts, has said it hopes, in 2017, to start human clinical trials of CRISPR-Cas9 as a treatment for a rare genetic form of blindness known as Leber congenital amaurosis  . Though other companies are already testing gene-editing therapies, these employ older, clunkier forms of the technology that seem likely to have less commercial potential. Moreover, researchers at the Broad Institute, also in Cambridge, said this week that they had made changes to CRISPR-Cas9 which greatly reduce the rate of editing errors -- one of the main obstacles to the technique's medical use.\nOn the subject of germ-line editing, Eric Lander, the Broad's head, told the meeting it would be useful only in rare cases and said it might be a good idea to \"exercise caution? before making permanent changes to the gene pool. The need for caution is advice that might also be heeded by those pursuing work in animals other than people, and in plants -- subjects not being covered by the summit.",
+  "id": "asc02792"
+}

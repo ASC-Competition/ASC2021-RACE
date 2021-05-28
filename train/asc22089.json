@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "Tom.",
+      "Tom and Ali.",
+      "The baby.",
+      "Ali."
+    ],
+    [
+      "Once.",
+      "Twice.",
+      "Three time.",
+      "Some times."
+    ]
+  ],
+  "questions": [
+    "Who was the owner of the pot?",
+    "How many times did Tom borrow the pot?"
+  ],
+  "article": "One day Tom borrowed a pot  from his neighbour, Ali. The next day he brought it back with another little pot inside.\n\"That's not mine,\" said Ali.\n\"Yes, it is.\" said Tom, \"While your pot was staying with me, it had a baby.\"\nSome time later, Tom asked Ali to lend him a pot again. Ali said yes, hoping that he would once again get two pots in return. However, days passed and Tom still did not give the pot back. Finally Ali was angry and went to ask for it.\n\"I am sorry,\" said Tom, \"I can't give it back to you because it died.\"\n\"Died!\" cried Ali, \"How can a pot die?\"\n\"Well,\" said Tom, \"you believed me when I told you that your pot had a baby.\"",
+  "id": "asc22089"
+}

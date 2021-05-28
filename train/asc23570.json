@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "English",
+      "Chinese",
+      "American",
+      "Japanese"
+    ],
+    [
+      "in the hallways",
+      "in the dining room",
+      "in hotel",
+      "in the classroom"
+    ]
+  ],
+  "questions": [
+    "Christina is a (an)   _   girl.",
+    "When she is in school, she eats   _  ."
+  ],
+  "article": "Christina is an American girl. She is a good student. Every morning she gets up at 6:00. She has her breakfast at home. Then she wears her uniform and goes to school. She studies hard every day. She eats in the dining room when she is in school. After school, she does her homework first, then she cleans the room and helps her mother with the dinner. Before she goes to bed, she usually reads some books. Then at 10:00 p. m. she goes to bed. She thinks she is happy every day. What do you think of her?",
+  "id": "asc23570"
+}

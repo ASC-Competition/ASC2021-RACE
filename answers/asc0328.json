@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "B",
+    "A",
+    "D",
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "12 years old",
+      "American",
+      "English",
+      "Kate's sister"
+    ],
+    [
+      "12 years old",
+      "an American",
+      "an English",
+      "Cindy's sister"
+    ],
+    [
+      "likes yellow and orange",
+      "likes Chinese very much",
+      "can play volleyball well",
+      "likes blue pants very much"
+    ],
+    [
+      "sports",
+      "subjects",
+      "colors",
+      "movies"
+    ],
+    [
+      "Cindy's father",
+      "Cindy's mother",
+      "Kate's father",
+      "Kate's mother"
+    ]
+  ],
+  "questions": [
+    "Cindy is   _  .",
+    "Kate is   _  .",
+    "Cindy   _  .",
+    "Kate's favorite   _   are documentaries.",
+    "If you are ill  , you can go to see   _  ."
+  ],
+  "article": "We have two new students in our class. They are Cindy and Kate. They look the same. But they aren't twins.\nCindy is American. She is thirteen. Her father and mother are both teachers. She likes green and blue. She is often in blue pants. She often plays the guitar after school. She is good at math and English. She says math is her favorite because it is interesting.\nKate is English. She is twelve. Her parents are not teachers. Her father is a doctor and her mother is a worker. Kate likes yellow and orange. She can't play the guitar. But she plays volleyball very well. Her favorite subject is Chinese. She say she wants to learn about Chinese history. Kate likes documentaries very much.",
+  "id": "asc0328"
+}

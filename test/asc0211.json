@@ -1,0 +1,50 @@
+{
+  "id": "asc0211",
+  "article": "I like sports. I have ten tennis balls, seven basketballs, four volleyballs and five soccer balls. I play tennis with my friends every day. I have five baseballs, five volleyballs, two soccer balls. I like ping-pong. It's easy for me. I often play ping-pong with my classmates. I also have three ping-pong bats and some ping-pong balls. I don't have any balls. I love sports, but I don't play them. I only watch them on TV.",
+  "questions": [
+    "Lucy and Mary have _ volleyballs.",
+    "Lucy plays _ every day.",
+    "Mary doesn't have _ .",
+    " _ has/have five soccer balls.",
+    "Alice _ ."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "four",
+      "five",
+      "eight",
+      "nine"
+    ],
+    [
+      "ping-pong",
+      "tennis",
+      "baseball",
+      "soccer"
+    ],
+    [
+      "volleyballs",
+      "ping-pong balls",
+      "baseballs",
+      "basketballs"
+    ],
+    [
+      "Mary",
+      "Lucy",
+      "Alice",
+      "Mary and Lucy"
+    ],
+    [
+      "has no balls",
+      "doesn't like sports",
+      "thinks ping-pong is easy",
+      "plays sports with her classmates"
+    ]
+  ]
+}

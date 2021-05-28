@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "three",
+      "four",
+      "five",
+      "six"
+    ],
+    [
+      "on the bed",
+      "on the desk",
+      "on the floor",
+      "on the phone"
+    ]
+  ],
+  "questions": [
+    "In the first photo we can see   _  people.",
+    "Bill's trousers are  _  ."
+  ],
+  "article": "Hi, I am Grace. I have some nice photos.\nThe first is the photo of my family. The boy is my brother, Bill and the girl is me. And these are my parents. Now we are in Bill's room. We can see his model phone on the bed. His brown trousers are also on it, under his phone.\nThe second is photo of my friend. Her name is Helen. She's 14. And we are the same age. Helen has hat. But the hat is on the floor. It looks like my black cat.\nIn the third photo is my cousin, David. He is in the library. He has some books on the desk. They are all about dogs. Do you know why?",
+  "id": "asc24630"
+}

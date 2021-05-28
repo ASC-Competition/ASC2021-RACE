@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "four",
+      "five",
+      "three",
+      "six"
+    ],
+    [
+      "a brother",
+      "a sister",
+      "brothers",
+      "sisters"
+    ]
+  ],
+  "questions": [
+    "There are   _  people in David's family.",
+    "David has   _  ."
+  ],
+  "article": "My name is David. I am an English boy. My families are in Beijing. My father and mother work there. I have a sister, but no brothers. My sister and I are students of a middle school in Beijing. We love China. We have a nice house in Beijing. My room is big. There is a bed, a desk and a computer in it. My books are on my desk and next to my computer. There are some pop singers' pictures on the wall. I like them.",
+  "id": "asc23256"
+}

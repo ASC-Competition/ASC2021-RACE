@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "To report on a new computer service offered by Facebook.",
+      "To advise readers against reading computer-written news.",
+      "To express concern about recent trends in online news.",
+      "To describe the process of online news reporting."
+    ],
+    [
+      "these are the most popular topics for online readers",
+      "writing style is less important than accuracy in these areas",
+      "information on these topics is more easily available",
+      "there are fewer journalists specializing in these areas"
+    ]
+  ],
+  "questions": [
+    "What is the main purpose of the article?",
+    "Computer-written news reports have so far focused on sports and finance because   _  ."
+  ],
+  "article": "This year, Face book, the social media website announced that it would cooperate with several news organizations -- including The New York Times, The Guardian, and the BBC -- to place news stories directly into users' personal Face book webpage. Stories published using Face book Instant will load more quickly and keep the style of the original publisher, who will keep all the advertising income the stories earn -- at least for now. The deal shows how important social media has become to news organizations, and is a clear sign of how the world of news is changing -- and has been for a while.\nMany thought of it as the death of the newspaper, when Google News began in 2002. It had no human editor. Instead Google used, and still uses, a secret computer program that selects and displays news stories according to the reader's personal interests, More recently, Associated Press and Yahoo have been publishing computer-written articles. Both use special software to automatically produce stories about company financial results and sports reports -- areas where the quality of writing is felt to be of secondary importance to the accuracy of the data.\nI think we should be concerned about such developments. One concern is that Facebook, Google and other social media websites see journalism as a sideline  , a way of putting people in front of advertisements. _ isn't their primary function -- so if it stops making them lots of money, they're likely to stop doing it.\nThere's another concern that computer-written articles are not actually journalism at all, because what a human news team produces is actually quite complex. A well-written news story puts information in context, offers a voice to each side of an argument and brings the public new knowledge.\nAlthough economics and speed of delivery mean readers will probably choose a computer-written story over a carefully shaped article -- at least for daily news -- I don't think the computers will be writing any in-depth articles for a while yet.",
+  "id": "asc03016"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "asc0068",
+  "article": "Mrs. Smith is Jim's mother. She loves her family very much. She goes to the store every day. She often buys food, fruit and clothes for Jim and her husband . Now many clothes are on sale at Renmin Clothes Store. They are very cheap. Mrs. Smith comes to the store and she wants to buy some clothes for her family. There they have sweaters in all colors for \uffe515 each and sports shoes for only \uffe528. Mrs Smith likes the red sweater and she buys one for herself. She buys a pair of sports shoes for her son. The great T-shirts in the store are just \uffe518! She buys a white one for Mr Smith. And that's not all. The socks, in all colors, are \uffe52 each. She buys the socks in many colors for her family. She is really a Rood mother and a good wife",
+  "questions": [
+    "Mrs Smith often buys _ for her family.",
+    "The clothes at Renmin Clothes Store are _",
+    "Mrs Smith likes the _ ",
+    "She buys_for Mr Smith.",
+    "Does Mrs Smith only buy a pair of socks? _"
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "balls, vegetables, fruit, clothes",
+      "fruit, coffee, clothes, shoes",
+      "clothes, fruit, food",
+      "clothes, vegetables, school things"
+    ],
+    [
+      "very great",
+      "very cheap",
+      "very long",
+      "big"
+    ],
+    [
+      "red sweater",
+      "blue T-shirt",
+      "green sweater",
+      "red hat"
+    ],
+    [
+      "a pair of shoes",
+      "a pair of shorts",
+      "a T-shirt",
+      "a white sweater"
+    ],
+    [
+      "Yes, she does",
+      "No, she doesn't.",
+      "Yes, she is.",
+      "No, she isn't."
+    ]
+  ]
+}

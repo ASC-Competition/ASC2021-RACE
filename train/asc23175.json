@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "he did his homework at school",
+      "he played football at school",
+      "his teacher asked him to stay at school",
+      "his teacher asked him to give a talk at school"
+    ],
+    [
+      "Nobody",
+      "Harry",
+      "Many students",
+      "Some students"
+    ]
+  ],
+  "questions": [
+    "Harry was late because   _  .",
+    "_  can answer the teacher's question in class."
+  ],
+  "article": "Harry is eight years old. He goes to school near his home. He always goes there and comes home on foot. One day he came home from school late. His mother saw him and asked him, \"Why were you late, Harry?\"\n\"My teacher was very angry and asked you to go to her office tomorrow.\"\n\"To her office? Why?\" his mother asked. \"Because she asked a question in the class.\" said Harry. \"Nobody could answer it, but I could. \"\n\"You are so clever, my son. \" his mother said with a smile.\" What is her question?\".\nHer question is \"Who put the tomato on my chair and made my trousers dirty?\" said Harry.",
+  "id": "asc23175"
+}

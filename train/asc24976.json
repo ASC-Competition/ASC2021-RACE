@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "It's very beautiful.",
+      "It's very small.",
+      "It's very large.",
+      "It's very clean."
+    ],
+    [
+      "The garden is in front of the building.",
+      "The garden is beside the building.",
+      "The garden is behind the building.",
+      "The garden is in the front of the building."
+    ]
+  ],
+  "questions": [
+    "How does the building look?",
+    "Where is the garden?"
+  ],
+  "article": "My name is Peter. I study in Cambell Middle School. It has a very large building. There are big playgrounds on two sides and a beautiful garden in front.\nIn the building, there is the headmaster's room, the teacher's rooms and thirty-four classrooms. We also have two labs  and a library in the building. Our library is on the ground floor. It has books almost  on all subjects. It opens after school from Monday to Friday.\nOur school has uniforms . Boys wear white shirts and blue trousers. Girls wear white blouses and blue skirts. We all wear black shoes and white socks.\nWe study English, Maths, History, Biology, Music and PE at school. My favourite subject is Biology. I think it is fun. Our teachers are nice to us. They check  our homework and help us when we need. I love my school and my teachers.",
+  "id": "asc24976"
+}

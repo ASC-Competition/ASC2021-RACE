@@ -1,0 +1,34 @@
+{
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      ". He was a worker.",
+      "He was an official.",
+      "He was a student.",
+      "He was a businessman."
+    ],
+    [
+      "visited people to ask them to work with him",
+      "called on people to make them join the company",
+      "saw old people in order to help them",
+      "visited many people so as to offer insurance"
+    ],
+    [
+      "Mr. Briggs sold life insurance only to 95 people.",
+      "Mr. Briggs sold insurance only to people of more than 95.",
+      "Mr. Briggs had ruined the insurance company.",
+      "Mr. Briggs gave people generous conditions."
+    ]
+  ],
+  "questions": [
+    "Before he worked in an insurance company, what was Mr. Briggs?  _",
+    "As a salesman with the company, Mr. Briggs   _  .",
+    "What was it that surprised the manager?   _"
+  ],
+  "article": "Mr. Briggs got a job with an insurance company  after he left school and went around visiting people in their homes to sell them life insurance. \nOne day, after he had been working for the company for about a year, the insurance manager sent for him and said, \"Mr. Briggs, I have been looking at your record as a salesman with our company, and there is one thing that surprises me about it. Why have you been selling insurance only to people over 95 years old, and why have you been giving them such generous conditions? You'll ruin our company if you go on like that. \"\n  \"Oh, no, sir,\" answered Mr. Briggs at once, \"Before I started work, I looked at the figures  for deaths in this country during the past ten years, and I can tell you that few people die at the age of 95. \"",
+  "id": "asc0092"
+}

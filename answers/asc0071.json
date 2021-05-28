@@ -1,0 +1,50 @@
+{
+  "id": "asc0071",
+  "article": "This is Wang Ping's Day. He's a young worker. His job is carrying coal . He thinks that's great. Wang Ping's Day 5:10 a. m. Don't work 5:20 a. m. Go home by car 5:30 a. m. Take a shower 5:40 a. m. Eat breakfast. 6:00 a. m. Go to bed. 5:00 p.m. Get up. 5:10 p.m. Buy vegetables or other things for breakfast 6:00 p.m. Have a big dinner. 6:30~7:30p.m. Watch news on TV. 7:40 p.m. Leave home and go to work",
+  "questions": [
+    "When does Wang Ping have breakfast?",
+    "Where does he have his breakfast?",
+    "Wang Ping watches news  _ .",
+    "Wang Ping goes home  _ .",
+    "How old is Wang Ping? "
+  ],
+  "answers": [
+    "C",
+    "A",
+    "C",
+    "D",
+    "D"
+  ],
+  "options": [
+    [
+      "At 5:20 in the morning.",
+      "At 5:10 in the afternoon.",
+      "At 5:40 in the morning.",
+      "At 6:00 in the afternoon."
+    ],
+    [
+      "At home.",
+      "In the coal mine.",
+      "In the restaurant.",
+      "In the factory."
+    ],
+    [
+      "over the radio",
+      "on TV in the morning",
+      "every day",
+      "every morning"
+    ],
+    [
+      "at 7:40 every evening",
+      "at 5:20 every evening",
+      "at 7:30 every morning",
+      "at 5:20 every morning"
+    ],
+    [
+      "About 50",
+      "About fifteen",
+      "25",
+      "We don't know"
+    ]
+  ]
+}

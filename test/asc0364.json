@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "A Chinese cooking class",
+      "A Chinese gongfu class",
+      "A foreign language class",
+      "Both A and B"
+    ],
+    [
+      "Chinese",
+      "French",
+      "English",
+      "Japanese"
+    ],
+    [
+      "Only Chinese",
+      "Only English",
+      "Chinese and English",
+      "Only Japanese"
+    ],
+    [
+      "In Chinese",
+      "In English",
+      "In Japanese",
+      "In different languages"
+    ],
+    [
+      "Chinese gongfu",
+      "Chinese people",
+      "Chinese cooking",
+      "A, B and C"
+    ]
+  ],
+  "questions": [
+    "What kind of class is this?",
+    "What language can all the students speak?",
+    "What language can all the teachers speak?",
+    "How do the teachers teach their students?",
+    "What do the students like about China?"
+  ],
+  "article": "This is a special class. The students come from different countries. Some come from America. Others come from Canada, Japan, Australia and England. They speak different languages,but all of them can speak English. They are good friends. They study together, play together and live together. They help each other. All the teachers of this class are Chinese, but they can speak English. They are very kind and friendly. They work hard. The students in this class study Chinese cooking and Chinese gongfu.\nAll the students like China. They say China is a great country and the Chinese people are very friendly. And they are happy in China.\n,.",
+  "id": "asc0364"
+}

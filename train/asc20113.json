@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "Mother",
+      "Father",
+      "I",
+      "I don't know"
+    ],
+    [
+      "there are not any bananas",
+      "the bananas are green",
+      "She doesn't like bananas",
+      "I don't like bananas"
+    ]
+  ],
+  "questions": [
+    "Who like apples very much ?",
+    "Mother doesn't buy bananas because  _   . [:ZXXK]"
+  ],
+  "article": "We do the shopping on Sundays . I often go to the supermarket with my mother on Sunday morning in a car . Father likes fruit very much. We buy some red apples for him. Mother likes yellow bananas , but they're green. \"Look! The strawberries are very nice, mum. Do you like them?\" I say to Mum. \"Yes, I like strawberries very much . \" Mother buys some for herself. The oranges are very nice. Mother buys some for me . I like orange very much.\nWe need some vegetables . The vegetables in the supermarket are very good . We buy some tomatoes, carrots and broccoli . I don't like broccoli, but my parents like it . I like carrots very much. We buy lots of carrots. After shopping , mother and I have some French fries, milk and ice cream. And then we go back home with the fruit and vegetables .",
+  "id": "asc20113"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "a travel guide",
+      "a newspaper",
+      "a textbook",
+      "a telephone book"
+    ],
+    [
+      "Only top students can take part in the program.",
+      "Visits to museums and culture centers are part of the program.",
+      "King' s College Summer School is run every other year.",
+      "Only the teachers of King' s College give courses."
+    ]
+  ],
+  "questions": [
+    "You can most probably read the text in    _   .",
+    "Which of the following is true about King' s College Summer School?"
+  ],
+  "article": "King's College Summer School\nKing's College Summer School is an annual  training program for high school students at all levels who want to improve their English. Courses are given by the teachers of King's College and other colleges in New York. Trips to museums and culture centers are also organized. This year's summer school will be from July 25 to August 15.\nMore information is as follows:",
+  "id": "asc04959"
+}

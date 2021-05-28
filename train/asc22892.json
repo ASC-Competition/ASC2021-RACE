@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "Smith Ann",
+      "Smith",
+      "Ann",
+      "Mark"
+    ],
+    [
+      "Mark",
+      "Bill",
+      "Huang",
+      "Smith"
+    ]
+  ],
+  "questions": [
+    "What's my sister's name?",
+    "What's Ann' s last name?"
+  ],
+  "article": "Hello! I'm Mark Smith. I'm an American boy. I'm 12 years old. This is my little sister, Ann . She is five. My family are in China now. Because my father and my mother work in China. They are English teachers. They work hard. The students all like them.\nNow I'm a middle school student. I have a friend at school. He's a Chinese boy. He's very good. His name is Huang Long. His English name is Bill. But I don't know his family name. Can you tell me?",
+  "id": "asc22892"
+}

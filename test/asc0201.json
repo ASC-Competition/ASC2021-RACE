@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "To attract more tourists to the hotel.",
+      "To introduce a new hotel.",
+      "To show the importance of science.",
+      "To make the trip for tourists easier."
+    ],
+    [
+      "Online Reservations",
+      "Reservations By Phone",
+      "Reservations By E-mail",
+      "Did you know?"
+    ],
+    [
+      "Canada",
+      "mainland America",
+      "French",
+      "Hawaii"
+    ],
+    [
+      "submit an e-mail reservations request",
+      "make sure of your check-in and check-out dates",
+      "refer to Group Accommodations",
+      "wait for further notice"
+    ]
+  ],
+  "questions": [
+    "What is the purpose of writing the passage?",
+    "If you want an immediate booking, you'd better use\"_\".",
+    "From the passage we may infer the hotel is in   _   .",
+    "If you want to book a package you have to   _   .            ."
+  ],
+  "article": "Hotel Reservations\nWelcome to the Kampala Beach Hotel Reservations System. You can reserve a room or package one of three ways: (a) online, (b) by phone, and(c)by email. \nDid you know? You can take advantage of special savings by booking direct with us online.\nA.Online Reservations        \nEnter your travel dates and the number of guests below to book your room online now.\nClick here to check on an existing online reservation.\nIf you are searching for a specific package, please make sure your check-in and check-out dates allowing for the minimum number of nights in the package.\nYou may make reservations for a maximum of 4 guests per room. For requests of 10 rooms or more, please refer to Group Accommodations.\nB.Reservations By Phone\nIf you prefer to reserve by phone, please call:\nToll Free from the prefix = st1 /USA,Canada, andHawaii: +1-800-262-8450\nWorldwide Direct: +1-808-661-0011\nHours (Hawaii Standard Time):\nMonday to Friday: 6 a.m. to 6 p.m.\nSaturday: 7 a.m. to 5 p.m.\nSunday: 7 a.m. to 4 p.m.\nC. Reservations By E-mail\nIf you prefer to submit  an e-mail reservations request, click here.\nSubmitting an e-mail request does not guarantee a reservation. For immediate confirmation and booking, please use online reservations engine above.",
+  "id": "asc0201"
+}

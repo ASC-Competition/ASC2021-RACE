@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "happy",
+      "free",
+      "lucky",
+      "sad"
+    ],
+    [
+      "In the zoo",
+      "In the forest",
+      "In a room",
+      "In the field"
+    ]
+  ],
+  "questions": [
+    "Most of the animals in the zoo feel   _   according to the passage.",
+    "Where do tigers, lions and bears usually live?  _  ."
+  ],
+  "article": "Many people may think that animals in the zoo are happy, free and lucky, but most of them are sad. Do you know why? Animals like tigers, lions, and bears usually live in forests or mountains. They run, jump, play with their children and catch small animals for food. But now they have to stay in cages ,small rooms in the zoo. They don't have to find food by themselves because the zoo keepers feed them. They do nothing but eat, walk and sleep every day. Their life in the zoo is quite different from that in the forest because they are not free. Maybe they miss their mothers and their friends, in fact, they feel lonely.",
+  "id": "asc19783"
+}

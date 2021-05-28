@@ -1,0 +1,50 @@
+{
+  "id": "asc0213",
+  "article": "It is Sunday afternoon. Mary goes to do the shopping with her mother. Her mother wants to buy some food for supper. Mary wants to buy a new skirt and some school things.They come to a shop. \" What does your shop sell? Mary asks, \" A lot of things. The girl in the shop says. \" You can buy food, drinks, clothes in our shop and school things, too. Mary and her mother go in. there are many people in the shop. Mary finds a nice white skirt. \" How much is the skirt? Mary asks the girl in the shop. \" It's eighty yuan. \" That's too dear. Can I find a cheap one? \" What about the green one? It looks nice. And it's only thirty yuan. \" Ok, thanks a lot. \" You are welcome. After that, Mary buys some school things, too. Here mother buys a lot of food, like bread, cakes, meat and fish. They get home very late.",
+  "questions": [
+    "Mary wants to buy a new skirt and _ .",
+    "Mary goes to do the shopping with her mother on _ .",
+    "Mary buys a _ skirt.",
+    "The white skirt is _ .",
+    "The green skirt is _ ."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "some food",
+      "some drinks",
+      "some clothes",
+      "some school things"
+    ],
+    [
+      "Saturday afternoon",
+      "Saturday morning",
+      "Sunday morning",
+      "Sunday afternoon"
+    ],
+    [
+      "white",
+      "green_",
+      "red",
+      "dear"
+    ],
+    [
+      "\uffe530",
+      "\uffe5110",
+      "\uffe580",
+      "\uffe5100"
+    ],
+    [
+      "nice but dear",
+      "nice and cheap",
+      "not nice but cheap",
+      "not nice or cheap"
+    ]
+  ]
+}

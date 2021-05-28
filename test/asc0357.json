@@ -1,0 +1,42 @@
+{
+  "id": "asc0357",
+  "article": "Eric: I lost my schoolbag. Did you see it, Alice? Alice: Is it a blue one? Eric: No, it isn't. It's black. Alice: What's in it? Eric: An English book, a dictionary, a notebook and a pencil box. Alice: What color are they? Eric: The English book is green, the dictionary is yellow, the notebook is red, and the pencil box is white. Alice: And what's in the pencil box? Eric: A pen, a pencil and a pencil sharpener. Alice: Aha, Tom and I found it this morning. It is in the lost and found box now. Call Mary, please. Her telephone number is 36824590. Eric: Thank you.",
+  "questions": [
+    "Eric's schoolbag is _ .",
+    " _ are in Eric's pencil box.",
+    " _ found Eric's schoolbag.",
+    "Which of the following is TRUE ?"
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "blue",
+      "black",
+      "red",
+      "yellow"
+    ],
+    [
+      "A pen, a pencil and a pencil sharpener_",
+      "A pen, a pencil and a ruler_",
+      "A pencil, a ruler and a pencil sharpener_",
+      "A pen, a ruler and a pencil sharpener"
+    ],
+    [
+      "Tom and Alice",
+      "Tom and Mary_",
+      "Alice and Mary",
+      "Alice and Eric"
+    ],
+    [
+      "Alice didn't see Eric's schoolbag.",
+      "Eric's notebook is green.",
+      "Alice's phone number is 36824590.",
+      "Eric's schoolbag is in the lost and found box now."
+    ]
+  ]
+}

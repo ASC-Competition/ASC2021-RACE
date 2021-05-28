@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "teacher",
+      "student",
+      "boy",
+      "mother"
+    ],
+    [
+      "white",
+      "yellow",
+      "red",
+      "black"
+    ]
+  ],
+  "questions": [
+    "Sarah is a   _    .",
+    "Sarh's pencil case is   _  ."
+  ],
+  "article": "Good afternoon! My name is Sarah. I'm twelve. I'm a student. Nice to meet you!\nLook at this. What's this in English? Oh, it's a pencil case  . It's red. What's in it? Look! This is a ruler. It's green. This is an eraser. It's white. This is a pen. It's yellow. My pencil case is new and it is very nice. I like it very much. Tomorrow is Saturday. It's a hot day. Let me go swimming. I like summer.",
+  "id": "asc21097"
+}

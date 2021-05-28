@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "His daughter",
+      "His neighbor",
+      "His friend",
+      "His granddaughter."
+    ],
+    [
+      "At 11:30",
+      "At 12:00",
+      "At 12:30",
+      "At 13:00"
+    ]
+  ],
+  "questions": [
+    "Whom  is the old man living with ?.",
+    "What time does the old man get home from the park every day ?"
+  ],
+  "article": "There is an old man living with his granddaughter. Every morning the old man goes out for a walk in the park and comes home at half past twelve for lunch.\nBut one morning a police car stops outside the house at twelve. One of the policemen says , \"The old man can't find his way home in the park and call us for help, so we bring him home .\"\nThe old man's granddaughter is very surprised ,but she thanks the policemen and they leave.\n\"But my grandfather,\" the granddaughter asks, \"You go to the park every day for twenty years. How can't you find your way home ?\"\nThe old man smiles, \"I'm just tired and don't want to walk home.\"",
+  "id": "asc22435"
+}

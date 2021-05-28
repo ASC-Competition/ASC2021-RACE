@@ -1,0 +1,42 @@
+{
+  "id": "asc0309",
+  "article": "This is a picture of Mr. Li's family. The man in the middle is Mr. Li. The woman is Mr. Li's wife. They have two sons. The child behind Mr.Li is Li Lei. He's thirteen. The other in front of Mrs. Li is Li Ming. He is eleven. Li Lei and Li Ming are in the same school, but not in the same grade. Li Lei is in Grade Two. Li Ming is in Grade One. They are good students.",
+  "questions": [
+    "There are _ people in the picture.",
+    "LiLei and LiMing _ _ in the same grade.",
+    "Mr. and Mrs. Li have _ .",
+    "How old are Li Lei and Li Ming? They're _ ."
+  ],
+  "answers": [
+    "B",
+    "D",
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "three",
+      "four",
+      "five",
+      "six"
+    ],
+    [
+      "is",
+      "isn't",
+      "are",
+      "aren't"
+    ],
+    [
+      "one boy, one girl",
+      "two children",
+      "two girls",
+      "one boy"
+    ],
+    [
+      "eleven and thirteen",
+      "eleven and twelve",
+      "twelve and eleven",
+      "thirteen and eleven"
+    ]
+  ]
+}

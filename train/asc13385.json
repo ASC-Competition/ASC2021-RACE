@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "to buy shoes for his mother",
+      "to see his mother",
+      "to pay for the shoes he had bought for his mother",
+      "to see the manager of the shoe store"
+    ],
+    [
+      "12 dollars",
+      "lower than 12 dollars",
+      "higher than 12 dollars",
+      "unknown to himself at all"
+    ]
+  ],
+  "questions": [
+    "My neighbor went to Boston   _  .",
+    "The regular price my neighbor had paid must be   _  ."
+  ],
+  "article": "A neighbor of mine, while visiting his mother in Boston, took her to a shoe store to buy a new pair of shoes. While she was trying on different styles, my neighbor took the manager aside. \"When she picks out a pair that she likes,\" he said, \"Just tell her that the price is 12 dollars. I'll pay the regular price. I don't care how much it is.\"\nThe following week, my neighbor was walking by the shoe store and the manager recognized him and called him in.\n\"What's the problem?\" asked my neighbor as he entered the store.\n\"Wasn't my check any good?\"\n\"That's not it,\" answered the manager, \"The problem is that your mother is bringing all her friends in for those 12-dollar shoes!\"",
+  "id": "asc13385"
+}

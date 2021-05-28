@@ -1,0 +1,34 @@
+{
+  "id": "asc0310",
+  "article": "Hello! I'm an American girl. My first name is Lucy. My last name is White. I'm in No.12 Middle School. My father and mother are in No.12 Middle School, too. They are English teachers. My brother is in Nankai University . His name is Tony. I have a Chinese teacher. Her name is Wang Yan. She can speak very good English. She is a good teacher.",
+  "questions": [
+    "My name is _ .",
+    "Tony is my _ .",
+    "Wang Yan is _ ."
+  ],
+  "answers": [
+    "B",
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "White Lucy",
+      "Lucy White",
+      "White Tony",
+      "Tony White"
+    ],
+    [
+      "English teacher",
+      "Chinese teacher",
+      "father",
+      "brother"
+    ],
+    [
+      "a Chinese teacher",
+      "my aunt",
+      "a student",
+      "my mother."
+    ]
+  ]
+}

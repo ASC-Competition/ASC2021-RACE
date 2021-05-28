@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "Six",
+      "Seven",
+      "Five",
+      "Four"
+    ],
+    [
+      "Bob Hand",
+      "Bob Mike",
+      "David Hand",
+      "Linda Hand"
+    ]
+  ],
+  "questions": [
+    "How manypeople are there in the family?",
+    "What's the writer's full name?"
+  ],
+  "article": "I have a big family. In my family,there are 6 people--my father,my mother,my two sisters,my brother and me. My mother is Linda. My father is Mike. And our family name is Hand. My sisters are Gina and Sonia. They like baseball very much. My brother,David,is a lovely boy. He likes computer games. My name is Bob. I\nmy family.",
+  "id": "asc24942"
+}

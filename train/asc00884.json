@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "Retarded children cannot improve their IQ's.",
+      "Orphanages are full of mentally retarded children.",
+      "Environmental factors influence a child's IQ.",
+      "Early childhood education programs are important."
+    ],
+    [
+      "putting retarded children into institutions",
+      "providing early childhood education programs",
+      "keeping children in orphanages",
+      "keeping retarded children with others like themselves"
+    ]
+  ],
+  "questions": [
+    "What's the main idea of this passage",
+    "The author is in favor of   _   according to the passage."
+  ],
+  "article": "How much can environment affect intelligence? In one study, striking increases in IQ occurred in 25 children who were moved from an orphanage  to more stimulating(,) environments.The children, who were all considered mentally retarded and unadoptable, were moved to an institution where they received personal attention from adults.Later, these supposedly retarded children were adopted by parents who gave them love, a family ,and a stimulating home environment.The children gained an average of 29 IQ points.For one child, the increase was an amazing 58 points.A second group of initially less \"retarded\" children, who stayed in the orphanage, lost an average of 26 IQ points.\nOther encouraging results can be found in early childhood education programs, which provide stimulating intellectual experiences for disadvantaged children.In one study, children from low-income families were given enriched environments from early infancy  through preschool.By age 2 their IQ scores were already higher than those in a control group.More important, they were still 5 points higher seven years later.High-quality enrichment programs such as Head Start can prevent children from falling behind in school.\nA particularly striking environmental effect is the fact that 14 nations have shown average IQ gains of from 5 to 25 points during the last 30 years.These IQ boosts, averaging 15 points, occurred in far too short a time for genetics to explain them.It is more likely that the gains reflect environmental forces, such as improved education, nutrition, and living in a technologically complex society.",
+  "id": "asc00884"
+}

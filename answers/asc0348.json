@@ -1,0 +1,50 @@
+{
+  "id": "asc0348",
+  "article": "Peter and I are good friends. Peter is an English boy. I am a Chinese boy. My name is Li Chen. I am 12 and Peter is 12, too. We are in the same class. Peter has a blue pencil box and five black pens. I have two yellow erasers and two red pens. Peter found an ID card in the library. If you lost it, please go and ask Mrs. Brown----our English teacher for it. Her telephone number is 786-2360. I lost my English-English dictionary in Class 2. It's red. My name is on it. If you find it, please call me. My phone number is 342-7256. Thank you very much.",
+  "questions": [
+    "Peter and Li Chen are _ .",
+    "Who found an ID card?",
+    "Peter and Li Chen have _ pens.",
+    "Tony lost his ID card in the library. Who can he go to ask?",
+    "Li Chen's telephone number is _ ."
+  ],
+  "answers": [
+    "B",
+    "A",
+    "D",
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "Chinese",
+      "students",
+      "teachers",
+      "brothers"
+    ],
+    [
+      "Peter.",
+      "Li Chen.",
+      "Mrs. Brown.",
+      "Peter and Li Chen."
+    ],
+    [
+      "five",
+      "two",
+      "six",
+      "seven"
+    ],
+    [
+      "Li Chen.",
+      "Mr. Brown.",
+      "Mrs. Brown.",
+      "Peter."
+    ],
+    [
+      "342-7256",
+      "786-2603",
+      "342-7265",
+      "786-2360"
+    ]
+  ]
+}

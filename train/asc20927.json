@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "10:00 in the morning",
+      "8:00 in the moming",
+      "6:00 in the afternoon",
+      "8:00 in the aftemoon"
+    ],
+    [
+      "twice a day",
+      "six days a week",
+      "every day",
+      "on sunny days"
+    ]
+  ],
+  "questions": [
+    "On Sunday the zoo opens at   _",
+    "The zoo opens   _   ."
+  ],
+  "article": "Welcome to the zoo\nDay open :  Fees :\nMonday to Friday    Adults : $ 8. 00\n10:00 am~6:00 pm   Ages 8~14: $ 3. 00\nSaturday to Sunday  Ages 15~18 : $ 6. 00\n8 :00 am~8 :00 pm  Under 8 : Free\nTry our train ride for $ 2. 00 per person!\n,.",
+  "id": "asc20927"
+}

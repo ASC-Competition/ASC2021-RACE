@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "In the morning.",
+      "At noon  .",
+      "In the afternoon.",
+      "In the evening  ."
+    ],
+    [
+      "I'm fine too.",
+      "How are you?",
+      "Hello!",
+      "Nice to meet you too!"
+    ]
+  ],
+  "questions": [
+    "?",
+    "\"Me too!\"  _  ."
+  ],
+  "article": "Li Ming:  Hi, Lingling,! Nice to meet you!\nLingling: Hi, Li Ming! _ \nLi Ming:  How are you, Lingling?\nLingling: Fine, thanks. Mum, this is my friend, Li Ming. Li Ming, this is my mum, Mrs. Wang.\nLi Ming:  Good afternoon, Mrs. Wang !\nMrs. Wang : Good afternoon, Li Ming! Welcome   to our home!\nLi Ming:  _ \n.",
+  "id": "asc23465"
+}

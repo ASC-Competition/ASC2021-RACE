@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "B",
+    "C",
+    "B",
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "space",
+      "rockets",
+      "scientists",
+      "earth"
+    ],
+    [
+      "a rocket",
+      "some bolts",
+      "a glove",
+      "a little piece of paint"
+    ],
+    [
+      "300,000",
+      "28,000",
+      "10,000",
+      "21,000"
+    ],
+    [
+      "fast",
+      "slow",
+      "hard",
+      "high"
+    ],
+    [
+      "great",
+      "interesting",
+      "safe",
+      "dangerous"
+    ]
+  ],
+  "questions": [
+    "Some junk in space is from    _    .",
+    "American astronaut Edward White once lost    _    in space in 1965.",
+    "The glove in space may travel at a speed of    _    kilometers per hour.",
+    "In space all the things move very    _    .",
+    "If the junk in space hits one another, it can be    _    ."
+  ],
+  "article": "There is lots of junk  in space .Some of it is from rockets. In 1996, a rocket broke into about 300,000 small pieces. So far, scientists have found over 10,000 man-made pieces flying around in space. Only 6-7%of them are satellites and space probes  . Astronauts also lose small things while working in space. In 1965, during the first American spacewalk , astronaut Edward White lost a glove .For a month, the glove stayed in space, travelling at a speed of 28,000 kilometers per hour .It became the most dangerous piece of clothing for the Earth in history it flew away. Things move very fast in space. If they hit one another, it can be dangerous .A little piece of paint from a satellite once made a hole in a spacecraft window. Last year two US spacecraft dropped some bolts , and scientists on the Earth worried a lot. Luckily the bolts floated  away into space. They couldn't hit the spacecraft.\n,.",
+  "id": "asc0476"
+}

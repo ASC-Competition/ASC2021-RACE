@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "make a brief summary",
+      "introduce the topic of the text",
+      "compare Ebola with cancer",
+      "show the latest study of viruses"
+    ],
+    [
+      "It is a newly discovered virus.",
+      "It is the most dangerous virus in the world.",
+      "It was named after where it first happened.",
+      "It could cause immediate death for anyone infected."
+    ]
+  ],
+  "questions": [
+    "The news of Ebola in Guinea is mentioned to   _  .",
+    "What can we learn about Ebola?"
+  ],
+  "article": "When we hear of dangerous diseases, cancer and heart disease are often what first comes to mind. Recently, a virus   called Ebola has reappeared in Guinea (a country in West Africa), killing 62 people so far. It leads to viral hemorrhagic fever, which is characterized by high fever and internal bleeding etc, Ebola can kill 90% of those infected, especially in underdeveloped societies like those in Africa.\nEbola is named after the Ebola River, where it was first discovered in 1976. There are five different types of the Ebola virus, each named after where they first happened: Sudan, Ivory Coast, Restoon, Bundibugyo, and Zaire. The deadliest of the five, Zaire, was responsible for the 2012 outbreak, and is believed to be attacking Guinea.\nEbola is naturally found in fruit bats  , which pass on the virus to other animals by biting or sucking on   their blood. Humans who are suffering from the Ebola infection might have touched the bodily fluids   of the infected animals. Once infected, a human becomes a carrier of the deadly virus.\nSince we live in an interconnected world, where the situation in one country can affect us all, the influences of Ebola are huge: damaging trade relations, affecting foreign visitors, and weakening entire countries. Already the Guinea virus is spreading fast with a few cases spotted in Conakry -- the capital of Guinea, far away from the origin of the virus. It is feared that the disease may have already reached neighboring Liberia and Sierra Leone, too.\nUnfortunately, there are no disease-specific treatments for Ebola. Healthcare workers only supply the infected people with water to keep them in good condition. Since there have been many cases of nurses catching the disease from patients, they are forced to wear strict protective clothes, and in some cases, not even allowed to get close to the affected. The fact that there is no cure for the Ebola virus is what makes the outbreak a challenging one to control.",
+  "id": "asc02200"
+}

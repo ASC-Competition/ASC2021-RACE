@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "two English classes on Monday",
+      "two daughters",
+      "a soccer ball",
+      "one English class on Tuesday"
+    ],
+    [
+      "English teacher",
+      "student",
+      "soccer player",
+      "actor"
+    ]
+  ],
+  "questions": [
+    "Miss Li has   _  .",
+    "We can know Ronaldo is a (n)   _   from the passage  ."
+  ],
+  "article": "Miss Li is my English teacher. She is from Shanghai. She has one English class every day. Oh, no! She has two English classes on Tuesday.\nMiss Li has two daughters. One is in our class, Class Two. Sally likes sports. She plays soccer every day. Her favorite soccer player is Ronaldo from Brazil  . Sally's twin   sister Susan is in Class One. She doesn't like any subjects. She doesn't like to do her homework. She only likes playing with her friend, Jeff. Jeff is a white cat.",
+  "id": "asc22084"
+}

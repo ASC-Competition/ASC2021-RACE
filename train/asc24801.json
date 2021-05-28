@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "had nothing to do",
+      "went out for a walk",
+      "went to buy something",
+      "went to see the man"
+    ],
+    [
+      "a police station",
+      "the post office",
+      "the shop",
+      "the bank"
+    ]
+  ],
+  "questions": [
+    "Last Sunday, an old woman   _  .",
+    "The man got off his car and went into   _  ."
+  ],
+  "article": "An old lady went to the shop last Sunday. She passed a bank and saw a car near the door. A man got out of it and went into the bank. She looked into the car. The keys were in the lock .\nThe old lady took the keys and followed the man into the bank. The man took a gun out of the pocket and said to the clerk, \"Give me all the money.\" But the old lady didn't see this. She went to the man and put the keys in his hand and said, \"Young man, you are foolish. Never leave your keys in your car. Someone is going to steal it. \" The man looked at the old lady for a few seconds. Then he looked at the clerk. He took the keys, ran out of the bank, got into his car and drove away quickly without any money.",
+  "id": "asc24801"
+}

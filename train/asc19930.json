@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "Football",
+      "Basketball",
+      "Ping-pong",
+      "Swimming"
+    ],
+    [
+      "Daniel",
+      "Tom",
+      "Lucy",
+      "Nobody"
+    ]
+  ],
+  "questions": [
+    "What sport does Daniel like?",
+    "Who likes football best?"
+  ],
+  "article": "What sport do you like best?\nDaniel: I like basketball best. I often watch NBA. I play basketball every day. I am short, but I am strong. I am a good basketball player in our school.\nLucy: Ping-ping is my favourite sport. I am a Chinese and Chinese ping-pong players are the best in the world. I want to be a good ping-pong player too. I often play it every afternoon.\nTom: I am tall and strong. I like football best. My father is a football player. I often watch my father play football. My father often teaches me to play football. I play with my father and others in the park every day.",
+  "id": "asc19930"
+}

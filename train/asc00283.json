@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "$1.00.",
+      "$1.50 .",
+      "$2.00.",
+      "$3.50."
+    ],
+    [
+      "It is automatically determined.",
+      "It is always $2.00",
+      "Fare-adjustment machines determine the fare.",
+      "All fares are posted."
+    ]
+  ],
+  "questions": [
+    "What is the lowest cost of a subway ride for an adult?",
+    "How can a rider determine the fare of a subway ride?"
+  ],
+  "article": "City buses are white and blue. Please board at the front door and pay the fare as you get on. The fare per ride is $1.50 for adults and $1.00 for senior citizens. The fare may be paid by cash, bus pass or multiple passes. Please pay the exact amount directly into the slot at the top of the fare box. Remember that bills are not accepted and drivers cannot make change for riders.\nWhen you wish to get off the bus, please notify the driver in advance by pressing one of the buttons provided throughout the bus for this purpose. The bus may pass bus stops without stopping if no one is getting off or waiting to get on.\nThere are five subway lines in the city. The fare is set at five rates from $2.00 to $3.50 according to the number of predetermined \"price zones\" traveled. To purchase the appropriate ticket, please check the fare on the boards installed above the ticket-selling machines in each subway station.\nPass through the automated ticket gates by inserting the ticket into the slot. When getting off the subway at a station beyond the validity of the ticket, pay the additional fare at a fare-adjustment machine.",
+  "id": "asc00283"
+}

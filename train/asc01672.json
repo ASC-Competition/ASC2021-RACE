@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "the business book",
+      "the sports book",
+      "the science book",
+      "the health book"
+    ],
+    [
+      "who like traveling in the wild",
+      "who work at home",
+      "who study at school",
+      "who work at an office"
+    ]
+  ],
+  "questions": [
+    "The passage is probably taken from   _   of a website.",
+    "The invention seems to be good news to those  _  ."
+  ],
+  "article": "Modern festival-goers who worry about ending up with a dead mobile phone battery  after days stuck in a muddy field with no electric plug power points may now have a solution----power boots .\nMobile phone company European Telco Orange has introduced a phone charging  prototype---- a set of thermoelectric gumboots or Wellington boots with a \"power generation sole\" that changes heat from the wearer's feet into electrical power to charge battery-powered hand-helds.\nThe boot was designed by Dave Pain, managing director at GotWind, a renewable energy company. Pain said the boot uses the Seebeck effect, in which a circuit made of two dissimilar metals conducts electricity if the two places where they connect are held at different temperatures. \"In the sole of the Wellington boot there's a thermocouple and if you apply heat to one side of the thermocouple and cold to the other side it produces an electrical charge,\" Pain said. \"That electrical charge we then pass through to a battery which you'll find in the heel of the boot for storage of the electrical power for later use to charge your mobile phone.\" These thermocouples are connected electrically, forming an array of multiple thermocouples (thermopile). They are then sandwiched between two thin ceramic wafers. When the heat from the foot is applied on the top side of the ceramic wafer and cold is applied on the opposite side, from the cold of the ground, electricity is made.\nBut the prototype boot does have one _ . You have to walk for 12 hours in the boots to make one hour's worth of charge.",
+  "id": "asc01672"
+}

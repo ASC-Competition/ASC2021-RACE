@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "Full control by the user.",
+      "Improvement in intelligence.",
+      "Larger size of the robots.",
+      "Help for the experienced users."
+    ],
+    [
+      "They are more dependent on the users.",
+      "They all have a motor and basic sensors.",
+      "They don't need to follow the instructions at all.",
+      "They have a new level of freedom to perform the task."
+    ]
+  ],
+  "questions": [
+    "What is the new concept in robotics?",
+    "What is the advantage of handheld robots compared to other tools?"
+  ],
+  "article": "What if handheld   tools know what needs to be done and were even able to guide and help inexperienced users to complete jobs that require skill? Researchers at the University of Bristol have developed and started studying a novel concept in robotics--intelligent handheld robots. Historically, handheld tools have been straight, unintelligent instruments that are _ of the context they operate in, are fully directed by the user, and therefore, lack any understanding about the task they are performing.\nDr. Walterio Mayol-Cuevas and PhD student, Austin Gregg-Smith, from the University's Department of Computer Science, have been working in the design of the robot as well as in understanding how best to be with a tool that \"knows and acts\".\nCompared to other tools such as power tools that have a motor and perhaps some basic sensors  , the handheld robots developed at Bristol are designed to have more degrees of freedom to allow greater independence from the instructions of the user, and importantly, understand the steps being carried out. This allows for a new level of co-operation between user and tool, such as the user providing directions and the tool performing the detailed task.\nHandheld robots, aim to share physical similarity with users but are neither fully independent as is a humanoid robot nor are part of the user's body. The aim with handheld robots is to develop the intuitiveness   of using traditional handheld tools while adding planted intelligence and action to allow for new abilities.\nDr. Mayol-Cuevas, Reader in Robotics Computer Vision and Mobile Systems, said, \"There are three basic levels of autonomy   we are considering: no autonomy, semi-autonomous when the robot advises the user but does not act, and fully autonomous when the robot advises and acts even by correcting or refusing to perform incorrect user actions.\"",
+  "id": "asc00890"
+}

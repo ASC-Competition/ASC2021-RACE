@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "same",
+      "different",
+      "many",
+      "good"
+    ],
+    [
+      "bread",
+      "rice",
+      "fish",
+      "rice and fish"
+    ]
+  ],
+  "questions": [
+    "Different countries have  _   food.",
+    "Japanese like to eat   _  ."
+  ],
+  "article": "Each country has its favourite food. In some countries, people eat rice every day. They often eat it with meat, fish and vegetables. Japanese eat a lot of fish, and they eat a lot of rice , too. In England , the favourite food is fried fish and French fries. In the USA people like hamburgers a lot. And they like to have cold drinks. In Canada, people eat bread with butter on it. In India, people like to eat hot food. Some people eat only fruit and vegetables. They don't like to eat meat and fish. They think green food is good for them.",
+  "id": "asc21937"
+}

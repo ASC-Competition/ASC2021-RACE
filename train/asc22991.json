@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "10",
+      "12",
+      "9",
+      "19"
+    ],
+    [
+      "eggs",
+      "oranges",
+      "apple",
+      "ice-cream"
+    ]
+  ],
+  "questions": [
+    "Zhang Lin is  _  .",
+    "There are some   _   on the table."
+  ],
+  "article": "My name is Zhang Lin. Today is my birthday. I am nine years old. Mom and Dad get a big cake for me. I like it very much. It is on the table now. There are some other things on the table, too. Such as apples, oranges, juice, chicken and some fish. I'm thirsty  now. I want a bottle of orange juice. My friends Li Fan and Bing Jie are coming.\nThey are knocking  at the door. I have no time to drink. I must open the door now.",
+  "id": "asc22991"
+}

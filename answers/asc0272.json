@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "A",
+    "D",
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "act in movies",
+      "write stories",
+      "play the violin",
+      "read"
+    ],
+    [
+      "sportsman",
+      "singer",
+      "actor",
+      "musician"
+    ],
+    [
+      "The art  club.",
+      "The sports club.",
+      "The movie club.",
+      "The music club."
+    ],
+    [
+      "He isn't good at sports.",
+      "He is not strong enough  .",
+      "He doesn't think he can be famous and successful in sports.",
+      "He doesn't like sports."
+    ]
+  ],
+  "questions": [
+    "Jack can't   _   .",
+    "Jack thinks he can be a famous   _   or a famous writer.",
+    "What club can Jack join?",
+    "Why doesn't Jack join the sports club?"
+  ],
+  "article": "Dear Mr. Lee,\nI am Jack. I want to be in a club in our school. I can't sing or dance or act in movies, but I can do many other things. I can play three _ , the guitar, the violin   and the piano. I think I can be in the music club. Maybe   I can be a famous musician. I like reading story books and I can write stories. Maybe I can be a famous writer. I like sports too, but I don't think I can be a famous and successful sportsman  . Can I join you?\nYours,\nJack",
+  "id": "asc0272"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "your home router will be linked to some bad websites.",
+      "you will find it's very convenient to surf the Internet",
+      "your home router will be changed for new settings.",
+      "you will fail to use your own login password"
+    ],
+    [
+      "To build a firewall into your router.",
+      "To think out a complicated login password and use it.",
+      "To shut off your router when you find it not safe.",
+      "To switch off broadcasting in your router settings"
+    ]
+  ],
+  "questions": [
+    "If you use the default password,   _  .",
+    "What should be done to shelter your wireless network?"
+  ],
+  "article": "Researchers recently found that hackers took control of 300,000 home routers . Once your home router has been controlled, hackers could redirect your network to malicious websites controlled by hi-tech thieves who could then steal your online back details and other sensitive data. However, there are some simple steps you can take to protect your router.\nSay no to 12345 passwords\nFirst, never leave your router open without a password and make sure you change both your Wi-Fi and router login password from the default one it comes with. If you use the default password , this could give someone access to the router setup, which could allow them to change your router settings, including viewing any security keys.\nDon't broadcast it\nMake sure you don't show up in other people's wireless network scans. Know your network name so you can easily enter it into any devices you want to access that network. Other people do not need to know your network name. To prevent outsiders from seeing your network's name and attempting to join your wireless network, turn off broadcasting in your router's settings.\nInvite only please\nOne way you can ensure no one else joins your network without your permission is to enable your router to only allow certain devices to connect, and ban all others. To do that you can filter by media access control (MAC) addresses.\nTurn it off\nThis is a simple piece of advice that can go a very long way in keeping you safe. Simply turn off your router when you're not using your network. If you're at work all day and no one's home, why keep it running?\nBuild a firewall\nThe firewall built into your router prevents hackers on the internet from getting access to your PC so it's always worth enabling it to help add an extra layer of security. However, it does nothing to stop people in range of your Wi-Fi signal from getting onto your network - and as said, a router in the wrong place means your Wi-Fi signal could reach pretty far.\nFor further protection, you should run software firewalls on the individual PCs on your networks.",
+  "id": "asc02007"
+}

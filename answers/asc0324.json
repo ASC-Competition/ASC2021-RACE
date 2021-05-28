@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "B",
+    "D",
+    "C",
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "By bus",
+      "By taxi",
+      "By bike",
+      "On foot"
+    ],
+    [
+      "They don't like school.",
+      "They want to go shopping.",
+      "They don't finish their homework",
+      "They don't want to take a test."
+    ],
+    [
+      "They get up late.",
+      "They can't get a taxi.",
+      "Their taxi has a flat tire.",
+      "They forget  the time"
+    ],
+    [
+      "No, they can't. Because they can't remember which tire is flat.",
+      "Yes, they can. Because there is a flat tire.",
+      "No, they can't. Because they may give a different answer.",
+      "Yes, they can. Because all four tires are flat."
+    ],
+    [
+      "They find a good excuse.",
+      "The teacher is very clever.",
+      "There is a flat tire.",
+      "They don't like to go to school by bike."
+    ]
+  ],
+  "questions": [
+    "How do the girls go to school every day?",
+    "Why do the girls want to go to school so late?",
+    "what is the girls' excuse for being late?",
+    "Can the girls answer the teacher's question?",
+    "What can we know from the text?"
+  ],
+  "article": "Four girls go to school every day by taxi. One day one of the girls says, \"There is a test this morning. Let's get to school late. Then we will not have the test.\"\n\"What can we tell the teacher?\" One of the girls says. \"He will be angry. We will need a good excuse.\"\nThe girls think for a moment, then one of them says, \"Let's tell him that our taxi has a flat tire .\"\n\"That's a good idea,\" the other girls say. \"We will tell him that.\"\nThey get to school an hour later. The test is over. \"Why are you late? You missed the test.\"\n\"Our taxi had a flat tire.\" One of the girls said.\nThe teacher thought for a moment, then he said, \"sit down, One of you in each corner of the room.\" The four girls do this.\nThen the teacher says, \"Write down a piece of paper the answer to this question: Which tire is flat?\"",
+  "id": "asc0324"
+}

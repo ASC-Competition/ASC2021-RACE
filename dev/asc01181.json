@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Zhang",
+      "Min",
+      "Zhang Min",
+      "I don't know."
+    ],
+    [
+      "American",
+      "England",
+      "China",
+      "\\"
+    ]
+  ],
+  "questions": [
+    "What is the girl's given name?  _",
+    "Where is the girl from?  _"
+  ],
+  "article": "My name is Zhang Min. I'm a girl and I'm Chinese. I like blue. My favorite food is noodles and fish. I like dancing and swimming. Do you like playing the piano? I like it. I can play and I can write Chinese. I can ride a bike but I can't drive a car.\n,.",
+  "id": "asc01181"
+}

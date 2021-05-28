@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "B",
+    "A",
+    "C",
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "at home",
+      "in a restaurant",
+      "in a bank",
+      "in an office"
+    ],
+    [
+      "knows him well",
+      "doesn't know him",
+      "often lends him some money",
+      "often borrows money from him"
+    ],
+    [
+      "busy",
+      "clever",
+      "rich",
+      "poor"
+    ],
+    [
+      "Because they are brothers.",
+      "Because Poor is rich.",
+      "Because the writer is rich.",
+      "Because Poor wanted the writer to pay for the dinner."
+    ],
+    [
+      "Poor is an old man",
+      "Poor is friendly",
+      "the writer paid for the dinner",
+      "the writer is poor"
+    ]
+  ],
+  "questions": [
+    "The story happened    _    .",
+    "Poor is the name of a man and the writer    _    .",
+    "Poor is a    _    man.",
+    "Why was Poor glad to lend the writer two dollars?",
+    "From the story we can see    _    ."
+  ],
+  "article": "Last Sunday afternoon, I was having dinner in a restaurant when my friend Poor came in. Poor is working in a bank and is quite rich, but he is always borrowing money from his friends and never pays it back. Poor saw me and came to sit at my table. He had never borrowed any money from me. When he was eating, I asked him to lend me two dollars. To my surprise, he gave me the money at once.\"I have never borrowed any money from you,\"Poor said,\"So you can pay for my dinner.\"\nRead the passage and choose the best answers.(,. )",
+  "id": "asc0472"
+}

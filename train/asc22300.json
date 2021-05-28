@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "5:00 a.m.",
+      "5:30 a.m.",
+      "6:00 a.m.",
+      "6:30 a.m."
+    ],
+    [
+      "A teacher.",
+      "A worker.",
+      "A farmer.",
+      "A driver."
+    ]
+  ],
+  "questions": [
+    "What time does Mrs. Brown get up?",
+    "What's Mrs. Brown's job?"
+  ],
+  "article": "Mrs. Brown is a worker. She works in a big factory. She gets up at five every morning. She often has breakfast at six fifty. After that she goes to the factory by bus at half past seven. She cleans the machines when she gets there very early. Then her workmates come. They begin to work at 8:00. They all work very hard. She goes home at five. Then she does some cooking. After supper she usually helps his son Tom with his homework. Sometimes she reads books. She usually watches TV with her family on weekends.",
+  "id": "asc22300"
+}

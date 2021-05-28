@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "The Wordsmith platform.",
+      "A robot journalist.",
+      "A special dictionary.",
+      "Articles written by computer."
+    ],
+    [
+      "discover the world's focuses through the Internet",
+      "write well enough to win Pulitzer Prizes",
+      "produce articles in a tone similar to human's",
+      "write such beautiful prose as human writers"
+    ]
+  ],
+  "questions": [
+    "What does natural Language-generation software refer to?",
+    "Natural language-generation software can  _  ."
+  ],
+  "article": "Writing one or two articles a day is a fair goal for a human writer. By contrast, the Wordsmith platform can produce up to 2,000 articles a second! Wordsmith is one example of natural language-generation software, often referred to as a robot journalist. To be fair, the software doesn't start from the beginning, like a human writer might. Instead, the software takes a set of structured data and transforms it into readable text.\nNatural language-generation software, such as Wordsmith and Quill, does its work by identifying trends and highlights in sets of data. The software then searches its own dictionary for the words to express its findings.[:]\nWhy keep human writers around\nAlthough this type of software writes faster than any human, it requires sets of structured data to work. That's why it's especially useful for writing earnings reports and other types of \"dry\" writing. Humans, on the other hand, are good at turning their unstructured thoughts directly into prose. The reports produced by Wordsmith and Quill read naturally, and they can match the tone of human writers. But for now, the robot journalists probably won't steal many jobs or win any Pulitzer Prizes! \nCurrent applications of natural language-generation software\nFinancial reports: The software is commonly used by banks or traders to analyze large amounts of financial data and then produce reports in plain English.\nHealth and fitness: The software can turn data gathered from wearable devices or fitness trackers into personalized reports. The writing tone can even be adjusted to sound more encouraging!\nSports reporting: The software is often used to turn real baseball, basketball and football statistics into exciting stories.",
+  "id": "asc02234"
+}

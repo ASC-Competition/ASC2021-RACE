@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "food",
+      "water",
+      "gold",
+      "money"
+    ],
+    [
+      "food or water",
+      "rocks and sand",
+      "bags full of gold",
+      "food and water"
+    ]
+  ],
+  "questions": [
+    "The old man liked    _    best before he traveled in the desert.",
+    "When he lost his way, he wanted to get    _   ."
+  ],
+  "article": "Once there lived an old man. He liked gold better than anything else in the world. He often said, \"If I have enough gold, I will be the happiest man in the world.\"\nOne day when he was traveling in the desert , the old man lost his way. He was very hungry and thirsty, but there were only rocks and sand around him. Just then, he found a bag lying on the sand. He hoped he would find water and food in it. He took up the bag and opened it. He saw that the bag was full  of gold. He was so sad that he threw away the bag and began crying.\nNow, the old man knew that there was something better than gold in the world.",
+  "id": "asc24870"
+}

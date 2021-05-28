@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "by bike",
+      "by bus",
+      "by car",
+      "by jeep"
+    ],
+    [
+      "a bus",
+      "a conductor",
+      "a dog",
+      "a woman with a big dog"
+    ]
+  ],
+  "questions": [
+    "I am going home  _  .",
+    "what do I see?"
+  ],
+  "article": "It is time to go home now. I am on a bus on a rainy day, and a woman with a dog gets on the bus. It is a big dog and its feet are not clean.\nI don't want the dog to sit next to me. But the woman says to the conductor, \"oh, I pay for my dog. Can he sit here like the other people?\"\nThe conductor looks at the dog and says, \"yes, madam. But like other people , he must put his feet under the chair.\"",
+  "id": "asc21154"
+}

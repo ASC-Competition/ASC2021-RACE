@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "a student",
+      "a teacher",
+      "fourteen",
+      "from Canada"
+    ],
+    [
+      "from Chen Kai",
+      "from Sam's pen pal",
+      "in English",
+      "in Chinese"
+    ]
+  ],
+  "questions": [
+    "Chen Kai is   _  .",
+    "The letter is   _  ."
+  ],
+  "article": "Chen Kai is a Chinese boy. He is a student. He is 13 years old. He lives in Guangzhou. Chen Kai likes _ . Now he receives  a letter from Sam, his pen pal in America. The letter is in English. Sam is 14 and he is a student, too. He speaks English very well. In the letter, Sam says he wants to visit China and study some Chinese.\n,.",
+  "id": "asc21474"
+}

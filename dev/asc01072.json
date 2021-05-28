@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "read the text",
+      "write about a match",
+      "do their homework",
+      "have a lesson"
+    ],
+    [
+      "in class",
+      "at home",
+      "at school",
+      "in classroom"
+    ]
+  ],
+  "questions": [
+    "The teacher asks the students to  _",
+    "The teacher is going to read the students' exercise books  _"
+  ],
+  "article": "One day, a middle school teacher comes into the classroom and says to his students, \"Today I want you to write about yesterday's football match. I'm going to take your exercise books home with me. Now please begin.\"\nThe students all take out their pens and exercise books and begin to write. A boy called Tom thinks hard . But he doesn't write down a word. Five minutes later, he finishes . He stands up and looks at the teacher. The teacher asks, \"What is the matter, Tom?\" \"I have finished, sir.\" says the boy. \"Well, give me your book.\" The boy goes to the teacher and hands in  his exercise book. The teacher opens it and reads, \"Rain, no match. \"",
+  "id": "asc01072"
+}

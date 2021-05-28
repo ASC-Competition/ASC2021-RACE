@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "It is big and bright.",
+      "It is modern but small.",
+      "It is big and beautiful.",
+      "It is modern and beautiful."
+    ],
+    [
+      "Math",
+      "English",
+      "Chinese",
+      "PE"
+    ]
+  ],
+  "questions": [
+    "How is Simon's school?",
+    "What is Daniel good at?"
+  ],
+  "article": "Hi, I am Simon. This is my school. It is very beautiful and modern . My classroom is very bright and big.\nThere are a lot of nice students in my class. Daniel is my best friend. He is good at math. At lunchtime, we often sit under the tree to chat with each other. Peter is my English teacher and he is very good. I like him best and so I like English best.\nOur school starts at 8:25 a.m. and is over at 3:45 p.m. Before the first class, we do morning exercises . All the students have lunch at school. Before school is over, we are all on the playground to have activities .\nI like my school very much.",
+  "id": "asc01094"
+}

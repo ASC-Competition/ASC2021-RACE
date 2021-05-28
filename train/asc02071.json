@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "An Introduction to Speech Damage in Patients with Brain Damage.",
+      "An Investigation into the Role of the Brain's Hemispheres.",
+      "An Analysis of Left and Right-handed People.",
+      "An Examination of \"Dichotic Listening\"."
+    ],
+    [
+      "two different words in the same ear twice",
+      "the same word twice in the same ear",
+      "two different words in different ears",
+      "two different words twice in two ears"
+    ]
+  ],
+  "questions": [
+    "Which of the following would be the most proper title for the passage?",
+    "The \"dichotic listening\" procedure could best be described as hearing   _  ."
+  ],
+  "article": "Before the early 1960's people interested in the differing roles of the left and right hemispheres  of the brain depended almost entirely on facts drawn from animal research, form studies of patients with one-sided brain damage. But it was possible to find out which brain hemisphere was most involved in speech and other functions in normal people by having them listen to two different words coming to the two ears at the same time. This became known as the \"dichotic listening\" procedure. When several word pairs are given in a row, people are unable to report them all, and most right-handers prefer to report, and report more correctly, words given to their right ears. This seems to be related to the fact that signals from the right ear, although sent to both hemispheres, are better sent to the left hemisphere which controls speech. People who have speech represented  in the right hemisphere, a very unusual occurrence even in left-handed people, more correctly report what their left ears hear.\nIn contrast to the right-ear advantage for speech, there is generally a left-ear advantage for another type of auditory  signal: music. When right-handed people listen to melodic patterns they report them better from the left ear.",
+  "id": "asc02071"
+}

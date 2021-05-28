@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "sister",
+      "aunt",
+      "mom",
+      "grandma"
+    ],
+    [
+      "On the bed.",
+      "On the sofa.",
+      "On the desk.",
+      "On the dresser."
+    ]
+  ],
+  "questions": [
+    "Sally is Bob's   _  .",
+    "Where's Bob's dictionary?"
+  ],
+  "article": "Dear Sally, Please take these things to your brother Bob: his dictionary, pen, notebook, keys, and a baseball. The dictionary is on the bed. The pen is in the pencil case. I put the pencil case on the sofa. The notebook is on the desk. The keys are on the dresser. The baseball is under the bed. Thanks, Grandma\n,.",
+  "id": "asc01045"
+}

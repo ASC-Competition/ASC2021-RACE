@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "goes home",
+      "leaves home",
+      "gets home",
+      "at home"
+    ],
+    [
+      "Yes,he does.",
+      "No,he doesn't.",
+      "I don't know.",
+      "I don't think so."
+    ]
+  ],
+  "questions": [
+    "What's the meaning of\"comes home\"in the sentence\"So when Sam comes home\"?",
+    "Does Sam take the cat and his wife to the shop near his home?"
+  ],
+  "article": "Sam likes fish very much.He often buys fish in the shop and takes it home.But when his wife sees the fish,she says to herself,\"Good!Now I can ask my friends to have lunch,and we can eat this fish.They like fish very much.\"\nSo when Sam comes home in the evening,the fish is not there and his wife always says,\"Oh,your cat ate it.\"And she gives Sam some bread for his supper.Sam gets very angry.He takes the cat and his wife to the shop near his house and weighs the cat.Then he turns to his wife and says,\"My fish weighs one kilo .This cat weighs one,too.My cat is here,you see.Then where's my fish?\"",
+  "id": "asc22425"
+}

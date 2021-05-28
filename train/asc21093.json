@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "America",
+      "Canada",
+      "Japan",
+      "England"
+    ],
+    [
+      "four",
+      "one",
+      "two",
+      "three"
+    ]
+  ],
+  "questions": [
+    "Jane is from  _  .",
+    "Mr and Mrs King have  _  children."
+  ],
+  "article": "My name is Jane King. Jane is my first name and King is my family name. I'm twelve. I'm also an English girl.I have a brother. His name is John. He is only five. He is very lovely.\nBoth my father and mother are teachers. They love their work. They work very hard.\nWe have a house with a garden. The house is big and nice. The garden is not big but nice. There are some flowers and small trees in it. We often play games there. We all like our house and garden.",
+  "id": "asc21093"
+}

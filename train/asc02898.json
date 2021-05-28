@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "computers can completely replace humans in everything",
+      "humans are of no practical economic values to the society",
+      "the power of computers is growing at a frightening rate",
+      "AI programs can not compare with humans economically"
+    ],
+    [
+      "Unskilled workers become stupid.",
+      "AI discourages skilled work.",
+      "Computers don't need pensions.",
+      "AI is ruining medical training."
+    ]
+  ],
+  "questions": [
+    "By mentioning the defeat of Lee Sedol, the author intends to tell us that   _  .",
+    "What does \"artificial stupidity\" in Paragragh 3 mean?"
+  ],
+  "article": "The defeat of Lee Sedol, the world's strongest Go   player, by a Google artificial intelligence (AI) program, looks like another milestone towards a world where computers can do almost anything a human can. It is not. There are uncountable things that only a human can do, and that no computer seems close to. The problem is that the purely human things are not economically useful to anyone. The things that computers can be taught to do are by contrast economically fantastic. But even the most powerful programs are not human, just as a shovel  . They have no feelings. What they have is power, but this power is growing at a rate that should frighten us all.\nIt might be less frightening if computers were truly intelligent, but even the most powerful networks are less human than monstrous Martians  . Their power will be used to make money for the firms that finance their development, and then for others quick and clever enough to take advantage of the new world. It is far more likely that they will increase inequality and still further remove the middle classes as we move towards an hourglass   society in which everyone is either very rich or very poor and likely indebted.\nOne of the ill effects of the spread of more intelligent computer networks is, at the same time, the spread of what might be called artificial stupidity. If AI is employed largely to replace unskilled labour, it is most productive when labour is kept unskilled or redefined that way. So much of the work in service industries is now simplified until it might be automated  . And robots will never need pensions. AI is slowly reducing skilled work, like some forms of medical diagnosis  , at the same time, as older doctors complain that the traditional human skills of diagnosis are falling out of medical training. The belief that everything worthwhile can be measured and then managed is far more damaging to humanity than the threat of artificial intelligence on its own.\nBut no victory in complicated Go games can bring us closer to truly human-like computers.",
+  "id": "asc02898"
+}

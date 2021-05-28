@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "It may get lost easily in the air.",
+      "It can't work in the windy days.",
+      "It can offer detailed information.",
+      "It is useless when the poacher stays still."
+    ],
+    [
+      "How to make the drone work well",
+      "A new way to stop illegal hunting",
+      "The living conditions of rhinos are worrying",
+      "The drone helps save rhinos in South Africa"
+    ]
+  ],
+  "questions": [
+    "What do we know about the drone?   _",
+    "What's the best title for the text?   _"
+  ],
+  "article": "Since 2008, hunters have illegally killed more than 3000 rhinos in South Africa. The International Union for Conservation of Nature warns that rhinos may die out by 2026. People who hunt and kill illegally are called poachers. The most effective way to watch for and prevent illegal hunting is from the air. However, piloted flights are too costly. Fortunately, some Spanish college students have invented a drone   that can observe more places than a plane.\nArnau Garcia is an aeronautical   engineering student at the Polytechnic Institute of Catalonia, in Spain. He says observers from the air have trouble finding poachers when they hide under the trees. Mr. Garcia and other students have worked with the drone manufacturer HEMAV to help find the hidden poachers. They make it by using the thermal camera, which is especially sensitive to body heat. Even when the poachers keep still, it can also keep track of them.\nThe drone can fly in the wind up to 55 kilometers per hour. It has an autopilot system, so it memorizes the flight path. The drone also has a microphone, a video camera and a GPS system. These permit it to report accurately where a picture is taken. After each flight, the drone can bring back detailed information about where rhinos are found, the conditions of water and plants in the area, and the positions of suspected poachers.\nExperts say the drone can fly as far as 70 kilometers from the base. It means that it could quickly observe large areas for poachers. However, the same search operation would take days for human observers. Thanks to the drone, many poachers have been caught and the number of rhinos is on the increase. In addition, HEMAV has received an increasing number of orders for the drone. Even South African national park officials attempt to fill the air with drones.",
+  "id": "asc03327"
+}

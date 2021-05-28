@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "tall",
+      "cool",
+      "short",
+      "thin"
+    ],
+    [
+      "Sam",
+      "Tom",
+      "Sam and Tom",
+      "Jackie Chan"
+    ]
+  ],
+  "questions": [
+    "Sam is a  _  boy.",
+    "_  have / has big eyes."
+  ],
+  "article": "My name is Sam. I'm tall. I have a round face and big eyes. I have a good friend. His name is Tom. He is short. He has red hair and big eyes. His favorite actor is Jackie Chan, and he thinks Jackie Chan is strong and cool.Our Chinese teacher is Miss Zhang. She is from Shanghai. She is 25 years old. She has long, black hair. She's Tom's favorite teacher.\n,. . (5,2,10)",
+  "id": "asc21700"
+}

@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "D",
+    "C",
+    "C",
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "on Fridays",
+      "from Monday to Friday",
+      "on Saturday",
+      "on Saturday and Sunday"
+    ],
+    [
+      "Meat.",
+      "Fish.",
+      "Vegetables.",
+      "Chicken."
+    ],
+    [
+      "do a few minutes of sport",
+      "never do any sports",
+      "do enough sport every day",
+      "All of the above."
+    ],
+    [
+      "Eat more vegetables and fruit.",
+      "Do enough sports every day.",
+      "Watch TV in right ways.",
+      "All of the above."
+    ],
+    [
+      "From Monday to Friday, some students watch TV from morning to night.",
+      "Eating more vegetables and fruit is good for their health.",
+      "They should do enough sport.",
+      "They should read in right ways."
+    ]
+  ],
+  "questions": [
+    "Many students stay at home and watch TV from morning to night  _  .",
+    "What food should students eat more?",
+    "At school, the students should  _  .",
+    "How should we keep healthy?",
+    "Which of the following is wrong?"
+  ],
+  "article": "Many middle school students like watching TV very much. But from Monday to Friday, they must go to school. So on Saturday and Sunday they stay at home and watch TV from morning to night. They don't know it's bad for their eyes. Usually children like to eat fish, meat and chicken and don't like vegetables or fruit. They don't know eating more vegetables or fruit. They don't know eating more vegetables and fruit is better than eating meat.\nAt school, the children only do a few minutes of sports or never do any sports. The teachers must know it isn't good for their health.\nWe always think of ways to keep healthy. We must eat more vegetables and fruit, do enough sport every day. And we should watch TV and read in right ways.",
+  "id": "asc0471"
+}

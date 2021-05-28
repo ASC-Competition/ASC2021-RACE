@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "3.",
+      "4.",
+      "5.",
+      "6."
+    ],
+    [
+      "Monday & Friday",
+      "Saturday & Sunday",
+      "Monday & Saturday",
+      "Friday & Sunday"
+    ]
+  ],
+  "questions": [
+    "How many days does the Beer Festival last?",
+    "Traditional Pub Food is served every day except   _  ."
+  ],
+  "article": "Welcome you to a friendly family run pub\nTHE BOOT\nFREE HOUSE\n18 Brinkley Rd Dullingham, Near Newmarket  Tel: 01638 507327\nBeer Festival 29 April - 2 May\nALWAYS AVAILABLE\nAdanms Best Bitter, Broadside & Guest Beers\nTraditional Pub Food served  Mon - Fri  12noon--2pm\nOpening Times:\nMonday to Friday  11am--2:30pm & 5pm - 11pm\nSaturday: 11am--11pm     Sunday: 12 noon -2:30pm & 7pm - 10:30pm",
+  "id": "asc22105"
+}

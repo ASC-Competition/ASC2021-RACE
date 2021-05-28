@@ -1,0 +1,42 @@
+{
+  "id": "asc0359",
+  "article": "Hello! My name is Le Yangyang. Look! Here is a nice photo. What are these in the photo? Oh, they are five lovely goats . Are they brothers and sisters? No. They are good friends. This is A Xiang. He is in blue. A He is in black. And this is A Ru. She is in red. That is A Yi. She is in green. Who is the tall goat? Ha! Ha! It's me. What color am I in? Oh, I'm in yellow. We are the mascots of Guangzhou Asian Games. Welcome to Guangzhou to meet us!",
+  "questions": [
+    "We five are _ ._",
+    "A Xiang is in _ ._",
+    " _ is tall._",
+    "You can meet us in _ ._"
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "cousins",
+      "friends",
+      "brothers",
+      "sisters"
+    ],
+    [
+      "red",
+      "green",
+      "blue",
+      "yellow"
+    ],
+    [
+      "A He",
+      "Le Yangyang",
+      "A Ru",
+      "A Yi"
+    ],
+    [
+      "Photo",
+      "Here",
+      "School",
+      "Guangzhou"
+    ]
+  ]
+}

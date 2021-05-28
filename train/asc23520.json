@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "an egg and some fruit",
+      "a hamburger and a banana",
+      "chicken and French fries",
+      "an egg and some chicken"
+    ],
+    [
+      "eggs",
+      "vegetables",
+      "salad",
+      "hamburgers"
+    ]
+  ],
+  "questions": [
+    "Paul eats   _  for breakfast.",
+    "Paul doesn't like   _  ."
+  ],
+  "article": "Hello! I'm Paul. I'm from America and I' m in China with my parents now. I like China and Chinese food. I have breakfast at home. I eat an egg and some chicken for it. I don't like salad, but Mom says that it's healthy. I should  eat it. I have lunch at school. The lunch in my school is good. I can eat different   food. I eat a hamburger, a banana and some vegetables. Sometimes I have chicken and French fries . I have dinner at home and I like to eat some fruit and ice-cream.",
+  "id": "asc23520"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "It is likely that a leak or an explosion occurs at a power station.",
+      "It is not usual for radioactive materials to be conveyed across land.",
+      "The containers are likely to be broken by an earthquake.",
+      "Nuclear wastes remain risky in most cases for many years."
+    ],
+    [
+      "easy",
+      "impossible",
+      "reasonable",
+      "ineffective"
+    ]
+  ],
+  "questions": [
+    "Which of the following is not true?",
+    "The author thinks that the ways to store nuclear wastes are    _  ."
+  ],
+  "article": "There are three separate sources of danger in supplying energy by nuclear power.\nFirst, the radioactive   material must travel from its place of production to the power station. Although the power stations themselves are strongly built, the containers used for the transport of the materials are not. Normally, only two methods of transport are in use, namely road or rail. Unfortunately, both of these may have an effect on the general public, since they are sure to pass near, or even through, heavily populated areas.\nSecond, there is the problem of waste. All nuclear power stations produce wastes that in most cases will remain radioactive for thousands of years. It is impossible to make these wastes non-radioactive, and so they must be stored in one of the inconvenient ways that scientists have invented. For example, they may be buried under the ground, or dropped into deserted mines, or sunk in the sea. However, these methods do not solve the problem, since an earthquake could easily break the containers.\nThird, there may occur  the danger of a leak   or an explosion at the power station. As with the other two dangers, this is not very likely, so it does not provide a serious objection (,) to the nuclear program. However, it can happen.\nSeparately, these three types of dangers are not a great cause for worry. Taken together, though, the probability of disaster is extremely high.",
+  "id": "asc03301"
+}

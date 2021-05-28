@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "D"
+  ],
+  "options": [
+    [
+      "Bag",
+      "Shoes",
+      "Hat",
+      "Socks"
+    ],
+    [
+      "Twenty-one yuan.",
+      "Nineteen yuan.",
+      "Eighteen dollars.",
+      "Nineteen dollars."
+    ]
+  ],
+  "questions": [
+    "In all goods ,   _  is(are)cheap .",
+    "Jack wants to buy two pairs of socks, one bag and two hats. How much are they?"
+  ],
+  "article": "Wen Feng Store Sale\nGoods     Colors     Price(each)\nSocks      Black, white, green $3\nSweater   Black      $15\nHat  Blue, white     $4\nT-shirt     Red, green      $14\nShoes      Black and white     $25\nBag  Blue $5\n,.",
+  "id": "asc19306"
+}

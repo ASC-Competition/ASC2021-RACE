@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "forgot their task",
+      "completed the task better",
+      "made no errors in their task",
+      "remembered which lever they had pressed for a shorter time"
+    ],
+    [
+      "MK801 is a drug that can be used to stimulate nerves.",
+      "The study is expected to be used to help stroke and epilepsy patients recover completely.",
+      "Using the study to improve humans' memories still face many challenges.",
+      "Researchers have studied far more complex memories than the ones in the rat experiment."
+    ]
+  ],
+  "questions": [
+    "When their nerves were stimulated, the rats  _  .",
+    "What can we infer from the article?"
+  ],
+  "article": "A team led by Professor Theoder Berger, from the University of Southern California, can now manipulate  brain cells in rats so that memories stored in the hippocampus, a brain area crucial for memory formation, are activated or suppressed . It's said that _ could one day have medical applications.\nIn the study, researcher first trained rats to remember which of two levers  they pressed first, then to press the other lever.\nAs the rats performed the task, the scientists carefully monitored the electrical activity in each creature's hippocampus to find the pattern of nerve-cell activity involved in making a solid memory.\nUsing the same glass needles they had used to record the nerve activity, they stimulated   nerves in the same pattern and found that the animals' performance in the task got even better. The rats made fewer errors and were able to remember which lever was the\"correct\"one for a longer period of time.\nThe scientists went a step further and suppressed the rats' memories with a drug called Mk801, which caused them to forget their task. When the animals' brain cells were later stimulated with the\"correct\"pattern, they remembered again which lever to press.\n\"What's really exciting about this study is that when they played back the'good' patterns--the patterns when the animal got the task right--it did appear to improve memory,\"said Dean Buonomano, an associate professor at the University of California.\nThe final goal, Berger said, is to help people with stroke  and epilepsy  and the like strengthen memories and to help doctors treat them. The technology might even help sufferers of post-traumatic  stress disorder.\nBut first, researchers would have to show that they can stimulate or suppress far more complex memories than the ones in the rat experiment.\n\"Here ,it's a simple task,\"Buonomano said. In contrast, humans' memories are very rich and specific...\n\"We have very many steps to go before this can be achieved,\"he said.",
+  "id": "asc02784"
+}

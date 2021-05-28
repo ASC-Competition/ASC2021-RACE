@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "White",
+      "Brown",
+      "Black",
+      "Green"
+    ],
+    [
+      "two",
+      "three",
+      "four",
+      "five"
+    ]
+  ],
+  "questions": [
+    "_   is the girl's last name.",
+    "Alice's grandparents have   _   children  ."
+  ],
+  "article": "Look at the picture. Who is the girl? She is my friend. Her name is Alice Black. She is an English girl.\nAlice has a big family. Her grandparents have two daughters and one son -- her father. Alice lives with her grandparents, parents, two brothers and one sister. Alice has two dogs -- Bobby and Tony. Bobby is black and Tony is white. Alice likes them very much. Alice is a middle school student. She has a good friend at school. Her name is Helen. They are cousins, too.",
+  "id": "asc21620"
+}

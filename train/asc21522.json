@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "It's small.",
+      "It's big but old.",
+      "It's big and new.",
+      "It's small but new."
+    ],
+    [
+      "There are 5.",
+      "There are 15.",
+      "There are 30.",
+      "There are 60."
+    ]
+  ],
+  "questions": [
+    "What's the library like?",
+    "How many chairs are there in the two reading rooms?"
+  ],
+  "article": "There is a library in John's school. It's new and big. It's behind the classroom building. It has three floors.\nOn the first floor, there are two reading rooms. There are five big desks and thirty chairs in each reading room. John comes here and does his homework after class every day. On the second floor, there are a lot of books for students and teachers. They can't take the books away. They can only read books in the library. John thinks that _ is bad. On the third floor, there is a computer room with sixty computers. Students have IT lessons here. It's John's favourite lesson.",
+  "id": "asc21522"
+}

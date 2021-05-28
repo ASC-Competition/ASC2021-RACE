@@ -1,0 +1,42 @@
+{
+  "id": "asc0069",
+  "article": "Today is the fifth day of August. It is Judy's birthday. When she comes back home from school, she sees a card on the table. It says, \" There's a present for you, Judy. Look for it in your bedroom. \" Judy runs into her bedroom. Her parents are looking at her and smiling . On the chair she sees a red box. She thinks her present must be in it. She opens it, and there is a piece of paper in it. She reads it, \" Dear Judy, I'm your present. My first letter is in the word 'bag', but not in 'age'. My second letter is in 'like', but not in 'lake'. My third letter is in \" know \" , but not in 'now'. And you can find my last letter in both 'desk' and 'get'. What am I? \" Judy thinks for a while and says, \" Aha, I know. But where is it? \" Her father tells her it is in her study. What is it? Do you know?",
+  "questions": [
+    "When is Judy's birthday?",
+    "What does the piece of paper in the box tell Judy?",
+    "Where can Judy find her present?",
+    "What is Judy's present?"
+  ],
+  "answers": [
+    "A",
+    "D",
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Aug.5th.",
+      "Aug.6th.",
+      "Sept.5th.",
+      "Sept.6th."
+    ],
+    [
+      "The color of her present.",
+      "The shape of her present.",
+      "The place of her present.",
+      "The name of her present."
+    ],
+    [
+      "On the chair.",
+      "In her study.",
+      "In the box.",
+      "In the living room."
+    ],
+    [
+      "A book.",
+      "A bag.",
+      "A bike.",
+      "A desk."
+    ]
+  ]
+}

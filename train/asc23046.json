@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "A leader",
+      "A teacher",
+      "A doctor",
+      "A nurse"
+    ],
+    [
+      "SARS came in Beijing.",
+      "Beijing host the Olympic Games.",
+      "A flood broke out",
+      "The people celebrated our country's birthday."
+    ]
+  ],
+  "questions": [
+    "What is Kangkang's father?",
+    "What happened at that time?"
+  ],
+  "article": "Kangkang's father is a doctor. When SARS, a kind of serious disease, spread in Beijing, he took an active part in the battle against it. He left his wife and his son to work in the Xiaotangshan Hospital. He cared for the patients day and night. He couldn't go home and he could only talk with family on the telephone. \"Do you miss your family?\" asked a reporter. \"Yes, of course. It's my duty to save the patients,\" Doctor Lee answered.",
+  "id": "asc23046"
+}

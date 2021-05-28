@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "10 years old.",
+      "11 years old.",
+      "12 years old.",
+      "13 years old."
+    ],
+    [
+      "Beijing.",
+      "Tianjin.",
+      "Shanghai.",
+      "Guangzhou."
+    ]
+  ],
+  "questions": [
+    "How old is Li Hai?",
+    "Where is Tom from?"
+  ],
+  "article": "Look at the boy. His English name is Mike Smith. His Chinese name is Li Hai. He is from England. He's twelve years old. My name is Hao Gang. Tom is my English name. I'm from Shanghai. I'm thirteen. Mike and I are good friends. We are in Grade Seven. I am in Class 3 and he is in Class 5. Today is Thursday. We want to swim after school.",
+  "id": "asc18740"
+}

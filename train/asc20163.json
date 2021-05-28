@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "Thursdays",
+      "Wednesdays",
+      "weekdays",
+      "weekends"
+    ],
+    [
+      "drink",
+      "fruit",
+      "toy",
+      "food"
+    ]
+  ],
+  "questions": [
+    "On  _   ,Paula usually gets up at 7:10a.m.",
+    "Pizza is a kind of   _  ."
+  ],
+  "article": "Paula   Monday  Tuesday Wednesday   Thursday    Friday\nget up  7:10a.m.    7:10a.m.    7:10a.m.    7:10a.m.    7:10a.m.\nmorning school  school  school  school  school\nlunch   pizza   rice    rice    rice    rice\nafternoon   Yo--yo  Table tennis    Table tennis    Table tennis    football\nevening homework    homework    television  homework    clothes\nGo to sleep 10:15p.m.   10:15p.m.   10:15p.m.   10:15p.m.   10:15p.m.",
+  "id": "asc20163"
+}

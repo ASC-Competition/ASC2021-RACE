@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "buy something",
+      "get on a bus",
+      "see a doctor",
+      "study English"
+    ],
+    [
+      "at a bus stop",
+      "on a bus",
+      "at the shop",
+      "in the school"
+    ]
+  ],
+  "questions": [
+    "What is Mike going to do? He is going to   _  .",
+    "Now Mike is   _  ."
+  ],
+  "article": "It's Sunday. Mike does not go to school. But he is not at home. He is now sitting on a bus. He is going shopping.\nAn old woman gets on the bus. Mike stands up and says to her,\"Come and sit here, please.\"The old woman goes over and sits down. She says,\"Thank you very much, dear little boy.\"\nThe bus stops near the shop. Mike says\"Goodbye\"to the old woman and gets off the bus. The old woman smiles and says\"Goodbye\"to him, too.",
+  "id": "asc24998"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "maglev",
+      "magnets",
+      "levitation",
+      "electricity"
+    ],
+    [
+      "A magnet-filled guiding way is formed inside a maglev train.",
+      "Instead of electricity, magnets are used as the power of a maglev.",
+      "Maglev trains can climb hills with the help of magnetwheels.",
+      "Electric currents decide the movements of a maglev train."
+    ]
+  ],
+  "questions": [
+    "This passage is about   _  .",
+    "What can we learn from the text?"
+  ],
+  "article": "A Train Floating On Air\nA train that floats on air? It's not magic--it's magnets  .And it's close to reality.\nIn Virginia USA the fall of 2002, a train with no wheels traveled on air and carried college students across their campus.In Japan, a whisper-quiet railway engine hovered and raced at 350 miles per hour using magnets and electricity as the power.And in China, a magnet train line linked Shanghai with nearby Pudong Airport.\nThese trains use magnetic levitation   technology, \"maglev\" for short. They use the same rules as the magnets you pick up at home or school: opposite poles of magnets attract each other, and like poles _ each other.\nHow does it work?\nPowerful magnets on the bottom of the train repel magnets on the track, which is actually just a magnet-filled guiding way. With a magnetic field of sufficient force, the train will go hovering on air, which seemed impossible to us in the past.\nWhen an electrical current is sent through the track, the train moves. Turn the current backwards and the train slows down.\nMaglev doesn't rely on the friction   of wheels on track, so it can climb a much steeper hill than a traditional train. And it can travel easily in snow and ice, something that could bring normal trains to a screaming stop.",
+  "id": "asc00883"
+}

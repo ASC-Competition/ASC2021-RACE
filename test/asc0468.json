@@ -1,0 +1,34 @@
+{
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "in the middle of the night",
+      "early in the morning",
+      "soon after he fell asleep",
+      "after Watson pushed him"
+    ],
+    [
+      "two",
+      "three",
+      "four",
+      "five"
+    ],
+    [
+      "The story happened in the afternoon.",
+      "They had some wine before they went to sleep.",
+      "Holmes asked Watson questions because Holmes didn't know what happened.",
+      "Holmes and Watson were in their tent while they were talking about the question."
+    ]
+  ],
+  "questions": [
+    "Holmes woke up   _  .",
+    "Watson thought of at least   _   things after he saw the stars.",
+    "Which of the following statements is TRUE according to the passage?"
+  ],
+  "article": "On a hot summer day, Holmes and Dr. Watson went on a camping trip. After a good meal and a bottle of wine, they lay down in a tent for the night and went to sleep.\nSome hours later, Holmes woke up and pushed his friend. \"Watson, look! What can you see in the sky?\"\nWatson replied, \"I see millions and millions of stars.\"\n\"What does that tell you?\" asked Holmes.\nWatson thought for a while. \"First, it tells me that we will have a beautiful clear day tomorrow. Second, it tells me that the time is about twelve o'clock. And...\"\n\"What else?\" Holmes asked.\n\"Well, it also reminds me that the world is so big and we are so small. What does that tell you?\" Holmes said with a grin on his face, \"You silly guy! It only tells me that someone has stolen our tent!\"",
+  "id": "asc0468"
+}

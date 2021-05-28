@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "father",
+      "brother",
+      "uncle",
+      "friend"
+    ],
+    [
+      "soccer and baseball",
+      "tennis",
+      "baseball and basketball",
+      "Ping-Pong"
+    ]
+  ],
+  "questions": [
+    "My  _  likes sports.",
+    "He plays  _  very well."
+  ],
+  "article": "My uncle likes sports very much. He loves soccer ball, basketball, baseball, tennis and more. He plays baseball and basketball very well. He likes to watch the sports games on TV. He plays sports every day. He has a small sports collection. He has 12 tennis rackets, 10 baseballs, 3 basketballs and a soccer ball.",
+  "id": "asc24336"
+}

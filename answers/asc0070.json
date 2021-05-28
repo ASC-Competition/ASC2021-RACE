@@ -1,0 +1,50 @@
+{
+  "id": "asc0070",
+  "article": "Bob and Frank are good friends. They often go to movies together on weekends. Bob's favorite actor is Cheng Long. He has an action movie, Who Am I . It's very exciting. Frank likes the actor Rick Smith. He really likes his movie. Black September . Frank thinks it's a very successful thriller. Bob and Frank are American , but they both like Beijing Opera, they think they can learn about Chinese history from these movies.",
+  "questions": [
+    "Bob and Frank often _ together on weekends.",
+    "Bob's favorite actor is _ .",
+    "The filmBlack September is _ .",
+    "Bob and Frank come from _ .",
+    "Which of following is false?"
+  ],
+  "answers": [
+    "B",
+    "B",
+    "D",
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "go to school",
+      "go to a movie",
+      "are good friends",
+      "go to see an action movie"
+    ],
+    [
+      "Frank",
+      "Cheng Long",
+      "Beijing",
+      "American"
+    ],
+    [
+      "an action movie",
+      "a comedy",
+      "Beijing Opera",
+      "a thriller"
+    ],
+    [
+      "America",
+      "China",
+      "Japan",
+      "England"
+    ],
+    [
+      "Bob and Frank are good friends.",
+      "Who Am I is an action movie.",
+      "We can learn about Chinese history from action movies.",
+      "Bob and Frank like Beijing Opera."
+    ]
+  ]
+}

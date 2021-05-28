@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "6:20 p.m.",
+      "5:45 p.m.",
+      "8:00 p.m.",
+      "7:15 p.m."
+    ],
+    [
+      "7:30 p.m.",
+      "6:00 a.m.",
+      "5:45 p.m.",
+      "6:20 p.m."
+    ]
+  ],
+  "questions": [
+    "If you want to take a bus in the evening rush hour, you should take the   _                         in the Railway Station, New York City on Monday.",
+    "You'll go back home from work in Brennan. Which of the following bus will you take?"
+  ],
+  "article": "The following notice is posted in the bus station.\nTime Table:\n*Buses leave the Railway Station, New York City, from7:00 a.m. and every half-hour thereafter, until 11:30 p.m. (7 days a week)\n*Buses leave Brennan Station 20 minutes before and after every hour from 6:20 a.m. to 11:40 p.m. (7 days a week)\n*Evening rush hours (5:00 p.m. to 7:00 p.m.); Buses leave the Railway Station, New York City every 15 minutes.(Monday--Friday)\n*Holidays Buses leave every hour on the hour, each direction.(Trip time:30minutes each way)\n*All tickets must be bought at Window 12, the Railway Station, New York City, or at the Brennan Station Window BEFORE boarding buses.",
+  "id": "asc03376"
+}

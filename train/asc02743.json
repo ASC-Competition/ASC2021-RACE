@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "an interview",
+      "an argument",
+      "a talk show program",
+      "a science report"
+    ],
+    [
+      "whether it has a small amount of potassium",
+      "whether it changes chemical in materials.",
+      "whether it has energy to change materials",
+      "whether it is visible in life"
+    ]
+  ],
+  "questions": [
+    "The passage may be   _  .",
+    "Whether radiation is harmful or not depends on  _  ."
+  ],
+  "article": "We've heard about radiation from the damaged nuclear reactors in Japan reaching American shores. Experts say so far there is no reason to worry, and point out that we meet radiation every day. Where and how? NPR's Renee Montagne posed that question to Peter Caracappa, a radiation safety officer and professor of nuclear engineering.\nMONTAGNE: How many things emit radiation?\nDr CARACAPPA: Well, radiation and radioactive material is a part of nature. So everything that's living has some amount of radiation coming from it--a very small amout. Plus there's radiation in the ground and the air.\nSo the extremes are uranium in the soil to bananas?\nYes.\nBy the way, why do bananas have radiation?\nBananas have a lot of potassium . And a small amount of potassium naturally is called potassium 40, which is radioactive\nWhat's the difference between radiation that's harmful and not harmful?\nWell, the term radiation can apply to a lot of different things. But the harmful radiation is ionizing radiation. It has enough energy that it can make chemical changes in material. We could get ionizing radiation from an X-ray, for example. It's the kind of radiation that causes cancer.\nThe broader definition of radiation includes a lot of things that we call non-ionizing radiation. That includes everything like radio waves and visible light and your microwave.\nSo what then is the largest contributor of ionizing radiation?\nFor the natural sources of ionizing radiation, actually the biggest chunk of that tends to come from radon , which is a radioactive material that is present in the air. It can become a concern when it builds up in low-lying areas of homes like basements.\nWould it be fair to say that most people do not need to worry about the danger of being exposed to radiation?\nI would say that the everyday exposure to radioation that we meet contributes an extremely tiny risk to our life or to our health compared to all of the other risks that we meet in our day-to-day life.",
+  "id": "asc02743"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "The study was carried out in 103 universities.",
+      "The researchers drew the conclusion by interviewing students about their feelings in the writing process.",
+      "The typing speed should be as slow as possible.",
+      "There is no previous study related to the topic before."
+    ],
+    [
+      "objective",
+      "doubtful",
+      "critical",
+      "supportive"
+    ]
+  ],
+  "questions": [
+    "Which of the following statements is true according to the passage?",
+    "What is the author's attitude to the research according to the passage?"
+  ],
+  "article": "If you have ever been left wondering why your emails are riddled  with grammatical errors, or why you can never quite find the right phrase, it may be because you are typing with both hands.\nOur vocabulary becomes richer and our writing style becomes more fluent when we type using just one hand, scientists have found. \"Typing can be too fluent or too fast, and _ can actually weaken the writing process,\" said Srdan Medimorec, the lead author of the study conducted at the department of psychology at the University of Waterloo, Canada. \"It seems that what we write is a product of the interaction  between our thoughts and the tools we use to express them.\"\nUsing text-analysis software, researchers asked 103 university students to write essays under different conditions, using one hand to type and using both hands to type. The software was used to analyze  elements of the essays, such as range of vocabulary, sentence complexity and the cohesion  of the writing.\nResearchers found that participants' vocabulary became more advanced when they typed with one hand rather than two. The research team said that by slowing our writing down, typing one-handed allows more time for an internal   word search, resulting in a larger variety of words.\nIn contrast, fast typists might just write the first word that comes to mind. However, it is important not to slow typing down too much. Those who typed essays one-handed in the current study slowed down to about the speed of handwriting.\nThis is the first study to show that changing people's typing can make their writing get better. The researchers suggested that the speed of writing could affect writing quality regardless of the tools used, whether they are computers, or pen and paper, although further research would be required to prove that idea.",
+  "id": "asc03977"
+}

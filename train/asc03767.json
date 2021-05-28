@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "Beer",
+      "Bottled water",
+      "Coffee",
+      "Milk"
+    ],
+    [
+      "More than $100 billion is spent every year on bottled water in the US.",
+      "About 79 billion water bottles a year are gone through by the US public.",
+      "In Chicago, you have to pay 5 cents as tax if you buy a bottle of water.",
+      "An American drinks 50 liters of bottled water every year on average."
+    ]
+  ],
+  "questions": [
+    "According to the passage, what drink sells best in the USA?",
+    "Which of the following statements about the US is TRUE?"
+  ],
+  "article": "Bottled water is a _ on the environment: The US public goes through about 50 billion water bottles a year, and most of those plastic containers are not recycled, according to Elizabeth Royte's bookBottlemania: How Water Went on Sale and Why We Bought It.\nTransporting the bottles and keeping them cold also burns fuels, which give off greenhouse gases. And groundwater pumping by bottled water companies draws heavily on underground aquifers  and harms watersheds , according to the Sierra Club. And some studies suggest it takes up to three liters of water to produce one liter of bottled water.\nYet more than $100 billion is spent every year on bottled water globally. In many cities in developing countries where there is not a safe source of tap water, bottled water becomes a trusted choice.\nIn the US, tap water is controlled by the government and often examined for dangerous polluted substances. Each American drinks 79 liters of bottled water per year on average, according to the Columbia Water Center at Columbia University's Earth Institute in New York. The bottled water industry is so successful that it has outpaced  milk, coffee, and juice in the number of gallons of drinks sold -- putting it behind only beer and soda.\nThough the sale and consumption   of bottled water is still on the rise, certain policymakers have taken steps to reduce it and encourage people to drink tap water. In September 2009, the Australian town of Bundanoon became the first town in the world to completely ban bottled water from its stores' shelves, building water fountains  around the town instead.\nAmong US cities that have taken action are San Francisco and Seattle, which no longer buy water for city use, and Chicago, which added a five-cent tax on each bottle. Several restaurants in those cities have also given up bottled water for tap water. Other cities are also considering taking action.",
+  "id": "asc03767"
+}

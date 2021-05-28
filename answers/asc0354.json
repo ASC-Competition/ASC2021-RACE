@@ -1,0 +1,50 @@
+{
+  "id": "asc0354",
+  "article": "This is a picture of Mr. Wang's family. Here is Mr. Wang, the father. That is Mrs. Wang, the mother. They have two daughters, Wang Fang and Wang Li. Wang Fang is 12 and her sister is 13. They are in the same middle school, but not in the same grade. Wang Li is in Grade Eight. Wang Fang is in Grade Seven. It is the first school day and they are happy to meet friends.",
+  "questions": [
+    "Mr. and Mrs. Wang have _ .",
+    "Wang Fang and Wang Li are _ .",
+    " _ is 13.",
+    "Wang Fang is in _ .",
+    "Which statement is RIGHT?"
+  ],
+  "answers": [
+    "B",
+    "C",
+    "B",
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "a son and a daughter",
+      "two daughters",
+      "two sons",
+      "a son and two daughters"
+    ],
+    [
+      "daughters",
+      "brothers",
+      "sisters",
+      "cousins"
+    ],
+    [
+      "Wang Fang",
+      "Wang Li",
+      "Wang Li's sister",
+      "Wang Fang and Wang Li"
+    ],
+    [
+      "Grade 12",
+      "Grade 13",
+      "Grade Seven",
+      "Grade Eight"
+    ],
+    [
+      "Mrs. Wang is Wang Fang and Wang Li's father.",
+      "Wang Fang and Wang Li are Mr. Wang's sisters.",
+      "Wang Fang and Wang Li are in the same grade",
+      "Wang Fang and Wang Li are in the same school."
+    ]
+  ]
+}

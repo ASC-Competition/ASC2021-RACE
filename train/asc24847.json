@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "Not at all.",
+      "A little.",
+      "Very much.",
+      "We don't know."
+    ],
+    [
+      "England.",
+      "Paris.",
+      "Australia.",
+      "France."
+    ]
+  ],
+  "questions": [
+    "How does Mrs. Curie like Paris?",
+    "Where is the man from?"
+  ],
+  "article": "Paris is a very nice city. Mrs. Curie often goes to Paris and she has a good time there. Mrs. Curie is old and very\n, so she sometimes can't find her way.\nNow she sees a man near a bus stop. \"I can ask him the way,\" she says.\n\"Excuse me,\" she says in French. \"But can you tell me the way to Notre Dame de Paris , please?\"\nBut the man doesn't know French. He is Australian! Then he puts his hand into his coat and takes out a small book. He opens it and finds a phrase . He reads, \"I'm sorry. I don't speak French.\"",
+  "id": "asc24847"
+}

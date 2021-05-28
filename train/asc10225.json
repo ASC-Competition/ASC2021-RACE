@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "The Right to Live",
+      "The Right to Die",
+      "The Doctor's Duty",
+      "The Right to Live or Die"
+    ],
+    [
+      "the development of medical technology",
+      "big hospitals",
+      "good doctors",
+      "both B and C"
+    ]
+  ],
+  "questions": [
+    "The best title for this passage is   _  .",
+    "In recent years, people can live longer than in the past. It's because of   _   ."
+  ],
+  "article": "In the past few years development in medical technology has made it possible for people to live longer than in the past. New medicines and machines are being developed every day to extend  life. However, some people, including some doctors, are not in favor of  these life extending measures, and they argue that people should have the right to die when they want to. They say that the quality of life is as important as life itself and that people should not be forced to go on living when conditions of life have become terrible. They say that people should be allowed to die with dignity   and to decide when they want to die. Others argue that life under any conditions is better than death and that the duty of doctors is always to extend life as long as possible. And so the argument goes on and on without a final answer.",
+  "id": "asc10225"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "Bob's brother",
+      "a dog",
+      "a cat",
+      "Bob's sister"
+    ],
+    [
+      "runs with Bob",
+      "plays with hats",
+      "eats hamburgers",
+      "watches TV"
+    ]
+  ],
+  "questions": [
+    "Bill is   _  .",
+    "Bill   _   every morning."
+  ],
+  "article": "Hello, everyone! My name is Bob. I have a good friend. His name is Bill. He is a dog. I like him very much.\nEvery morning Bill runs with me, and we play in the park every afternoon. Bill is very fat . He likes eating beef hamburgers for breakfast. For dinner, he likes fish. Bill likes red. He has two red hats. Look! They are on my bed.\nBut Bill is lost   now. Please help me. My telephone number is 3123216. Many thanks!",
+  "id": "asc22708"
+}

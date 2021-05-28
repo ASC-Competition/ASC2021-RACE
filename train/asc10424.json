@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "Computer",
+      "Computer scientists",
+      "The Future World",
+      "Talk with Computers"
+    ],
+    [
+      "Draw pictures.",
+      "Talk.",
+      "Invent new things.",
+      "Serve the people."
+    ]
+  ],
+  "questions": [
+    "The best title for this passage is   _   .",
+    "Which of the following can computers not do now?"
+  ],
+  "article": "The computer is fast, and never makes a mistake, while people are too slow, and full of mistakes sometimes. That's what people often say when they talk about computers. For over a quarter of a century, scientists have been making better and better computers. Now a computer can do a lot of everyday jobs wonderfully. It is widely used in factories, hospitals, post offices and airports. A computer can report, decide and control in almost every field. Many computer scientists are now thinking of making the computer \"think\" like a man. With the help of a person, a computer can draw pictures, write music, talk with people, play chess, recognize voices, translate languages and so on. Perhaps computers will one day really think and feel. Do you think the people will be afraid when they find that the computer is too clever to listen to and serve the people?",
+  "id": "asc10424"
+}

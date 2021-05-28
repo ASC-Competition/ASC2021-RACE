@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "icecream",
+      "milk",
+      "a blender",
+      "juice"
+    ],
+    [
+      "a glass",
+      "two spoons",
+      "125g",
+      "150ml"
+    ]
+  ],
+  "questions": [
+    "You don't need  _  for your milk shake.",
+    "You need  _  of icecream"
+  ],
+  "article": "(Enough for two big glasses of milk shake)\nTwo bananas\nTwo spoons(150g)of ice cream\n125ml of fresh milk\nChocolate,cream and fruit\nDon't ask your mother for help with this one!\nIt's very easy and it takes two minutes to make.\nPut the bananas,the icecream and milk in the blender.\nBlend for about ten seconds.\nPour it into a glass.\nPut some cream,chocolate and fruit on top.\nIt's nice and cold with that icecream in it--so enjoy it!",
+  "id": "asc01260"
+}

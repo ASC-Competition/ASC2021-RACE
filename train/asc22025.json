@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "not possible",
+      "difficult",
+      "more difficult",
+      "easier"
+    ],
+    [
+      "people will have no jobs",
+      "people can still have jobs as before",
+      "4% of the people will have jobs",
+      "97% of the people will have jobs"
+    ]
+  ],
+  "questions": [
+    "It was   _   for people to find work before than today.",
+    "If the economy of the world grows by 4% each year,   _  ."
+  ],
+  "article": "Most people want to work, but it has become more difficult in today's world to find work for everyone. The economy   of the world needs to grow by 4% each year just to keep the old number of jobs for people. Often this is not possible, and so more people are out of work. Some people have no jobs now because new machines can do the work of many people in short time. Also, machines do not ask for more money and longer holiday. In all of the countries of the world, machines are taking work from people, not only in factories but also on the farms. One machine can often do the work from forty people. About 75,000 people are moving to the cities a day to look for jobs, but only 70% of them can find jobs.",
+  "id": "asc22025"
+}

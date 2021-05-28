@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "Dogs.",
+      "Cats.",
+      "Fish.",
+      "Apples."
+    ],
+    [
+      "Jeff.",
+      "Jeff's wife.",
+      "Their friends.",
+      "No one."
+    ]
+  ],
+  "questions": [
+    "What does Jeff like very much?",
+    "Who cooks the fish?"
+  ],
+  "article": "Jeff likes fish very much. He buys some fish and takes it home. When(......) his wife  sees the fish, she says to herself,\"Good! Now I ask my friends to have lunch, and we can have the fish.\"They like eating fish very much. When Jeff comes home in the evening, he can't find the fish and his wife says,\"Oh, your cat eats it.\"And she gives Jeff some bread for supper. Jeff is not very happy. He takes the cat and his wife to the shop nearby . Then he says to his wife,\"My cat is one kilo and the fish is one kilo, too. The fish is here. But where is my cat?\"",
+  "id": "asc19947"
+}

@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "big",
+      "small",
+      "for students",
+      "for teachers"
+    ],
+    [
+      "Five,",
+      "Eight.",
+      "Ten.",
+      "Fifteen."
+    ],
+    [
+      "October 5th",
+      "October 20th",
+      "December 18th",
+      "December 23rd"
+    ],
+    [
+      "You can have breakfast in the club.",
+      "Linda can learn English in the club.",
+      "In December, there is a birthday party.",
+      "Tim's mom can watch ball games in the club."
+    ]
+  ],
+  "questions": [
+    "The club is a good place  _  .",
+    "How many teachers are there in the club?",
+    "Your parents can come to watch the baseball game on  _  .",
+    "Which of the following is True?"
+  ],
+  "article": "Welcome to our club l  Our club is a good place to have fun for students. We have ten sports teachers and five art teachers. Here you can learn to play tennis and you can learn to draw .And we have many great activities. October is a busy month. On October 5th,we have a trip in the morning. And on October 20th,we have two games, a tennis game and a baseball game. Your parents can come to the club to watch the games. On December 18t\",we have a music festival. It's very interesting. And on December 23nd,we have an English party.\nIn the club, we have a food store. You can have lunch or dinner here. Come and have a good time\nhere !",
+  "id": "asc0368"
+}

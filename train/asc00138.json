@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "The doctor made the mistake deliberately so they do not apologize.",
+      "Doctors never tell the patient they have made a mistake.",
+      "The patients won't forgive the doctor if he make the mistake.",
+      "The patient will usually forgive the doctor when the mistake are not intentional."
+    ],
+    [
+      "Supportive",
+      "Critical",
+      "Indifferent",
+      "Neutral"
+    ]
+  ],
+  "questions": [
+    "According to the passage, which of the following is TRUE?",
+    "What is the author's attitude toward the opinion that the doctor should apologize when he makes a mistake?"
+  ],
+  "article": "There is nothing in the Hippocratic Oath that tells doctors what to do when they make a mistake with a patient. Nor is there much on this subject in medical school curriculums or in training programs.\n _ \nMuch was made of the Institute of Medicine's 1999 report that 44,000 to 98,000 people die each year in hospitals from preventable medical errors, many of them made by doctors.\nThe report stated much first-hand information to address the problem, but there was little discussion about how doctors, when they have made mistakes, should deal with their patients,\nEveryone assumes that the ever-present threat of accusation has made doctors more anxious about admitting error, and no doubt it has, But doctors have always been tight-lipped about their mistakes, in part to preserve an illusion(,) of medical omnipotence \nStudies suggest that patients are less likely to accuse doctors when they apologize for mistakes, and many hospitals now encourage their physicians to admit their errors. According to an supportive group called The Sorry Works! Coalition, 16 states have already passed laws giving doctors legal immunity  for their apologies to patients.\nOf course, there are plenty of doctors with a nice bedside manner who can get away with bad treatment. How else to explain patients who often line up in court to support doctors accused of malpractice ?\nThe surprising truth is that many patients have a hard time knowing whether they are really getting good medical care.\nBecause so many diseases change randomly over time, patients sometimes spontaneously  improve despite improper treatment. On the other hand, a patient who receives exemplary medical care may fare badly  simply because the illness is hard to treat. In other words, doctors are often praised or blamed, when the outcome is in fact a chance event.\nMany, perhaps even most, medical errors probably have little ill effect and go unnoticed by patients. Many lawyers would disagree, but doctors ought to let their patients know when they've made a mistake; it humanizes them and builds trust.",
+  "id": "asc00138"
+}

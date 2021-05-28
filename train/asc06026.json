@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "a shop",
+      "a hospital",
+      "a post office",
+      "a cinema"
+    ],
+    [
+      "five",
+      "three",
+      "four",
+      "six"
+    ]
+  ],
+  "questions": [
+    "One day a small man went to   _  .",
+    "The small man bought   _   tickets in all."
+  ],
+  "article": "A small man went to a cinema, bought a ticket and went in. But after two or three minutes he came out, bought a second ticket and went in again.\nAfter a few minutes, he came out again and bought a third ticket. Two or three minutes after that, he came out a third time and asked for another ticket.\nBut the girl said to him, \"Why are you buying all these tickets? Are you waiting for friends in the cinema all the time?\"\n\"No, I am not doing that,\" answered the small man. \"But a big woman always stops me at the door and tears  my ticket up.\"\nThe girl smiled and sold him another ticket.",
+  "id": "asc06026"
+}

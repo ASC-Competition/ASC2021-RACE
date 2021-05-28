@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "change their reservation",
+      "change travel date",
+      "receive their refund",
+      "change to a dearer route"
+    ],
+    [
+      "passengers refuse to board the plane",
+      "passengers' trip is cancelled in advance",
+      "passengers' flight is delayed at least two hours",
+      "passengers miss their flight due to traffic jam"
+    ]
+  ],
+  "questions": [
+    "Travelers have to pay additional fees when they want to  _  .",
+    "Compensation can be asked for when  _  ."
+  ],
+  "article": "Here are Important Travel Notices from United Airlines, March 20, 2016 7:12 AM. Information is updated as it is received.\n* 1. Travel and the Zika virus\nIf you have a ticket for travel to a country affected by the Zika virus (as listed on the CDC website) and have concerns, please contact the United Customer Contact Center with any questions or changes to your reservation. Customers advised to avoid the affected regions based on CDC guidance may change their destination or travel date without a fee or may choose to receive a refund if their tickets were booked before February 29, 2016. The new travel date must be within the validity of the ticket. Additional charges may apply if there is a difference in fare for the new travel route.\n* 2. Longer lines at security checkpoints\nProcedural changes at TSA checkpoints throughout the United States may result in longer lines at security checkpoints. Please plan accordingly and allow for extra time at the airport. The TSA advises arriving at the airport two hours before your flight for US travel and three hours before for international travel. To save time at security, we encourage you to visit  www.tsa.gov.com and apply for TSA pre-check.\n* 3. Notice for flights departing the European Union, Norway and Switzerland\nEU Regulation 261/2004 requires airlines to provide the following notice: If you are not allowed to board or if your flight is cancelled or delayed for at least two hours, ask at the check-in counter or boarding gate for the form, stating your rights, particularly about compensation and assistance.",
+  "id": "asc03054"
+}

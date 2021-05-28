@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "the time you look at the card",
+      "the information in the computer",
+      "the feedback one gives to the software",
+      "the times one attempts to do with a card"
+    ],
+    [
+      "Using cards to study can be very tiring.",
+      "Don't need to study with flashcards too long at a time.",
+      "There is not enough flashcards software at present.",
+      "Flashcard software can be carried wherever you go."
+    ]
+  ],
+  "questions": [
+    "With SuperMemo, whether the next card will be shown depends on   _  .",
+    "Which of the following is true according to the passage?"
+  ],
+  "article": "The advantages of using flashcards to build up a vocabulary are well known. You can buy sets of cards, or make your own, and carry them with you wherever you go. There's no question this is useful and because you can use them in short bursts, it's not too much for you. It can be fun. I don't recommend drilling for hours at a time with flashcards.\nIf you want to use flashcard software, things get even better. There are many packages out there for maintaining and drilling flashcards. I recommend VTrain though there are many others.\nOne stands out, however: SuperMemo. Similar to Pimsleur, SuperMemo is engineered according to a carefully researched methodology   in order to test you on a card the very minimum number of times you need to see it for it to stick. When you look at a card, you give some feedback to the software on whether you got it right and how easy you found it. It uses this information, and that of your previous attempts, to decide when you will be shown the card next. It's smart and it really works.\nIf you're like me, the news is even better! I have a version of SuperMemo that runs on my PalmOS phone. Wherever I am, if I have my phone handy, I have thousands of flashcards with me too. Honestly, it would be worth purchasing a cheap Palm device only for this. You can pick one up for $20 or even less on eBay or elsewhere. Consider it, at least.",
+  "id": "asc03905"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "is a bus driver",
+      "has a school for dogs",
+      "keeps a dog in his house",
+      "teaches children at school"
+    ],
+    [
+      "Old dogs.",
+      "Young dogs.",
+      "Large dogs",
+      "Hot dogs."
+    ]
+  ],
+  "questions": [
+    "Jack   _  .",
+    "Which kind of dogs are easy to teach?    _  ."
+  ],
+  "article": "Jack drives a school bus.His bus is different from other school buses because it doesn't carry children.Jack's bus takes dogs to school in the morning and brings them home at night.Jack takes the dogs to \"The Dog School\".There four men teach the dogs to obey and protect their owners.All kinds of dogs go to the school--large dogs,small dogs,young dogs and old dogs Jack says that young dogs are the easiest to teach,but the old ones can learn,too.\nDo you have a dog? Maybe it would like to go to \"The Dog School\".",
+  "id": "asc20583"
+}

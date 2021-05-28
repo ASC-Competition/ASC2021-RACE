@@ -1,0 +1,34 @@
+{
+  "id": "asc0270",
+  "article": "Dear Sir, Our weekend at your hotel was bad. We lived in Room 303. It was big but everything was very old. My father cleaned the room and fixed a broken chair. My mother wanted to read a book but the lamp was too, small. My dad got some noddles from the hotel kitchen, but they were cold and tasted bad. I wanted to watch TV but the TV didn't work. The people in Room 301 listened to loud music. I didn't sleep all night. I'm sorry, but we didn't enjoy our stay very much. Li Lei and family",
+  "questions": [
+    "Li Lei and his parents stayed in  _ .",
+    "How was the family's stay?",
+    "What did the family do in the hotel?"
+  ],
+  "answers": [
+    "C",
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "Holiday Hotel",
+      "Lake Hotel",
+      "Sun Hotel",
+      "Moon Hotel"
+    ],
+    [
+      "Great.",
+      "Good.",
+      "OK.",
+      "Bad."
+    ],
+    [
+      "Mr Li had some noodles.",
+      "Mrs Li read an interesting book.",
+      "Li Lei had a good sleep at night.",
+      "The family watched a show on TV."
+    ]
+  ]
+}

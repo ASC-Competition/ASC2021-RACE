@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "a computer",
+      "a TV",
+      "a tennis bat",
+      "a tennis ball"
+    ],
+    [
+      "A TV",
+      "A computer",
+      "A tennis bat",
+      "A tennis abll"
+    ]
+  ],
+  "questions": [
+    "Mary has   _  .",
+    "_   is on the sofa."
+  ],
+  "article": "Mary: Let's play computer games.\nGina: That sounds great. Where is your computer?\nMary: I don't have a computer. Do you have a computer?\nGina: No, I don't. But I have a TV. Let's watch TV.\nMary: No, that sounds boring. Let's play tennis. I have a tennis bat.\nGina: Good. Where is it?\nMary: On the sofa. Do you have a bat?\nGina: No, I don't. Does your brother have a bat?\nMary: Yes, he does. And he has tennis balls.",
+  "id": "asc21951"
+}

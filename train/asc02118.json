@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "Julia Roberts.",
+      "Hugh Grant.",
+      "David Duning.",
+      "Not mentioned."
+    ],
+    [
+      "Anna was invited to visit William's book store.",
+      "Anna ,a film star, walked into William's book store.",
+      "William was introduced by Anna's friend.",
+      "They met each other in the street accidently."
+    ]
+  ],
+  "questions": [
+    "According to the passage, who most probably plays the role of Anna in the film ?",
+    "How did William and Anna get to know each other first?"
+  ],
+  "article": "Notting hill is a small town  west of London. Here lives shy  William, a divorced  man, who owns a little travel-book store.\nIt was a Wednesday, when the poor shop keeper happened to meet Anna Scott ,a movie star who walked into his shop.\nThey ran across each other in the street again. And they found themselves falling in love. But how could a poor man keep the love of a famous star? Their lives and their worlds were so different.\nSix months later, Anna was in London again for her new film. She came to William's thought ...\nLength :110 minutes\nDirector:David Duning\nCast:Julia Roberts(actress),  Hugh Grant(actor)",
+  "id": "asc02118"
+}

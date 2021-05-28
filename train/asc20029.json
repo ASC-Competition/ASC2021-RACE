@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "had a vacation",
+      "hurt his foot",
+      "needed to read",
+      "was sick"
+    ],
+    [
+      "Monday, Tuesday",
+      "Saturday, Sunday",
+      "Sunday, Monday",
+      "Friday, Saturday"
+    ]
+  ],
+  "questions": [
+    "He stayed in bed all day because he   _  .",
+    "On which days of the week was he probably sick?"
+  ],
+  "article": "I didn't feel well when I woke up yesterday morning. My throat hurt and _ . I also felt hot. My mother said I had a bad cold. I didn't want to get up, so she let me stay in bed all day. I don't usually like being in bed during the day, but I like it yesterday. I listened to the music and read a magazine. I slept a lot. I had all my meals in bed, though I didn't want to eat much. I had just soup and toast for lunch and some rice and chicken for dinner. By evening I was beginning to feel better. I asked my mother if I could get up and watch television but she said no. Today I feel much better, so I didn't stay in bed. I didn't go to school again, though. I'll go tomorrow if I feel well enough.",
+  "id": "asc20029"
+}

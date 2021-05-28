@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "one hour",
+      "two hours",
+      "three hours",
+      "four hours"
+    ],
+    [
+      "HK$100",
+      "HK$180",
+      "HK$90",
+      "HK$50"
+    ]
+  ],
+  "questions": [
+    "How long will the cruise take?",
+    "You are 8 years old, how much will you pay?"
+  ],
+  "article": "Hong Kong Harbor Night Cruise  \nEnjoy the delicious dinner on the ferry \nand watch the beautiful city lights\nTime : 6:30 p.m.- 9:30 p.m.\nPrice : Adults : HK$ 180    Children under 12 : HK$ 100\nStart / Finish : Kowloon Public Pier  \nTel : (852) 2853 3888\nE - mail:enquiry@chinatravel1.co",
+  "id": "asc23044"
+}

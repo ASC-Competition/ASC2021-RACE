@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "a large planet is able to change the size of a tiny planet",
+      "ground controllers can affect the gravitational force of planets",
+      "calculating the probe speeds beyond the solar system is possible",
+      "predicting the weather is more difficult than predicting the path of a satellite"
+    ],
+    [
+      "allow for certain inaccuracy",
+      "focus on personal relationships",
+      "are based on controlled experiments",
+      "are rooted in data and mathematical models"
+    ]
+  ],
+  "questions": [
+    "We can learn from the passage that  _  .",
+    "According to the author, \"soft\" sciences  _  ."
+  ],
+  "article": "It is easy to lose patience with science today. The questions are pressing: How dangerous is air pollution? What about low-level radiation? When will that horrible earthquake strike California? And why can't we predict weather better? But the evidence is often described as \"uncertain\", forcing scientists to base their points of view almost as much on intuition as on science.\nWhen historians and philosophers of science listen to these questions, some conclude that science may not be able to solve all these problems any time soon. The unknowns can grow into riddles that are impossible to solve. Because of the unstable and changing state of the earth's atmosphere, for example, scientists have struggled for centuries to predict the weather with precision  but failed.\nThe case is different for scientists of astronomy. For example, they think that the gravitational force of a nearby space vehicle, though tiny, is able to change the path of a much larger planet if the vehicle spends enough time close to it. With the aid of Newton's laws of gravitational attraction, ground controllers can predict the path of a planetary probe  -or satellite-with incredible accuracy. They do this by calculating the gravitational force from each of the passing planets until the probe speeds beyond the edge of the solar system.A much more difficult task is to calculate what happens when two or three times of such force pull on the probe at the same time. Such procedures can, of course, be very difficult, but for experiments, they are effective.\nThis range of questions-from simple problems to those impossibly complex-has resulted in nicknames for various fields of study: \"soft\" sciences and  \" hard \"  sciences.\"Soft\" sciences admit a great degree of uncertainty. Academicians tend to judge fields such as sociology, psychology, and political science as \"soft\" because they are assumed to be understandable, of unnecessary mathematical accuracy, and concerned with everyday affairs such as interpersonal relationships. However, \"hard\" sciences, such as astronomy and chemistry, are said to offer precise answers. Precise definitions for \"hard\" sciences vary, but the characteristics of \"hard\" sciences include: producing testable predictions; performing controlled experiments; relying on quantifiable data and mathematical models; a high degree of accuracy and objectivity; and generally applying a pure form of the scientific method",
+  "id": "asc00791"
+}

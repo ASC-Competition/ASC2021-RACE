@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "richness",
+      "relaxation",
+      "death",
+      "morality"
+    ],
+    [
+      "Unhappiness will definitely make a person ill.",
+      "Unhappiness doesn't necessarily make you ill.",
+      "Unhappiness is not associated with lack of exercise.",
+      "The death rate among those unhappy people is greater."
+    ]
+  ],
+  "questions": [
+    "The word \"mortality\" in the passage means  .",
+    "According to the passage, which of the following statements is true?"
+  ],
+  "article": "A study of a million UK women, published today in The Lancet, has shown that happiness itself has no direct effect on mortality, and that the widespread but mistaken belief that unhappiness and stress directly cause ill health came from studies that had simply confused cause and effect. Life-threatening poor health can cause unhappiness, and for this reason unhappiness is associated with increased mortality. In addition, smokers tend to be unhappier than non-smokers. However, after taking account of previous ill health, smoking, and other lifestyle and socio-economic factors, the investigators found that unhappiness itself was no longer associated with increased mortality.\nThe lead author, Dr Bette Liu, now at the University of New South Wales, Australia said: \"Illness makes you unhappy, but unhappiness itself doesn't make you ill. We found no direct effect of unhappiness or stress on mortality, even in a ten-year study of a million women.\"\nAs in other studies, unhappiness was associated with deprivation, smoking, lack of exercise, and not living with a partner. The strongest associations, however, were that the women who were already in poor health tended to say that they were unhappy, stressed, not in control, and not relaxed.\nThe main analyses included 700 000 women, average age 59 years, and over the next 10 years these women were followed by electronic record linkage for mortality, during which time 30 000 of the women died.\nAfter allowing for any differences already present in health and lifestyle, the overall death rate among those who were unhappy was the same as the death rate among those who were generally happy. The study is so large that it rules out unhappiness being a direct cause of any material increase in overall mortality in women.\nThis was true for overall mortality, for cancer mortality, and for heart disease mortality, and it was true for stress as well as for unhappiness.",
+  "id": "asc02547"
+}

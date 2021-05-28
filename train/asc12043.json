@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "No more than 10, 000, 000.",
+      "10,000,000 or less.",
+      "More than 10, 000, 000.",
+      "Just 10,000,000."
+    ],
+    [
+      "borrow books",
+      "look up something",
+      "read magazines",
+      "lend records"
+    ]
+  ],
+  "questions": [
+    "How many books are there in the British Museum?",
+    "The \"reference room\" means a place for people to   _  ."
+  ],
+  "article": "There are a lot of public libraries in Britain. These libraries have more than one hundred and fifteen million books, not including those libraries of public schools.\nPublic libraries not only lend books, music records but also help children, patients in hospitals and others to get special play readings, film shows and so on.\nThe first public libraries were founded in about the year 1850. Today's public libraries usually have a reading-room, a lending room and a reference room.\nThe greatest and most famous library in Britain is that of the British Library in London. It was founded in 1973 and has over 10, 000, 000 books. It has nearly every magazine, newspaper and book published in Britain and other parts across the world.",
+  "id": "asc12043"
+}

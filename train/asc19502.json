@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "Green",
+      "Brown",
+      "Miller",
+      "Hand"
+    ],
+    [
+      "red",
+      "blue",
+      "brown",
+      "yellow"
+    ]
+  ],
+  "questions": [
+    "What's the girl's family name?",
+    "The girl's favorite  color is  _  ."
+  ],
+  "article": "Hello! My name's Mary Brown. I'm a girl. I like red. I have a red schoolbag. What's this? It's my red pencil box. Is that my ruler? Yes, it is. It is a red ruler. What's that? It is a watch. Is it my watch? No, it isn't. It's Bob's watch. It's blue.",
+  "id": "asc19502"
+}

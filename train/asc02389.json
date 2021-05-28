@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "breath varies from person to person based on food",
+      "your breath may give you away if you are not careful",
+      "doctors can test one's breath to find about his illness",
+      "dogs can identify people with certain cancers"
+    ],
+    [
+      "comfortable and convincing",
+      "traditional and reliable",
+      "accurate and competitive",
+      "quick and convenient"
+    ]
+  ],
+  "questions": [
+    "According to the text we know that   _  .",
+    "In comparison with blood or urine testing, breath testing is   _  ."
+  ],
+  "article": "If doctors want to test you for something, they'll usually take a blood or urine sample  . But wouldn't it be much more convenient if they just asked you to breathe through a special instrument?\nIn fact, your breath can say a lot about you. In traditional Chinese medicine, doctors draw a conclusion about the health state of a patient based on the smell of his or her breath; trained dogs and rats can identify the smells of the breaths of people suffering from certain cancers; traffic police also monitor drivers' alcohol consumption by testing their breaths.\nJust like blood and urine, your breath contains lots of \" metabolites \" --- the waste chemicals that the body produces, which vary from person to person. They are like personal health fingerprints, which is why scientists sometimes call them \" breath prints\", according to Science Daily.\nCompared to blood or urine testing, breath testing takes only seconds instead of hours, and it requires neither a needle nor a container to hold the body fluids  . This means the test can be taken frequently to better detect early signs of diseases and monitor the progress of a medical treatment.\nOn the other hand, as an identifier, you might think that breaths are not as reliable as fingerprints since they might change based on what you eat. However, researchers in Zurich, Switzerland mapped 11 healthy volunteers' chemical patterns by having them breathe through a special instrument, and they found that each pattern was unique and the patterns didn't change much throughout the day, reported BBC.\n\"Our goal is to develop breath analysis to the point where it becomes competitive with the established analysis of blood and urine,\" said Malcolm Kohler, professor at the University Hospital Zurich.",
+  "id": "asc02389"
+}

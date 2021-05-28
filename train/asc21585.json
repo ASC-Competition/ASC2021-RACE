@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "American",
+      "English",
+      "Chinese",
+      "in the USA"
+    ],
+    [
+      "an egg, an apple and porridge",
+      "an egg, bread and porridge",
+      "an apple, bread and milk",
+      "an egg, an apple and bread"
+    ]
+  ],
+  "questions": [
+    "Mike is   _  .",
+    "For breakfast, Mike has  _  ."
+  ],
+  "article": "Hello! My name is Mike. I am from America. Now I am with my parents. I like breakfast at home. I have an egg, some bread and porridge  for breakfast. I do not like milk. I have no time to go home for lunch. So I have it at school. The lunch in our school is good. I can have different food for lunch. I eat rice, meat and vegetables. Sometimes I have noodles and dumplings. I have dinner at home with my parents. Sometimes we go out to eat with friends. We have chicken, vegetables and fruit.",
+  "id": "asc21585"
+}

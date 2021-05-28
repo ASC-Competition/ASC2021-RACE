@@ -1,0 +1,34 @@
+{
+  "answers": [
+    "C",
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "he was thirsty",
+      "he saw the station buffet was not so crowded",
+      "it was still early for his bus and he couldn't find a place to sit at the bus station",
+      "he had changed his mind; he wouldn't go to London"
+    ],
+    [
+      "behind a mirror",
+      "facing a mirror",
+      "under a mirror",
+      "near a mirror"
+    ],
+    [
+      "twenty to twelve",
+      "twenty past twelve",
+      "half past one",
+      "twenty past eleven"
+    ]
+  ],
+  "questions": [
+    "The writer went to the station buffet because   _  .",
+    "The writer sat   _  .",
+    "Jim came to the station buffet at about   _  ."
+  ],
+  "article": "I arrived at the bus station much too early for the London bus, which was not to leave until five to twelve. I pushed through the crowds, looking for somewhere to sit down. Scores of people were standing about, or struggling along with their bags and the cases to find the right lines. There was a party of school girls. I could see teachers trying to keep them in order. But there was nowhere for me to sit.\nI stepped into the station buffet. I looked up at the clock there. It was only twenty to twelve. I found a seat opposite a large mirror on the wall. Just then a friend of mine called Jim came in and sat with me. \"What time is your bus?\" asked Jim. \"Oh, there's a plenty of time yet,\" I answered. \"Oh, I'll get some drinks then,\" said Jim. We talked while drinking. Then I looked at the clock again. \"Good heavens! It's going backward!\" I cried. \"A moment ago it was twenty to twelve and now it's half past eleven.\" \"You are looking at the clock in the mirror,\" said Jim. I could kick myself for being so stupid. I had not realized that the marks for one and eleven on the face of the clock were the same. The next bus was not to leave for another hour. I have never liked mirror since then.",
+  "id": "asc0052"
+}

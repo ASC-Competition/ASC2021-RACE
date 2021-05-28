@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "from Monday to Thursday",
+      "every day",
+      "every day of the week",
+      "on weekdays"
+    ],
+    [
+      "$105.",
+      "$90.",
+      "$210.",
+      "$180."
+    ]
+  ],
+  "questions": [
+    "Wonderful Museum usually opens   _   except on Thanksgiving Day and Christmas Day.",
+    "If a group of 30 students with ID visit Wonderful Museum, how much should they pay for the admission?"
+  ],
+  "article": "Wonderful Museum\nHours\nMonday - Thursday: 10:00 am - 5:00 pm\nFriday: 10:00 am - 8:00 pm\nSaturday: 10:00 am - 5:00 pm\nSunday: 11:00 am - 5:00 pm\nClosed on Thanksgiving Day and Christmas Day.\nThe Museum Shop is open during regular museum hours.\nThe Museum Library\nMonday -Friday: 10:00 am - 5:00 pm\nThe Skyliner Restaurant\nMonday - Saturday: during regular museum hours\nSunday: 11:30 am - 5:00 pm\nAdmission\nAdults:$7.00\nThe aged and students with ID: $6.00\nWonderful Museum offers a 50% discount to groups of 20 or more.",
+  "id": "asc03381"
+}

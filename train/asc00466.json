@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "name of a place in China",
+      "name of a writer of ancient China",
+      "name of a writer of modern times",
+      "name of a book"
+    ],
+    [
+      "newspapers and magazines",
+      "different places in America",
+      "different organizations that sell books.",
+      "book critics."
+    ]
+  ],
+  "questions": [
+    "\"Ha Jin\", is probably a   _  .",
+    "\"Los Angeles Times\", \"USA Today\" and \"Star Tribune (Minneapolis)\" are the names of  _  ."
+  ],
+  "article": "\"Jin's new collection of short stories...shows he could teach some native-born writers a few things about the beauty of spare prose and the power of a few well-chosen words.\"\n-- USA Today\n\"Amusing...Realistic...Rarely has China seemed less exotic and more accessible...The stories have the air of fable .\"\n--Los Angeles Times\n\"A vivid picture...of Chinese society in the era just after the Cultural Revolution.\"\n-- Chicago Tribune\n\"Brilliant...delightful...Ha Jin's customs, ideas and landscapes might be of an Eastern persuasion, but his writing communicates universally. Without being didactic or condescending, these stories often resemble modern fables...\"\n--Star Tribune (Minneapolis)\n\"Beautifully understated short stories of life in modern China. Some of them are likely to break your heart.\"\n--People\n\"A short story collection that offers readers...a dozen ways to enter the changing landscape of modern China...No one has ever captured the collision between the Communist society and the western culture quite like Ha Jin.\"\n--Baton Rouge Magazine",
+  "id": "asc00466"
+}

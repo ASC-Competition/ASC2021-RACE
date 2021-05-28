@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "It is fast in pace.",
+      "It is slow in pace.",
+      "It makes us feel upset.",
+      "It makes us feel optimistic."
+    ],
+    [
+      "There are colors that do not match any music.",
+      "People tend to connect happy colors to slow-paced music",
+      "There is a one-to-one connection between music and color.",
+      "People nearly do the same in picking colors for different music."
+    ]
+  ],
+  "questions": [
+    "What can we know about Mozart's \"Flute Concerto No. 1 G Major\"?",
+    "What did the US researchers find from the result of the new study?"
+  ],
+  "article": "A new study finds that our brains are wired to make music-color connections depending on how the music makes us feel. Mozart's \"Flute Concerto No.1 in G Major\" is most often associated with bright yellow and orange, whereas his \"Requiem in D Minor\" is linked to bluish gray, the findings revealed.\nUS researchers from the University of California, Berkeley, enlisted nearly 100 subjects for a study on music and color. With 37 colors, the UC Berkeley study found that people tend to pair faster-paced music in a major key with lighter, more vivid, yellow colors, whereas slower-paced music in a minor key is more likely to be teamed up with darker, grayer, bluer colors.\n\"Surprisingly, we can predict with 95 percent accuracy how happy or sad the colors people pick will be based on how happy or sad the music is that they are listening to,\" said lead author and UC Berkeley vision scientist Stephen Palmer.\nIn three experiments, the subjects listened to 18 classical music pieces that varied in pace (slow, medium, fast) and in major VS minor keys. In the first experiment, participants were asked to pick five of the 37 colors that best matched the music to which they were listening. Separately, they rated each piece of music on a scale of happy to sad, strong to weak, lively to dull, and calm to angry.\nNext, the research team plans to study particiapants in Turkey where traditional music employs a wider range of scales than just major and minor. \"We know that in Mexico and the US the responses are very similar,\" Palmer said. \"But we don't yet know about China or Turkey.\"",
+  "id": "asc01677"
+}

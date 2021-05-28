@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "The ant will change the direction of its own.",
+      "The ant stopped the newcomer from moving ahead and forced the newcomer to wait there patiently.",
+      "The ant can't direct the newcomer.",
+      "The ant will push the newcomer to the other route, so traffic jams won't form."
+    ],
+    [
+      "The cars cannot be allowed to communicate with traffic coming in the opposite direction.",
+      "The cars can communicate with traffic in the same direction.",
+      "The cars that travel in one direction can tell oncoming traffic about the traffic conditions.",
+      "We should build more routes of different lengths and widths."
+    ]
+  ],
+  "questions": [
+    "If an ant returns along crowded route to the nest, how does the ant solve the traffic problem?",
+    "What's the advice that Dr. Helbing gives us?"
+  ],
+  "article": "Researchers believe that the insect  is better at managing congestion   than humans. Ants are the most many type of animal on earth with brains that contain about 250,000 cells ---- the largest among insects.\nNow an intelligence expert Dr. Dirk Helbing says understanding more about ants could help solve one of the headaches of modern life -- road congestion.\nHis team set up an \"ant motorway\" with two routes of different widths from the nest to some sugar syrup  . Soon the narrower  route soon became crowded . But when an ant returning along the crowded route to the nest met with another ant just starting out, the returning ant pushed the newcomer onto the other path. However, if the returning ant had enjoyed a trouble-free journey, it did not send the newcomer in a different direction.\nThe result was that just before one route became _ , the ants had turned to another route and traffic jams never formed.\nThe researchers also created a computer model of more complex ant networks with routes of different lengths. The team found that even though ants being sent in another direction sometimes took a longer route, they still got to the food quickly and efficiently.\nDr. Helbing, of the Dresden University of Technology in Germany, said that while you cannot allow cars to meet with traffic coming in the opposite direction as a form of traffic control, you could do the next best thing and allow them to communicate.\nHis plan is to force cars traveling in one direction to tell oncoming traffic what the conditions they are about to meet with-- so they can avoid that situation if necessary.",
+  "id": "asc01352"
+}

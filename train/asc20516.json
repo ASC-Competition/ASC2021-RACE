@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "150",
+      "15,000",
+      "500",
+      "1,500"
+    ],
+    [
+      "only two thousand words",
+      "five hundred thousand words",
+      "more than one thousand words",
+      "three or four thousand words"
+    ]
+  ],
+  "questions": [
+    "The number of different languages spoken is about   _  .",
+    "Before you leave your school, you'll learn   _  ."
+  ],
+  "article": "When people communicate, they need words to express themselves. People living in different countries made different kinds of words.\nToday there are about fifteen hundred languages in the world. Each contains many thousands of words. A very large dictionary, for example, contains four or five hundred thousand of words. But we do not need all these. To read short stories you need to know only about two thousand words. Before you leave school, you will learn only one thousand or more.\nVocabulary means a lot of words. The words you know are called your vocabulary. You should try to make your own vocabulary bigger. Read as many books as you can. There are a lot of books written in easy English for you to read. You will enjoy them. When you meet a new word, find it in your dictionary. Your dictionary is your most useful book.",
+  "id": "asc20516"
+}

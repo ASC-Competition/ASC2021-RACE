@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "two days",
+      "five days",
+      "six days",
+      "seven days"
+    ],
+    [
+      "5: 30 p.m.",
+      "6:00 p.m.",
+      "6:30 a.m.",
+      "8: 30 a.m."
+    ]
+  ],
+  "questions": [
+    "The zoo opens  _  a week.",
+    "On Tuesday,the zoo closes at  _  ."
+  ],
+  "article": "Welcome to the zoo\nOpening time:                                     Price:\nFrom Monday to Friday                             Adults:Y=20\n8:30 a.m.--5:30 p.m.                              Childen:Y=10\nOn Saturday & Sunday\n8:30 a.m.--6:00 p.m.\nLocation:Xiaohe Street, ChangchunDistrict ,Binhai City\n.",
+  "id": "asc24341"
+}

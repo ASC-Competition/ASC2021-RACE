@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "6:15 a.m",
+      "6:15 p. m",
+      "6:30 a. m",
+      "7 a.m"
+    ],
+    [
+      "On foot",
+      "on a bike",
+      "By car",
+      "By bus"
+    ]
+  ],
+  "questions": [
+    "What time does Sandy get up every day ?",
+    "How does Sandy go to school every morning?"
+  ],
+  "article": "Hello! I'm Sandy .I'm a Grade 8 students.I study at a secondy school .Now let me tell you about my school life. I get up at 6:15 a.m.Then I have my breakfast at six thirty. I go to school by bus .My home is about five kilometers away.from school.This often takes me 20 minutes.The first school begins at eight every morning.I usually have four classes in the morning and two in the afternoon.Each class lasts 45 minutes .I have lunch at school .I often eat rice ,meat and many vegetables.Then I can sleep about half an hour.After class, I play volleyball or football with my classmates.School is over and I go home.I spend an hour on my homework .I watch TV for half an hour .",
+  "id": "asc18830"
+}

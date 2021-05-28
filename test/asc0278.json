@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "first",
+      "second",
+      "third",
+      "fourth"
+    ],
+    [
+      "Next to the post office",
+      "Next to the bank.",
+      "Behind the post office",
+      "Across from the bank"
+    ],
+    [
+      "Mrs Green's new neighbor.",
+      "Kate's classmate.",
+      "A worker in the bookstore.",
+      "Kate's cousin."
+    ],
+    [
+      "In a post office.",
+      "In a bank.",
+      "In a bookstore.",
+      "In a school."
+    ],
+    [
+      "Kate's new neighbor.",
+      "Kate's father is a worker.",
+      "Kate's community.",
+      "The stores in community."
+    ]
+  ],
+  "questions": [
+    ".Kate lives on the   _   floor.",
+    "Where is the bookstore ?",
+    "Who is Bob ?",
+    "Where does Mrs Green work ?",
+    "What's the best title of this passage?"
+  ],
+  "article": "Kate is an American girl. Now she lives in New York with her parents. She lives in a community called Sunny Community. It's on Blue Street. There are five rows  of buildings in the community. Her house is in the first row. She lives on the third floor.\nThere is a post office on Blue Street . Next to it ,there is a bank. Across from the bank ,there is a bookstore. The workers in the bookstore are very friendly to people. Mrs Green works in it. She is Kate's new neighbor. She has a son. His name is Bob. He is in the same class as Kate.\nKate thinks the traffic here is very good, because she never meets any accidents here. She loves her community very much.",
+  "id": "asc0278"
+}

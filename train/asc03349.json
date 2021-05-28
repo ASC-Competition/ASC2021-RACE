@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "traditional cars are harmful for kids",
+      "his son is not good at driving",
+      "his son is a slow learner in driving",
+      "driverless cars will come soon"
+    ],
+    [
+      "They can solve many existing problems.",
+      "They are safer than a jet plane.",
+      "They can completely change our cities.",
+      "They should change gradually."
+    ]
+  ],
+  "questions": [
+    "Chris Urmson mentioned his 11yearold son in order to show that   _  .",
+    "What is Chris Urmson's comment on selfdrive cars?"
+  ],
+  "article": "I passed my driving test at the fourth attempt. You might think that means I'm not as safe as someone who passed on their first attempt. But would you feel safer with no driver at all? Maybe not, and that's why automotive firms have included driverassist functions in their driverless cars. This allows the human driver to take over if there is a problem.\nGoogle is one producer that has prototype driverless cars. These cars have been newly equipped with autosteering wheels and conventional controls to allow normal driving. But this is just a stage -- the vision is to have fully automated cars very soon. The director of Google's selfdrive project, Chris Urmson, hopes his 11yearold son will never have to take a driving test. To achieve that, the cars need to be on the roads in five years. He says driverless cars will greatly reduce accidents and traffic jams.\nAccording to Chris, about 1.2 million people are killed on the roads around the world each year. That number is equivalent to a jet falling out of the sky every day. He thinks gradual changes to existing car designs are not enough to deal with the problems. \"If we are really going to make changes to our cities, get rid of parking lots, we need selfdrive cars,\" he says.\nGoogle's prototypes have covered over a million kilometers on the road. They have also had to deal with unexpected situations, such as a child driving a toy car in the road, and a woman in an electric wheelchair chasing a duck. In each case, the car reacted safely.\nSome are not convinced. Sven Beiker of Stanford University thinks driverless cars will still need human input in extreme circumstances.",
+  "id": "asc03349"
+}

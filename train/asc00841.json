@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "prove that scientists have a lot of difficulties in doing scientific research",
+      "explain why this planet moves around a star like our sun",
+      "teach the readers some basic knowledge about the universe",
+      "tell people about a new technique that finds the most earth-like planet moving round another star"
+    ],
+    [
+      "the planet is like the earth because it is close to the center of the Milky Way",
+      "it is quite possible that life may exist on other planets in the universe",
+      "people have no interest in finding a planet that might support life",
+      "the question \"Are we alone\" is too difficult for scientists to answer"
+    ]
+  ],
+  "questions": [
+    "The author's purpose in writing this passage is to   _  .",
+    "From the news report we can infer that   _  ."
+  ],
+  "article": "A new planet-hunting technique has detected the most earth-like planet yet around a star other than our sun, raising hopes of finding a space rock that might support life, astronomers   reported recently.\n\"This is an important discovery to answer the question 'Are we alone?'\" said Michael Turner of the National Science Foundation.\n\"The team has discovered the most earth-like planet yet, and more importantly, has proved the power of a new technique that is sensitive   to detecting planets that are fit for people to live on,\" Turner said in a statement.\nIn the last decade, astronomers have detected more than 160 planets moving around stars outside our solar system. Most of these have been gas giant planets like Jupiter, which are unfit for life.\nBut an international team has detected a cold planet about 5.5 times more massive than the earth -- still small enough to be considered earth-like -- moving around a star about 20,000 light years away, close to the center of the Milky Way.\nTo find this new planet, the team used a technique called gravitational microlensing  . When a planet is circling the closest star, the planet's gravity can add its own signature to the light. This kind of light signature was observed on July 11 by a group of telescopes in a project known as OGLE, short for Optical Gravitational Lensing Experiment.\n\"The main advantage of microlensing is the signals for low-mass planets: They're not weak signals. They're just rare,\" Bennett of the University of Notre Dame in Indiana said by telephone. \"If there happens to be a straight line between a foreground star with its planet and the background source star, then you're able to detect that planet.\"",
+  "id": "asc00841"
+}

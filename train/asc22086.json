@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "runner",
+      "playing football",
+      "playing basketball",
+      "running"
+    ],
+    [
+      "foot",
+      "leg",
+      "arm",
+      "hand"
+    ]
+  ],
+  "questions": [
+    "Li Ming is good at   _  .",
+    "Li Ming's   _   is hurt."
+  ],
+  "article": "Li Ming is a runner, he runs for the spring sports on the playground every day.Our school is holding the sports meeting today.Li Ming is in the 1500 Meters'Race.At first he runs very fast,but then he falls on the ground.His left leg is hurt.It is a long way from the end of the race.What will he do? People are looking at  him.Li Ming gets up a nd walks the rest of the way.Li Ming doesn't win the race,but he wins a prize for walking.",
+  "id": "asc22086"
+}

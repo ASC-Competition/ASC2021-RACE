@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "in the afternoon",
+      "in the morning",
+      "at noon",
+      "in the evening"
+    ],
+    [
+      "it's Saturday today",
+      "they want to play",
+      "their teachers take them to the zoo",
+      "they want to see flowers"
+    ],
+    [
+      "eight and a half",
+      "three and a half",
+      "five",
+      "seven"
+    ],
+    [
+      "on the bus",
+      "at school",
+      "in the zoo",
+      "at home"
+    ],
+    [
+      "They must see tigers in the zoo.",
+      "The students go to the zoo in spring.",
+      "They go to the zoo by bus.",
+      "There are lots of people in the zoo."
+    ]
+  ],
+  "questions": [
+    "The students get to the zoo  _  .",
+    "They have no classes because   _  .",
+    "They stay in the zoo for  _  hours.",
+    "The students have lunch  _  .",
+    "Which of the following is NOT right?"
+  ],
+  "article": "Today is Saturday. The students of Grade Seven go to school early, but they have no classes. Their teachers are going to take them to the zoo. They take buses there. They get there at 8:30 a.m.\nThe zoo is very beautiful. There are many trees, some hills and a big lake. And they have a big lunch there. It's spring now, and you can see many flowers there, too. There are also many people. They like to watch monkeys. They have a good time there. They leave the zoo at 3:30 p.m.",
+  "id": "asc0330"
+}

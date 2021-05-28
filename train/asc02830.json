@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "Cash",
+      "Tickets",
+      "Change",
+      "Bank cards"
+    ],
+    [
+      "By monorail",
+      "By bus",
+      "By train",
+      "By ferry"
+    ]
+  ],
+  "questions": [
+    "What should people take when getting on the bus in Sydney?",
+    "Which of the following is the best way to view the whole Sydney?"
+  ],
+  "article": "Sydney has a huge bus system. No buses accept cash, and a ticket needs to be bought ahead of time. The buses often run at busy hours and regularly during the day. The Sydney Explorer bus provides air-conditioned service and stops at 27 tourist attractions. Its partner, the Bondi Explorer, stops at 19 attractions. _ It's an easy way to see the city and the surroundings.\nSydney's train service runs throughout the central city area and the surroundings. Tickets can be bought from machines that operate 24 hours a day or from ticket offices. The monorail travels through central Sydney. It is the most excellent way to gain a good view of the whole city. The monorail runs every three to five minutes, and it takes 15 minutes to complete its journey.\nSydney is built around a harbor, and the Parramatta River has a large ferry system. It serves the area around the harbor. These include Taronga Zoo, Darling Harbor, Rose Bay, the North Shore, Cockatoo Island and Sydney Olympic Park. The ferries have operated for more than 135 years and 14 million passengers take the ferries each year.\nWater taxis can offer special services that some visitors enjoy, such as transporting passengers to specific locations, offering guided tours of waterways and so on. The tickets sell for 20 Australian dollars for a day or 57 Australian dollars for a week. It is strange,isn't it?",
+  "id": "asc02830"
+}

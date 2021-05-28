@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "He's Mr Black's friend.",
+      "He's Linda's husband.",
+      "He's an English teacher.",
+      "He's a worker."
+    ],
+    [
+      "She's a student.",
+      "She's thirteen.",
+      "She's seven.",
+      "We don't know."
+    ]
+  ],
+  "questions": [
+    "What is Bill?",
+    "How old is Mr.Black's daughter?"
+  ],
+  "article": "I am Bill.I am an English teacher.My wife  is Linda.She is a nurse. We have a daughter and a son.\nLook! These are my friends.This is Mr Black.He's a worker.He works in a shoe factory .He makes shoes.That's Mrs Black.She works in a supermarket .The girl is their daughter.She's a student.She's thirteen.The boy is their son.He is only seven years old.His name is Carl.\nWe are good friends.",
+  "id": "asc22672"
+}

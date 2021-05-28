@@ -1,0 +1,18 @@
+{
+  "answers": [
+    "C"
+  ],
+  "options": [
+    [
+      "Hewlett contest",
+      "education reform in America",
+      "robot-readers",
+      "William and Flora Hewlett Foundation"
+    ]
+  ],
+  "questions": [
+    "The text is written to introduce  _  ."
+  ],
+  "article": "American high school students are terrible writers, and one education reform group thinks it has an answer: robots. Or, more accurately, robot-readers-computers programmed to scan student essays and _ a grade.\nMark Shermis, professor of the College of Education at the University of Akron, is helping to hold a contest, set up by the William and Flora Hewlett Foundation ( WFHF), which promises $ 100,000 in prize money to programmers who write the best automated grading software. \"If you're a high school teacher and you give a writing task, you're walking home with 150 essays, \" Shermis said, \"You're going to need some help. \"\nAutomated essay grading was first proposed in the 1960s, but computers back then were not up to the task. In the late 1990s, as technology improved, several textbook and testing companies jumped into the field. Today, computers are used to grade essays on South Dakota's student writing assessments and a handful of other exams, including the TOEFL test of English fluency, taken by foreign students.\nThe Hewlett contest aims to show that computers can grade as well as English teachers---- only much more quickly and without all that depressing red ink. Automated essay scoring is \"objective,\" Shermis said, \" And it can be done immediately. If students finish an essay at l0 pm, they get a result at 10 :00 pm . \"\nTake, for instance, the Intelligent Essay Assessor, a web-based tool marketed by Pearson Education, Inc. Within seconds it can analyze an essay for spelling, grammar, organization, and help students to make revisions. The program scans for key words and analyzes semantic   patterns , and Pearson claims that it can understand the meaning of text much the same as a human reader.",
+  "id": "asc00670"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "as good as",
+      "better than",
+      "the same as",
+      "not the same as"
+    ],
+    [
+      "This is XX",
+      "I am XX",
+      "That is XX",
+      "He is XX"
+    ]
+  ],
+  "questions": [
+    "An English telephone is   _   a Chinese one.",
+    "If you want to tell the people who you are, you should say, \"    _"
+  ],
+  "article": "Can you make a telephone call? Of course you can make it in Chinese. But a call in English is quite different from one from one in Chinese. If you want to ask somebody to answer the telephone, you can not say, \"Please ask Mr. XX to answer the telephone.\" Instead ,you must say,\"May I speak to Mr. XX?\" If you want to ask who is answering the phone, you should say,\"Who is that?\"\"Is that Mr. XX ( speaking)?\"Instead of \"Who are you?\" If you want to tell the other one who you are, you should say,\"This is XX (speaking)\"instead of \"I am\nXX\"",
+  "id": "asc23306"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "write to the ISPs",
+      "fill in a form",
+      "apply for a mailbox",
+      "go to the post office"
+    ],
+    [
+      "ecp.",
+      "ecp.com.cn",
+      "com.cn",
+      "ecpjyb"
+    ]
+  ],
+  "questions": [
+    "If you want to send or receive an email, you should first   _  .",
+    "Here is an email address ecpjyb@ecp.com.cn. What is the name of the mailbox?"
+  ],
+  "article": "What is the E-mail\nThe e-mail, which is also called email, stands for \"electronic mail\". You can send messages in only a few seconds by e-mail.\nOn the Internet there are many powerful computers called \"servers\" to help people send and receive emails. The sending and receiving servers are just like post offices. If you want to use the email service, you have to open at least an email account  called a \"mailbox\", just like we set up a mailbox in a post office. Some mailboxes are provided free of charge by ISPs, which you can get when you open an Internet account. Most widely used mailboxes are provided free by the ISPs, and anyone can apply for one even if he has no ISP account.\nHow to apply for a free mailbox? First you have to connect to the Internet and go to the homepage  of the ISP providing free mailboxes. Then you'll find an icon  showing \"apply for a free mailbox\", click the icon, an agreement about the rules for using the free mailbox will appear. If you want to go on, click the icon \"I agree\". Then you have to fill in a form about your basic personal information, and the name and pin of the mailbox. The pin is the key to the mailbox. After finishing these, you'll get a mailbox like this: your name @ mail server, for example: jack@ 163. com. The mailbox is separated into two parts by a separator \"@\", which is read as \"at\". The former part is the name of the mailbox. The latter   is the domain name  of the mail server. All mails to you will be received by the server and put into your mailbox. You can read this mail on any computer in the world as long as you have the name and pin of the mailbox.",
+  "id": "asc03655"
+}

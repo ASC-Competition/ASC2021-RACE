@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "three",
+      "four",
+      "seven",
+      "two"
+    ],
+    [
+      "rich",
+      "poor",
+      "in a school",
+      "in the country"
+    ]
+  ],
+  "questions": [
+    "There are   _   people in Mike's family.",
+    "Their family is   _  ."
+  ],
+  "article": "Two little children come to a big city. Their names are Mike and Bob. They live with their father and mother. Their family is very rich. They have a driver and lots of servants. Mike and Bob are going to a new school. Their father says to them, \"Mike and Bob, don't say we are rich at school.\"\nSo they go to school. Their teacher says, \"Hi, boys and girls. Today we write a composition about your family. \" So all the children write something about their families. This is Mike's composition.\n\"My name is Mike. My family is poor. My father and my mother are poor. Our driver is very poor and all the servants are very poor. \"\n, .",
+  "id": "asc19842"
+}

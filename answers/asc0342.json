@@ -1,0 +1,50 @@
+{
+  "id": "asc0342",
+  "article": "Hello! I'm Lucy King. This is my friend. His first name is Mark. His last name is Hand. He is English. His school ID card number is 19922.My school ID card number is 12299. That's interesting . He is in a black and red jacket. His backpack is blue, and his watch is yellow. A baseball is in his hand .His telephone number is 235-3577.",
+  "questions": [
+    "Lucy is Mark's _ . _",
+    "The boy_ is _ . _",
+    "Lucy's school ID card number is _ . _",
+    "Mark has a _ .",
+    "Mark's backpack is _ ."
+  ],
+  "answers": [
+    "C",
+    "B",
+    "A",
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "brother",
+      "cousin",
+      "friend",
+      "sister"
+    ],
+    [
+      "Lucy king",
+      "Mark Hand",
+      "Tom Black",
+      "Hand Tom"
+    ],
+    [
+      "12299",
+      "19922",
+      "19292",
+      "235-3577"
+    ],
+    [
+      "green watch",
+      "black and red jacke",
+      "yellow jacket",
+      "black backpack"
+    ],
+    [
+      "yellow",
+      "black",
+      "blue",
+      "green"
+    ]
+  ]
+}

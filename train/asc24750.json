@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "Japanese",
+      "English",
+      "American",
+      "Chinese"
+    ],
+    [
+      "four",
+      "twelve",
+      "fourteen",
+      "eleven"
+    ]
+  ],
+  "questions": [
+    "Li Lei is   _  .",
+    "Li Lei's sister is  _  ."
+  ],
+  "article": "I am a Chinese boy. My name is Li Lei. I am twelve. My sister's name is Li Mei. She's Fourteen. Li Mei and I are students. We like school.   My mother is a teacher. She is a teacher of English. My father is a policeman. My young brother's name is Li Hong. He is only four. We all like him.",
+  "id": "asc24750"
+}

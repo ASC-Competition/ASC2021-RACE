@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "In a school.",
+      "In a hospital.",
+      "In a factory.",
+      "In a company."
+    ],
+    [
+      "Simon.",
+      "Simon's mother.",
+      "Simon's father.",
+      "Simon's brother."
+    ]
+  ],
+  "questions": [
+    "Where does Simon's father work?",
+    "Who doesn't like going to the cinema?"
+  ],
+  "article": "There are four people in Simon's family. They have different habits.\n* Simon's father is a doctor. He works in a hospital. He likes reading books very much. There are many books in his bedroom. He doesn't like going to the cinema.\n* Simon's mother is a music teacher. She likes listening to music, but she has no time to go to concerts.\n* Simon's brother is seven years old. He likes watching cartoons. He usually watches cartoons when his parents aren't at home.\n* Simon is a middle school student. He likes playing football. He often plays football with his friends after school. He likes playing computer games at home. But he doesn't like watching TV.",
+  "id": "asc19807"
+}

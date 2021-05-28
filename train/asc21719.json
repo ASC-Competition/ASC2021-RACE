@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "in the street",
+      "in the garden",
+      "in the zoo",
+      "at school"
+    ],
+    [
+      "Mrs. White",
+      "Mrs. Black's",
+      "Mr. Black's",
+      "Mr. White"
+    ]
+  ],
+  "questions": [
+    "The children often play football   _  .",
+    "Sometimes the children break   _   windows."
+  ],
+  "article": "The children often play football in the garden and sometimes break  Mr. Black's windows. One afternoon Mr. Black is at home and reads a book. In a minute he closes his eyes and goes to sleep. At that time a little boy knocks at the door. Mr. Black opens the door and asks, \"Do you break my window again ?\"\"Oh, no\"says the boy, \"Your window is open this time and our football is in your room. May I get it please?\"",
+  "id": "asc21719"
+}

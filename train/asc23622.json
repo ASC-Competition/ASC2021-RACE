@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "driver",
+      "reporter",
+      "teacher",
+      "doctor"
+    ],
+    [
+      "four",
+      "five",
+      "six",
+      "seven"
+    ]
+  ],
+  "questions": [
+    "Mr. Smith is a  _  .",
+    "Mr . Smith works  _  days a week ."
+  ],
+  "article": "Mr. Smith is thirty one .He is tall and heavy  , and he has short hair . He likes children and his job .He works at school and gives  the children classes from Monday to Friday .He often has much work to do , but he often plays games with his students after school .All his students like him very much .On Sunday he drives  to his parents' house and stays with his father and mother .Sometimes he goes to see his friends on Sundays .He drives back to school on Monday morning .",
+  "id": "asc23622"
+}

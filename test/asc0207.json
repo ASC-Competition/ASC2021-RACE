@@ -1,0 +1,50 @@
+{
+  "id": "asc0207",
+  "article": "Mary did not understand such sentencesas \" She is in blue today. \" You are yellow. \" He has a green thumb. \" He has told a white lie. and soon. And she went to her teacher for help. Mary: Mrs. Smith, there is a color in each of these sentences. What do they mean? Mrs. Smith: In everyday English, Mary, blue sometimes means sad. Yellow means afraid. A person with a green thumb grows plants well. And a white lie is not a bad one. Mary: Would you give me an example for a white lie? Mrs. Smith: Certainly. Now I give you some cake. In fact you don't like it, but you won't say it. Instead, you say, \" No, thanks, I'm hungry. That's a white lie. Mary: Oh, I see. Thank you very much.",
+  "questions": [
+    "Blue sometimes means sad and is _ English.",
+    "I don't have a green thumb , so all my plants _ .",
+    "Tom is _ to climb the tree. He's yellow.",
+    "He didn't like me to know _ of the accident . he told me a white lie.",
+    "He is _ today . His father is ill."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "good",
+      "spoken",
+      "poor",
+      "useful"
+    ],
+    [
+      "die off",
+      "grow well",
+      "look nice",
+      "are good"
+    ],
+    [
+      "happy",
+      "clever",
+      "sad",
+      "afraid"
+    ],
+    [
+      "the reason",
+      "the meaning",
+      "the answer",
+      "the true story"
+    ],
+    [
+      "blue",
+      "yellow",
+      "green",
+      "white"
+    ]
+  ]
+}

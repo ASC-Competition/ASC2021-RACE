@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "pen",
+      "pencil ease",
+      "ruler",
+      "jacket"
+    ],
+    [
+      "green and yellow",
+      "yellow",
+      "green",
+      "blue"
+    ]
+  ],
+  "questions": [
+    "Dale is a    _   .",
+    "The pencil case is    _   ."
+  ],
+  "article": "I'm Dale.I'm a green and yellow pencil ease.What's this? Oh, it's Helen, a pen.And that's Frank, a ruler.Helen is black and Frank is blue.What's this in English? It's a jacket, a white jacket.Its name is Alice.What color is the key? Oh, it's black.\n,.",
+  "id": "asc24881"
+}

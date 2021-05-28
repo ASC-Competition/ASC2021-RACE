@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "Chinese; Chinese",
+      "Chinese; English",
+      "English; Chinese",
+      "English; English"
+    ],
+    [
+      "girls",
+      "boys",
+      "13",
+      "in Class One"
+    ]
+  ],
+  "questions": [
+    "Li Hua is   _  , but Tom is   _  .",
+    "Tom and Li Hua are   _  ."
+  ],
+  "article": "Tom and I are good friends. Tom is an English boy, but I am a Chinese girl. My name is Li Hua. He is 12 and I am 13. He is in Class One. I'm in Class One, too.\nTom has a nice football. He can play it. I have a computer. I can play computer games, but I can't play football. It's difficult. Tom teaches   me to play football, and I teach him to play computer games. Now I can play football and Tom can play computer games.",
+  "id": "asc19982"
+}

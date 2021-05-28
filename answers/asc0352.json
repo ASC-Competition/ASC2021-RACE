@@ -1,0 +1,42 @@
+{
+  "id": "asc0352",
+  "article": "Look at the clothes line in the twins' bedroom. There are some clothes on it. You can see a green blouse , a yellow skirt and a pair of trousers . The trousers on the clothes line are black. They are not new but clean. Are they Lily's clothes? No. I know they are Lucy's. Lily's clothes are on a clothes tree near one bed in their room. Trousers are brown, her blouse is white and her skirt is blue. There is a new hat on the clothes tree, but it's not Lily's. It's Lucy's. There are no clothes on the other bed, and the bed is Lily's.",
+  "questions": [
+    "You can see the following in the bedroom EXCEPT _ .",
+    "What color are Lucy's trousers? They are _ .",
+    "Where is Lucy's hat? It's on _ .",
+    "What is on Lily's bed?"
+  ],
+  "answers": [
+    "D",
+    "B",
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "a clothes line",
+      "a clothes tree",
+      "two beds",
+      "the twins_"
+    ],
+    [
+      "green",
+      "black",
+      "brown",
+      "white"
+    ],
+    [
+      "the clothes tree",
+      "the clothes line",
+      "Lily's bed",
+      "her own bed"
+    ],
+    [
+      "Her skirt.",
+      "Her tree._",
+      "Her clothes.",
+      "We don't know._"
+    ]
+  ]
+}

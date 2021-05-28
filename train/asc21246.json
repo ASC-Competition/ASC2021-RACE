@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "brother",
+      "sister",
+      "uncle",
+      "father and mother"
+    ],
+    [
+      "on her bike",
+      "on a bus",
+      "in a car",
+      "on a train"
+    ]
+  ],
+  "questions": [
+    "Alice is in Beijing with her  _",
+    "Alice goes to the zoo  _"
+  ],
+  "article": "Alice is an American girl .She is thirteen. She is now in Beijing with her parents .She doesn't know much Chinese. She can't speak Chinese well .Sometimes her friends do not understand her.\nIt's Sunday morning .She's going to the zoo to see the pandas .She is waiting at the bus station .At the bus station she asks a boy how to go to the zoo .But the boy can't understand    her .Then she takes out   a pen and some paper .She draws a panda on it and shows the picture to the boy .The boy smiles and shows the way to the zoo right now.",
+  "id": "asc21246"
+}

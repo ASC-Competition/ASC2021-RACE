@@ -1,0 +1,42 @@
+{
+  "id": "asc0345",
+  "article": "In many English homes people eat four meals a day. They have breakfast at any time from seven to nine in the morning. They eat eggs or bread and drink tea or coffee for breakfast. Lunch comes at one o'clock. Afternoon tea is from four to five in the afternoon and dinner is about half past seven. First they have soup, then they have meat or fish with vegetables. After that they eat some fruit, like bananas, apples or oranges. But not all English people eat like that. Some of them have their dinner in the middle of the day.",
+  "questions": [
+    "Many English people have _ meals a day.",
+    "English people eat _ for breakfast.",
+    "Afternoon tea is _ in the afternoon.",
+    "People don't have _ for their dinner."
+  ],
+  "answers": [
+    "C",
+    "B",
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "two",
+      "three",
+      "four",
+      "five"
+    ],
+    [
+      "hamburgers",
+      "eggs",
+      "rice",
+      "chicken"
+    ],
+    [
+      "at one o'clock",
+      "from four to five",
+      "from one to two",
+      "from seven to nine"
+    ],
+    [
+      "bananas or apples",
+      "soup or meat",
+      "meat or fish",
+      "rice or vegetables"
+    ]
+  ]
+}

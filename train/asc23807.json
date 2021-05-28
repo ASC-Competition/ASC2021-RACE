@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    [
+      "$4.00",
+      "$ 2.00",
+      "$3.00",
+      "$1.00"
+    ]
+  ],
+  "questions": [
+    "How many kinds of animals are mentioned  in the passage?",
+    "Now Mr Smith is in the zoo with his two sons, one aged 14 and the other 10. How much are the tickets together?"
+  ],
+  "article": "Come and see the Indian  elephants and new tigers from America. The bears are waiting to meet you, and the monkeys from china are waiting to throw  things at you. The lovely dogs from Australia are waiting to laugh at  you. The giraffes from Zambia  are waiting to look down on you.\nTickets\nAdults :$2.00\nChildren : Over 12: $1.00\nUnder12: Free\nOpening time\n9:00 am- 4:00pm(from Saturday to Thursday)\n10:00am-3:00pm (Friday)\nKeep the zoo clean! Don`t touch , give food or go near the animals.",
+  "id": "asc23807"
+}

@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "B",
+    "B",
+    "B",
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "White.",
+      "Red.",
+      "Yellow.",
+      "Green."
+    ],
+    [
+      "shirt",
+      "skirt",
+      "dress",
+      "coat"
+    ],
+    [
+      "Sue",
+      "Emma",
+      "Jenny",
+      "David"
+    ],
+    [
+      "black pants",
+      "black cap",
+      "white cap",
+      "white pants"
+    ],
+    [
+      "Sue and Emma",
+      "Mina and Sue",
+      "David and Peter",
+      "David and Mina"
+    ]
+  ],
+  "questions": [
+    "What color does Sue like?",
+    "Mina is in a white   _  .",
+    "Mina's sister's name is   _  .",
+    "David often wears a   _  .",
+    "_   often wear black pants."
+  ],
+  "article": "My friends like different clothes. Sue likes red clothes. She is often in a red skirt and red shoes. Mina likes white clothes. She is in a white shirt. Her sister Emma likes to wear a green skirt. She looks nice. David often wears a white cap and black pants. Peter often wears a white coat and black pants.\n,.",
+  "id": "asc0332"
+}

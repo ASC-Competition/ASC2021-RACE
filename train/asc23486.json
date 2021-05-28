@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "Jack's",
+      "Mary's",
+      "Tom's",
+      "Smith's"
+    ],
+    [
+      "Yes, it is.",
+      "Yes, it isn't.",
+      "No, it is.",
+      "No, it isn't."
+    ]
+  ],
+  "questions": [
+    "The dog is  _  .",
+    "Is this Mary's watch?"
+  ],
+  "article": "My name is Tom Black. This is my cousin, Jack Smith. That is his dog. That computer is my cousin's. The orange notebook is his, too. I have a good friend. Her name is Mary Smith. Is this her watch? No, it isn't. It is black, It is mine. Hers is white.",
+  "id": "asc23486"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asc0358",
+  "article": "My good friend Lucy has a big family. Many members are in her family: her grandparents, her parents, her uncle, her aunt, her two cousins and she. Alan and Gina are her grand-parents. Nick and Sonia are her parents. Paul is her uncle and Mona is her aunt. Dave is Paul and Mona's first son. He is 12. Tim is Dave's brother. He is 10.",
+  "questions": [
+    " _ members are in Lucy's family.",
+    "Alan is Lucy's _ .",
+    "Lucy's parents are _ .",
+    "Tim is Lucy's _ ."
+  ],
+  "answers": [
+    "D",
+    "B",
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+    ],
+    [
+      "grandmother",
+      "grandfather",
+      "mother",
+      "father"
+    ],
+    [
+      "Alan and Gina",
+      "Nick and Sonia_",
+      "Paul and Mona",
+      "Dave and Mona"
+    ],
+    [
+      "brother",
+      "cousin",
+      "friend",
+      "son"
+    ]
+  ]
+}

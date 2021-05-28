@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "an English",
+      "a Chinese",
+      "an American",
+      "a Japanese"
+    ],
+    [
+      "gave him a new one",
+      "asked him to buy a new one",
+      "helped him buy a new one",
+      "helped him mend  the old coat"
+    ]
+  ],
+  "questions": [
+    "Einstein was   _   scientist.",
+    "Einstein's coat was very old. His friend   _  ."
+  ],
+  "article": "One day Einstein  was walking in the street in New York. His friend met him and said to him, \"Einstein, you should buy a new coat. Look, how old your coat is!\" But Einstein answered, \"It doesn't matter. Nobody knows me here.\"\nAfter a few years Einstein became a famous scientist. But he still wore the old coat.\nHis friend met him again and asked him to buy a new one. But Einstein said, \"I needn't buy a new one. Everyone knows me here.\"",
+  "id": "asc24289"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Among 100 pedestrian deaths there were 21 people younger than 70.",
+      "Old people are more likely to meet with accidents in crosswalks.",
+      "Traffic accidents killed more old people than young people.",
+      "About seven traffic accidents happened per hour."
+    ],
+    [
+      "Fixing more traffic lights.",
+      "Providing more crosswalks.",
+      "Giving pedestrians more time to cross streets.",
+      "Increasing the time before the orange lights appear."
+    ]
+  ],
+  "questions": [
+    "Which of the following is true according to the text ?",
+    "What is FHWA's suggestion to states?"
+  ],
+  "article": "Cities alarmed by deaths and injuries of pedestrians are taking efforts to make crosswalks safer for people on foot, especially seniors and children who need more time to cross streets.\n   A pedestrian is killed in a traffic accident in the USA every 110 minutes;one is injured every nine minutes, according to official data. Crosswalk can be especially dangerous for the elderly. Among people 70 and older, 36% of pedestrian deaths in 2006 occurred in crosswalks, compared with 21% of those younger than 70, according to the Insurance Institute for Highway Safety.\n   The Federal Highway Administration(FHWA)advises that next year states increase by nearly 15% the amount of time traffic lights provide for pedestrians to cross the street after the flashing orange hand appears .\n   FHWA spokesman Doug Hecox says reasons for the change include an aging population that needs more time to cross, health-conscious Americans walking more, children encouraged to walk to prevent getting overweight and high gas prices pushing people to walk instead of driving.\n   Pedestrian deaths went down by 12% from 5,449 in 1996 to 4,784 in 2006. But among those in 2006, 471 were killed in crosswalks, down slightly from 488 ten years earlier, the National Highway Traffic Safety Administration (NHTSA) says .",
+  "id": "asc11614"
+}

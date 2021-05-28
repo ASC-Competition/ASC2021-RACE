@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "one",
+      "two",
+      "three",
+      "four"
+    ],
+    [
+      "bus",
+      "air",
+      "train",
+      "sea"
+    ]
+  ],
+  "questions": [
+    "The people in the story are from   _   countries.",
+    "The four people are traveling by   _  ."
+  ],
+  "article": "A Russian, a Cuban, an American businessman and an American lawyer were on a train traveling across England. The Russian took out a large bottle of vodka, gave each of the men a drink and then threw the rest half bottle of vodka out of the window. \"Why did you do that?\" asked the American businessman. \"There's too much vodka in my country,\" said the Russian, \"And really we have more than we will ever use.\" A little later, the Cuban passed around fine Havana Cigars. Then he threw his out of the window. \"I thought Cuba is not a rich country,\" the businessman said. \"But you threw that very good cigars out of the window!\" \"Cigars,\" the Cuban answered, \"are the cheapest in my country. We have more of them than we know what to do with.\" The American businessman sat quietly for a moment. Then he got up, caught the lawyer by the arm and threw him of the window.",
+  "id": "asc24746"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "asc0220",
+  "article": "Hello, everyone! My name is Sam. This is my study. It's big and clean. The walls are white and the floor is yellow. Just near the window, there is a computer table. A nice computer is on it. My favorite thing is to play computer games. It's very interesting. There is a bookcase on the left of the computer desk. You can see lots of books and pictures on it. I often do my homework or study in my study. I get much knowledge . I like my study very much.",
+  "questions": [
+    "What color are the walls of Sam's study?",
+    "Just near the _, there is a computer table.",
+    "Sam likes to _best.",
+    "There are _on the bookcase.",
+    "From the passage, we know _ ."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "White.",
+      "Red.",
+      "Blue.",
+      "Yellow."
+    ],
+    [
+      "bed",
+      "door",
+      "bag",
+      "window"
+    ],
+    [
+      "play the piano",
+      "play computer games",
+      "play games with my friends",
+      "play basketball"
+    ],
+    [
+      "lots of books and pictures",
+      "lots of books",
+      "lots of pictures",
+      "lots of pencils and pictures"
+    ],
+    [
+      "Sam only studies in his study",
+      "Sam's study is not very big",
+      "Sam likes his study very much",
+      "there is a bookcase on the right of the computer desk"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "A tool to identify flu symptoms.",
+      "An organization for disease control.",
+      "A network of 1,500 doctors.",
+      "A system to estimate flu activity levels."
+    ],
+    [
+      "The fact that a lot of people use online information every day.",
+      "The idea that a flu outbreak is likely where flu-related search terms are popular.",
+      "The need to have a faster system than traditional ones currently in use by the government.",
+      "The patients' complaining of flu-like symptoms."
+    ]
+  ],
+  "questions": [
+    "What is Google Flu Trends?",
+    "What led to the development of Google Flu Trends?"
+  ],
+  "article": "If you have a fever, headache and runny nose, you might go to Google and type in the words \"flu symptoms\" to see whether you've come down with the disease.\n     Google knows that you might do something like that, and it also knows which state you're in if you are in the United States. Now, it's putting that information together in a tool that could find out flu outbreaks faster than traditional systems currently in use, according to CNN report. It is called Google Flu Trends.\n     \"What's exciting about Flu Trends is that it lets anybody---doctors, health officials, moms with sick children---learn about the current flu activity level in their own state based on the data that's coming in this week,\" said Jeremy Ginsberg, the lead engineer who developed the tool.\n     The tool operates on the idea that there's likely to be a flu outbreak in states where flu-related search terms are currently popular.\n     To test the accuracy of the data, Google compared its figures against statistics filed  over the past five years by the US Centers for Disease Control. It has a network of 1,500 doctors across the US who provide weekly reports on the number of patients complaining of flu-like symptoms.\n     \"We found we could highly accurately estimate what the flu activity levels would be in those years,\" Ginsberg said. They also found that the Google statistics, which can be gathered daily, were up to two weeks ahead of the government's data. The government's data took time to collect because it came from so many doctors.\n     The ability to speed up the response of health services could prove invaluable when a serious outbreak happens.\n     The results of Google's comparisons with official health statistics will be published in the science journal Nature.\n     Google hopes to extend the service to other countries, and may in time include other illnesses. At present, the flu data is given for each of the 50 American states.\n     The company says there are no privacy issues involved as the trends are gathered through combining millions of anonymous  searches.",
+  "id": "asc09268"
+}

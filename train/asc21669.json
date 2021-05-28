@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "milk",
+      "butter",
+      "jam",
+      "sweet"
+    ],
+    [
+      "sugar",
+      "milk",
+      "cheese",
+      "tea"
+    ]
+  ],
+  "questions": [
+    "Cheese is made from  _  .",
+    "In America, they usually eat bread with   _  ."
+  ],
+  "article": "The food in America is different from (......) that in China. The American people eat a lot of potatoes. They like to eat them every day. They often eat bread. They eat it with cheese, butter or jam . Cheese and butter are made from milk. The American people drink a lot of milk. They put it in the tea. They also drink coffee. And they like meat or fish with vegetables. After the meal, they have something sweet,it's dessert.",
+  "id": "asc21669"
+}

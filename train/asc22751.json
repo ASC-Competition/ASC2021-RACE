@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "Green.",
+      "Blue.",
+      "Red.",
+      "Yellow."
+    ],
+    [
+      "Smith.",
+      "Brown.",
+      "Alice.",
+      "Cindy."
+    ]
+  ],
+  "questions": [
+    "What color is Alice's jacket?",
+    "What's Cindy's last name?"
+  ],
+  "article": "Good afternoon! I'm Alice. My last name is Smith. I'm in a red jacket. I'm in Xingfu Middle School. My phone number is 569-2679. This is Cindy Brown. She is my good friend. She is in a yellow jacket. She is in Xingfu Middle School, too. What's her phone number? It's 865-2397.",
+  "id": "asc22751"
+}

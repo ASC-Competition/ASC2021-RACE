@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "On a farm.",
+      "On the land.",
+      "In the river.",
+      "In the sea."
+    ],
+    [
+      "A baby frog stays at home and knows only his parents.",
+      "A baby frog looks like a bird and he knows his parents.",
+      "A baby frog looks like his parents but he doesn't know them.",
+      "A baby frog looks like a fish and he has a lot of brothers and sisters."
+    ]
+  ],
+  "questions": [
+    "Where is a frog born?",
+    "Which of the following is right.'?"
+  ],
+  "article": "A frog   is born in a small river.When he is young,the river is his home.He doesn't know his parents,but he has hundreds of brothers and sisters.He swims about and plays with them all the time.At that time,he doesn't look like his parents.He has no legs and he has a big tail  .So he looks like a fish.\nLater,his tail gets shorter and shorter.And he has four legs and a very short tail.He looks like his parents now. Then, he's going to eat a lot of bad insects  .",
+  "id": "asc22365"
+}

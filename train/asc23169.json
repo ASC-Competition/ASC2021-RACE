@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "Peter",
+      "Brown",
+      "Green",
+      "White"
+    ],
+    [
+      "279-4856",
+      "297-4856",
+      "279-4956",
+      "279-4866"
+    ]
+  ],
+  "questions": [
+    "Peter's last name is   _   .",
+    "Peter's ID card number is   _   ."
+  ],
+  "article": "This boy is Peter Brown . His first name is Peter . His last name is Brown . He is in No.3 Middle School . His school ID card number is 279-4856 . His English teacher is Miss White . Miss White is a good teacher . Jack is his good friend at school . They are in the same school and the same grade . Mrs. Green is Jack's mother . She is an English teacher , too . She is in this school , too . But Peter does not know it .",
+  "id": "asc23169"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "in the park",
+      "in the street",
+      "in front of a house",
+      "in front of a shop"
+    ],
+    [
+      "Henry himself",
+      "Henry's father",
+      "Nobody",
+      "Henry's mother"
+    ]
+  ],
+  "questions": [
+    "One day, Henry is playing   _   .",
+    "The woman wants to see   _   ."
+  ],
+  "article": "Henry is a naughty boy in Bayern, Germany. He has big eyes and a small mouth. One day, Henry is playing in front of a house. A woman comes up. She has small eyes. And she asks Henry, \"Little boy, is your mother at home?\"\n\"Yes, she is.\" answers the boy. And Henry goes on playing happily.\nThen the woman goes over to ring the bell. The bell rings and rings, but no one comes to open the door. The woman gets angry and calls out to him, \" You tell me your mother is at home, don't you?\"\n\"Yes,\" the boy answers. \"My mother is at home, but this isn't my home.\"\nThen the woman stares at   Henry. The boy says, \"You have big eyes, too!\"",
+  "id": "asc22937"
+}

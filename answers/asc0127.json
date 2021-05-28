@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "D",
+    "C",
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "Oil",
+      "Trees",
+      "Wood",
+      "Soil"
+    ],
+    [
+      "ice from Antarctica and Greenland is appropriate to show the change",
+      "carbon dioxide is released mainly from the fuel",
+      "level of carbon dioxide increases with global temperatures",
+      "carbon dioxide is helpful for tree growth"
+    ],
+    [
+      "they think that carbon is beneficial for plant growth",
+      "they want to use more fuels that can send out carbon dioxide",
+      "they think it will destroy the natural balance of gases in the world",
+      "they think carbon dioxide is not the main reason for global warming"
+    ],
+    [
+      "more carbon dioxide is beneficial for trees' growth for many decades",
+      "trees' function for absorbing carbon dioxide is limited",
+      "carbon dioxide is the main cause for global warming",
+      "leaves falling from trees can send out more oxygen"
+    ]
+  ],
+  "questions": [
+    "Which one is NOT mentioned in this passage that can be the source of carbon dioxide?",
+    "The committee report of National Academy of sciences in Washingtonreveals that_.",
+    "According to this passage ,those people disagree with the control of carbon dioxide because    .",
+    "Those studies carried out in North Carolinasuggest that_."
+  ],
+  "article": "Recently a committee of the National Academy of Sciences inprefix = st1 /Washingtonreleased a report .It confirmed that world temperatures increased about six-tenths of a degree Celsius in the last one hundred years. The report also confirmed evidence that the level of carbon dioxide in increasing.\n       The best information about climate in the past comes from tests of ice many kilometers deep in Antarctica and Greenland .These tests show that levels of carbon dioxide today are the highest ever measured .These findings have led scientists to believe that carbon dioxide is a major cause of climate warming.\n       Carbon dioxide is released into the atmosphere when fuel is burned. Oil ,coal and wood are all fuels that release the gas .When biological waste breaks down ,it also releases carbon dioxide.\n       However ,plants use carbon dioxide in the process called photosynthesis. This process provides food for almost all life on Earth. Some groups that support burning oil and coal want to increase the amount of carbon dioxide in the atmosphere . They oppose international efforts to control carbon dioxide.\n       Some scientists believe that forests and trees are able to capture large amounts of carbon dioxide from the air. Some groups even suggest that an increase in carbon dioxide could cause plants to grow faster.\n       A recent study inNorth Carolinafound that more carbon dioxide in the air could cause trees to grow faster .But the researchers found the effect appears to last for only three years. Another study showed that much of the carbon dioxide that is taken in by trees in released within three years. The study noted that leaves released carbon dioxide when they fall from trees and break down in the soil. Plants also naturally release carbon dioxide  through the process of respiration.",
+  "id": "asc0127"
+}

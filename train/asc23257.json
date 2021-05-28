@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "Yes, he is.",
+      "No, he isn't.",
+      "Yes, they are.",
+      "No, they aren't."
+    ],
+    [
+      "35",
+      "14",
+      "21",
+      "13"
+    ]
+  ],
+  "questions": [
+    "Are Mr Huang's students all Chinese?",
+    "How many girls are there in Miss Huang's class?"
+  ],
+  "article": "Miss Huang and Mr Huang are teachers in No.16 Middle School. Their school isn't big, but it's beautiful. There are 35students in Miss Huang's class, twenty-one boys and fourteen girls. They are all Chinese. In Mr Huang's class, there are two Americans, one boy, Robert and one girl, Kate. They are good students. Miss Huang and Mr Huang like their students very much.",
+  "id": "asc23257"
+}

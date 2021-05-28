@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "sisters",
+      "teachers",
+      "friends",
+      "brothers"
+    ],
+    [
+      "an English boy",
+      "a Japanese girl",
+      "an American boy",
+      "an English girl"
+    ]
+  ],
+  "questions": [
+    "Peter and I are   _  .",
+    "Peter is   _  ."
+  ],
+  "article": "Peter and I are good friends. Peter is an American boy. I am a Japanese girl. He is thirteen. I am twelve. We are in the same class,Class Two.\nPeter has a nice clock. He likes it very much. He puts it on his desk. Every morning it wakes him up . I have a new watch. It looks beautiful. I wear it every day. It tells  me the time.",
+  "id": "asc19643"
+}

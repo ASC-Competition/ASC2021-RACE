@@ -1,0 +1,50 @@
+{
+  "id": "asc0054",
+  "article": "Hello, I'm Bob. Look! This is a book. It's my English book. That is a black eraser. It's Mike's eraser. My eraser is black. It's in my pencil box. Oh! What's that? It's a dictionary. It's Tom's dictionary. Are the rulers Tom's? No, they aren't. They're Jenny's.",
+  "questions": [
+    "The English book is _ .",
+    "What color is Mike's eraser?",
+    "Where is Bob's eraser?",
+    "Is the dictionary Tom's?",
+    "Are these rulers Tom's?"
+  ],
+  "answers": [
+    "A",
+    "B",
+    "A",
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "Bob's",
+      "Mike's",
+      "Tom's",
+      "Jenny's"
+    ],
+    [
+      "Red",
+      "Black",
+      "Yellow",
+      "White"
+    ],
+    [
+      "In his pencil box.",
+      "In her pencil box.",
+      "In Mike's pencil box.",
+      "In Tom's pencil box."
+    ],
+    [
+      "Yes, it isn't",
+      "No, it isn't.",
+      "Yes, it is",
+      "Yes, they're."
+    ],
+    [
+      "Yes, it is",
+      "No, it isn't.",
+      "Yes, they are",
+      "No, they aren't."
+    ]
+  ]
+}

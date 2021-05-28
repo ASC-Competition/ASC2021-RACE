@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "color",
+      "first name",
+      "brother",
+      "family name"
+    ],
+    [
+      "yellow bike",
+      "yellow jeep",
+      "green bike",
+      "green jeep"
+    ]
+  ],
+  "questions": [
+    "Black is Mark's  _  .",
+    "Mark has a  _  ."
+  ],
+  "article": "Mark Black is my good friend. He is English. He has a yellow bike. His bike number is 9075. His mother has a black car. The number is CA3566. His father has a black car, too. The number is CA3567.",
+  "id": "asc21657"
+}

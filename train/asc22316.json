@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "55.",
+      "175.",
+      "325.",
+      "275."
+    ],
+    [
+      "Milk.",
+      "Rice",
+      "Peanuts.",
+      "Milk or peanuts."
+    ]
+  ],
+  "questions": [
+    "How many calories are needed to raise the temperature of 5kg of water from 35degC to 90degC?",
+    "Which of the following contains the most amount of calories?"
+  ],
+  "article": "The human body is a living machine, and, like all machines, it needs \"fuel\" to supply it with energy. This is provided by the food we eat. But how much do we need to stay healthy?\nThe energy value of food is usually measured in calories . A calorie is the amount of heat required to raise the temperature of 1 kg of water by 1degC. The number of calories people need per day is different, as the picture shows. Also, the number of calories you use at any one moment normally depends on the activity you are in. For example, you need more calories for standing than for sitting, more for running than for walking, and so on.\nThe energy in food is in the form of three kinds of chemical materials--carbohydrate , protein  and fat. Carbohydrate provides 3.8 Cal /gm of the energy, protein 4.0 Cal/gm, and fat 8.8 Cal/gm. Each food contains different amounts of these materials, as the round pictures show.\n(P= protein      C= carbohydrate    F=fat)",
+  "id": "asc22316"
+}

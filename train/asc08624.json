@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "What you should do if your credit card is stolen.",
+      "What you should do if your identity is stolen.",
+      "What an imposter always does to make money.",
+      "What the Federal Trade Commission is about."
+    ],
+    [
+      "Inform creditors not to open any new accounts in your name without your permission.",
+      "Ask for copies of your credit reports and make sure no other frauds have been made.",
+      "Keep ordering new copies to check what you have already changed and corrected.",
+      "Always lock your ID card in your cupboard in case it should be stolen."
+    ]
+  ],
+  "questions": [
+    "What's the subject discussed in the text?",
+    "What should you do first when you find your identity is stolen?"
+  ],
+  "article": "Maybe you never opened that account, but someone else did ----someone who used your name and personal information to commit fraud . When an imposter uses your name, your credit card number, or some other piece of your personal information for their own purpose -in short, when someone takes your personal information without your knowledge -it's a crime, pure and simple.\n       The biggest problem is that you may not know your identity has been stolen until you notice that something's wrong: you may get bills for a credit card account you never opened, your credit report may include debts you never knew you had, a billing cycle may pass without your receiving a statement, or you may see charges on your bills that you didn't sign for, and even don't know anything about.\n       If someone has stolen your identity, the Federal Trade Commission (FTC) suggests that you take three actions immediately.\n       First, contact the fraud departments of each of the three major credit offices. Tell them to flag your file with a fraud alert including a statement that creditors should get your permission before opening any new accounts in your name.\n       Then, ask the credit offices for copies of your credit reports. Credit offices must give you a free copy of your report if it is not correct because of fraud. Review your reports carefully to make sure no additional fraudulent accounts have been opened in your name or unauthorized changes made to your present accounts. In a few months, order new copies of your reports to check your corrections and changes, and to make sure no new fraudulent activity has occurred.",
+  "id": "asc08624"
+}

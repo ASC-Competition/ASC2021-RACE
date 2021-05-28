@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "In Beijing.",
+      "In Shantou.",
+      "In Shandong.",
+      "In Wuhan."
+    ],
+    [
+      "An actor.",
+      "A manager.",
+      "A teacher.",
+      "A driver."
+    ]
+  ],
+  "questions": [
+    "Where is Cathy now?",
+    "What's Cathy's father's job?"
+  ],
+  "article": "My name is Cathy. I'm English, but I'm in shandong with my family now. Look! This is a photo of my family. This is my father. He is a manager of a theatre. He likes running. My mother is a nurse. She likes listening to music. The boy is my brother, Sam. His favourite sport is basketball. Who is the girl next to him? It's me. I like table tennis very much.",
+  "id": "asc21202"
+}

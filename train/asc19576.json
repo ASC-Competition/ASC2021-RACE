@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "Tommy",
+      "Mimi",
+      "Tina",
+      "I don't know"
+    ],
+    [
+      "It is under the chair.",
+      "It is on the bed.",
+      "It is behind the door.",
+      "It is in the schoolbag."
+    ]
+  ],
+  "questions": [
+    "_  is looking for the cat.",
+    "Where is the cat?"
+  ],
+  "article": "Tommy:Hello, Tina.\nTina: Hello, Tommy.\nTommy: I can't find my cat . Tina, do you see it?\nTina: No, I don't. Is it under the chair?\nTommy: No.\nTina: Is it behind(......)the door?\nTommy: Let me see. My schoolbag is here. Where is my cat?\nTina: Hey, Tommy. Look,it's on your bed.\nTommy: Yes. Thank you,Tina. Mimi,come here.",
+  "id": "asc19576"
+}

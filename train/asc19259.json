@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "English",
+      "Science",
+      "Math",
+      "History"
+    ],
+    [
+      "Because he is kind to his students.",
+      "Because he teaches them carefully.",
+      "Because his classes are very interesting.",
+      "Because students like him."
+    ]
+  ],
+  "questions": [
+    "What does Mr. Jackson teach?",
+    "Why do the students like his classes?"
+  ],
+  "article": "Mr. Jackson is a teacher of science in a middle school. His students like his classes because his classes are very interesting. They can learn a lot in his class. The students can make many things. His little son Val also likes making things. He makes lots of machines , such as a machine like a man. It can do the job that is dangerous for people to do. He says, \"I want to be a scientist.\"\n,.",
+  "id": "asc19259"
+}

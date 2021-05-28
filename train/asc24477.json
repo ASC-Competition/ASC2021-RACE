@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "healthy",
+      "unhealthy",
+      "junk",
+      "fast"
+    ],
+    [
+      "eggs, chicken, milk",
+      "eggs, milk, apples",
+      "eggs, milk, bananas",
+      "milk, pizza"
+    ]
+  ],
+  "questions": [
+    "Lily likes to eat  _  food.",
+    "She likes to eat  _  and bread in the morning."
+  ],
+  "article": "Lily is a healthy girl. She likes to eat vegetables and fruits every day. She has eggs, milk, bananas and bread for breakfast. For lunch, she likes sandwiches, carrots and apples. And she eats chicken, tomatoes, broccoli and fruit salad for supper. Sometimes she has ice cream or apple pies for dessert. She has a good friend, Henry. He is very fat, because he likes to eat much junk food, such as ice cream, chocolate, French fries, coke, popcorn and so on. He gets much fat from the unhealthy food.",
+  "id": "asc24477"
+}

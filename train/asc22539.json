@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "6:50",
+      "7:00",
+      "7:10",
+      "10:00"
+    ],
+    [
+      "coffee and bread",
+      "bread and orange",
+      "oranges and bread",
+      "eggs and bread"
+    ]
+  ],
+  "questions": [
+    "Amma gets up at  _  .",
+    "She has  _  for breakfast."
+  ],
+  "article": "Every morning Amma gets up at ten to seven. She brushes her teeth, takes a shower and gets dressed . Then she goes to the kitchen and makes breakfast. She usually has orange juice and bread for breakfast. After breakfast, she reads the newspaper. At seven forty--five she leaves home and goes to work by subway.",
+  "id": "asc22539"
+}

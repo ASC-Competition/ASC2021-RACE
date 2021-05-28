@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "thirty",
+      "thirty-five",
+      "forty",
+      "forty-five"
+    ],
+    [
+      "one hundred",
+      "ninety-nine",
+      "ninety-eight",
+      "hundred"
+    ]
+  ],
+  "questions": [
+    "There are   _   cars over there.",
+    "There are   _   buses."
+  ],
+  "article": "There are many cars over there. Five of them are brown. Twelve of them are red. Three of them are yellow. Four green cars, eight blue cars, two orange cars and one white car are there, too. They are new. They are nice. Look, these aren't cars, they are buses. They are in different  colors: ten red, eleven green, seventy yellow and nine blue. They are all old. They are big. All the cars and buses belong to   Mr. Smith.",
+  "id": "asc24190"
+}

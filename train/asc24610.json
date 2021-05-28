@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "brother and sister",
+      "brothers",
+      "sisters",
+      "friends"
+    ],
+    [
+      "two chairs and one desk",
+      "two desks and chair",
+      "two chairs and two desks",
+      "one desk and one chair"
+    ]
+  ],
+  "questions": [
+    "Cara and Ben are   _  .",
+    "Cara and Ben have   _  ."
+  ],
+  "article": "These are Cara and Ben. They are twins  . They are twelve. This is their bedroom. It's a nice room. There are two beds in the room. The yellow bed is Cara's and that green one is Ben's. The twins have one desk and two chairs. The chairs look the same. Cara's sweater is on his bed. Ben's coat is on his chair. Their clock, books and pencil-boxes are on the desk. Their schoolbags are behind the chairs.",
+  "id": "asc24610"
+}

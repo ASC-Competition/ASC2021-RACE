@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "To predict the sales volume.",
+      "To check the delivery service.",
+      "To shorten the delivery period.",
+      "To remind people to order online."
+    ],
+    [
+      "the design plans",
+      "the delivery price",
+      "the driver's training",
+      "the safety assessment"
+    ]
+  ],
+  "questions": [
+    "For what purpose does Amazon want to use the Prime Air?",
+    "The Prime Air Vehicles will be regulated by the U.S.'s FAA for   _  ."
+  ],
+  "article": "Lots of people buy books and products from Amazon, an online seller. They offer and pay over the Internet and the books are shipped through the mail or a delivery service like FedEx.\nOne day, people could get their Amazon deliveries from an \"unmanned aerial vehicle\"--a timely vehicle that looks like a toy helicopter. And instead of waiting days to get the parcel, it could be at the buyer's home in half an hour or less. The company is working on a fleet of tiny vehicles they call \"Prime Air\". The vehicles are also known as \"octocopters\". On their website, Amazon says, \"One day, Prime Air Vehicles will be as normal as seeing a mail trucks on the road today.\"\nThe U.S.'s Federal Aviation Administration (FAA) is working on safety regulations for unmanned flying vehicles like the Prime Air copters. Those regulations will make sure the copters are able to fly safely where they need to go. Once the FAA has put its rules in place, which could be as early as 2016, Amazon will be ready with its fleet of tiny flyers. The process could take as many as five years.\nThe new delivery service would likely be available only in the United States, at first. The copters the company is testing now can handle packages up to five pounds (2.3kg) and they have a range of 10 miles (16 kilometers).\nOther companies are also looking at using unmanned flying vehicles to deliver their products. For instance, Domino's Pizza in the U.K. released a video showing a \"DomiCopter\", delivering a pizza. That video may have been a publicity stunt . In any case, just like Prime Air's octocopters, the DomiCopters don't have clearance to take off just yet.",
+  "id": "asc01963"
+}

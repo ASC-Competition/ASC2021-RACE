@@ -1,0 +1,42 @@
+{
+  "id": "asc0344",
+  "article": "There are four people in my family. They are my parents, my sister and I. My father is forty years old. He is a Chinese teacher in a middle school. My mother is a teacher, too. But she is at another school. She is an English teacher. My sister's name is Li Fang. She is seven years old. She is a student. We are in different classes and grades. My sister is in Class Two, Grade One. But I am in Class One, Grade Seven. Look at the photo of my family on the desk. In this photo, my sister and I are in front of our parents. We all look happy.",
+  "questions": [
+    "My parents are _ .",
+    "My sister is _ years old.",
+    "I'm in _ .",
+    "There is a photo of my family _ ."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "cleaners",
+      "workers",
+      "teachers",
+      "doctors"
+    ],
+    [
+      "7",
+      "8",
+      "11",
+      "13"
+    ],
+    [
+      "Class One, Grade Seven",
+      "Class Seven, Grade One",
+      "Class Two, Grade One",
+      "Class One, Grade Eight"
+    ],
+    [
+      "on the desk",
+      "on the chair",
+      "on the wall",
+      "in my boo"
+    ]
+  ]
+}

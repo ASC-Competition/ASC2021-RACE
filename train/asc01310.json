@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "to persuade you to explore the depths of the ocean",
+      "to stress the importance of the undersea exploration",
+      "to make you believe that the undersea exploration is better",
+      "to tell some differences between two kinds of explorations"
+    ],
+    [
+      "from time to time",
+      "after the undersea vehicles dive",
+      "before the undersea vehicles dive",
+      "when the undersea vehicles are diving"
+    ]
+  ],
+  "questions": [
+    "The purpose of the passage is   _  .",
+    "The sonar devices must be placed   _  ."
+  ],
+  "article": "As in the field of space travel, new technologies continue to appear in undersea exploration. They share a number of similarities with each other -- as well as some important differences.\nManned submersibles  , like spaceships, must maintain living conditions in an unnatural environment. While a spaceship must simply be sealed against the vacuum space, a submersible must be able to bear extreme pressure if it is not to break up in deep water.\nIn exploring space, unmanned vehicles were employed before astronauts. In undersea exploration, on the other hand, men paved the way, and only recently have unmanned remote-operated vehicles (ROVs) been put to use.\nOne reason for this is that communicating with vehicles in orbit is much easier than talking to those underwater. A vacuum is an ideal medium for radio communications, but underwater communications are limited to much slower sound waves. Thus, most undersea vehicles -- particularly ROVs -- operate at the end of long ropes. \nFor a similar reason, knowing where you are undersea is much more difficult than in space. A spaceship's position can be located by following its radio signal, or by using telescopes and radar. For an undersea vehicle, however, a special network of sonar  devices must be laid out in advance on the ocean floor in the area of a dive to locate the vehicle's position.\nThough undersea exploration is more challenging than outer space in a number of respects, it has a distinct advantage: going to the ocean depths doesn't require the power necessary to escape Earth's gravity. Thus, it remains far less expensive.",
+  "id": "asc01310"
+}

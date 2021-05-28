@@ -1,0 +1,50 @@
+{
+  "id": "asc0020",
+  "article": "Hello, I'm Kate. This is a photo of my aunt's family. The woman in the photo is my aunt, Jane. She is a teacher and she is very kind . These are my cousins Jeff and Jack. They are seven and they are twins. Look! That lovely baby is my aunt's little daughter, Rose. She is only one. I love them very much.",
+  "questions": [
+    "There are _ people in the photo.",
+    "My aunt has _ .",
+    "Rose is my aunt's _ .",
+    "Jeff and Jack are _ .",
+    "Rose is Kate's _ ."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "three",
+      "four",
+      "five",
+      "six"
+    ],
+    [
+      "two daughters",
+      "two sons and a daughter",
+      "two daughters and a son",
+      "only one son"
+    ],
+    [
+      "son",
+      "sister",
+      "mother",
+      "daughter"
+    ],
+    [
+      "eleven",
+      "brother and sister",
+      "mother and son",
+      "Twins"
+    ],
+    [
+      "sister",
+      "mother",
+      "cousin",
+      "teacher"
+    ]
+  ]
+}

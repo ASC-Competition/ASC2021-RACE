@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "warn people of the possible risks in using mobile phones",
+      "inform readers of the history and benefits of mobile phones",
+      "convince people of the uses of mobile phones",
+      "predict the applications of mobile phones"
+    ],
+    [
+      "That's great! But I'm very busy right now. (I) Will call you tonight",
+      "It's eight now. I'm very busy. (I) Will call you tonight",
+      "That's great! But I'm busy writing now. (I) Will call you at two tonight",
+      "\"8\" is great! But I'm very busy right now. (I) Will call it \"U\" tonight"
+    ]
+  ],
+  "questions": [
+    "The article is intended to  _  .",
+    "The last sentence of the whole passage ''That's gr8!  But I'm v busy rite now. Will call U 2nite.\" May probably means  _  ."
+  ],
+  "article": "When American inventor Alexander Graham Bell invented the telephone in 1876, it was a revolution in communication. For the first time, people could talk to each other over great distances. Over the last two decades a new means of spoken communication has appeared: the mobile phone.\n The mobile phone is like a two-way radio. But the two-way radio is a limited means of communication. As soon as the users move out of range of each other's broadcast area, the signal is lost. In the 1940s, researchers experimented with the idea of using a number of radio masts   to pick up signals from two-way radios. A caller would always be within range of one of the masts. When he or she moved too far away from one mast, the next mast would pick up the signal. (Scientists referred to each mast's reception area as being a \"cell\". This is why in many countries mobile phones are called \"cellphones\".)\nHowever, 1940s' technology was just at the beginning. The \"mobile phones\" were huge boxes. They had to be moved by car.\nThe first real mobile telephone call was made in 1973 by Dr Martin Cooper. As soon as his invention was complete, he tested it by calling a rival   scientist to announce his success. Within a decade, mobile phones became available to the public.\nThey have changed the way we do a lot of things. One powerful feature is: the short message service (SMS) or text message. It's the perfect communication method for the busy modern lifestyle. The text message has changed the way we write in English. The language construction became more lax  . Traditional rules of grammar and spelling are much less important.\nOver the last few years mobiles have become more and more advanced. We have seen the introduction of cameras, global positioning system and Internet access.\nAlexander Graham Bell would be surprised if he could see how far the science of the telephone has developed in less than 150 years. If he were around today, he might say: '''That's gr8! But I'm v busy rite now. Will call U 2nite.'",
+  "id": "asc0142"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "five",
+      "two",
+      "three",
+      "four"
+    ],
+    [
+      "he is on the sofa",
+      "He is on the chair",
+      "He is on the bed",
+      "He is under the desk"
+    ]
+  ],
+  "questions": [
+    "There are   _  people in Peter's family .",
+    ".Where is Peter in the first photo ?"
+  ],
+  "article": "I have two good friends .They are Peter and Gina .Here are two photos .The first one is a photo of Peter's family , and the next one is a photo of Gina's room .\nIn the first photo , you can see four people . They are Peter's parents , Peter and his sister .Peter's father is a teacher . And his mother is a teacher too .Can you see the boy on the bed ? That's Peter . A red hat is on his head .Who is the girl ? Oh , she is Peter's sister . Her name is Nancy .\nIn the next photo , you can see a tidy room . It's Gina's room . A blue desk , a yellow chair , a green bookcase and a white bed are in it . A computer and some CDs are on the desk .Her red schoolbag is on the chair .A dictionary is on the bed . Gina's room is very clean and tidy .",
+  "id": "asc22866"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "At four",
+      "At five",
+      "At six",
+      "At seven"
+    ],
+    [
+      "An old man with his little girl",
+      "A young woman",
+      "A woman with her little boy",
+      "A young man"
+    ]
+  ],
+  "questions": [
+    "What time was Tom going home yesterday?",
+    "Who was sitting near Tom on the bus?"
+  ],
+  "article": "Tom was going home at five yesterday. He got on a bus. A mother with her little boy was sitting nearby. Suddenly the boy cried. His mother tried her best to make the boy stop crying. But the boy would not do so. At last Tom said angrily, \"Oh, how that boy cried! Why don't you give him what he wanted?\" \"I would if I could.\" answered the mother quietly,\"But he wanted your cap.\"",
+  "id": "asc00745"
+}

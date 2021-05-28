@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "train station",
+      "bus station",
+      "radio station",
+      "police station"
+    ],
+    [
+      "takes the subway",
+      "by bus",
+      "takes the car",
+      "by subway"
+    ]
+  ],
+  "questions": [
+    "Where does Scott work?",
+    "Scott often   _   to the radio station."
+  ],
+  "article": "This is Scott. He has an interesting job. He works at a radio station. His radio show is from twelve o'clock at night to six o'clock in the morning. He sings well. He usually gets up at seven thirty at night. He brushes his teeth and takes a shower at ten past eight. Then he eats breakfast at nine. That's a funny time for breakfast! After that , he usually exercise at about ten twenty. He goes to work by car at eleven o'clock. It takes ten minutes to get the radio station. So he is never late for work.",
+  "id": "asc23719"
+}

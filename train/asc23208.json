@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "He's near the bus.",
+      "He is at home.",
+      "He's in the bus.",
+      "He is in the car."
+    ],
+    [
+      "he is tired",
+      "he doesn't like rain",
+      "he is hungry",
+      "it's raining hard"
+    ]
+  ],
+  "questions": [
+    "Where is the man?",
+    "The man doesn't want to go out because  _  ."
+  ],
+  "article": "A bus stops at a small bus stop. A man is hungry and he wants to buy some cakes. It's raining  hard, he doesn't want to go out in the rain. He sees a boy. \"Come here, boy!\" he cries. \"Do you know how much the cakes are?\" The boy says yes. The man gives the boy four dollars  and asks him to buy two cakes. \"One is for you and one is for me.\" Three minutes later, the boy comes back. He's eating a cake. He gives the man two dollars and says: \"Sorry, there is only one cake left.\"",
+  "id": "asc23208"
+}

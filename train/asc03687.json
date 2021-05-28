@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "Spring would start twenty-four days later than usual",
+      "It would be only one day out of step with the seasons.",
+      "There would be too many days on the calendar.",
+      "Leap Day would take place every other year."
+    ],
+    [
+      "the earth circles the sun in exactly 365 days",
+      "Gregorian calendar is more scientific than Caesar's",
+      "Pope's calendar has been used for 3,000 years",
+      "Caesar added an extra day to every February"
+    ]
+  ],
+  "questions": [
+    "Why was Julius Caesar's calendar not good enough?",
+    "It can be inferred from the text that   _  ."
+  ],
+  "article": "Imagine picking apples on Christmas or going skating on May Day. What about going for a swim on Thanksgiving? Without Leap Day ,which takes place every four years, that could happen.\nOur calendar is normally 365 days long. It was created to match the cycles of the seasons. But Roman ruler Julius Caesar noticed a problem: The earth doesn't circle the sun in exactly 365 days. It actually cakes 365 and one-quarter days. He figured out that the extra part of a day would cause the calendar to grow apart from the seasons over time. Over 100 years, the seasons would shift  about 24 days. Spring would start on April 13 instead of March 20.\nCaesar used math to figure out a way to stop the calendar from shifting. He decided to add an extra day to the month of February every four years. His idea helped keep the seasons and calendar matched up. Even so, it still wasn't perfect--his calendar was adding too many days.\nIn 1582, Pope Gregory XIII worked on Caesar's idea. His calendar, called the Gregorian calendar, declares that every year that is equally divided by 400 is a leap year. Turn-of-the-century years, or years ending in \"00\", would not be leap years unless they could be divided equally by 400. These complicated equations help keep the calendar in balance with the orbit of the earth. Today, we still use the Gregorian calendar. In about 3,000 years, the calendar will be only one day out of step with the seasons, It's still not perfect, but mathematicians decided it was as close as we could get.",
+  "id": "asc03687"
+}

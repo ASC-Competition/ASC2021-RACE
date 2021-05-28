@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Mary",
+      "Jane",
+      "Mary and Jane",
+      "Lucy"
+    ],
+    [
+      "Her classmates are good to her.",
+      "She has no friends at the old school.",
+      "She has no friends at the new school.",
+      "She doesn't like her school."
+    ]
+  ],
+  "questions": [
+    "Who wrote the letter?",
+    "Why is Jane sad?"
+  ],
+  "article": "Dear Mary,\nI am not happy these days. I am new in this class, you know, but I don' t have any friends here. I always have to keep quiet and put my heart into my study. I thought things would be fine.\nIt's very hard for me to be happy and sometimes I get lost in thought. So I can't follow the teacher. I know it is not right like this, but I can't control myself in class. Then my study is bad now. Some students make fun of me. I feel hurt , but I don't show my anger. In fact, I have to hide  my unhappiness. I feel terrible.\nDear Mary, I really don't know what to do now, Can you help me?\nYours,\nJane\n,A, B, C, D,, .",
+  "id": "asc24272"
+}

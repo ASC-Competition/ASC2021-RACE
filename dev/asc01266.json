@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "a Chinese girl",
+      "a Chinese boy",
+      "an English girl",
+      "an English boy"
+    ],
+    [
+      "Li Jian",
+      "Li",
+      "Jian",
+      "Jian Li"
+    ]
+  ],
+  "questions": [
+    "Li Jian is   _",
+    "Li Jian's first name is  _"
+  ],
+  "article": "I'm a Chinese boy.My name is Li Jian.I have a brother.His name is Li Qiang.Look! This is his telephone.It's red. His telephone number is 138-5430-1234, and my telephone number is 159-5432-3456.My telephone is black.",
+  "id": "asc01266"
+}

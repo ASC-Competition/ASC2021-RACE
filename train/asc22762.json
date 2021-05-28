@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "pencil case",
+      "pen",
+      "pencil",
+      "bag"
+    ],
+    [
+      "red",
+      "black",
+      "green",
+      "white"
+    ]
+  ],
+  "questions": [
+    "This is an orange   _  .",
+    "The pen is   _  ."
+  ],
+  "article": "Look at this. It's a pencil case. It's orange. It's my pencil case. What's in it? Look, this is a pen. It's black. This is a pencil. It's red. And this is a pencil, too. It's yellow. This is an eraser. It's blue and white. My pencil case is big and nice. I like it.\n,.",
+  "id": "asc22762"
+}

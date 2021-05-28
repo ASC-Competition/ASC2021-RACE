@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "A healthy rate of eating.",
+      "Too much food is left.",
+      "The user's eating speed.",
+      "The user is full."
+    ],
+    [
+      "The device can help obese people form good eating habits.",
+      "Every family will have such a device soon.",
+      "This device is the best way to lose weight.",
+      "People will no longer worry about obesity."
+    ]
+  ],
+  "questions": [
+    "What does the red line on the screen show?",
+    "What can we infer from the text?"
+  ],
+  "article": "Doctors have a new weapon in the battle against obesity   -- a talking plate that tells people not to eat too quickly. The Mandometer monitors the amount of food leaving the plate, and tells users, \"Please eat more slowly.\"\nThe PS1,500 Swedish device is to be used in a National Health Service plan to help hundreds of obese families lose weight. It comes in two parts -- a scale placed under the plate and a small computer screen showing a graphic  of the food gradually disappearing as the user eats. A red line on the screen shows the user's eating speed, while a blue line shows a healthy rate. If the user eats too fast, the red line angles away from the blue one, warning him or her to _ . If the lines deviate   too much, the computer voice comes on, and the  screen flashes the message \"Are you feeling full yet?\" to remind users to think about whether they have had enough.\nBritain has an increasingly serious obesity problem, with one in four adults and one in seven children classed as obese. After a recent trial using the device, experts believe teaching obese people to eat more slowly will help them know when they are full. Around 600 families with at least one obese parent and child (aged five or older) were targeted in the project by Bristol University, along with GPs and nurses.\nProfessor Julian Hamilton-Shield, who is leading the plan, says obese children and adolescents using the Mandometer ate from 12 to 15 percent less per meal at the end of the 12-month trial. Six months after they stopped using the device they still ate less, and continued to lose weight. \"It will be a powerful tool to help families retrain their eating habits,\" he says.",
+  "id": "asc00380"
+}

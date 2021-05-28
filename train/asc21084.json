@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "It's Maek's name.",
+      "It's Mark's last name.",
+      "It's Mark's first name.",
+      "It's Mark's middle name."
+    ],
+    [
+      "A yelloe bike.",
+      "A yellow car.",
+      "A green car.",
+      "A black bike"
+    ]
+  ],
+  "questions": [
+    "What is Green?",
+    "What does Mark have ?"
+  ],
+  "article": "Mark Green is my friend. He is English. He has a yellow bike. His bike number is 9075. His mother has a green car. The number is JA3566. His father has a black car. The number is JA3567.",
+  "id": "asc21084"
+}

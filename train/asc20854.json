@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "four",
+      "five",
+      "six",
+      "seven"
+    ],
+    [
+      "soccer balls",
+      "ping-pong bats",
+      "tennis rackets",
+      "volleyballs"
+    ]
+  ],
+  "questions": [
+    "Mike has   _   volleyballs.",
+    "Mike has seven   _  ."
+  ],
+  "article": "Mike has a sports collection . He has four basketballs, five volleyballs and four soccer balls. He has seven tennis rackets and eight tennis balls. He has eight ping-pong bats and nine ping-pong balls, too. Mike has some bags in his room: four yellow bags and two green bags. He puts   the basketballs in a yellow bag, the volleyballs in a yellow bag, and the soccer balls in a yellow bag. He puts the tennis rackets in a yellow bag, the ping-pong bats in a green bag, and the tennis balls and the ping-pong balls in the last bag.",
+  "id": "asc20854"
+}

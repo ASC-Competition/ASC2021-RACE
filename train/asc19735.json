@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "He is Mr. Black's friend.",
+      "He is Linda's husband.",
+      "He is an English teacher.",
+      "He has a daughter and a son."
+    ],
+    [
+      "She is a nurse.",
+      "She is a worker.",
+      "She is an English teacher.",
+      "She is a farmer."
+    ]
+  ],
+  "questions": [
+    "What is Bill Jones?",
+    "What does Linda do?"
+  ],
+  "article": "I am Bill Jones. I am a teacher of English. My wife is Linda Jones. She is a nurse. We have a daughter and a son. We have many friends.\nLook! These are my friends. This is Mr. Black. He is a worker. He works in a shoe factory He makes shoes there. That's Mrs. Black. She is a worker on a farm near here. The girl is their daughter. She is a student. She is thirteen. The boy is their son. He is a young soldier . His name is Carl Black.",
+  "id": "asc19735"
+}

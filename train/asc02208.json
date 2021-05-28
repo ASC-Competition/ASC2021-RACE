@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "The North Star is the brightest star in the night sky.",
+      "The North Star, together with some other stars, make up the Little Dipper.",
+      "The North Star moves along the same course with other stars.",
+      "The North Star is exactly located in line with the North Celestial Pole."
+    ],
+    [
+      "The North Star could help navigators set a straight course of their ship in the past.",
+      "Real lines that are parallel to the equator are called \"latitude\".",
+      "Either latitude or longitude could make precise navigation possible.",
+      "Now the North Star is no longer a navigational tool used by sailors."
+    ]
+  ],
+  "questions": [
+    "Which of the following statements about the North Star is TRUE?",
+    "What can be inferred from the passage?"
+  ],
+  "article": "Even if you're not an astronomy fan, chances are that you can easily recognize certain constellations   and stars such as the Big Dipper   and the North Star.\nThe North Star is the brightest star in the constellation known as the Little Dipper. It is so-called because of the special position. If you were to stay up all night looking at the stars, you'd slowly see them move around a point in the sky known as the North Celestial Pole.\nYou would notice, however, that one star remains still. This is the North Star, so named for its location almost directly in line with the North Celestial Pole.\nDue to its position in the sky, at one time sailors used the North Star as a navigational tool. By measuring the angle between the northern horizon and the North Star, a navigator could accurately determine the ship's latitude.[:ZXXK]\nBut latitude, or the imaginary lines stretching across the globe parallel to the equator, was not enough to plot a ship's location. Knowing latitude only allowed navigators to locate themselves on a particular latitude line at a particular distance from the equator. It was only with the invention of a way to accurately measure longitude that precise navigation became possible.\nAlthough the North Star is no longer used by navigators, it remains a heavenly symbol of human curiosity and exploration.",
+  "id": "asc02208"
+}

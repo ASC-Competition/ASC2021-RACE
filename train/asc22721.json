@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "three",
+      "five",
+      "seven",
+      "nine"
+    ],
+    [
+      "six",
+      "eight",
+      "twelve",
+      "nine"
+    ]
+  ],
+  "questions": [
+    "I have  _  pears .",
+    "I have  _  oranges."
+  ],
+  "article": "I have six baskets. Three are big . Three are small . I have some pears and some oranges . I put three pears in each big basket and four oranges in each small basket . The number of oranges is my age .",
+  "id": "asc22721"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "The cat",
+      "Mr. Black",
+      "The shopkeeper.",
+      "Mrs. Black's daughter"
+    ],
+    [
+      "The cat",
+      "Mrs. Black",
+      "The shopkeeper",
+      "Mrs. Black's daughter"
+    ]
+  ],
+  "questions": [
+    "_   tells Mrs. Black how to cook the fish.",
+    "_   enjoys the fish, too."
+  ],
+  "article": "Mrs. Black goes to buy a fish with her daughter. She doesn't know how to cook it, so she asks the shopkeeper to write down the way of cooking it on a note. She puts the note in her daughter's pocket and then they leave the shop with the fish.\nOn their way home, a black cat sees them and follows them. Suddenly  the cat jumps at her, takes the fish away from her quickly and runs off at once. Mrs. Black runs after it, but she can't run faster than it. At last she stops, not knowing what to do. But she suddenly remembers  _ . She laughs and shouts at the cat, \"You don't know how to cook it. The note is still in my daughter's pocket!\"",
+  "id": "asc23602"
+}

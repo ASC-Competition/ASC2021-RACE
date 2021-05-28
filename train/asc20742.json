@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "Peter",
+      "Brown",
+      "Jane",
+      "Peter Brown"
+    ],
+    [
+      "010-55882226",
+      "010-58582226",
+      "010-55582226",
+      "010-58582266"
+    ]
+  ],
+  "questions": [
+    "What's Peter's family name?",
+    "If we want to call Peter, we can call him at  _  ."
+  ],
+  "article": "Peter is a boy. His full name is Peter Brown. He is nine years old. His telephone number is 010-55882226. Peter has an email address. It's peterbrown@hotmail.com. He likes singing and dancing.\nJane is Peter's sister. Jane is seven years old. Her QQ number is 735469. Jane's email address is janebrown@hotmail.com. She is good at swimming and playing volleyball.",
+  "id": "asc20742"
+}

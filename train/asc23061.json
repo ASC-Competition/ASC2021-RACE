@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "Green.",
+      "Purple.",
+      "Red.",
+      "Yellow."
+    ],
+    [
+      "201289767",
+      "201287967",
+      "200289767",
+      "2012767967"
+    ]
+  ],
+  "questions": [
+    "What color is Bob's bag?",
+    "Bob's school ID card number is  _  ."
+  ],
+  "article": "Hello! My name is Bob Smith. I am an English boy.\nHere are some school things . This is my school ID card. Its number is 201289767. This yellow bag is mine. A yellow eraser, a purple pencil, a red pen and a book are in it. Oh, that dictionary is mine, too. Is the green pencil box mine, too? No, it isn't. It is my good friend Lin Hui's. His school ID card number is 201287967. Green is his favorite color. He is in  a green jacket, and that green bag is his, too.",
+  "id": "asc23061"
+}

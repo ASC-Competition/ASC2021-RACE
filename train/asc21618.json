@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "looking",
+      "seeing",
+      "eating",
+      "drinking"
+    ],
+    [
+      "bus",
+      "man",
+      "friend",
+      "policeman"
+    ]
+  ],
+  "questions": [
+    "A young man is sitting by the road and   _   something.",
+    "A   _   is coming."
+  ],
+  "article": "A young man is sitting by the road. He is eating something. A policeman is coming over. At once the man gets up quickly and runs down the road.\nThe policeman runs after him. Te man runs very fast, but the policeman runs faster.\nAfter a few minutes, the policeman catches him. \"Where are you going?\" says the policeman. \"You must be a criminal if you run like that when you see a policeman.\"\n\"No, no,\" says the man. \"I'm not a criminal. I'm just too fat, you see, and the doctor tells me I must always run fast after eating.\"\n\"I see,\" says the policeman. \"You're running to help to lose weight.\"",
+  "id": "asc21618"
+}

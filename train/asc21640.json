@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "Chicken.",
+      "Carrots.",
+      "Carrots and fish.",
+      "Fish."
+    ],
+    [
+      "Fish.",
+      "Chicken.",
+      "salad.",
+      "Carrots."
+    ]
+  ],
+  "questions": [
+    "What do they eat for dinner?",
+    "What does Tom want to eat for dinner?"
+  ],
+  "article": "Tom:Good evening, Mum.\nMum:Good evening, Tom.\nTom:Do we eat chicken for dinner, Mum?\nMum:No, we eat fish and carrots, dear.\nTom:Mum, I don't like carrots. I like chicken.\nMum:But we need more  vegetables, not only meat . It's not healthy to eat chicken every day.\nTom:OK. But dad likes chicken, too.\nMum:Well, let's eat chicken and tomatoes tomorrow .\nTom:That sounds great!",
+  "id": "asc21640"
+}

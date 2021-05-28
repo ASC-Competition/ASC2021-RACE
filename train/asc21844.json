@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "pear trees",
+      "banana trees",
+      "apple trees",
+      "orange trees"
+    ],
+    [
+      "his apples are very good",
+      "he has some trees",
+      "a boy is in the tree",
+      "he looks after the tree carefully"
+    ]
+  ],
+  "questions": [
+    "Mr. Rock has some   _   in his garden.",
+    "Mr. Rock is happy that   _  ."
+  ],
+  "article": "Mr. Rock has some apple trees in his garden . He looks after them carefully . Now there are very good apples on the trees and Mr. Rock is happy.\nThis afternoon when he looks out of the window, he sees a boy in one of his apple trees. He is eating the nice apples!\nMr. Rock opens the window and shouts. \"Hey! What are you doing there? Come down and go away, or I'll go to see your father!\"\n\"Dad!\" the boy looks up and cries , \" Mr. Rock wants to see you!\"",
+  "id": "asc21844"
+}

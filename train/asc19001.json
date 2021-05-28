@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Tom was a clever boy.",
+      "Tom was a lazy boy.",
+      "Tom worked very hard.",
+      "Tom was not polite."
+    ],
+    [
+      "His father was a doctor and his mother was a nurse.",
+      "His father was a worker and his mother was a doctor.",
+      "His father was a doctor and his mother was a doctor, too.",
+      "His father and mother were teachers."
+    ]
+  ],
+  "questions": [
+    "What kind of boy was Tom?",
+    "What were his father and mother?"
+  ],
+  "article": "Tom was ten years old and he was a very lazy boy. He didn't like doing any work. He had to go to school, of course , but he didn't study hard there and tried to do as little work as possible. His father and mother were both doctors and they hoped that their son would become one, too. But one day Tom said to his mother, \" When I finish school, I want to be a dustman.\"\n\"A dustman?\" his mother asked, she was very surprised. \" that's not a very pleasant job, why do you want to be a dustman?\"\n\"Because then I would only have to work one day a week.\" Tom answered at once.\n\"Only one day a week?\" his mother said, \"What do you mean? And how do you know?\"\n\" Well,\" Tom replied, \" I know that the dustmen who come to our house to work on Thursday, because I only see them on that day.\"\n,,.",
+  "id": "asc19001"
+}

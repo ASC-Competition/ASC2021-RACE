@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "getting some new trousers",
+      "for some new shirt.",
+      "To buy some new shoes",
+      "For some new clothes."
+    ],
+    [
+      "asked for; took off",
+      "tried on; took",
+      "took off; put on",
+      "bought; bought"
+    ]
+  ],
+  "questions": [
+    "John went to a shop   _",
+    "First John   _   some trousers, but at last he   _   a coat instead of them."
+  ],
+  "article": "John wanted to buy some new clothes, so he went to a shop. First he asked for some trousers and put them on, but then he took them off and gave them back to the shopkeeper and said, \"No, give me a coat instead of these trousers.\" The man gave him a coat and said \"This one costs the same as the trousers.\" John took the coat and walked out of the shop. The shopkeeper ran after him and said, \"You have not paid for the coat!\"\n    \"But I gave you the trousers for the coat,\" said John. \"They cost the same as the coat, aren't they?\"\n    \"Yes,\" said the shopkeeper, \"But you didn't pay for the trousers!\"\n    \"Of course I didn't!\" answered John, \"I didn't take them, I am not stupid! Nobody gives things back and then pays for them.\"",
+  "id": "asc09938"
+}

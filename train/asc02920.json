@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "A digital e-book reader.",
+      "A music-sharing software.",
+      "A voice-controlled website.",
+      "An artificial intelligence software."
+    ],
+    [
+      "The list of umbrella makers.",
+      "The list of umbrella shops.",
+      "The local weather forecast.",
+      "The local climate conditions."
+    ]
+  ],
+  "questions": [
+    "What is Siri?",
+    "When asked \"do I need my umbrella today?\", what will Siri probably respond with?"
+  ],
+  "article": "Siri is an artificial intelligence (AI) that you can carry around in the pocket, where it waits patiently to be told what to do. In the week we spent together, my AI assistant has performed admirably in finding me restaurants, or the location of the nearest coffee shop.\nA typical command might be: \"Reserve a table for two at a good French restaurant in San Francisco.\" Siri responds by presenting a list of top-rated restaurants that can be booked on OpenTable.com. If you say which time you want, it can book you a table without your lifting a finger. In some ways Siri is just a fancy front-end   to the 35 sites it can connect to, from taxi booking sites to movie review databases. But what's new is the way it can analyze the intentions of its master or mistress and use those sites to put them into action.\nSiri attaches probabilities to the explanation of each word and cross-references   with your location and other data, some of which you must provide yourself. To send email reminders, Siri obviously needs to know your email address. To \"find me the flower shop closest to work\", it needs to know where you work. To pay bills or buy airline tickets, it would need access to your credit card.\nThat raises the question of how far we are willing to trust a piece of software that can go and do things for us based on what it \"thinks\" we mean, a topic that occupies some engineers working on artificial intelligence. The more data, and power, you give your virtual assistant, the more damage it could do. Siri may be simple, and always shows its explanation of a command before carrying it out. But it gives users a preview of a new balance between privacy, trust and convenience that the expansion of AI into everyday life is likely to develop.",
+  "id": "asc02920"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "conducting scientific studies of life on the ocean floor",
+      "predicting future climate changes",
+      "providing data to determine Earth's age",
+      "demonstrating interactions among all of Earth's parts"
+    ],
+    [
+      "indications of ancient routes",
+      "evidence of former lakes",
+      "traces of early farms",
+      "remains of ancient forests"
+    ]
+  ],
+  "questions": [
+    "The author of the passage mentions that satellite observations are especially effective in   _  .",
+    "According to the passage, satellite observations of the Arabian Desert allow archaeologists to know   _  ."
+  ],
+  "article": "A rapidly advancing contemporary science that is highly dependent on new tools is Earth system science. Earth system science involves observation and measurements on the Earth at all scales from the largest to the smallest. The huge amounts of data that are gathered come from many different locations and require special techniques for handling data. Important new tools that facilitate Earth system science include satellite remote sensing, small deep-sea submarines, and geographic information systems.\nMore than any other way of gathering evidence, satellite observations continually remind us that each part of the Earth interacts with and is dependent on all other parts.\nEarth system science was born from the realization of that interdependence. Satellite remote sensing makes possible observations at large scales, and in many cases, measurements of factors that could not otherwise be measured. For example, the ozone hole over Antarctica--the decrease in the concentration of ozone high in the atmosphere--is measured by remote sensing, as are changes in deserts, forests, and farmlands around the world. Such measurements can be used in many areas of specialization besides Earth system science. Archaeology, for example, has benefited from satellite observations that reveal the traces of ancient trade routes across the Arabian Desert.\nNew tools for exploring previously inaccessible areas of the Earth have also added greatly to our knowledge of the Earth system. Small deep-sea submarines allow scientists to travel to the depths of the ocean. There they have discovered new species and ecosystems thriving near deep-sea vents that emit heat, sasses, and mineral-rich water.\nJust as important as new methods of measurement and exploration are new ways to store and analyze data about the Earth system. Computer-based software programs known as geographic information systems, or GIS, allow a large number of data points to be stored along with their locations. These can be used to produce maps and to compare different sets of information gathered at different times. For example, satellite remote sensing images of a forest can be converted to represent stages in the forest's growth. Two such images, made at different times can be overlaid and compared, and the changes that have taken place can be represented in a new image.",
+  "id": "asc00109"
+}

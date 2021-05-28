@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "three",
+      "four",
+      "five",
+      "six"
+    ],
+    [
+      "Beijing",
+      "Shanghai",
+      "Zhejiang",
+      "Tianjing"
+    ]
+  ],
+  "questions": [
+    "There are   _   people(;) in Lin Feng's family.",
+    "Lin Feng's grandparents are in   _  now"
+  ],
+  "article": "I am Lin Feng. This is a picture of my family: my grandfather, my grandmother, my father, my mother, my sister and I. My grandparents are in Beijing now and we are in Zhejiang. My mother is a teacher and my father is a doctor. My sister and I are middle school students. My sister is in Class 1,Grade 8 and I am in Class2, Grade 7. I have a good friend here. Her name is Zhang Ning. We are in the same  class.",
+  "id": "asc19503"
+}

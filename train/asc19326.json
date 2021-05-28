@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "tiger",
+      "elephant",
+      "lion",
+      "giraffe"
+    ],
+    [
+      "Fruit",
+      "Grass",
+      "Meat",
+      "Bread"
+    ]
+  ],
+  "questions": [
+    "Molly is a(n)  _  .",
+    "_   is Molly's favorite food ."
+  ],
+  "article": "My name's Molly. I'm a lion. I am three years old .My favorite food is meat and I like to eat little animals .I like the forest ,but I live in the zoo now, I live in a big cage. I can't run and I can't see my parents,I don't like the zoo or the cage. Every day I get up in the cage ,I have breakfast,lunch and dinner in the cage. I sleep in the cage .I really want to run in the forest and live with my parents.",
+  "id": "asc19326"
+}

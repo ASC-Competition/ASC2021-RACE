@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "teacher",
+      "manager",
+      "student",
+      "worker"
+    ],
+    [
+      "Yes, she is.",
+      "No, he isn't",
+      "No, she isn't",
+      "Yes, he is"
+    ]
+  ],
+  "questions": [
+    "Wang Jun, Wang Li's father is a   _  .",
+    "Is Li Hong a Chinese teacher?  _  ."
+  ],
+  "article": "Hello, everyone! My name is Wang Li. My English name is Alice. Here is my family photo. These are my parents. My father's name is Wang Jun. He is a manager . My mother's name's Li Hong. She's an English teacher. Look at these two old people . Who are they, do you know? My grandparents. Who's that boy? Is he my brother? No, he's my cousin. Who's that girl in the middle ? Can you guess? Yes, it's me---Wang Li.",
+  "id": "asc01144"
+}

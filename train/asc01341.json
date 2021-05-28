@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "facing an infrared scanner",
+      "sprayed with pesticides",
+      "in poor physical condition",
+      "exposed to excessive sun rays"
+    ],
+    [
+      "estimate the damage to the crops",
+      "draw a colourcoded map",
+      "measure the size of the affected area",
+      "locate the problem area"
+    ]
+  ],
+  "questions": [
+    "Plants will send out an increased amount of heat when they are  _  .",
+    "In order to apply pesticide spraying precisely, we can use infrared scanning to  _  ."
+  ],
+  "article": "Even plants can run a fever, especially when they're under attack by insects or disease. But unlike human, plants can have their temperature taken from 3,000 feet away--straight up. A decade ago, adopting the infrared scanning technology developed for military purposes and other satellites, physicist Stephen Paley came up with a quick way to take the temperature of crops to determine which ones are under stress. The goal was to let farmers precisely target pesticide spraying rather than rain poison on a whole field, which invariably includes plants that don't have pest problems.\nEven better, Paley's Remote Scanning Services Company could detect crop problems before they became visible to the eye. Mounted on a plane flown at 3,000 feet at night, an infrared scanner measured the heat emitted by crops. The data were transformed into a colourcoded map showing where plants were running \"fevers\". Farmers could then spotspray, using 50 to 70 percent less pesticide than they otherwise would.\nThe bad news is that Paley's company closed down in 1984, after only three years. Farmers resisted the new technology and longterm backers were hard to find. But with the renewed concern about pesticides on produce, and refinements in infrared scanning, Paley hopes to get back into operation. Agriculture experts have no doubt the technology works. \"This technique can be used on 75 percent of agricultural land in the United States, \" says George Oerther of Texas A & M. Ray Jackson, who recently retired from the Department of Agriculture, thinks remote infrared crop scanning could be adopted by the end of the decade. But only if Paley finds the financial backing which he failed to obtain 10 years ago.",
+  "id": "asc01341"
+}

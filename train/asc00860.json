@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "by detecting the smell of alcohol in the vehicle cabin",
+      "by measuring the volume of the alcohol in vehicle cabin",
+      "by detecting the weight of the school in the vehicle cabin",
+      "by using a car navigation system"
+    ],
+    [
+      "The detection system is still in the developmental stage.",
+      "The new technology from Nissan has been introduced.",
+      "The driving detectors are being built into cars.",
+      "The system has already been used in some car companies."
+    ]
+  ],
+  "questions": [
+    "The detection system works   _  .",
+    "What do we know about the detection system?"
+  ],
+  "article": "Drink drivers could be prohibited from driving under the influence if new technology from Nissan is introduced.\nThe Japanese car maker has developed a new odor   detection system designed to prevent drivers from operating a car if they are over the legal limit. The system works by using a series of sensors   to detect the level of alcohol the driver has consumed.\nA high-sensitivity alcohol odor sensor is built into the gear stick  , which is able to detect the presence of the driver's palm as he or she attempts to start driving. If the alcohol level detected is above a pre-determined limit, the system automatically locks the transmission , immobilizing the car. A voice alert is also issued via the car navigation system telling the driver that he or she is over the limit.\nExtra sensors are also placed in the driver and passenger seats and a warning is issued if these sensors detect the presence of alcohol in the air inside the vehicle cabin.\nWhile still in the developmental stage the concept of drink driving detectors being built into cars has generally been welcomed by many drivers.\nNissan said the technology is part of a project aimed at halving the number of fatalities   and serious injuries in Nissan cars by 2015 compared to 2005 levels.",
+  "id": "asc00860"
+}

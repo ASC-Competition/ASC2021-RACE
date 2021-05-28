@@ -1,0 +1,50 @@
+{
+  "id": "asc0347",
+  "article": "Tony is from New York. His father has a store there. And his mother is a reporter. He's six years old now and begins to go to school this year. It's very near their shop and his father doesn't drive a car to take him to school. He walks to school early every day. So he's not late for class and his teachers like him. It's Tuesday today. Miss White is teaching them to count from one to ten. Tony is studying hard. Soon he can count them. Miss White is happy and asks, \" How many people are there in your family, Tony? Tony stands up and begin to count with his fingers, and then says, \" Two, Miss White. \" Who are they? \" My father and my mother. \" Oh? Miss White is surprised, \" Two people in your family? \" Because now I 'm not at home.",
+  "questions": [
+    "Where does Tony live?",
+    "Where does his father work?",
+    "How old is Tony?",
+    "How does Tony go to school?",
+    "How many people are there in Tony ' s Family?"
+  ],
+  "answers": [
+    "C",
+    "D",
+    "C",
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "In China",
+      "In England",
+      "In America",
+      "In Australia"
+    ],
+    [
+      "In a school.",
+      "In an office.",
+      "In a hospital.",
+      "In a shop."
+    ],
+    [
+      "He is five years old.",
+      "She is six years old.",
+      "He is six years old.",
+      "She is five years old."
+    ],
+    [
+      "In his father's car.",
+      "By car.",
+      "On foot.",
+      "By bus"
+    ],
+    [
+      "There are two.",
+      "There are three.",
+      "There are four.",
+      "There are five."
+    ]
+  ]
+}

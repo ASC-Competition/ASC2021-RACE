@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "4",
+      "6",
+      "10",
+      "12"
+    ],
+    [
+      "ping-pong",
+      "tennis",
+      "baseball",
+      "soccer"
+    ]
+  ],
+  "questions": [
+    "Sonia and Susan have  _  volleyballs.",
+    "Sonia plays  _  every day."
+  ],
+  "article": "Sonia has a sports collection. She has ten tennis rackets, seven basketballs, four volleyballs and five soccer balls. She plays tennis every day she is in the school tennis club.\nSusan also has a sports collection. She has five baseballs, six volleyballs, three ping-pong bats and many ping-pong balls. Oh, she also has two soccer balls. But she doesn't play sports. She only watches them.\nSandy doesn't play sports, and she doesn't have balls.",
+  "id": "asc23217"
+}

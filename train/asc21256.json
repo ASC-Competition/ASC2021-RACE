@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "three",
+      "four",
+      "five",
+      "six"
+    ],
+    [
+      "uncle",
+      "mother",
+      "father",
+      "son"
+    ]
+  ],
+  "questions": [
+    "There are   _   people in the picture.",
+    "Mr. Li is Li Lei's   _  ."
+  ],
+  "article": "This is a picture of Mr. Li's family. The man in the middle is Mr. Li. The woman is Mrs. Li's wife. They have two sons. The child behind Mr. Li is Li Lei. He's thirteen. The boy in front of Mrs. Li is Li Ming. He is seven. Li Lei and Li Ming are in the same school, but not in the same grade. Li Lei is in Grade Two. Li Ming is in Grade One. They are good students.",
+  "id": "asc21256"
+}

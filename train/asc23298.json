@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "one Chinese film",
+      "two Chinese films",
+      "three American films",
+      "four foreign films"
+    ],
+    [
+      "Y=30",
+      "Y=40",
+      "Y=60",
+      "Y=80"
+    ]
+  ],
+  "questions": [
+    "There will be   _   in Beijing Theater this week.",
+    "If an adult with his child goes to Beijing Theater to watch A world Without Thieves on Sunday, they will spend   _   on the film."
+  ],
+  "article": "Films in Beijing Theater This Week\nHARRY POTTER (III)\nAmerican film\nDirector: Alfonso Cuaron\nStarring: Daniel Radcliffe, Rupert Grint, Emma Watson\nTime: From Monday to Wednesday, at 6:00 p.m.\nTicket Price:Y=50\nKUNGFU HUSTLE\nChinese film\nDirector: Zhou Xingchi\nStarring: Zhou Xingchi, Liang Xiaolong, Yuan Hua\nTime: From Wednesday to Friday, at 9:00 p.m.\nTicket Price:Y=40\nA WORLD WITHOUT THIEVES\nChinese film\nDirector: Feng Xiaogang\nStarring: Liu Dehua, Liu Ruoying, Ge You, Li Bingbing\nTime: From Friday to Sunday, at 6:30 p.m.\nTicket Price:Y=40 (Half on Sunday for children)\nTROY\nAmerican film\nDirector: Wolfgang Peterson\nStarring: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis\nTime: From Tuesday to Saturday, at 9:30 a.m.\nTicket Price:Y=30",
+  "id": "asc23298"
+}

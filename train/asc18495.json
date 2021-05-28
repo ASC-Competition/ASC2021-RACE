@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "a day has always fewer than twenty-four hours",
+      "a day has always more than twenty- four hours",
+      "a day has more or fewer than twenty-four hours,",
+      "some time zones are large and some time zones are small"
+    ],
+    [
+      "twenty-four hours",
+      "one hour",
+      "two hours",
+      "twenty-three hours"
+    ]
+  ],
+  "questions": [
+    "Something interesting will happen to the time if you travel because_.",
+    "The time difference between two time zones is_."
+  ],
+  "article": "Strange things happen when you travel, because the earth is divided into twenty-four zones. The time difference between two zones is one hour. You can have days with more than twenty-four hours and days with fewer than twenty- four hours. You can have weeks with more than seven days and weeks with fewer than seven days.\nIf you make a five-trip across the Atlantic Ocean , your ship come into a different time zone every day. As you come into each zone, the time changes one hour. If you travel west, you set your watch back. If you travel east, you set it ahead. Each day of your trip has either twenty-five or twenty-three hours.\nIf you make a trip by ship across the Pacific Ocean , you cross the International Date Line. This is the point where a new day begins when you cross the line, you change one full day. If you travel east, today becomes yesterday, if you travel west it is tomorrow.",
+  "id": "asc18495"
+}

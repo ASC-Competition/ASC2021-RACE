@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "In his car.",
+      "In his own house.",
+      "In a hotel.",
+      "In the old man's house."
+    ],
+    [
+      "Because he found a hotel.",
+      "Because the lights were red.",
+      "Because he saw an old man.",
+      "Because he saw a friend."
+    ]
+  ],
+  "questions": [
+    "Where did Mr. Green want to sleep that night?",
+    "Why did Mr. Green stop his car?"
+  ],
+  "article": "Mr. Green was traveling around the country in his car. One evening he was driving along a road and looking for a small hotel when he saw an old man at the side of the road. He stopped his car and said to the old man, \"I want to go to the Sun Hotel. Do you know it?\"\n\"Yes.\" The old man answered. \"I'll show you the way.\"\nHe got into Mr. Green's car and they drove for about twelve miles. When they came to a small house, the old man said, \"Stop here.\"\nMr. Green stopped and looked at the house. \"But this isn't a hotel.\" He said to the old man.\n\"No,\" the old man answered, \"This is my house. And now I'll show you the way to the Sun Hotel. Turn around and go back nine miles. Then you'll see the Sun Hotel on the left.\"",
+  "id": "asc01052"
+}

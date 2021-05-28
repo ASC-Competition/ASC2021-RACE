@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "thousands",
+      "hundreds",
+      "millions",
+      "billion"
+    ],
+    [
+      "Japanese",
+      "English",
+      "Spanish",
+      "Russian"
+    ]
+  ],
+  "questions": [
+    "There are   _   of languages in the world.",
+    "_   is one of the most important languages in the world."
+  ],
+  "article": "In schools all over the world boys and girls are learning foreign languages. Everyone knows his own language , but knowing another one is very useful. If we go to England or the USA, we must be able to speak English. And in Japan people will expect us to understand Japanese. How many languages are there in the world? There are thousands of languages, but most of them are not very important, English is one of the most important languages because so many people use it, not only in England and the USA, but also in other parts of the world. About 300 million people speak it as their own language and another 200 million use it as a second language. It's difficult to say how many people are learning it. Million upon million of school children are trying to learn it.",
+  "id": "asc21347"
+}

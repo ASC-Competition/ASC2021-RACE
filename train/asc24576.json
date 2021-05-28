@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "oranges",
+      "bananas",
+      "ice cream",
+      "good food"
+    ],
+    [
+      "oranges",
+      "bananas",
+      "French fries",
+      "salad"
+    ]
+  ],
+  "questions": [
+    "It's important to eat  _",
+    "What don't you eat every day?"
+  ],
+  "article": "Do you eat good food every day? It's important ! You need oranges and bananas, but you don't need ice cream. You need salad and broccoli, but you don't need French fries. Write a list of the food you eat. Is it good food? Do you eat right? (Like an egg. )Every day?",
+  "id": "asc24576"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "by bus",
+      "by bike",
+      "in his car",
+      "by plane"
+    ],
+    [
+      "quite easy",
+      "a problem",
+      "interesting",
+      "difficult"
+    ]
+  ],
+  "questions": [
+    "Mr. Hunt went to the city  _  .",
+    "It was  _  for Mr. Hunt to drive to the office."
+  ],
+  "article": "Mr. Hunt was living in a village and he wanted to go to an office one day. He got into his car and drove to the city. He went there without any trouble and stopped in front of the door. He locked his car and started to go into the office, but then he turned around and went back to his car. \"I've left my keys in it!\" he said to himself. Then he called his wife and said, \"Excuse me, but I've locked my keys in my car, please bring your keys to me.\"\nMrs. Hunt got into their second car and drove thirty kilometers to her husband. But while Mr. Hunt was waiting, he walked around his car and tried the other door. It was not locked. He locked it quickly before his wife arrived.\n,.",
+  "id": "asc24308"
+}

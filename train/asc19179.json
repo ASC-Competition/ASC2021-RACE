@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "A coffee maker.",
+      "A cassette player.",
+      "A fax machine.",
+      "A rice cooker."
+    ],
+    [
+      "One.",
+      "Two.",
+      "Three",
+      "Four."
+    ]
+  ],
+  "questions": [
+    "What are these instructions for?",
+    "How many buttons do you need to press?"
+  ],
+  "article": "First, open the lid  (-) and put water, salt, and rice in the pot. Then put the cover on the pot and close the lid. Next, press   the button   for \"white\" or \"brown\", and then press the \"start\" button. Let the rice cook for about 30 minutes. You'll hear a beeping sound when it's finished, but you should wait about five minutes before eating. Finally, take out the pot. Bring it to the table and enjoy your meal.",
+  "id": "asc19179"
+}

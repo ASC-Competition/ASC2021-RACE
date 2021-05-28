@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "Nobody can answer the question.",
+      "No one knows for sure but Professor Seashore.",
+      ".Not everyone can tell the exact number.",
+      "People cannot give an exact answer, not even Prof. Seashore."
+    ],
+    [
+      "12",
+      "10",
+      "8",
+      "5"
+    ]
+  ],
+  "questions": [
+    "How many words does one use?",
+    "Prof. Seashore concluded that it takes a first -grader   _   years to increase his vocabulary from 24,000 to 80,000."
+  ],
+  "article": "How many words one uses cannot be measured  exactly. However, Professor Seashore concluded the first- graders entered school with at least 24,000 words and add 5,000 each year so that they leave high school with at least 80,000. These figures( ) are for recognition vocabulary  ,the words we understand when we read or hear them, which are more than our active( ) vocabulary, the words we use in speaking and writing.\n   Using the words you recognize in reading will help get them into your active vocabulary. In your reading, pay attention to these words, especially when the subject is one that you might well write or talk about. Underline (draw a line under) or make a list of words that you feel a need for and look up the ones that you are not sure of in a dictionary. And then before very long you will find a way to use some of them. Once you know how they are pronounced and what they mean, you can safely use them.",
+  "id": "asc10662"
+}

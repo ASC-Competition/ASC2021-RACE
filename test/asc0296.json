@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "a teacher",
+      "an English teacher",
+      "teaches English",
+      "a doctor"
+    ],
+    [
+      "his mother",
+      "Wang Lin",
+      "his father",
+      "his mother and his father"
+    ],
+    [
+      "his father likes it",
+      "his mother likes it",
+      "it is too hot",
+      "it is delicious"
+    ],
+    [
+      "they like Chinese food",
+      "they like American food",
+      "they are lazy",
+      "they have different hobbies  ."
+    ]
+  ],
+  "questions": [
+    "Tom's father is   _  .",
+    "Maybe   Tom in the same school with   _",
+    "Tom doesn't like Sichuan food because    _  .",
+    "They often eat out on weekends because   _  ."
+  ],
+  "article": "I am Wang Lin, I am twelve years old. My pen pal Tom is form the United States. He is the same age as I. He is a middle school student in Beijing. There are three people in his family. His father is a teacher, he teaches English in a high school in Beijing. His mother is an English teacher, too. But they work in different schools. Tom goes to school in his mother's car every day. They all like Chinese food. Tom's father likes Guangdong food, he thinks it is delicious. Tom's mother's favorite food is Sichuan food. But Tom doesn't like Sichuan food, he thinks it is too hot. So they often eat out on weekends.",
+  "id": "asc0296"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "Play the guitar.",
+      "Write stories.",
+      "Play the violin.",
+      "Act."
+    ],
+    [
+      "musician",
+      "actor",
+      "singer",
+      "sportsman"
+    ]
+  ],
+  "questions": [
+    "What can't Tom do?",
+    "Tom thinks he can be a famous  _  or a famous writer."
+  ],
+  "article": "My name is Tom.I want to join a club in my school.I'm not famous now,but maybe I can be famous someday.I can't sing or dance or act,but I can do many other things.I can play three kinds of instruments:the guitar,the violin and the drums.I think I can be in the music club.Maybe I can be a famous musician.I like to read storybooks and I can write stories.Maybe I can be a famous writer.I like sports,too,but I am not good at it,so I don't join the sports club.",
+  "id": "asc22388"
+}

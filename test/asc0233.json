@@ -1,0 +1,50 @@
+{
+  "id": "asc0233",
+  "article": "Mr. Wu: Good morning, Bruce. Sit down, please. May I ask you some questions? Bruce: Certainly. What do you want to know? Mr. Wu: First, when were you born, Bruce? Bruce: On June 22, 2001. Mr. Wu. Secondly, where were you born? Bruce: In Sydney, Australia. Mr. Wu: Where was your father born? Bruce: He was born in Sydney, too. Mr. Wu. When was he born? Bruce: Sorry, I don't know. But I know he's about forty years old. Mr. Wu: I see. What does your father do? Bruce: He's a doctor. He works in a hospital here. Mr. Wu: Is your mother working in China, too? Bruce: No, she works in Sydney. She's coming to China soon. Mr. Wu: Oh, that's very good. I have no more questions. Thank you, Bruce. Bruce: You're welcome, Mr. Wu. Good-bye. Mr. Wu: Good-bye.",
+  "questions": [
+    "When was Bruce born? _ ",
+    "Where was Bruce born? _ ",
+    "When was Bruce's father born? _ ",
+    "What does his father do? _ ",
+    "Where is Bruce's mother working now? _ "
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "On July 22nd.",
+      "In 2001.",
+      "In July.",
+      "On June 23th."
+    ],
+    [
+      "In China.",
+      "In Australia.",
+      "In America.",
+      "In England."
+    ],
+    [
+      "In 1964.",
+      "In 1952.",
+      "In 1968.",
+      "In 1955."
+    ],
+    [
+      "He's a worker.",
+      "He's a teacher.",
+      "He's a doctor.",
+      "It doesn't tell us."
+    ],
+    [
+      "In China.",
+      "In Australia.",
+      "In America.",
+      "In England."
+    ]
+  ]
+}

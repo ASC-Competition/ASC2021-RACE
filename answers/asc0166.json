@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "A",
+    "B",
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "The development of mathematical ability in children.",
+      "Tendency in teaching children mathematics.",
+      "The use of calculating in child psychology.",
+      "The basic concepts of mathematics that children must learn."
+    ],
+    [
+      "have an internal clock of mathematical maturity guiding their growth.",
+      "begin to master simple counting soon after they learn to walk and talk.",
+      "are born with numerical skills.",
+      "can not understand abstract numbers."
+    ],
+    [
+      "critical",
+      "approving",
+      "questioning",
+      "objective"
+    ],
+    [
+      "Children learn mathematics naturally and easily.",
+      "Children learn to add before they learn to subtract.",
+      "Most people follow the same pattern of mathematical development.",
+      "Mathematical development is unnoticeable and gradual."
+    ]
+  ],
+  "questions": [
+    "What does the passage mainly discuss?",
+    "From the passage we can know that children   _  .",
+    "In this passage the author's attitude towards \"children numerical skills\" is   _  .",
+    "Which of the following statements would the author most likely be against?"
+  ],
+  "article": "People appear to be born to calculate. The numerical skills of children develop so early that it is easy to imagine an internal clock of mathematical maturity guiding their growth. Not long after learning to walk and talk, they can set the table with impressive accuracy--one plate, one knife, one spoon, one fork for each of the five chairs. Soon they are capable of noting that they have placed five knives, spoons and forks on the table, and a bit later, that this amounts to fifteen pieces of silverware. Having thus mastered addition, some people expect that if a child were on a desert island at birth and brought back seven years later, he or she could enter a second-grade mathematics class without any serious problems of intellectual adjustment.  \nOf course, the truth is not so simple. This century, the work of psychologists has cast light on the unnoticeable forms of daily learning on which intellectual progress depends. Children were observed as they slowly grasped--or, as the case might be, came across--concepts that adults take for granted, as they refused, for instance, to admit that quantity is unchanged as water pours from a short thick glass into a tall thin one. Psychologists have since proved that young children, asked to count the pencils in a pile, readily report the number of blue or red pencils, but must be persuaded into finding the total. Such studies have suggested that the most basic parts of mathematics are mastered gradually, and with effort. They have also suggested that the very concept of abstract numbers--the idea of a oneness, a twoness, a threeness that applies to any class of object and is a prerequisite   for doing anything more mathematically demanding than setting a table--is itself far from natural born.",
+  "id": "asc0166"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "Mike's hobby",
+      "Suzie's hobby",
+      "a celebrity chef",
+      "a bad cooking experience"
+    ],
+    [
+      "Chips",
+      "Curry",
+      "Dumplings",
+      "Hamburger"
+    ]
+  ],
+  "questions": [
+    "What is the main idea of the letter?",
+    "What food does Mike like best?"
+  ],
+  "article": "Hi Suzie,\nI have a big problem again! You know that I love to cook. Everyone says that I am the next \"celebrity chef\". I never miss favourite cookery shows on TV. I always like to try new recipes. Curry is one of my favourite meals. I love all the spices and that is the problem!\nI am in the kitchen when the telephone rings. I answer the phone and chat for five minutes to my friend Kate. I go back to my curry, but I don't remember that the spices are already in and I add more. My curry smells delicious, but when we eat it everyone looks at me. The curry tastes very bad. My mum says, \"Why is it so hot?\"\nThen I remember about the spices.\nI'm off for a hamburger.\nLove,\nMike",
+  "id": "asc23638"
+}

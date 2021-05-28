@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "bird language",
+      "how birds learn songs",
+      "human brain diseases",
+      "how birds create new songs"
+    ],
+    [
+      "the part of brain called anterior forebrain pathway",
+      "the trial-and-error type of learning",
+      "the example of their parents",
+      "the creation of new and imperfect songs"
+    ]
+  ],
+  "questions": [
+    "The subject discussed in the passage is   _  .",
+    "According to the scientists,_plays the most significant role in the learning process of young birds."
+  ],
+  "article": "For poets, bird song is a beautiful expression of nature in full bloom. But for scientists, the chirps of birds are far more meaningful than just pretty sounds. Latest studies show the way that young birds learn to sing is similar to that of a human baby learning to speak.\n\"The question we're trying to answer is how a young bird learns its song,\" says Professor Michale Fee of MIT. Bird's creative, trial-and-error type of learning provides an ideal model for studying similar processes in humans. An example is how a baby's babble turns into the recognizable syllables of mama and papa.\nAlso the part of the brain that is involved in bird song is very similar to that of a human. So birds may have something to teach us about our own brains, Fee said.\nThe study shows that young birds like to create new and imperfect songs. Gradually, the youngsters' songs become less different and more similar to the sound of their parents. Scientists disabled part of a young finch's brain and stopped the learning in midstream. The bird still sings. But never learns the right songs.\nFee's team found that the part of the brain involved is called the anterior forebrain pathway. Its neurons produce random bursts that make the young bird make new sounds and compared it with that of their parents. They also find out that once a bird is old enough that part of the brain will be less active.\nThe study does not enable us to really understand the meaning of bird language. But Fee believes it will eventually be applied to human brain diseases, such as Parkinson's disease.",
+  "id": "asc06686"
+}

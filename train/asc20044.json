@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "Yesterday",
+      "Last week",
+      "The day before yesterday",
+      "Last year"
+    ],
+    [
+      "go shopping",
+      "go to the zoo",
+      "go to the park",
+      "fly kites"
+    ]
+  ],
+  "questions": [
+    "When did the writer's mother leave?",
+    "Before the writer's mother left, they did not   _  ."
+  ],
+  "article": "Dear Mom,\nWe had a nice time in the park last week, Mom, but you left the day before yesterday. Where did you? What happened to you?\nWhen we were together, we went shopping, flew kites, went swimming ... You bought me a T-shirt in a store. You helped me with my homework. And you made sandwiches for me. We also slept together every night. You never said you would leave me. I began to look for you when I found you left, but I failed.\nMom, thank you for teaching me so much. I hope to see you again. It's time for bed. I miss you!\nYours,\nJim",
+  "id": "asc20044"
+}

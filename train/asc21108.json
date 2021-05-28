@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "five",
+      "six",
+      "seven",
+      "eight"
+    ],
+    [
+      "yellow; white",
+      "white; yellow",
+      "yellow; blue",
+      "black; red"
+    ]
+  ],
+  "questions": [
+    "There are   _   people in the family.",
+    "Mary is in a   _   blouse and Rose is in a   _   one."
+  ],
+  "article": "Let's look at the picture. The boy's name is John. The girl in a white blouse is his sister, Rose. The other one in a yellow blouse is his sister, Mary. John and his sisters are students in No. 11 Middle School. The two sisters are in Class Three, Grade One, but John is in Class Two, Grade Two. The man and woman are their father and mother. The man is a worker and the woman is a teacher. The old man and the old woman are John's grandfather and grandmother. The family is a big one.",
+  "id": "asc21108"
+}

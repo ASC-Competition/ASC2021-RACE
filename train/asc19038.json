@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "windy",
+      "rainy",
+      "sunny",
+      "cloudy"
+    ],
+    [
+      "Some grass",
+      "Some rice",
+      "Some bread",
+      "Some food"
+    ]
+  ],
+  "questions": [
+    "What was the weather like that day? It was  _  .",
+    "What was the man eating when the woman saw him?"
+  ],
+  "article": "Jane was an old woman. She was rich and lived in a big house. One morning, Jane opened the window and looked at her garden. The sun was shining brightly. \"What a good day!\" she said. Suddenly she saw a man eating grass in front of the garden of her house. She walked to the man and asked, \"Why are you eating grass? Are you very hungry?\" The man answered, \"I have no money to buy any food. I haven't had meals for days. I'm dying of hunger.\" \"Poor boy,\" said Jane, \"come to the back door.\" Then she walked into the house again. \"The rich lady will give me some food to eat. It's so kind of her.\" The man thought. But when he went into the house, Jane opened the back door and said to him, \"The grass is taller behind the house.\"",
+  "id": "asc19038"
+}

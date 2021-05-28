@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "70",
+      "60",
+      "50",
+      "40"
+    ],
+    [
+      "television",
+      "computer",
+      "blackboard",
+      "teacher's desk"
+    ]
+  ],
+  "questions": [
+    "There are about   _   students in a class in our school.",
+    "There is no   _   in my classroom."
+  ],
+  "article": "Our school is very big. There are sixty classes in our school. There are about  fifty students in a class. There is a television in a classroom, but there isn't a computer. There are 52 desks in my classroom. In my class there are 26 boys and 25 girls.\nOur library is big, too. There are many books in it. The gym is behind it, and the science labs are next to the library. Behind the gym is our dining hall. We have lunch in it.",
+  "id": "asc19408"
+}

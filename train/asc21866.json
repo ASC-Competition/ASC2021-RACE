@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "I",
+      "Father",
+      "Mother",
+      "I don't know."
+    ],
+    [
+      "Yes, she does.",
+      "No, she doesn't.",
+      "She likes apples.",
+      "She doesn't like apples."
+    ]
+  ],
+  "questions": [
+    "Who likes strawberries very much?   _",
+    "---- Does mum buy apples?  ----  _  ."
+  ],
+  "article": "We go shopping   on Sunday. I often go to the supermarket   with my mother on Sunday morning. Father likes fruit very much. We buy some bananas for him. Mother likes red apples, but the apples in the supermarket are green. We don't buy  them. The strawberries are very nice. Mother likes them very much and buys some for herself . The oranges are very nice, too. Mother buys some for me. I like oranges very much.\nWe need some vegetables. The vegetables in the supermarket are very good. We buy some broccoli. I don't like broccoli, but my parents like it. I like carrots very much. We buy lots of carrots. After shopping, mother and I have some salad, French fries and ice cream. Then we go back home with the fruit and vegetables.",
+  "id": "asc21866"
+}

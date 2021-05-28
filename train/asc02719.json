@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "They cannot exist in a research at the same time.",
+      "The former one is of greater importance than the latter.",
+      "The latter one is more scientific than the former one.",
+      "The former is closer to the nature of scientific research."
+    ],
+    [
+      "It functions as a guide in the process of a scientific research.",
+      "It works as a means that can help make unprejudiced observations.",
+      "It is an expectation unrelated to guesswork and inspiration.",
+      "It is a prediction which will be arrived at sooner or later."
+    ]
+  ],
+  "questions": [
+    "What is right about the deductive method and the inductive method according to the author?",
+    "Which of the following about a hypothesis is right?"
+  ],
+  "article": "\"Hypotheses ,\" said Medawarin 1964, \"are imaginative and inspirational in character\"; they are \"adventures of the mind\". He was arguing in favour of the position taken by Karl Popper that the nature of scientific method is hypothetico-deductive and not, as is generally believed, inductive.\nThe myth  of scientific method is that it is inductive: that the formulation of scientific theory starts with the basic, raw evidence of the senses -- simple, fair, unprejudiced observation. Out of these sensory data -- commonly referred to as \"facts\" -- generalisations   will form. The myth is that from a disorderly collection of factual information an orderly, relevant theory will somehow come out. However, the starting point of induction is an impossible one.\nThere is no such thing as an unprejudiced observation. Every act of observation we make is a function of what we have seen or otherwise experienced in the past. All scientific work of an experimental or exploratory nature starts with some expectation about the outcome. This expectation is a hypothesis. Hypotheses provide the motivation for the inquiry and influence the method. It is in the light of an expectation that some observations are held to be relevant and some irrelevant, that one method is chosen and others abandoned, that some experiments are conducted and others are not.\nHypotheses arise by guesswork, or by inspiration, but having been started they can and must be tested thoroughly, using the appropriate method. If the predictions you make as a result of deducing certain consequences from your hypothesis are not shown to be correct then you abandon or adjust your hypothesis. If the predictions turn out to be correct then your hypothesis has been supported and may be kept until such time as some further test shows it not to be correct. Once you have arrived at your hypothesis, which is a product of your imagination, you then move on to a strictly logical and thorough process, based upon deductive argument -- therefore the term \"hypothetico-deductive\".\nSo don't worry if you have some idea of what your results will tell you before you even begin to collect data; there are no scientists in existence who really wait until they have all the evidence in front of them before they try to work out what it might possibly mean.\nThe hypothetico-deductive method describes the logical approach to much research work, but it does not describe the psychological behaviour that brings it about. The psychological behaviour is a much more complicated process -- involving guesses, reworkings, corrections, and above all inspiration, in the deductive as well as the hypothetic component. However, describing the logical approach is like writing the final thesis  or published papers of research work. These theses and papers have been, quite properly, organised into a more logical order so that the worth of the output may be evaluated independently of the behavioural processes by which it was obtained. It is the difference, for example between the academic papers with which Crick and Watson demonstrated the structure of the DNA molecule  and the fascinating book The Double Helix in which Watson (1968) described how they did it. From this point of view, the scientific method may more usefully be thought of as a way of writing up research rather than as a way of carrying it out.",
+  "id": "asc02719"
+}

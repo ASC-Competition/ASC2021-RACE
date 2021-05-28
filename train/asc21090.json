@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "reading comic books",
+      "writing sports news",
+      "watching sports matches",
+      "playing computer games."
+    ],
+    [
+      "football field",
+      "tennis court",
+      "swimming pool",
+      "basketball court"
+    ]
+  ],
+  "questions": [
+    "Bob likes  _   very much.",
+    "There isn't a   _   in Bob's school."
+  ],
+  "article": "My cousin Bob likes watching sports matches very much . He goes to the stadium  to watch football matches at the weekend. He is also good at playing football. Now he is in the Football Club. Beckham is his favourite football player. When Bob is free, he always buys newspapers about sports. He watches sports news on TV,too.\nBob's school is very big and beautiful. There is a football field, a tennis court and a swimming pool in it. He usually plays football with his friends after school. He wants to be a good football player.",
+  "id": "asc21090"
+}

@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "They are waiting for the thief.",
+      "They are waiting for the bus.",
+      "They are waiting for their friends.",
+      "They are watching a movie."
+    ],
+    [
+      "They might go to the cinema  .",
+      "They might go to the zoo.",
+      "They might go to a bookstore.",
+      "They might go to a restaurant."
+    ],
+    [
+      "an actor",
+      "a thief",
+      "a policeman",
+      "the short man's friend."
+    ],
+    [
+      "thieves",
+      "policemen",
+      "actors",
+      "clerks"
+    ],
+    [
+      "Jim and Andy like seeing movies",
+      "Jim and Andy like helping others",
+      "Jim and Andy want to be actors",
+      "the four people in the story become friends after that"
+    ]
+  ],
+  "questions": [
+    "What are Andy and Jim doing at the bus stop?",
+    "Where might they go?",
+    "Andy and Jim think the tall man is   _   .",
+    "In fact , the tall man and the short man are   _   .",
+    "From the passage, we know   _   ."
+  ],
+  "article": "Jim and Andy are standing at the bus stop and waiting for the No.6 bus. They want to buy some new books. Suddenly , two men are running past them. A short man is crying,\"help! help! Catch  the thief! Give my bag back to me.\"\"Oh! That man is a thief!\"Jim shouts to Andy. They begin to run after the tall man, and very soon they catch him and get the bag back. The short man runs over and smiles,\"Thank you. But we are filming a movie.\"",
+  "id": "asc0474"
+}

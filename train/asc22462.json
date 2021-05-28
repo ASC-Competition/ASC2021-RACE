@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "rice cake",
+      "noodles",
+      "grapes",
+      "dumplings"
+    ],
+    [
+      "Yes",
+      "No",
+      "Not sure",
+      "Not mentioned  in the article"
+    ]
+  ],
+  "questions": [
+    "In Spain, what do people eat in the new year?",
+    "Is the food in South China the same as the food in North China for the whole year ?"
+  ],
+  "article": "On New Year's Day, many people eat special food for good luck.\nIn Spain  and some Latin American countries ,people eat twelve grapes  at midnight  on New Year's Eve--One grape for good luck in each month of the new year.\nChinese people eat dumplings. Some are made with a coin inside. Everyone tries to find the coin for good luck and money in the new year. Of course  they don't eat the coin . In the south of China, people make rice cakes for New Year. The Chinese pronunciation  for rice cake is \"Nian Gao\", which means \"get better year after year\".\nJapanese people eat noodles on New Year's Eve and on their birthdays. They think it may bring them good luck and long life.\nThe food may be different in each country, but the meaning is the same---people hope the food will bring them luck and happiness(,) in the coming year.",
+  "id": "asc22462"
+}

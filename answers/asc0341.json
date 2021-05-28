@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "A",
+    "A",
+    "C",
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "English",
+      "Chinese",
+      "Japanese.",
+      "good"
+    ],
+    [
+      "thirteen",
+      "eleven",
+      "twelve.",
+      "ten"
+    ],
+    [
+      "I",
+      "She",
+      "Mary",
+      "Miss Gao"
+    ],
+    [
+      "Lily",
+      "Miss Gao's",
+      "Miss Gao",
+      "Mary's"
+    ],
+    [
+      "isn't",
+      "is",
+      "not .",
+      "are"
+    ]
+  ],
+  "questions": [
+    "I am a/an  _   girl.",
+    "Lily is   _  .",
+    "_   is not at school today.",
+    "I don't know   _   age.",
+    "Lily's friend   _   a boy"
+  ],
+  "article": "I am an English girl. My name is Lily. I am thirteen. I am at school. Look! This is my school. It is No. 14 Middle School. I am in Class 1, Grade 1. I am in row 3. I am No. 12 at schhol. I have a good friend. She is a girl. Her name is Mary. She is not at school today. I think she is at home. My Chinese teacher is Miss Gao. She is a very good teacher. I don't know her age.",
+  "id": "asc0341"
+}

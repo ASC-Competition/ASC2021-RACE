@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "bus",
+      "air",
+      "train",
+      "taxi"
+    ],
+    [
+      "until 10:00 p.m.",
+      "after 10:00 p.m.",
+      "the whole night",
+      "until 9:00 p.m."
+    ]
+  ],
+  "questions": [
+    "The Smiths are going to Hong Kong by   _  .",
+    "The shopping mall in Hong Kong may open   _  ."
+  ],
+  "article": "The Smiths are going to visit Hong Kong next summer. They will fly there. They will spend about two weeks there.\nFirst, they are going to visit all the places of interest  in the city and also do some shopping. They can enjoy shopping until ten o'clock at night.\nSecond, they are going to eat delicious food there. There are many Chinese and western restaurants there. They can enjoy many kinds of food, for example, fish, meat and vegetables.\nLast, they are going to visit Disneyland. There are lots of interesting things to do. They will take lots of photos there.\nThey are looking forward to their summer holidays.",
+  "id": "asc21950"
+}

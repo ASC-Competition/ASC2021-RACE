@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "one",
+      "two",
+      "three",
+      "four"
+    ],
+    [
+      "blue",
+      "small",
+      "new",
+      "full"
+    ]
+  ],
+  "questions": [
+    "I have   _  boxes.",
+    "I want to put the  _   box in the car."
+  ],
+  "article": "I have some boxes. One is small . It's blue . One is full of books .It's red. The third is new. There is nothing in it . There are some old bottles in a big blue box. Today, I want to put the red box in the car, but I can't carry it. My mother helps me. And she can put the box in the car.",
+  "id": "asc19858"
+}

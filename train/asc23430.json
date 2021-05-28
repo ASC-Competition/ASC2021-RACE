@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "Two",
+      "Three",
+      "Only one",
+      "Four"
+    ],
+    [
+      "mix blue and yellow",
+      "mix blue and red",
+      "mix red and yellow",
+      "mix red, yellow and blue"
+    ]
+  ],
+  "questions": [
+    "How many colour systems are mentioned in the passage?",
+    "If an artist wants to get green, he must   _   ."
+  ],
+  "article": "The colour systems used by scientists and artists are completely different. An artist will mix blue and yellow paint to get a shade of green; a scientist will mix green and red light to create yellow. The printed page in a magazine is yet another system.\nScientists recognize the light primaries are red, green and blue. When mixed, red and green light rays produce yellow, blue and green produce cyan, red and blue produce magenta. Red, green and blue mix to create white (light). This colour model is used in computer monitors, television sets and theatre.\nMost artists recognize red, yellow and blue as the three basic primary colours. These primaries are the pure colours which cannot be created by mixing any other colours.\nIn the print industry, cyan, magenta, yellow and black are used as the primary colours. When you mix all the colours, the result is gray.",
+  "id": "asc23430"
+}

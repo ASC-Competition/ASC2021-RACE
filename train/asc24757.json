@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "White",
+      "Black",
+      "Smith",
+      "Brown"
+    ],
+    [
+      "It's blue.",
+      "It's black.",
+      "It's red.",
+      "It's white."
+    ]
+  ],
+  "questions": [
+    "What's Jenny's family name?",
+    "What color is Dave's dictionary?"
+  ],
+  "article": "Dave Smith is 12. He has a sister .Her name is Jenny .She is 8.\nDave has a dictionary .It is blue .The dictionary is in his black backpack .He has a computer game and he likes it .Jenny has a watch .It is red .She likes it very much. She has a good pencil case ,too .It's white . Her pencil  ,ruler ,eraser and pen are in the pencil case. Her pencil case is in her yellow backpack.",
+  "id": "asc24757"
+}

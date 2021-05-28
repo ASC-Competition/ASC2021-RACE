@@ -1,0 +1,50 @@
+{
+  "id": "asc0019",
+  "article": "I'm David. Today, I ask some of my friends about their favorite subjects. Helen likes Chinese best and she says it is interesting. Lily likes Chinese best, too, and she says it is easy. Linda's favorite subject is math because she likes her math teacher, Miss White. Mark's favorite subject is science. He knows a lot about science. Tom's favorite subject is history. He likes to read stories about history. Helen, Lily and Linda don't like P.E. They say P.E. is not interesting. Mark and Tom don't like art. They say it is difficult.",
+  "questions": [
+    "David asks his _ about their favorite subjects.",
+    "Lily says Chinese is _ .",
+    "Mark's favorite subject is _ .",
+    "Which one is correct",
+    "From the last paragraph we can know that _ ."
+  ],
+  "answers": [
+    "D",
+    "A",
+    "B",
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "classmates",
+      "children",
+      "cousins",
+      "friends"
+    ],
+    [
+      "easy",
+      "difficult",
+      "interesting",
+      "boring"
+    ],
+    [
+      "math",
+      "science",
+      "P.E.",
+      "Chinese"
+    ],
+    [
+      "Helen's favorite subject is English.",
+      "Linda likes her Chinese teacher.",
+      "Mark knows a little about science.",
+      "Tom likes to read stories about history."
+    ],
+    [
+      "three girls like art_",
+      "three girls say that P.E. is fun",
+      "two boys don't like art",
+      "two boys say that P.E. is easy"
+    ]
+  ]
+}

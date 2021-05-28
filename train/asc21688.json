@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "Three; four",
+      "Four; three",
+      "Two; three",
+      "Three; five"
+    ],
+    [
+      "in the picture",
+      "in the room",
+      "at home",
+      "at school"
+    ]
+  ],
+  "questions": [
+    "_  girls and  _  boys in the room are all students.",
+    "The students are not  _  ."
+  ],
+  "article": "This is a new picture. There are four boys and three girls in the room. They are all students. The boy on the desk is Jim. The girl near the window is Kate. Jim's sister Jane is on the chair. Ann and Mike are at the door. Mike's brother Sam is under the table. Where is Tom? Oh, he is over there, near the door. They are all very happy.",
+  "id": "asc21688"
+}

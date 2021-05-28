@@ -1,0 +1,34 @@
+{
+  "id": "asc0305",
+  "article": "My name is Sally Miller. I am a student in No. 3 Middle School. Look! This is a ruler. It's yellow. It's not my ruler. Who lost it? \" Anna, is this your ruler? I ask my friend. \" No, it isn't. My ruler is white. And it's in my pencil box now, Anna answers. \" Excuse me, Jack. Is this your ruler? \" No, it isn't. My ruler is black. Jack answers. \" You can ask your cousin Jenny. She can't find her ruler. \" Hi, Jenny! Is this your ruler? I ask. \" Yes, it's mine. Thank you very much, Jenny says. She is very happy to find her ruler.",
+  "questions": [
+    "Anna is Sally's _ .",
+    "Anna's ruler is _ .",
+    " _ lost her ruler."
+  ],
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "sister",
+      "cousin",
+      "friend",
+      "aunt"
+    ],
+    [
+      "blue",
+      "black",
+      "in the pencil box",
+      "lost"
+    ],
+    [
+      "Jack",
+      "Jenny",
+      "Anna",
+      "John"
+    ]
+  ]
+}

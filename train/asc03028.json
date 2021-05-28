@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "It is an example of a search engine that sells information to companies.",
+      "It is better than other search engines in gathering information.",
+      "It has started using high-tech billboards to get information.",
+      "It plans to develop better ways to profile Internet users."
+    ],
+    [
+      "Ads for hotels.",
+      "Discounts on shoes and clothing.",
+      "Ads for delicious food.",
+      "The pictures of beautiful scenery."
+    ]
+  ],
+  "questions": [
+    "Why is Google mentioned in the passage?",
+    "What is a Bing user likely to see when looking for travel information?"
+  ],
+  "article": "Have you ever felt you were being watched? Some new technologies might make you feel that way. Digital billboards are being created with ability to recognize certain characteristics. These high-tech devices have cameras pointed at the people on the street, and software that tries to recognize people by age and gender. A computer inside the billboard then uses the information to display ads that are directed at the people who are looking at the billboard. For example, if a man passes a billboard featuring an ad for cosmetics, the computer can change the ad to something that is more likely to catch the man's attention, such as football games.\nWhile advertisers see this as a great opportunity to reach their target customers, some people feel that this kind of profiling is an invasion of their privacy. People are now much more aware of how information is exposed, shared, bought, and sold on the Internet. Now this debate will involve technologies such as \"smart\" billboards. But advertisers claim that they are sensitive to people's concerns about privacy--companies that have tested the billboards in Japan and the U.S. assure consumers that the billboards can only guess your age and gender, but they will not be able to recognize your face or obtain any personal information about you.\nUntil recently, this kind of personal advertising has been mostly limited to the Internet. Search engines like Google and Bing can follow what we search for because each computer that connects to those sites has a unique identity. Companies then pay search engines to use this information to display ads for products and services that you have searched for. So if you search for travel information, you are likely to see ads for airlines and hotels. This kind of advertising has proven to be much more effective--and valuable--than traditional advertising.\nIn addition to taking steps to deliver more personalized messages, advertisers are using billboards to offer more useful information. Digital billboards can connect to the Internet to display information such as the time, weather, and news headlines. In the future, this technology could be used to relay immediate social events.\nIn today's world, people ignore thousands of ads every day. Advertisers are trying to change that trend by personalizing the experience of seeing an ad. So pay attention: next time you see a billboard, it could be talking to you.",
+  "id": "asc03028"
+}

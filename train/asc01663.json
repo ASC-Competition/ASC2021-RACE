@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "He left his homeland when he got the Nobel Prize.",
+      "He went to the United States to gain his Nobel Prize.",
+      "He might find the Unites States a better place to learn chemistry.",
+      "His family may have settled in the United States."
+    ],
+    [
+      "He applied some computer skills to help explain his ideas.",
+      "He established a special computer system to help.",
+      "He drew some forms explaining his ideas.",
+      "He did series of experiments to prove his ideas."
+    ]
+  ],
+  "questions": [
+    "What can be inferred from the above passage about Hoffman?",
+    "How did Hoffman make his research popular?"
+  ],
+  "article": "Ronald Hoffman born in 1937 is Polish-born American organic chemist and Nobel laureate . As a theoretical chemist, Hoffmann studied energy levels in chemical bonds during chemical reactions. He put computers to use to solve his problems and, despite the complexity of his research, was able to explain his theories and discoveries to the non-specialist. For his work he was awarded the 1981 Nobel Prize in chemistry, which he shared with Fukui Kenichi.\nBorn in Poland, Hoffmann settled in New York City as a child and became a United States citizen. He received his undergraduate degree in premedical studies from Columbia College in 1958. He attended Harvard University, where he received his PhD. degree in chemical physics in 1962. He joined the faculty of Cornell University in the mid-1960s and remained there throughout his career.\nHoffmann and Nobel laureate chemist Robert Burns Woodward developed rules, based on quantum mechanics, to determine how energy levels in atomic electron orbits influence how a chemical reaction takes place. These simple rules, known as the Woodward-Hoffmann rules, allowed chemists to predict reaction results and was quickly accepted and put to use in a wide variety of situations.\nHoffmann later turned his research to a variety of problems related to discovering the molecular structure of inorganic and organometallic compounds. Hoffmann is also known for what is called the Isolobal Analogy, which is yet another discovery linking all areas of chemistry. It is useful in predicting the behavior of new molecules based on the orbit structure of the components used to form them.\nAided by computers, Hoffmann was able to _ a vast amount of data to support his ideas. Unlike the scientific papers of many chemists, Hoffmann's publications contain little raw data but instead are filled with diagrams and pictures to explain his results. His drawings of shaded balloons to indicate eigenvectors, a unit used in mathematics, are now the accepted scientific notation for illustrating this value.",
+  "id": "asc01663"
+}

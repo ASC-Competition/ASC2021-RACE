@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "there is a man",
+      "there is a woman",
+      "there are a lot of people",
+      "there is no man"
+    ],
+    [
+      "some facts about the moon",
+      "nothing about the moon",
+      "little about the moon",
+      "few facts about the moon"
+    ]
+  ],
+  "questions": [
+    "On the moon   _  .",
+    "Now we know   _  ."
+  ],
+  "article": "When we look at the moon through a telescope , we can see lines and circles . People used to  think that this was the moon's face and that there was a man in the moon! This is not true. There is no man in the moon.\nWhat do we know about the moon? First of all, the moon is much smaller than the earth. Days and nights on the moon are very long. One day on the moon is as long as two weeks on the earth. One night is also as long as two weeks on the earth. In the daytime the moon is very hot and at night is very cold.",
+  "id": "asc24799"
+}

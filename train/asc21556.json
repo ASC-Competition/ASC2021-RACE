@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "At home.",
+      "At school.",
+      "In a clothes store.",
+      "In Jane's room"
+    ],
+    [
+      "White.",
+      "Yellow.",
+      "Blue.",
+      "Black."
+    ]
+  ],
+  "questions": [
+    "Where are Mrs. Black and her daughter?",
+    "What color does Jane like?"
+  ],
+  "article": "Mrs. Black and her daughter Jane are in a store.   (: Clerk )\nClerk:Can I help you?\nMrs. Black: I want a sweater for my daughter.\nClerk: What color does she like?\nMrs. Black (to Jane): What color do you like, dear?\nJane: I like yellow.\nClerk: Do you like this one?\nJane: Yes, it's really beautiful. How much is it?\nClerk: 80 dollars.\nMrs. Black: It's too expensive  . \nClerk: Look at this blue one. It's only 30 dollars.\nMrs. Black: I think the blue one is nice , too.\nJane: But, Mom, I don't like blue.\nMrs. Black: OK, we'll take the yellow one.\nJane: Thank you, Mom.\nClerk: Here you are.\nMrs. Black: Thanks.\nClerk: You're welcome.",
+  "id": "asc21556"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "For four hours",
+      "For six hours",
+      "For eight hours.",
+      "For ten hours"
+    ],
+    [
+      "Borrow books.",
+      "Renew books.",
+      "Keep the library book for a week.",
+      "Take books out anytime"
+    ]
+  ],
+  "questions": [
+    "How long can we read books on Monday in the library?",
+    "What can't we do in the library?"
+  ],
+  "article": "New Library Rules\n1. Open time: 8:30am.-4:30pm. From Monday to Friday.  2. No talking.\n3. No eating any food. 4. No listening to music. 5. No taking photos.\n6. No taking books out if you don't ask the people here.\n7. Keep the library books for only one week.\n8. Give the books back on time. 9. Renew  books on time.\n10. Pay for the lost  books.",
+  "id": "asc23851"
+}

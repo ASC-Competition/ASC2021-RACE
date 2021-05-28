@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "by bus",
+      "by bike",
+      "on foot",
+      "by subway"
+    ],
+    [
+      "Mondays",
+      "Wednesdays",
+      "Thursdays",
+      "Fridays"
+    ]
+  ],
+  "questions": [
+    "Bill gets to school   _  every morning.",
+    "_   are NOT Bill's favorite days."
+  ],
+  "article": "My name is Bill. I come from China. Now I am in Grade Eight. I have to get up very early in the morning , because my home is very far from the school. After breakfast, I take the subway to get to school.\nThis term, I have a new subject . It's physics. I like it best. I think it is very easy and interesting. I have physics classes on Mondays, Wednesdays and Fridays. They are all my favorite days.\nMr.White is my physics teacher. He is now forty years old . Now he is in front of the blackboard. What's he doing now ? \"Where is my physics book ? I am looking for it .\" My deskmate , Mike , stands up and says , \"Sir , it's in your hand .\" We all laugh . Mr. White is very forgetful .\n,.",
+  "id": "asc22434"
+}

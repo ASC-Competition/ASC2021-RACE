@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "teacher",
+      "student",
+      "worker",
+      "farmer"
+    ],
+    [
+      "reading",
+      "writing",
+      "drawing",
+      "talking"
+    ]
+  ],
+  "questions": [
+    "Li Lei is a   _  .",
+    "The students were busy   _  ."
+  ],
+  "article": "One day the students were having painting lessons. Everyone began to draw pictures .Li Lei did nothing. When the bell rang for the break , Li Lei passed his picture to the teacher .\nThe teacher looked at it and got angry \"Why do you give me a piece of paper with  nothing on it , Li Lei ?\"asked the teacher.   \"I'm sorry, sir. I drew a dog and some bread on the paper\"says Li Lei .\"Where is the  dog and bread ?\"asked the teacher again.   I drew some bread first . When I finished drawing the dog , it ate up the bread . When  I  gave it to you , the dog ran away .\"says Li Lei..",
+  "id": "asc22695"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "We can easily understand what people's gestures mean.",
+      "It is difficult to tell what people's gestures really mean sometimes.",
+      "Gestures can be understood by most people but words are not.",
+      "Words can be better understood by older people."
+    ],
+    [
+      "people from different cultures have different meanings about some facial expressions",
+      "people speaking different languages have different facial expressions",
+      "people of different ages may have different interpretations",
+      "people of different sexes may understand a gesture differently"
+    ]
+  ],
+  "questions": [
+    "Which of the following is TRUE according to the text?",
+    "People's facial expressions may be misunderstood in different cultures because   _   ."
+  ],
+  "article": "People often use gestures to express our feelings, but the problem is that the gestures can be understood in different ways.\nIt is true that a smile means the same thing in any language.  So does laughter or crying.  Fear is another emotion  that is shown in much the same way all over the world.  In Chinese and in English literature, a phrase like \"he went pale and began to tremble\" suggests that the man is either very afraid or he has just got a very big shock.\nHowever, \"he opened his eyes wide\" is used to suggest anger in Chinese whereas in English it means surprise. In Chinese, surprise can be described in a phrase like \"they stretched out their tongues!\" \"Stretching out your tongue\" in English is an insulting(, )gesture or expresses strong dislike.\nEven in the same culture, people differ in their ability to understand and express feelings.  Experiments in America have shown that women are usually better than men at recognizing fear,  anger,  love and happiness on people's faces. Other studies show that older people usually find it easier to understand body language than younger people do.",
+  "id": "asc02817"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "It can find misplaced objects for the elderly.",
+      "It can help the elderly to move around freely.",
+      "It can communicate with people.",
+      "It can tell the same story over and over again."
+    ],
+    [
+      "It is too expensive.",
+      "It is not practical.",
+      "It is just like traditional wheelchairs.",
+      "It is not quite convenient for the elderly to use."
+    ]
+  ],
+  "questions": [
+    "What can Chapit do according to the text?",
+    "What is the problem with Matsumoto's \"Personal Mobility Robot\"?"
+  ],
+  "article": "Robots that can chat, find misplaced glasses, draw airplanes and play with your children are attracting thousands of visitors during an expo in Tokyo as Japan adapts to changes in society.\nRobots, such as the sound-sensitive Chapit, answer simple questions and even joke with people to help the _ fight loneliness and stay alert   in old age. \"Many old people in Japan live alone and have no one to talk to,\" said Kazuya Kitamura, a representative of the expo organizer. \"Communication robots stay together with old people and don't mind listening to the same stories over and over again.\"\nWhile Chapit, a relatively simple robot, managed to attract a partner, many researchers, such as Kiyoshi Matsumoto, a professor at the University of Tokyo, struggle to attract sponsors for more expensive projects.\nMatsumoto's \"Personal Mobility Robot\", equipped with four cameras and a sensor to recognize the user's centre of gravity, is designed to help the elderly move around without pressing buttons as in traditional wheelchairs.\nThe robot can also help find misplaced glasses by recognizing them with a sensor. \"We have developed a robot that can assist many people, but because of the high cost, we still haven't found a sponsor,\" said Matsumoto, who added that the cost of the machine, if produced in large quantities, would be comparable to that of a small car. \"In the current economic environment there are few companies willing to invest   in such a costly project,\" he said.\nOther robots, such as the award-winning \"DiGRO\", can support busy parents who have little time to play with their children. The robot can use the Internet to find a simple image and then draw pictures, looking after children while parents work.\nJapan is one of the world's fastest-aging countries and the government predicts that by 2050 the population of people over 65 will reach 40 percent.",
+  "id": "asc00325"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "report a piece of interesting news",
+      "promote tremor-resistant homes",
+      "inform us of the nanotechnology development",
+      "tell us something about a tremor-resistant home"
+    ],
+    [
+      "it will be built on a special place",
+      "the cracks in its walls can be healed by the polymers",
+      "the special particles can make its walls stronger",
+      "the intelligent sensor network can tell people where there is a crack"
+    ]
+  ],
+  "questions": [
+    "The aim of the passage is to   _  .",
+    "The villa can resist earthquakes because   _  ."
+  ],
+  "article": "A villa   designed to resist earthquakes with \"self-healing\" cracks in its walls, thanks to nanotechnology   applications with self-healing polymers  , is to be built on a Greek mountainside. The villa's walls will include special particles that turn into a liquid when squeezed   under pressure, flow into cracks, and then harden to form a solid material.\nThe NanoManufacturing Institute (NMI), based in Leeds University, will play a key role in an EU project to construct the home by December 2010. The project, called \"Intelligent Safe and Secure Buildings\" (ISSB) is funded under the EU's Sixth Framework program. This potentially life-saving scheme is led by German building manufacturer Knauf. The villa will be built in Amphilochia, in western Greece, where Knauf currently runs a manufacturing plant. If the experiment is successful, more tremor-resistant homes could be built in earthquake zones across the globe. NMI chief executive Professor Terry Wilkins said, \"What we're trying to achieve here is very exciting. We're looking to use polymers in much tougher situations than ever before on a larger scale.\" Monitors contained in the villa's walls will be able to collect vast amounts of data about the building over time. Wireless sensors  will record any stresses and vibrations, as well as temperature, humidity and gas levels.\nThe walls are to be built from new load-bearing steel frames and high-strength gypsum board. Prof Wilkins said, \"If there are any problems, the intelligent sensor network will be able to alert residents immediately so they have time to escape. If whole groups of houses are so constructed, we could use a larger network of sensors to get even more information. If the house falls down, we have got hand-held devices that can be used over the ruins to pick out where the embedded sensors are hidden to get some information about how the villa collapsed. Also, we can get information about anyone who may be around, so it potentially becomes a tool for rescue.\"",
+  "id": "asc01435"
+}

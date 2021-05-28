@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "March",
+      "May",
+      "June",
+      "July"
+    ],
+    [
+      "staying in a small town",
+      "having a good time in Ottawa",
+      "spending his summer holiday in Chicago",
+      "swimming in the sea"
+    ]
+  ],
+  "questions": [
+    "Jack's summer holiday will start from  _  .",
+    "Frank is  _  now."
+  ],
+  "article": "Dear Frank,\nThank you for your email. I'm very glad you are having a good trip now. Ottawa is very beautiful in May. I hope I can have a chance  to go there one day. Our summer holiday will start next month. I like my summer holiday, although it's hot at that time in America. In summer holiday, I can swim in the sea and go fishing. It's so cool. And I am going to our hometown near Chicago with my sister, Linda, and my parents agree .Our uncle lives there, so Linda and I can stay with him. We are not going to take a plane. We are going there by train. I am going to fish there. And Linda likes painting. She is going to do some painting there. I'm sure we'll have a good time.\nSincerely,\nJack",
+  "id": "asc23806"
+}

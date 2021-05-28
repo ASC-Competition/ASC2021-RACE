@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "fish and fruit",
+      "vegetables and mutton",
+      "tofu",
+      "vegetables and fruit"
+    ],
+    [
+      "young people",
+      "old people",
+      "the young and the old",
+      "only students"
+    ]
+  ],
+  "questions": [
+    "You should eat  _  four or five times a week.",
+    "Tofu products are good for  _  ."
+  ],
+  "article": "Health is important for us.But how can we keep healthy?First,you should eat vegetables and fruit four or five times a week.Then you should eat some tofu products every day because they are good for people,both the young and the old.Milk is also necessary, _ for women.So you should have milk twice a day.It can help you to be healthy.Next,doing morning exercises is better.You can do morning exercises or evening exercises.After dinner,you should take a walk.",
+  "id": "asc22389"
+}

@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "They sit in the same row  .",
+      "Chen Hai sits behind Lin Tao.",
+      "They sit in the same class.",
+      "Lin Tao sits behind Chen Hai."
+    ],
+    [
+      "They go home.",
+      "They do their homework.",
+      "They look after each other.",
+      "They play games."
+    ],
+    [
+      "Because they don't need watches.",
+      "Because they can't look after their things well.",
+      "Because their watches are in their desks.",
+      "Sorry, I don't know."
+    ],
+    [
+      "They can see the teacher's watch",
+      "They can ask the man under the big tree.",
+      "They can go home and ask their mothers.",
+      "They can see the sun"
+    ],
+    [
+      "At about 10 a. m.",
+      "At about 5 a. m.",
+      "At about 5 p. m.",
+      "At about lo p. m."
+    ]
+  ],
+  "questions": [
+    "Where do Lin Tao and Chen Hai sit in the classroom?",
+    "What do they do after school?",
+    "Why don't they have watches?",
+    "How can they know the time?",
+    "What time do they go home in the afternoon?"
+  ],
+  "article": "Lin Tao and Chen Hai are good friends. They are in the same class. They are in the same team. Lin Tao sits behind Chen Hai. Now it is four o'clock. School is over. They often go to play games after school. They can't look after their things very well. So their mothers don't give them watches. They don't have watches. They don't know the time. But they can ask a man under the big tree. His watch is very nice. They can also see the clock on the wall of the classroom. Now it's about five in the afternoon. It's time to go home. They must put on their clothes and go home.",
+  "id": "asc0469"
+}

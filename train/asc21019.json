@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "D"
+  ],
+  "options": [
+    [
+      "a English boy",
+      "a English girl",
+      "an English boy",
+      "an English girl"
+    ],
+    [
+      "Jack",
+      "Jenny",
+      "Amy",
+      "Helen"
+    ]
+  ],
+  "questions": [
+    "Jenny is   _  .",
+    "My mother is   _  ."
+  ],
+  "article": "Jenny is an English girl. She is a nice girl. and she is my good friend, My name is Amy. My father is John. My mother is Helen. Jack is my brother. I love them. I like singing. Jack likes reading. My favorite color is blue.",
+  "id": "asc21019"
+}

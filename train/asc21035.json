@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "twelve",
+      "twenty",
+      "thirteen",
+      "thirty"
+    ],
+    [
+      "He is Tony's new friend.",
+      "He is Tony's cousin.",
+      "He is Tony's old friend.",
+      "He is a teacher."
+    ]
+  ],
+  "questions": [
+    "How old is Tony Smith?",
+    "Who is Jim Green?"
+  ],
+  "article": "I am Tony Smith. I am 12. I am in No.101 Middle School. I'm in Class 2, Grade 7. My oldfriend is Jim Green. He is an English boy. He is twelve, too. He is in my class. He can speakgood Chinese. Jane is in Class 2, too. I think she is a good girl. My Chinese teacher isMr. Wang. His students like him. He is very cool.",
+  "id": "asc21035"
+}

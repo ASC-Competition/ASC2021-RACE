@@ -1,0 +1,50 @@
+{
+  "id": "asc0224",
+  "article": "Shopkeeper: What can I do for you? Mrs. Green: I'd like a sweater for my son. Shopkeeper: What size do you want? Mrs. Green: Size \" L \" . Shopkeeper: What colour do you like? Mrs. Green: I like blue. Shopkeeper: Which would you like, the woolen ones or the cotton ones? Mrs. Green: I'll have a look at the cotton ones. Shopkeeper: What about this one? Mrs. Green: Oh! It's great. How much does it cost? Shopkeeper: Fifty-five yuan. Mrs. Green: Hmm. That's cheap. I'll take it.",
+  "questions": [
+    "The speakers are talking _ .",
+    "Mrs. Green wants to buy a sweater for _ .",
+    "Mrs. Green would like to buy a _sweater.",
+    "The cotton sweater is _ .",
+    "What do we know about Mrs. Green?"
+  ],
+  "answers": [
+    "C",
+    "B",
+    "D",
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "in an office",
+      "at school",
+      "in a shop",
+      "at the bus stop"
+    ],
+    [
+      "her father",
+      "her son",
+      "the shopkeeper",
+      "herself"
+    ],
+    [
+      "Size M",
+      "green",
+      "woolen",
+      "Size L"
+    ],
+    [
+      "55 yuan",
+      "55 dollars",
+      "expensive",
+      "bad"
+    ],
+    [
+      "She buys the sweater in the end.",
+      "She will not buy the sweater.",
+      "She wants to see red sweaters.",
+      "She wants a dear sweater."
+    ]
+  ]
+}

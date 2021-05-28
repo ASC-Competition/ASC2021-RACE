@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    [
+      "brothers",
+      "sister",
+      "brother and sister",
+      "teachers"
+    ]
+  ],
+  "questions": [
+    "How many people are there in Liu Hong's family?",
+    "Liu Hong and Liu Bin are  _  ."
+  ],
+  "article": "Liu Hong is from China. She is a nice girl. Her eyes are big and her mouth is small. She has a big family . Her father   is Liu Jie. And her mother's  name is Deng Hua. They are very nice. Liu Hong has a sister and brother(,). Her sister is Liu Hui, and her brother is Liu Bin. Liu Hui has long hair and a round face. But Liu Bin has short curly hair and a long face. They are students.\n, .",
+  "id": "asc20100"
+}

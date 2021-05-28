@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "red",
+      "black",
+      "white",
+      "green"
+    ],
+    [
+      "key",
+      "watch",
+      "ring",
+      "pencil"
+    ]
+  ],
+  "questions": [
+    "What color is the watch? It is  _  .",
+    "A_is in the schoolbag."
+  ],
+  "article": "I lost my red schoolbag in our library.  My key is in it.  I must find it.  Please call me at 6755321.\nThank you.\nJason, Class 332\nBrandy found a white watch under a desk in his classroom.  Is it yours? Please ask Mr.  Hanson for it.\nHis telephone number is 8974588.\nClass 213\nAlan, your baseball is on the table of our computer room.  We found it under the bookcase.  Please call\n2315649 to get it.\nComputer Room\nWhere is my pencil box? It's green. A black pen and an ID card are in it.  I'm in Class 234.  My phone number is 3541679.  Please call me.\nRobert",
+  "id": "asc24657"
+}

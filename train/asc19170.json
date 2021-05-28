@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "big cities",
+      "streets",
+      "cars",
+      "traffic"
+    ],
+    [
+      "London",
+      "Paris",
+      "Rome",
+      "Stockholm"
+    ]
+  ],
+  "questions": [
+    "The passage is about  _  .",
+    "The city of  _  once experimented on a completely free bus service."
+  ],
+  "article": "Large population has caused many problems. For example, the traffic is very heavy in some big cities.\nDuring the last ten years, big cities like Beijing and Harbin were full of cars and buses. Now the streets are completely crowded and it's very difficult to drive a car along them. Drivers must stop at hundreds of traffic lights. What are our cities going to be like in the future? How can we solve the problem?\nThere are some good ideas to reduce the use of private  cars. In 1971, the officer in Rome began an interesting experiment: Passengers on the city buses didn't pay for their tickets.\nIn Stockholm there was another experiment: People paid very little for a season ticket to travel on any bus, trolley bus  and train all over the city.\nIn many cities now some streets are closed to vehicles  and _ are safe there.\nIn London there is another experiment: Part of the streets is for buses only. So the buses can travel fast. There are no cars or taxis in front of them.\n, .",
+  "id": "asc19170"
+}

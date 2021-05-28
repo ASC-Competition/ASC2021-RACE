@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "It's white",
+      "It's black.",
+      "It's orange",
+      "It's blue and red."
+    ],
+    [
+      "Tom's ruler",
+      "Tom's pencil-box",
+      "Bob's eraser",
+      "Lucy's pencil"
+    ]
+  ],
+  "questions": [
+    "What color is Tom's pencil-box?",
+    "_  is blue and red."
+  ],
+  "article": "Hi! I'm Tom.This is my pencil box. It's orange. My ruler is blue and red .It's in the pencil-box. That is a pencil. It's black. It is not my pencil. It's Lucy's. The white eraser is Bob's. I call Bob at 789-6943. It is his telephone number.",
+  "id": "asc22925"
+}

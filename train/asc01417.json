@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "What time Americans eat dinner.",
+      "Where Americans eat.",
+      "Why Americans eat in a hurry.",
+      "Which do meat Americans eat the most slowly."
+    ],
+    [
+      "they want to eat dinner slowly.",
+      "they don't like eating in restaurants.",
+      "they are very busy.",
+      "they don't like to eat."
+    ]
+  ],
+  "questions": [
+    "What is NOT mentioned in the passage?  _",
+    "Americans hurry at meals because  _"
+  ],
+  "article": "Americans eat breakfast and lunch quickly unless it is a social business or family occasion. The evening meal is usually longer and a time for families to gather together. Rushing through daytime meals is part of the fast pace in America. Another reason for rushing through daytime meals is that many people eat in restaurant that are usually crowded with people waiting for a place so that they can be served and return to work at the proper time. So each one hurried to make room for the next person. As there are busy people everywhere, there is a real difference with meals that are eaten in a hurry and those that can be enjoyed slowly with friends.",
+  "id": "asc01417"
+}

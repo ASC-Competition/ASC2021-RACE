@@ -1,0 +1,34 @@
+{
+  "id": "asc0353",
+  "article": "We use names every day. When we meet a new person, we usually ask him or her about the name first. It's important to learn a person's name. Most people have two names. Some have more names. In the USA, most people have a first name, a middle name and a last name. Parents choose the first name and middle name for their babies. There are names for boys and names for girls. For example, John, Peter, Tom and Mike are all names for boys. Elizabeth, Bonnie, Susan and Mary are all girls' names. The last name is the family name. All people, places and things have names. Names are important.",
+  "questions": [
+    "What do we usually ask a new person about first?",
+    "Parents choose _ for their babies.",
+    "What can be the names for Mr. Green's three daughters?"
+  ],
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "Age.",
+      "Name.",
+      "E-mail address.",
+      "Phone number."
+    ],
+    [
+      "the first name and the last name",
+      "the last name and the middle name",
+      "the last name and the family name",
+      "the first name and the middle name"
+    ],
+    [
+      "Mike, Linda, Susan.",
+      "Tom, Bill, Cathy._",
+      "Elizabeth, Bonnie, Mary.",
+      "Peter, James, Jack._"
+    ]
+  ]
+}

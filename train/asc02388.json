@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "isn't practical in daily life",
+      "relies less heavily on the use of 3-D scanners",
+      "can produce complicated products in larger sizes or numbers",
+      "has an advantage in meeting the personal needs"
+    ],
+    [
+      "there is still a long way to go before everyone can have access to 3-D printing",
+      "3-D printed organs and limbs are as effective as real ones",
+      "big food companies are major players in the 3-D printing industry",
+      "people can create any object with any material by 3-D printing"
+    ]
+  ],
+  "questions": [
+    "Compared with traditional manufacturing procedures, 3-D printing   _  .",
+    "We can infer from the article that   _  ."
+  ],
+  "article": "Imagine this: you get up in the morning and put on a custom printed T-shirt. Then you eat some 3-D printed food and relax on your printed sofa. Perhaps you take a ride in a printed electric car to the hospital to get a printed tooth fitted.\nThough some of these things may seem impossible, they're closer to reality than you might think. The world of 3-D printing is coming to a store near you soon.\nThe idea of 3-D printing is to produce complicated shapes in a very personalized way. If you want to make a totally new object, you need to make a virtual design in a CAD(computer aided design)file first. Or you can use a 3-D scanner to make a digital copy of an object. Then, based on the design or copy, the 3-D printer makes paper-thin slices out of liquid, plastic, or metal and puts them together to create the object you want.\nThere are many areas in which 3-D printing can change our lives. One such area is health care. Researchers have developed simple 3-D printed organs, which can be used in life-saving operations. A 17-year-old boy in the US has also recently developed a brain-powered, 3-D printed replacement hand. From heart monitors to fake limbs , we can soon be living longer thanks to 3-D printed technology.\nAnother area that 3-D technology looks sure to change is food. Can you imagine being able to print your favorite dishes at home at the touch of a button? Even big companies are behind the trend. Hersheys, one of the largest chocolate makers in the world, recently announced that it would start producing chocolate with the help of 3-D printers. NASA, the US space agency, has reportedly spent $125,000 (767,594 yuan) developing a \"3-D pizza printer\".\nIt is not yet clear how long it will take until 3-D printers are available to everyone. But one thing is for sure: the possibilities are endless.",
+  "id": "asc02388"
+}

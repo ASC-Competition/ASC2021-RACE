@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "in the morning",
+      "in the afternoon",
+      "in the evening",
+      "at night"
+    ],
+    [
+      "A computer.",
+      "A tennis ball.",
+      "Two tennis rackets.",
+      "A TV."
+    ]
+  ],
+  "questions": [
+    "Jim and Peter meet   _  .",
+    "What does Jim have?"
+  ],
+  "article": "Jim: Good afternoon, Peter!\nPeter: Good afternoon, Jim!\nJim: Do you like computer games?\nPeter: Yes, I do.\nJim: Let's play computer games.\nPeter: That sounds good, but I don't have a computer. Do you have one?\nJim: No, I don't. But I have a TV. What about watching TV?\nPeter: No, it's boring. Let's play tennis. I have two tennis rackets   and a ball.\nJim: OK. Where are they?\nPeter: On the sofa.\nJim: Get the ball and rackets. Let's go and play.\nPeter: OK. Let's go.",
+  "id": "asc19778"
+}

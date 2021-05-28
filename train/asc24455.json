@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "goes shopping",
+      "goes swimming",
+      "takes a walk",
+      "play sports"
+    ],
+    [
+      "has long hair",
+      "can't see well",
+      "is very interesting",
+      "doesn't like walking"
+    ]
+  ],
+  "questions": [
+    "On Sunday, the writer   _  .",
+    "From the passage , we know that the writer's grandmother  _"
+  ],
+  "article": "Some boys like wearing the same kinds of clothes as girls, and some of them have long hair. So sometimes it's hard to tell whether  they are boys or girls.\nToday is Sunday. I have a walk with my grandmother in the park. My grandmother is 80 years old and she can't see well. After some time, my grandmother is tired , so she sits down on a chair. There is another person sitting on the chair, too.\n\"Hello,\" my grandmother says to the person with long hair next to her. \"Can you see the girl with long hair under the big tree?\"\"The girl?\" says the person, \"No, he's my brother Mike.\"\n\"Oh, sorry. I don't know you are his sister.\" Says my grandmother.\n\"No, I'm not his sister, I'm his brother!\"",
+  "id": "asc24455"
+}

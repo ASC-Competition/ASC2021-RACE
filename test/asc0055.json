@@ -1,0 +1,50 @@
+{
+  "id": "asc0055",
+  "article": "Jim: Let's play computer games. Peter: That sounds good. Where's your computer? Jim: I don't have a computer. Do you have a computer? Peter: No, I don't. But I have a TV. Let's watch TV. Jim: No, it's boring. Let's play tennis. I have a tennis racket. Peter: Good. Where is it? Jim: On the sofa. Do you have a racket? Peter: No, I don't. Does your brother have a racket? Jim: Yes, he does. And he has tennis balls.",
+  "questions": [
+    "Does Jim have a computer?",
+    "Jim has a racket. Where is it?",
+    "Does Peter have a tennis racket?",
+    "Does Jim have a tennis racket?",
+    "Does Jim's brother have a tennis racket?"
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "He has no computer",
+      "He has two computers.",
+      "Yes, he does.",
+      "No, he doesn't."
+    ],
+    [
+      "It's on the sofa.",
+      "It's near the sofa.",
+      "It's behind the sofa.",
+      "It's under the sofa."
+    ],
+    [
+      "Yes, he does.",
+      "He has a tennis racket.",
+      "He has two tennis rackets",
+      "No, he doesn't."
+    ],
+    [
+      "Yes, he does.",
+      "No, he doesn't.",
+      "He has two tennis rackets.",
+      "He doesn't have a tennis racket."
+    ],
+    [
+      "He doesn't have tennis balls.",
+      "Yes, he does.",
+      "No, he doesn't.",
+      "He has tennis balls."
+    ]
+  ]
+}

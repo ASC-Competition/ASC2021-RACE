@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "The songbirds, parrots and hummingbirdsimitate humans.",
+      "FOXP2 is active in one of the brain regions of the songbird brain.",
+      "Songbirds have the same vocal learning brain circuits as human.",
+      "FOXP2 is a gene that is known to be involved in human language."
+    ],
+    [
+      "FOXP2 was involved in human language about 12 years ago.",
+      "Six people donated brain tissue to the Allen Brain Institute in Seattle.",
+      "Experiments with songbirds are likely to help cure Huntington's disease.",
+      "Constance Scharff discovered at the Free University of Berlin."
+    ]
+  ],
+  "questions": [
+    "Which of the following is WRONG according to the passage?",
+    "What can we infer from the passage?"
+  ],
+  "article": "It's not just great minds that think alike. Dozens of the genes involved in the vocal learning that _ human speech are also active in some songbirds . And knowing this suggests that birds could become a standard model for investigating the genetics of speech production and speech disorders.\nComplex language is a uniquely human trait, but vocal learning -- the ability to pick up new sounds by imitating others -- is not. Some mammals, including whales, dolphins and elephants, share our ability to learn new vocalizations . So do three groups of birds: the songbirds, parrots and hummingbirds.\nThe similarities between vocal learning in humans and birds are not just superficial. We know, for instance, that songbirds have specialised vocal learning brain circuits that are similar to those that mediate  human speech.\nWhat's more, a decade ago we learned that FOXP2, a gene known to be involved in human language, is also active in \"area X\" of the songbird brain -- one of the brain regions involved in those specialised vocal learning circuits.\nAndreas Pfenning at the Massachusetts Institute of Technology and his colleagues have now built on these discoveries. They compared maps of genetic activity in brain tissue taken from the zebra finch, budgerigar and Anna's hummingbird, representing the three groups of vocal-learning birds.\nThey then compared these genetic maps with others taken from birds and primates that can't learn new vocalisations, and with maps taken from the brains of six people who donated tissue to the Allen Brain Institute in Seattle.\nTheir results showed that FOXP2 is just one of 55 genes that show a similar pattern of activity in the brains of humans and the vocal-learning birds. Those same genes show different patterns of activity in the brains of animals incapable of vocal learning.\n\"The similarities are beyond one or a handful of genes,\" says Pfenning. \"There are just systematic molecular similarities between song-learning birds and humans.\"\n\"There's potential for songbirds to be used to study neurodegeneration  -- especially conditions like Huntington's,\" says Pfenning. Huntington's disease affects the ability to produce complex motor behaviour, such as singing and talking, so experiments with birds might implicate particular genes in the disease.\nConstance Scharff at the Free University of Berlin in Germany, who helped identify the importance of FOXP2 for vocal learning in birds agrees that songbirds can make great models for human speech and its pathologies . \"My lab's research during the past 10 years has shown that FOXP2 is as relevant for birds' song learning as it is for human speech learning,\" she says.",
+  "id": "asc00257"
+}

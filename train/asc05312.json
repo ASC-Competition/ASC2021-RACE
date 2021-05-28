@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "120",
+      "470",
+      "450",
+      "240"
+    ],
+    [
+      "233 Edward Road",
+      "12 Venning Road",
+      "222 Edward Road",
+      "129 North Road"
+    ]
+  ],
+  "questions": [
+    "The number of the rooms in the best hotels in Boswell is    _    .",
+    "If a Japanese traveler wants to eat in a French restaurant,    _    is the right place for him to go to."
+  ],
+  "article": "WHERE TO STAY IN BOSWELL\nYOUR GUIDE TO OUR BEST HOTEL",
+  "id": "asc05312"
+}

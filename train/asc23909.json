@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "PE monitor",
+      "cleaning monitor",
+      "class monitor",
+      "studying monitor"
+    ],
+    [
+      "plays basketball well",
+      "enjoys sport",
+      "does well at school",
+      "runs very fast"
+    ]
+  ],
+  "questions": [
+    "Da Peng is the   _   for this term.",
+    "Mike is the PE monitor because he   _  ."
+  ],
+  "article": "Dear Da Peng,\nThanks for your email. And thank you for introducing  your Chinese friend Li Fang to me. You are the class monitor for this term. That's good. Work hard! Try to help your teacher.\nMy classmates choose me as the PE monitor in our class because I run very fast. My PE teacher and my classmates like me. They also want me to _ the PE Club. I think that is a good idea. We can play basketball or football at weekends.\nPlease send some of your photos to me.\nYours,\nMike",
+  "id": "asc23909"
+}

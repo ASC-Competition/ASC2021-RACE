@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "five",
+      "three",
+      "four",
+      "six"
+    ],
+    [
+      "Mr. White",
+      "Mrs. White",
+      "Jane",
+      "Peter"
+    ]
+  ],
+  "questions": [
+    "There are  _  people in the picture.",
+    "Mary is behind  _  ."
+  ],
+  "article": "Look, this is a photo of Mr. White's family. The man in the photo is Mr. White, the father. The woman is the mother. They have two daughters. The girl behind Mr. White is Mary. She's 14. The girl behind Mrs. White is Jane. She is 11. Mary and Jane are in the same school, but not the same grade. Mary is in Grade2. Jane is in Grade 1. They are good students.",
+  "id": "asc19760"
+}

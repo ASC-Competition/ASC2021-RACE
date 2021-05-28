@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "It was born in a car factory in Chicago.",
+      "All parts of it were not made by using a technology called 3-D technology.",
+      "It is a pity that it has not run on the street so far.",
+      "Many senior research engineers worked on it, including Greg Schroeder."
+    ],
+    [
+      "Because additive manufacturing might produce unreliable materials.",
+      "Because he just was interested in making new things.",
+      "Because he just wanted to build new machines and test them",
+      "Because additive manufacturing is always slow but inexpensive."
+    ]
+  ],
+  "questions": [
+    "Which of the following statements about the first Strati is TRUE?",
+    "Why did Lonnie Love make efforts to improve 3-D printing with his team?"
+  ],
+  "article": "On a Saturday morning earlier this September, the world got its first look at the Strati. This electric vehicle is unlike any other currently on the road. It rolls on four wheels, but its body and chassis  weren't built in a factory. Instead, Strati's designers used a technology called 3-D printing. It created those parts of the car in one piece, from the ground up.\n\"Compared to a typical vehicle on the road, the Strati definitely looks different,\" says Greg Schroeder, a senior research engineer at the Center for Automotive Research in Ann Arbor, Mich. He did not work on the new car. His organization studies trends and changes in the auto industry.\nIt took 44 hours to print the new car at the International Manufacturing Technology Show in Chicago. Over the next few days, the car's designers installed additional parts. These included the car's engine, brakes and tires. Then, early on September 13, Jay Rogers climbed into the car, started its engine and drove the vehicle onto the street. Rogers helped found Local Motors. It's the Arizona-based company behind the Strati. Two weeks later, his team printed a second Strati, and just as fast, at a fair in New York City.\nJustin Fishkin, a local Motors official, sees the Strati as a window into the future. Today, car buyers are limited in their choice of a vehicle. They can order only what car companies have already designed. But in the future, he says, you may be able to design your own car online and then get it printed to order.\nManufacturing experts say 3-D printing has begun to revolutionize how they make things. The technology has been around for decades. But these machines used to be so expensive that only large companies could afford them. In the last few years, though, that has changed. Many of the machines are now inexpensive enough for small companies--or even individuals --to own. Some local libraries make them available to the public. High Schools are beginning to use them in classrooms. Wide access to these printers means people can now design and print a wide variety of new things.\nThe car's printer is a one-of-a-kind device.\nThe technology behind the 3-D printer used in Chicago is an example of additive manufacturing. This process builds solid objects, slice by slice, from the bottom up. (\"Strati\" means layers, in Italian.) A mechanical arm moves a _ from one side to another, back and forth. As it moves, the nozzle deposits a liquid--often melted plastic or metal (but it could be food, concrete or even cells) --that quickly hardens or bonds to become solid or semi-solid. This creates a single, thin layer. Once a layer is complete, the printer starts depositing the next one.\n\"There's a lot of interest in 3-D printing in the auto industry,\" says Schroeder. Right now, the technology is particularly useful for building models of cars or car parts.\nTo compete with current auto manufacturers, the 3-D printer would have to increase in a hurry, Schroeder says. By contrast, he notes, a Ford F-150 pickup truck rolls off an assembly line at a rate of roughly one per minute. To print as many Stratis would require many more printers. Schroeder says he doesn't see 3-D printing soon taking over for such high-volume manufacturing. But, he adds, \"Who knows what will happen in the long term?\"\nScientists at Oak Ridge National Laboratory in Tennessee designed the 3-D printer used in Chicago. Lonnie Love, a research scientist at the lab, led the effort.\nAdditive manufacturing often is slow and expensive. It also may produce materials that are unreliable, Love says. So for two years, his team searched for ways to make 3-D printing better. They built new machines and tested them over and over.\nAll of that work paid off: their new machine is fast and uses less expensive material than earlier printers. In addition, it prints a plastic embedded with fibers of carbon to produce a stronger material. This helps ensure the material won't crack or break under pressure.",
+  "id": "asc03358"
+}

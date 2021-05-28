@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "old",
+      "new",
+      "big",
+      "small"
+    ],
+    [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ]
+  ],
+  "questions": [
+    "The supermarket near my home is  _  .",
+    "How many kinds of school things are talked about   in the passage?"
+  ],
+  "article": "There is a big supermarket  near my home. Its name is Pricelow. It has lots of things. You can buy school things, like notebooks, pens, rulers, pencils, erasers and pencil boxes. You can buy vegetables, fruit and all kinds of food. You can also buy clothes. Some of the things there are cheap, and anybody can afford the price. But some of them are _ .\nThe supermarket is open every day from 7:00 a.m.to 8:00 p.m. The workers there are very good. They work hard all day. They are happy to answer your questions. They help you if you want to buy anything. There are many people on weekends. They buy lots of things. Sometimes they have breakfast, lunch or dinner there.",
+  "id": "asc20128"
+}

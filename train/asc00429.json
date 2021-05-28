@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "D"
+  ],
+  "options": [
+    [
+      "use available low-cost technology",
+      "depend on GPS to understand the location",
+      "can choose the places for their owners to visit",
+      "can develop a good relationship with their owners"
+    ],
+    [
+      "are more likely to take risks",
+      "are more familiar with every road",
+      "become more skilful at avoiding dangers",
+      "can respond to new situations more quickly"
+    ]
+  ],
+  "questions": [
+    "The car tested by Oxford University are different from others in that they   _  .",
+    "Computers are believed to be better drivers than humans mainly because they   _  ."
+  ],
+  "article": "A team of researchers from Oxford University has demonstrated a self-driving car that is different from such cars being tested by Audi, Ford, etc. It' s much cheaper because it's based on off-the-shelf  technology and controlled by an ordinary iPad. Instead of using GPS to understand the location, the car learns routes when a person is driving, and then asks after it's got it down, if the driver would like the computer to take over.\nAs time passes, it's becoming very clear that people believe computers would be better drivers than humans. This has been proven by extensive research that indicates that computers are able to react more quickly to driving conditions, make smarter decisions, don't take risks, and don't make mistakes in concentration. They don't drink either, of course, which means accidents due to drunk driving could be reduced dramatically if the computer could take over when someone needs to get home from the bar. And the team says drivers don't need their cars to know everything about every road, condition or possible danger. Instead, they just need to know how to get from one point to another, and to do a good job of it when asked.\nTo that end, the researchers have added cameras, lasers, a central computer to process information and a regular iPad. In practice, the car would learn how to get to and from places that the driver frequents, such as their work place, the local pub or grocery store. Once it has it down, the computer asks the driver if they' d like a rest. If so, they simply tap the iPad, and the car takes over.\nIt' s very simple and doesn't require nearly the same number of devices as those being tested by other car companies. The researchers say people might be able to get the total price of the system below a hundred dollars. And of course, the iPad can be lifted out and carried away for other purposes when not being used as a driver assistant.",
+  "id": "asc00429"
+}

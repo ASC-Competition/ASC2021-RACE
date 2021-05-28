@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "To see whether one's feeling can be unconsciously affected.",
+      "To see whether one's facial expressions can be altered.",
+      "To see whether laughter comes before happiness.",
+      "To replace the mirrors in future clothing-store fitting rooms."
+    ],
+    [
+      "It recorded the volunteers' performance in the task.",
+      "It gave the volunteers a false image.",
+      "It attempted to make the volunteers feel happier.",
+      "It beautified the volunteers' appearance in the mirror."
+    ]
+  ],
+  "questions": [
+    "What's the main purpose of the Emotion Evoking System?",
+    "What can we learn about the web-camera image in the study?"
+  ],
+  "article": "\"Does my smile look big in this?\" Future fitting-room mirrors in clothing stores could subtly adjust your reflection to make you look - and hence feel - happier, encouraging you to like what you see.\nThat's the idea behind the Emotion Evoking System developed by Shigeo Yoshida and colleagues at the University of Tokyo in Japan. The system can manipulate, or in other word, control your emotions and personal preferences by presenting you with an image of your own smiling or frowning face.\nThe principle that physiological changes can drive emotional ones - that laughter comes before happiness, rather than the other way around - is a well-established idea.\nThe researchers wanted to see if this idea could be used to build a computer system that manipulates how you feel. The system works by presenting the user with a web-camera image of his or her face - as if they were looking in a mirror. The image is then subtly altered with software, turning the corners of the mouth up or down and changing the area around the eyes, so that the person appears to smile or frown  .\nWithout telling them the aim of the study, the team recruited   21 volunteers and asked them to sit in front of the screen while performing an unrelated task. When the task was complete the participants rated how they felt. When the faces on screen appeared to smile, people reported that they felt happier. On the other hand, when the image was given a sad expression, they reported feeling less happy.\nYoshida and his colleagues tested whether manipulating the volunteers' emotional state would influence their preferences. Each person was given a scarf to wear and again presented with the altered webcam image. The volunteers that saw themselves smiling while wearing the scarf were more likely to report that they liked it, and those that saw themselves not smiling were less likely.\nThe system could be used to manipulate consumers' impressions of products, say the researchers. For example, mirrors in clothing-store fitting rooms could be replaced with screens showing altered reflections. They also suggest people may be more likely to find clothes attractive if they see themselves looking happy while trying them on.\n\"It's certainly an interesting area,\" says Chris Creed at the University of Birmingham, UK. But he notes that using such technology in a shop would be harder than in the lab, because people will use a wide range of expressions. \"Attempting to make slight differences to these and ensuring that the reflected image looks believable would be much more challenging,\" he says.\nOf course, there are also important moral questions surrounding such subtly manipulative technology. \"You could argue that if it makes people happy what harm is it doing?\" says Creed. \"But I can imagine that many people may feel manipulated, uncomfortable and cheated if they found out.\"",
+  "id": "asc00514"
+}

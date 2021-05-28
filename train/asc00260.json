@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "They originated from ancient Greek legend.",
+      "The study of knots is a branch of mathematics.",
+      "Knots led to the discovery of atom structure.",
+      "Alexander the Great made knots well known."
+    ],
+    [
+      "t\n2-t+1",
+      "t\n2-3t+1",
+      "Alexander polynomial",
+      "Jones polynomial"
+    ]
+  ],
+  "questions": [
+    "What is surprising about knots?",
+    "According to the passage,   _   shows the most updated study about knots."
+  ],
+  "article": "Knots are the kind of stuff that even myths are made of.In the Greek legend of the Gordian knot, for example, Alexander the Great used his sword to slice through a knot that had failed all previous attempts to unite it. Knots, enjoy a long history of tales and fanciful names such as \"Englishman's tie, \" \"and \"cat's paw. \" Knots became the subject of serious scientific investigation when in the 1860s the English physicist William Thomson (known today as Lord Kelvin) proposed that atoms were in fact knotted tubes of ether . In order to be able to develop the equivalent of a periodic table of the elements, Thomson had to be able to classify knots -- find out which different knots were possible. This sparked a great interest in the mathematical theory of knots.\nA mathematical knot looks very much like a familiar knot in a string, only with the string's ends joined. In Thomson's theory, knots could, in principle at least, model atoms of increasing complexity, such as the hydrogen, carbon, and oxygen atoms, respectively. For knots to be truly useful in a mathematical theory, however, mathematicians searched for some precise way of proving that what appeared to be different knots were really different -- the couldn't be transformed one into the other by some simple manipulation . Towards the end of the nineteenth century, the Scottish mathematician Peter Guthrie Tait and the University of Nebraska professor Charles Newton Little published complete tables of knots with up to ten crossings. Unfortunately, by the time that this heroic effort was completed, Kelvin's theory had already been totally discarded as a model for atomic structure. Nevertheless, even without any other application in sight, the mathematical interest in knot theory continued at _ point for its own sake. In fact, mathematical became even more fascinated by knots. The only difference was that, as the British mathematician Sir Michael Atiyah has put it, \"the study of knots became a special branch of pure mathematics. \"\nTwo major breakthroughs in knot theory occurred in 1928 and in 1984. In 1928, the American mathematician James Waddell Alexander discovered an algebraic expression that uses the arrangement of crossings to label the knot. For example, t2-t+1 or t2-3t+1, or else. Decades of work in the theory of knots finally produced the second breakthrough in 1984. The New Zealander-American mathematician Vaughan Jones noticed an unexpected relation between knots and another abstract branch of mathematics, which led to the discovery of a more sensitive invariant known as the Jones polynomial.",
+  "id": "asc00260"
+}

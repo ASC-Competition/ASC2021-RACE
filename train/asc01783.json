@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "exposure to even tiny amount of radiation is fatal( )",
+      "the effect of exposure to radiation is slow in coming",
+      "radiation is avoidable in space exploration",
+      "astronauts in spacesuits needn't worry about radiation damage"
+    ],
+    [
+      "the Apollo mission was very successful",
+      "astronauts will have deformed children or grandchildren",
+      "protection from space radiation is no easy job",
+      "radiation is not a threat to well-protected space explorers"
+    ]
+  ],
+  "questions": [
+    "We know from the passage that  _  .",
+    "It can be inferred from the passage that  _  ."
+  ],
+  "article": "Space is a dangerous place, not only because of meteors   but also because of rays from the sun and other stars. The atmosphere again acts as our protective blanket on earth. Light gets through, and this is necessary for plants to make the food that we eat. Heat, too, makes our environment endurable. Various kinds of rays come through the air from outer space, but enormous quantities of radiation from the sun are screened off. As soon as men leave the atmosphere they are exposed to this radiation but their spacesuits or the walls of their spacecraft, if they are inside, do prevent a lot of radiation damage.\nRadiation is the greatest known danger to explorers in space, The unit of radiation is called \"rem\" Scientists have reason to think that a man can put up with far more radiation than 0.1rem without being damaged; the figure of 60 rems has been agreed on. The trouble is that it is extremely difficult to be sure about radiation damage. A person may feel perfectly well, but the cells of his or her sex organs may be damaged, and this will not be discovered until the birth of _ children or even grandchildren. Missions of the Apollo flights have had to cross belts of high radiation and , during the outward and return journeys, the Apollo crew accumulated  a large amount of rems. So far, no dangerous amounts of radiation have been reported, but the Apollo missions have been quite short. We simply do not know yet how men are going to get on when they spend weeks and months outside the protection of the atmosphere, working in a space laboratory. Drugs might help to decrease the damage done by radiation, but no really effective ones have been found so far.",
+  "id": "asc01783"
+}

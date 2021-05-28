@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "The large meeting was held in this hotel.",
+      "The three men stayed together in one room.",
+      "Each of the three men got a small room.",
+      "Room 414 was the office for Mr Smith."
+    ],
+    [
+      "There wasn't any missing dollar at all.",
+      "It was taken by the worker too.",
+      "It was taken by the manager Mr Simith.",
+      "It was taken by the three men themselves."
+    ]
+  ],
+  "questions": [
+    "Which of the following is True?",
+    "Where was the missing dollar?"
+  ],
+  "article": "Mr Smith was the manager of a hotel in Springfield. One weekend all of the hotels in the city were full because there was a large meeting. Late in the evening three men came into the hotel and asked for rooms. Mr Smith explained that because of the meeting, there were no rooms ready for use. The men were very unhappy because they had no place to stay in.\nMr Smith wanted to help them. He remembered that Room 414, a very small room, was empty. He asked them if they would share a room. The three men agreed. Mr Smith told them that the room would cost $30: $10 for each. Each of them gave Mr Smith $10, and they went up to the room.\nMr Smith soon began to feel sorry. \"Thirty dollars is too much for that small room,\" he thought. He called one of his men over and said, \"Here is $ 5. Bring it to the man in Room 414. I've asked too much money for their room.\"\nThe worker took the money from his manager. While he was on his way to Room 414, he started to think, \"How can I divide $5? Well, I'll give each of them only $1 and I keep $2. The men will be happy to get anything back. I'll make a little money and Mr Smith will never know.\" So he returned $1 to each man.\nYou see, there come a problem, each man had at first paid $10. After the worker returned them $1 each, each man had paid 9. There were three men, $9 x 3 =\" $27.\" The worker kept $2 --$27+$2=\"29.\" Where is the missing dollar?",
+  "id": "asc03571"
+}

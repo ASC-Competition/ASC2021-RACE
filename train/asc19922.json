@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "Saturday.",
+      "Sunday.",
+      "Friday.",
+      "Monday"
+    ],
+    [
+      "student",
+      "teacher",
+      "worker",
+      "manager"
+    ]
+  ],
+  "questions": [
+    "What day is it today?",
+    "My brother is a_."
+  ],
+  "article": "Tomorrow is Saturday. I'm not going to work, and my brother isn't going to school. We are going to play table tennis. We are going to have lunch in a restaurant. We're coming home at five. My parents are going to visit my grandparents. They are going to get home at half past five. We are going to help my mother cook the dinner. After supper, I am going to dance with my friends, and my brother is going to watch TV with my parents.",
+  "id": "asc19922"
+}

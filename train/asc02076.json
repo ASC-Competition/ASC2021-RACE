@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "It may be the most expensive car in the world.",
+      "It is one of the most environmentally friendly cars.",
+      "It releases dangerous gases to pollute the air.",
+      "It uses hydrogen and oxygen for fuel other than gasoline."
+    ],
+    [
+      "Gases from FCX.",
+      "Water vapor from cars.",
+      "Hydrogen and oxygen.",
+      "Gases from cars."
+    ]
+  ],
+  "questions": [
+    "Which of the following about the FCX is not true?",
+    "According to the passage, what is the major cause for global warming?"
+  ],
+  "article": "A California family drives a car that could help protect the environment. When Jon and Sandy go to the store or to their daughters' soccer games, they drive in high-tech style. They drive a $1 million, fuel-cell-powered car. It may be the world's most expensive car and one of the most environmentally friendly cars. The FCX is the first fuel-cell-powered car to be used by a family anywhere in the world. The FCX uses hydrogen and oxygen for fuel. Car makers have been working to develop vehicles that are better for the environment. They are developing cars that use fuel other than gasoline. And then what is fuel cell technology? Fuel cell technology works by changing the chemicals hydrogen and oxygen into water. This process produces electricity, and water vapor which comes out of the exhaust pipe. Most cars release dangerous gases such as carbon monoxide and carbon dioxide. Many scientists say these gases are major contributors to global warming. \"The FCX is driven just like any other vehicle on the road, but without the gases which pollute the environment,\" scientists say. Fuel cell technology has been around since the 1800s, but scientists have yet been to perfect it. They say it may take years before the technology is ready for widespread use. Another earth-friendly car is already on the market. Hybrid cars use both gasoline and an electric motor. They are becoming more popular with customers because they cut pollution and improve fuel efficiency.",
+  "id": "asc02076"
+}

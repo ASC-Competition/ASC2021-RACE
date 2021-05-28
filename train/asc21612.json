@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "America",
+      "Canada",
+      "Australia",
+      "China"
+    ],
+    [
+      "reading",
+      "playing games",
+      "swimming",
+      "cooking"
+    ]
+  ],
+  "questions": [
+    "Where are Jim and Sue from?",
+    "What does Jim's uncle like? He likes   _  ."
+  ],
+  "article": "Mr. and Mrs. Smith come from Sydney . They teach English in a middle school in China. They like their work. They have a son and a daughter, Jim and Sue. They are all in China now. Mr. Smith can speak Chinese. He likes swimming and reading. Mrs. Smith likes swimming in the afternoon and cooking . Jim and Sue like playing chess. They often play games with Chinese boys and girls.\nJim's uncle, Green, works on a farm near Sydney.\nHe likes swimming, too. He wants to work in China. But he can't speak Chinese. So he is still  there and goes to Chinese classes every week.",
+  "id": "asc21612"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "They are too slim",
+      "They work too hard",
+      "They are too fat",
+      "They lose too much body fat."
+    ],
+    [
+      "30",
+      "50",
+      "100",
+      "150"
+    ]
+  ],
+  "questions": [
+    "What kind of physical problem do many adult Americans have?",
+    "Based on the statistics   given in the article, suppose there are 500 adult Americans, about how many of them will have weight problems?"
+  ],
+  "article": "In the United States, 30 percent of the adult population has a \"weight problem.\". To many people, the cause is clear: We eat too much. But scientific evidence does little to support this idea. Going back to the America of 1910, we find that people were slimmer than today, yet they ate more food. In those days people worked harder physically, walked more, used machines much less, and didn't watch television.\nSeveral modern studies, moreover, have shown that fatter people don't eat more on average than thinner people. In fact, some investigations (researches), such as a 1970 study of 3,545 London office workers, report that, on balance, fat people eat less than slimmer people.\nStudies show that slim people are more active than fat people. A study by a research group at Stanford University School of Medicine found the following interesting facts.\nThe more the men ran, the greater loss of body fat.\nThe more they ran, the greater their increase in food intake . \nThus those who ran the most ate the most, yet lost greatest amount of body fat.",
+  "id": "asc02729"
+}

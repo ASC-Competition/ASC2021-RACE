@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "Emma's",
+      "Jack's",
+      "Jack's brother's",
+      "Jack's sister's"
+    ],
+    [
+      "behind the bed",
+      "not in the room",
+      "near the window",
+      "beside the bed"
+    ]
+  ],
+  "questions": [
+    "It is a photo of   _   bedroom.",
+    "The desk is   _  ."
+  ],
+  "article": "Dear Emma,\nThanks for the photo of your family. Here is a photo of my bedroom.\nLook at the photo. A bed, a desk, a chair, a bookcase and a computer are in my bedroom. My bed is near the window . The desk is beside  the bed and it's orange. The chair is near the desk. The bookcase is behind  the desk and it's black. An English dictionary and a Chinese dictionary are in the bookcase. My math, English and Chinese books and the computer are on the desk. My pencil box is on the desk, too. My pens and rulers are in the pencil box. My schoolbag is on the chair. My brother's white baseball and my sister's computer game are under my bed, but you can't see the baseball in the photo.\nYours,\nJack",
+  "id": "asc21437"
+}

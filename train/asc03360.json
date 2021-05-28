@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "Information can be conveyed through the way of word combination, sentence pattern, etc. explicitly or implicitly.",
+      "We convey our meaning directly through language.",
+      "People say what they want.",
+      "Language is the only way we convey our meaning."
+    ],
+    [
+      "Republican followers used more singular pronouns.",
+      "Democratic followers preferred plural pronouns like \"we\" or \"us\".",
+      "Republican followers are more likely to be concerned with group conformity.",
+      "Democratic followers did not care about government issues because they value individuality"
+    ]
+  ],
+  "questions": [
+    "What is the meaning of \"There's a lot of information in the details of our language.\" ?",
+    "What result does Purver's research team find?"
+  ],
+  "article": "It can be rude to talk politics over dinner...explicitly at least. But subtle linguistic cues might reveal more than you think about your political views, whether at the dinner table--or on Twitter. \"There's a lot of information in the details of our language.\" Matthew Purver, a computational linguist at Queen Mary University of London. \"The little words we use, the way we join together our sentences, and the kind of interactional patterns, where we react to other people.\"\nPurver's research team used Twitter as their communications forum, randomly selecting 28,000 users, half of whom clearly followed one political party's Twitter feeds, for example, @GOP, but not the other, for a more or less even split among Republicans and Democrats. Then they analyzed the words in those users' timelines during a two-week period in June 2014.\nAs you might expect, the tweets of users who followed Republican accounts were a lot more likely to contain words like \"obamacare\" and \"benghazi,\" whereas \"bridge gate\" came up more among Democratic followers.\nBut the researchers also found that the left-leaners were much more likely to use words like sh#& and fu@$ than were the righties. And whereas Republican followers preferred plural pronouns like \"we\" or \"us,\" Democratic followers used more singular pronouns, like \"I\" or \"me.\".\nThat pronoun use could reflect previous work on how people on the right and left forge their political views. \"People on the right end of the political spectrum are more likely to be concerned with group conformity. Whereas people who tend to be on the left are perhaps more likely to see their morals or their values deriving from individualistic ideas, if you like.\" The study is in the journal PLoS ONE.\nOf course, just following a political account is not proof of political belief. But these findings suggest that algorithms may increasingly be able to read between the lines, detecting nuances in human communication that even we humans can't perceive.",
+  "id": "asc03360"
+}

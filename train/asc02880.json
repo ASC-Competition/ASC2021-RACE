@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "It is a military submarine.",
+      "It is used to develop tourism.",
+      "It has gone on over 100 voyages.",
+      "It made its first DSDP voyage in 1969."
+    ],
+    [
+      "the first detailed exploration of the ocean bottom",
+      "conducted by geologists from all over the world",
+      "supported entirely by the gas and oil industry",
+      "an attempt to find new sources of oil and gas"
+    ]
+  ],
+  "questions": [
+    "Which of the following is TRUE about the Glomar Challenger?",
+    "The Deep Sea Drilling Project was significant because it was   _  ."
+  ],
+  "article": "The ocean bottom, a region nearly 2.5 times greater than the total land area of the earth, is even today largely unexplored. Until about a century ago, the deep ocean floor was completely inaccessible and hidden beneath waters averaging over 3,600 meters deep. Totally without light and in the case of intense pressures hundreds of times greater than at the earth's surface, the deep-ocean bottom is a strange environment to humans, in some way as frightening and remote as the outer space.\nAlthough researchers have taken samples of deep-ocean rocks for over a century, the first detailed global study of the ocean bottom did not actually start until 1969, with the beginning of the National Science Foundation's Deep Sea Drilling Project(DSDP). Using techniques first developed for the offshore oil and gas industry, the DSDP's drill ship, the Glomar Challenger, was able to maintain a steady position on the ocean's surface and drill very deep waters, taking samples of rocks from the ocean floor.\nThe Glomar Challenger completed 96 voyages in a 15-year research program that ended in November 1983. During this time, it sailed 600,000 kilometers and took almost 20,000 samples of rocks around the world. Those samples have allowed geologists to reconstruct what the planet looked like hundreds of millions of years ago and to make out what it will probably look like millions of years in the future. Today, largely on the strength of evidence gathered during the Glomar Challenger's voyages, nearly all earth scientists agree on the theories of plate tectonics   and continental drift that explain many of the geological processes.\nThe sample of rocks drilled by the Glomar Challenger have also provided a climatic record stretching back hundreds of millions of years. The information of past climatic change can be used to predict the future climate.",
+  "id": "asc02880"
+}

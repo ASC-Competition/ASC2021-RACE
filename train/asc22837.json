@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "Yes, she is.",
+      "No, she isn't.",
+      "Yes, she does.",
+      "No, she doesn't."
+    ],
+    [
+      "Her sister.",
+      "Her brother.",
+      "Her friends.",
+      "Her classmates."
+    ]
+  ],
+  "questions": [
+    "Does Jane have a brother ?",
+    "Who does Jane play soccer with ?"
+  ],
+  "article": "Hello! I'm Jane. I'm thirteen . I have a sister, but  I don't have a brother. I like games. I often   play soccer with her. I have 2 volleyballs. I like ping-pong, too. I play ping-pong with my friends after school. Do you like games ? Do you play sports every day ?",
+  "id": "asc22837"
+}

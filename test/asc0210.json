@@ -1,0 +1,50 @@
+{
+  "id": "asc0210",
+  "article": "Good morning! I'm Mike Brown. I am an English boy. My telephone number is five-four-five-zero-six-seven-eight. This is my room . The quilt is blue. In the room, there arebooks a computer and a pencil box .",
+  "questions": [
+    "Mike's last name is_ .",
+    "Mike is_ .",
+    "What's Mike's telephone number?",
+    "What color is Mike's quilt?",
+    "There is an_ _ _ _ _ in Mike's room."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "Brown",
+      "White",
+      "Green",
+      "Black"
+    ],
+    [
+      "a Chinese boy",
+      "an English boy",
+      "an English girl",
+      "a Chinese girl"
+    ],
+    [
+      "555-0687.",
+      "545-0678.",
+      "545-6870.",
+      "545-8760."
+    ],
+    [
+      "white.",
+      "green.",
+      "yellow.",
+      "blue."
+    ],
+    [
+      "computer",
+      "orange",
+      "pencil",
+      "Telephone"
+    ]
+  ]
+}

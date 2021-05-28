@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "Eric",
+      "Cindy",
+      "Dale",
+      "Frank"
+    ],
+    [
+      "black and white",
+      "red and yellow",
+      "blue and white",
+      "green and red"
+    ]
+  ],
+  "questions": [
+    "I'm   _  .",
+    "The schoolbag is   _  ."
+  ],
+  "article": "Good morning. My name is Eric. This is my schoolbag. What color is it? It's blue and white. And what's this in English? It's a pen. It is a black pen. This is a ruler. It's yellow.",
+  "id": "asc24163"
+}

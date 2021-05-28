@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "four",
+      "eight",
+      "thirteen",
+      "fourteen"
+    ],
+    [
+      "are in the same class",
+      "have different looks",
+      "look the same",
+      "are not students"
+    ]
+  ],
+  "questions": [
+    "Bill is   _  .",
+    "The two boys  _  ."
+  ],
+  "article": "My name is Bill. I'm an English boy. I'm in a high school. Sam is my good friend. He comes from Canada. He is 13. I'm 13, too. But we don't look the same. Miss Zhang is my English teacher. We don't know her age, but she looks young. She is not Sam's teacher. Miss Zhou is Sam's English teacher. Now please look at my photo. In the photo, Sam, Miss Zhang and I are all happy.\n,.",
+  "id": "asc23071"
+}

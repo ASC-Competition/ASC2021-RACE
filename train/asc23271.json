@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "Red",
+      "Green",
+      "Yellow",
+      "Black"
+    ],
+    [
+      "windy",
+      "sunny",
+      "rainy",
+      "cloudy"
+    ]
+  ],
+  "questions": [
+    "_   has the longest wavelength of all light we can see.",
+    "Red light travels farther on   _   days."
+  ],
+  "article": "If we are driving a car or crossing a street, we will stop when the traffic lights turn red. Why do we use red rather than other colors?\nAs we know, scattering   happens when light goes through the air. For the same media, if the wavelength   is long, the scattering will be short. If the wavelength is short, then the scattering will be long.\nOf all light we can see red has the longest wavelength, so the scattering is the weakest. That means the red light travels far. In fact, it travels farther on rainy days.\nUsing the red light can help drivers in farther areas see the lights. It helps drivers slow down or stop in time. If drivers don't see the red light until they are close, they may not be able to stop the car in time. An accident may happen. Red can also excite people. We can act more quickly when we see the color red.\nIn a word, red light helps drivers stop in time and help prevent accidents.",
+  "id": "asc23271"
+}

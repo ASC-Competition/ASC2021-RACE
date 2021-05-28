@@ -1,0 +1,42 @@
+{
+  "id": "asc0399",
+  "article": "Traveling without a map in different countries, I find out about different ways of directions every time I ask \" How can I get to the post office? \" Foreign tourists are often puzzled in Japan because most streets there don't have name signs. In Japan, people use landmarks in their directions instead of street names. For example, the Japanese will say to travelers, \" Go straight down to the corner. Turn left at the big hotel and go past a fruit market. The post office is across from the bus stop. \" People in Los Angeles, the US, have no idea of distance on the map: they measure distance by time, not miles. \" How far away is the post office? \" you ask. \" Oh, \" they answer, \" it's about five minutes from here. \" You don't understand completely, \" Yes, but how many miles away is it, please? \" To this question you won't get an answer, because most probably they don't know it themselves. People in Greece sometimes do not even try to give directions because tourists seldom understand the Greek language. Instead, a Greek will often say, \" Follow me. \" Then he'll lead you through the streets of the city to the post office. Sometimes a person doesn't know the answer to your question. What happens in the situation? A New Yorker might say, \" Sorry, I have no idea. \" But in Yucatan, Mexico, no one answers \" I don't know. \" People there believe that \" I don't \" is impolite. They usually give an answer, but often a wrong one. So a tourist can get lost very easily in Yucatan! However, one thing will help you everywhere in the world. It's body language.",
+  "questions": [
+    "Which of the following is probably an example of Japanese directions?",
+    "Why don't people in Los Angeles give directions in miles?",
+    "How do Greeks give directions?",
+    "According to the last paragraph, we can learn that _ ."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "\u201cThe post office is at Street Kamira.\u201d",
+      "\u201cTurn right at the hospital and go past a school.\u201d",
+      "\u201cThe post office is about five minutes from here.\u201d",
+      "\u201cGo south two miles. Turn west and then go another mile.\u201d"
+    ],
+    [
+      "They prefer to lead you the way.",
+      "They prefer to use body language.",
+      "They often have no idea of distance measured by miles.",
+      "They use landmarks in their directions instead of distance."
+    ],
+    [
+      "Using street names.",
+      "Using landmarks.",
+      "Leading people the way.",
+      "Giving people a wrong direction."
+    ],
+    [
+      "people in Yucatan always give wrong directions",
+      "people in Mexico know streets' name well",
+      "body language makes you get lost in Yucatan",
+      "people in Mexico prefer to use body language"
+    ]
+  ]
+}

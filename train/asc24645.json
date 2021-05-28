@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "six",
+      "seven",
+      "eight",
+      "nine"
+    ],
+    [
+      "teachers",
+      "workers",
+      "doctors",
+      "office workers"
+    ]
+  ],
+  "questions": [
+    "There are   _  people in Tony'sfamily.",
+    "Tony's parents are   _  ."
+  ],
+  "article": "I have a big family. My name is Tony Brown. I'm English. My father and mother are teachers. They teach English in No.1 Middle School. I have a sister. Her name is Mona. We are students in N0.1 Middle School. My grandfather's name is David, My grandmother's name is Sue. They are retired , they are at home. Paul is my uncle. He is a worker  . Paul's wife --Jane, is a doctor . They have ason. His name is Jeff. He's only three.",
+  "id": "asc24645"
+}

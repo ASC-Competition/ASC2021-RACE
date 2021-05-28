@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "At 6:15 in the morning.",
+      "At 6:30 in the morning.",
+      "At 2:30 in the afternoon.",
+      "At 9:00 in the evening."
+    ],
+    [
+      "In a school.",
+      "In a store.",
+      "In a factory .",
+      "in a station"
+    ]
+  ],
+  "questions": [
+    "When does Dennis get up?",
+    "Where does Dennis work?"
+  ],
+  "article": "My name is Dennis. I'm a worker  of a big store. I don't work in the morning. I work at night. Every morning I come home at about 6:30. I have breakfast at 7:00. After breakfast I go to bed. I get up at around 2:30. I have lunch at 2:45 and dinner at 7:40. Then I go to work at 8:30. My work starts at 9:00. I look after  the store every night. I like my work very much.\n.",
+  "id": "asc23569"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "They can be safer.",
+      "They can reach an accident area faster.",
+      "They can get more advice from people.",
+      "They can share their information with others."
+    ],
+    [
+      "They observe traffic flow continuously.",
+      "They develop software and applications.",
+      "They control the computer servers occasionally.",
+      "They change the information gathered into visual image."
+    ]
+  ],
+  "questions": [
+    "What benefit can emergency workers get from the system developed by the CATT lab?",
+    "Which of the following is NOT true about the developers and the students at the CATT?"
+  ],
+  "article": "Controlling traffic is a complex and high cost problem in many developed countries. It becomes more difficult and costly with the ever- increasing number of cars on the roads. But scientists and students at the CATT, at the University of Maryland are working to solve this problem. They are using simulation  technologies to help government and private business control and react to changing traffic conditions.\nThe online economics magazineForbes.comsays traffic congestion  cost Americans $ 124 billion in 2014 and that number could rise to $ 186 billion by 2030.\nBui scientists at the CATT lab are trying to reduce those costs. They are developing a system that helps traffic managers. planners, emergency workers and businesses plan and react better. Michael Pack is CATT director. He says the system is important to help emergency workers, or first responders,reach an accident area faster.\nThe CATT Lab collects information from many sources, including roadside devices, GPS (global positioning system) equipment and wireless phones.\nAbout 60 students and 30 software developers observe traffic flow and manage the computer servers at all times. They also work to develop software and applications that can help traffic run smoother and safer, Some of them turn the information gathered into so-called \"visualizations\". These visual representations help emergency workers better understand what is happening.\nThe center shares its findings with firefighters, police,Transportation departments and the military. They also share information with universities and transportation company. The technology company Google uses the data for its traffic-related websites. Michael Pack says, the information is then shared with anyone who wants to help traffic run more smoothly.\nMr. Pack says the goal is to help develop an intelligent system of road signals that will communicate with each other and with vehicles on the road.",
+  "id": "asc01557"
+}

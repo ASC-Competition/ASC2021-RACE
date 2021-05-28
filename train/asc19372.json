@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "fifteen",
+      "sixteen",
+      "seventeen",
+      "eighteen"
+    ],
+    [
+      "They couldn't eat the apples.",
+      "They couldn't go home.",
+      "They couldn't divide the apples.",
+      "They wanted to borrow some apples,"
+    ]
+  ],
+  "questions": [
+    "There were  _  apples when the three boys divided them.",
+    "What was the three boys' problem?"
+  ],
+  "article": "Three boys, Tom, Sam and Jim bought seventeen apples. Tom wanted the half  . Sam wanted one-third  ,and Jim wanted one-ninth  * But they didn't know how to do.\nJust at that time,a little boy came with an apple in his hand. The boy said to them, \"Don't worry. Let me help you\" Then he put his apple into their apples, and made the number of the apples eighteen. Then he gave Tom nine apples, he gave Sam six apples,and he gave Jim two apples. He gave away seventeen apples and took his apple back.\nThe three boys were very happy. And they said: \"How clever the boy is!\"\n,.",
+  "id": "asc19372"
+}

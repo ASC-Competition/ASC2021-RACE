@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "Information in short-term memory is different from that in long-term memory.",
+      "Long-term memory can be achieved only by training.",
+      "It is easier to test short-term memory than long term memory.",
+      "Henning gave a separate test on vocabulary to his students."
+    ],
+    [
+      "beginners have difficulty distinguishing the pronunciation of words",
+      "advanced students always remember words by their meaning",
+      "it is difficult to remember words that sound alike",
+      "it is difficult to remember words that have the same meaning"
+    ]
+  ],
+  "questions": [
+    "Which of the following statements is TRUE according to the passage?",
+    "From Henning's result we can see that   _  ."
+  ],
+  "article": "There are two kinds of memory: short-term and long-term. Information in long-term memory can be remembered at a later time when it is needed. The information may be kept for days or weeks. However, information in short-term memory is kept for only a few seconds, usually by repeating the information over and over. The following experiment shows how short-term memory has been studied.\nHenning studied how students who are learning English as a second language remember vocabulary. The subjects in his experiment were 75 college students. They represented all levels of ability in English: beginning, intermediate  , and native speaking students.\nTo begin, the subjects listened to a recording of a native speaker reading a paragraph in English. Following the recording, the subjects took a 15-question test to see which words they remembered. Each question had four choices. The subjects had to circle the word they had heard in the recording, Some of the questions had four choices that sound alike. For example, weather, whether, wither, and wetter are four words that sound alike. Some of the questions had four choices that have the same meaning. Method, way, manner, and system would be four words with the same meaning. Finally the subjects took a language proficiency test.\nHenning found that students with a lower proficiency in English made more of their mistakes on words that sound alike; students with a higher proficiency made more of their mistakes on words that have the same meaning. Henning's results suggest that beginning students hold the sound of words in their short-term memory, and advanced students hold the meaning of words in their short-term memory.",
+  "id": "asc03420"
+}

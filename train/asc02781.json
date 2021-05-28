@@ -1,0 +1,18 @@
+{
+  "answers": [
+    "C"
+  ],
+  "options": [
+    [
+      "mobile devices will consume more data",
+      "radio-frequency bandwidth needs to be freed up.",
+      "VLC might solve the spectum crisis.",
+      "the world has a complete lighting infrastructure."
+    ]
+  ],
+  "questions": [
+    "By saying \"There are around14 billion light bulbs worldwide\"Haas intended to tell us that    _"
+  ],
+  "article": "Flickering lights are annoying but they may have an advantage. Visible light communication (VLC) uses rapid pluses of light to transmit information wirelessly. Now it may be ready to compete with conventional Wi-fi.\nIn a recent TED talk, Harald Hasas from the University of Edinburge,UK demonstrated one VLC prototype ,\"Li-Fi\", transmitting a video from a store-bought LED lamp to a solar cell to a laptop. \"Li-Fi is essentially the same as Wi-Fi,except for a small difference- we use LED lights around us to transmit the data wirelessly as opposed to using radio,\" Haas says.\nOnce established, VLC could solve some major communication problems. In 2009, the US Federal Communications Commission(FCC) warned of spectrum  crisis: because our mobile devices are so data- hungry we will soon run out of radio-frequency bandwidth.Li-Fi could free up bandwidth, especially as much of the infrastructure is already in place.\"There are around14 billion light bulbs worldwide, they just need to replaced with LED ones that transmit data\", says Haas.\nThe idea of transmitting data through the visible light spectrum is not new.Alexander Graham Bell transmitted sound via a beam of sunlight in 1880 using a photo phone, a sort of solar-powered wireless telephone. In the past several decades, a number of researchers have looked at using visible light to transmit data.\nBut what Haas seized on is the use of simple LED light bulbs for data transmission. LED bulbs are controlled by a driver, which can rapidly di the light or turn it on or off. Therefore, Haas figured, data could be encoded in subtle shifts of the light's brightness. Eventually, he creaded a working transmitter and receiver system with an IKEA lamp and a solar panel.\nLi-Fi stands to be much faster than Wi-Fi. According to Haas research, Li-Fi can achieve data density 1000 times greater than Wi-Fi,because Li-Fi signals are contained in a small area, as opposed to the more diffuse  ,radio signals.The system wouldn't mean having to keep your lights on all the time either, Haas says---bulbs could be dimmed to such a point that they appear off, but still transmit data.\nNow, Haas' team hopes that Li-Fi could make its way into homes in a few years. The system can easily network any device with an LED light--an electric kettle, an oven. Eventually, this could bring about the Internet of Things era much faster. Haas also  sees Li-Fi as a way to bring internet to remote location, using hilltop transmitters and rooftop solar panels. LED streetlights could even be used to form a network of outdoor Li-Fi, making it possible to stay connected when walking around the city.\nBut some sound a cautious note about VLC's future. It becomes less powerful , for example,when light is blocked, wheather due to fog or other conditions.",
+  "id": "asc02781"
+}

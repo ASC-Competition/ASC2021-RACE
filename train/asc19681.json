@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "Monday to Thursday",
+      "every day",
+      "every weekday",
+      "at weekends"
+    ],
+    [
+      "$105",
+      "$ 90",
+      "$ 210",
+      "$ 180"
+    ]
+  ],
+  "questions": [
+    "Strong Museum usually opens  _   except on Thanksgiving Day and Christmas Day.",
+    "If a group of 30 students with ID visit strong Museum, how much should they pay for the admission?"
+  ],
+  "article": "Strong Museum\nHours\nMonday---Thursday: 10:00 am---5:00 pm          Friday: 10:00 am---8:00 pm\nSaturday: 10:00 am -- -5:00 pm                  Sunday: 11:00 am---5:00 pm\nClosed on Thanksgiving Day and Christmas Day.\nThe Museum Shop is open during regular museum hours.\nThe Museum Library is open during Monday---Friday: 10:00 am---5:00 pm.\nThe Skyliner Restaurant is open during regular museum hours from Monday to Saturday, and from 11:30 am to 5:00 pm on Sunday.\nAdmission \nAdults: $7.00                  The aged and students with ID: $6.00\nStrong Museum offers a 50% discount  to groups of 20 or more.",
+  "id": "asc19681"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "The bad weather had broken the motorcycle.",
+      "The bad weather had stopped the person from going outside.",
+      "The person had bought a new motorcycle.",
+      "The person had been in a motorcycle accident."
+    ],
+    [
+      "A good day.",
+      "A bad day.",
+      "An exciting day.",
+      "A boring day."
+    ]
+  ],
+  "questions": [
+    "Something had happened to the person in the story the night before.What was it?",
+    "\"It was a day like that for me.\"What kind of day did this turn out to be?"
+  ],
+  "article": "Have you ever woken up feeling that something was wrong?\nIt was a day like that for me.\nI sat up in bed.\nA little later I opened the curtains.\nIt was terrible weather--the rain was pouring down.\nThen I looked down into the yard.\nYes! There it was--the motorcycle.\nIt was just as broken as last night.\nAnd my leg was starting to hurt.",
+  "id": "asc22115"
+}

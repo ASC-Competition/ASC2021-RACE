@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "farmer",
+      "doctor",
+      "worker",
+      "writer"
+    ],
+    [
+      "no medical books",
+      "many medical books",
+      "only a few medical books",
+      "no good medical books"
+    ]
+  ],
+  "questions": [
+    "Li Shizhen's father was a  _  perhaps.",
+    "He decided to write a new medical book because there were  _  ."
+  ],
+  "article": "Li Shizhen was born in 1518. When he grew up, he liked his father's job and he was interested in medicine. He read many books about medicine and found something wrong in them. So he decided to write a new one. He tried his best to study medicine. He set out many times on long trips to collect herbs and talked with old farmers. In this way, he learned a lot from the working people.\nAfter many years of hard work and study, Li Shizhen at last finished his great work, the Ben Cao Gang Mu in 1578. The book was one of the most important books in the medical science of the world.",
+  "id": "asc18806"
+}

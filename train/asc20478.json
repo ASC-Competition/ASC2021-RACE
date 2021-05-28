@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "what season is \"my\" favourite",
+      "what the weather is like",
+      "why \"I\" like different seasons",
+      "why \"I\" dislike seasons"
+    ],
+    [
+      "An apple.",
+      "An apple tree.",
+      "A bee.",
+      "A boy."
+    ]
+  ],
+  "questions": [
+    "The poem is about   _  .",
+    "Who is \"I\" in the poem?"
+  ],
+  "article": "Hi! I'm Mike the apple tree.\nI like spring because it's warm.\nI get pink and white flowers.\nI get new leaves.\nThe friendly bees visit me.\nAhhh! Spring.\nI like summer because it's hot.\nMy apples grow bigger and bigger.\nMy leaves become greener and greener.\nPeople rest under my shade.\nHummm! Summer.\nI like autumn because it is cool.\nMy apples become red.\nMy leaves become colourful.\nPeople come and pick my red apples.\nWow! Autumn.\nI have no leaves or apples any more.\nBut, I like winter thanks to the clean white snow.\nI can sleep and wait for spring.\nZzzzz! Winter.",
+  "id": "asc20478"
+}

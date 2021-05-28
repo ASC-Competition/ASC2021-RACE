@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "Some questions about her.",
+      "\"How are you feeling now?\"",
+      "\"What's the trouble with you?\"",
+      "\"How old are you?\""
+    ],
+    [
+      "The doctor was new here.",
+      "The doctor was very good at his work.",
+      "The doctor was very clever.",
+      "The doctor was the head of the hospital."
+    ]
+  ],
+  "questions": [
+    "What did the doctor first ask the woman?",
+    "Which of the following is true?"
+  ],
+  "article": "A woman was having some trouble  with her heart, so she went to see a doctor. He was a new doctor, and did not know her, so he first asked some questions about her, and one of them was, \"How old are you?\" \"Well,\" she said, \"I don't remember, doctor, but I will try to think.\" She thought for a moment and said, \"Yes, I remember now, doctor! When I married , I was eighteen years old, and my husband  was thirty. Now my husband is sixty, I know, and that is twice thirty. So I am twice eighteen. I think I am thirty-six,is it right?\"",
+  "id": "asc21734"
+}

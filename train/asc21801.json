@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "two",
+      "three",
+      "four",
+      "five"
+    ],
+    [
+      "boring",
+      "easy",
+      "fun",
+      "difficult"
+    ]
+  ],
+  "questions": [
+    "Leo has   _   good friends.",
+    "Leo thinks ping-pong is   _   ."
+  ],
+  "article": "I'm Leo. I'm 13 and I'm in Class Six. I have three good friends. They are Lily, Gina, and Ben. Lily and Gina are in Class Seven. Ben is in Class Six, too. We're all in Grade Seven.\nWe like sports. My favorite sport is ping-pong. It is interesting. I have three ping-pong balls and four ping-pong bats. Lily and Gina are sisters. They don't like ping-pong. They think it is boring. Their favorite sport is tennis. They have five tennis balls and they play tennis with their parents and two brothers. Ben's favorite sport is soccer. He has two soccer balls and he plays soccer very well.",
+  "id": "asc21801"
+}

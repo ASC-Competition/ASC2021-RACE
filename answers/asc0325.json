@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "C",
+    "D",
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "beef",
+      "fish",
+      "rice",
+      "chicken"
+    ],
+    [
+      "To eat more meat .",
+      "To be away from  hospital .",
+      "To drink less   cola .",
+      "To eat only healthy food ."
+    ],
+    [
+      "rice , fruit , meat and fish",
+      "hamburgers and candy",
+      "noodles and ice cream",
+      "Carrots and chocolate"
+    ],
+    [
+      "People can stay healthy if they eat healthy food .",
+      "Now many families eat very healthy food .",
+      "People need to eat more fish than noodles",
+      "People can have some cola and hamburgers ."
+    ]
+  ],
+  "questions": [
+    "Which of the following you should eat first ?",
+    "What does Doctor Smith advise   people to do in the passage ?",
+    "To stay healthy , people should eat   _  .",
+    "Which is right ?"
+  ],
+  "article": "Many families do not eat very healthy food now . If   you do not eat good food ., then you are not healthy . Doctor Smith from the hospital says that people need   to eat a lot of healthy food in this order   :\nRice and noodles .\nFruit , such as oranges and apples , and vegetables , such as carrots , tomatoes and potatoes .\nMeat , such as pork , chicken , beef and fish .\nDoctor Smith says that people should not   eat unhealthy food like hamburgers , candy chocolate or ice cream , or have some drink such as cola . And they should drink milk , juice or water .\nSo , to stay healthy and away from hospital , eat only healthy food !",
+  "id": "asc0325"
+}

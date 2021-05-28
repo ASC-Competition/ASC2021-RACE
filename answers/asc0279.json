@@ -1,0 +1,34 @@
+{
+  "answers": [
+    "B",
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "A teacher.",
+      "A doctor.",
+      "A farmer.",
+      "A designer."
+    ],
+    [
+      "Red.",
+      "Yellow.",
+      "Pink.",
+      "White."
+    ],
+    [
+      "Jennifer's parents are from Beijing.",
+      "Jennifer likes dolphins best.",
+      "Jennifer wants to be a designer.",
+      "Jennifer has three toy friends."
+    ]
+  ],
+  "questions": [
+    "What does Jennifer's mother do?",
+    "What's Jennifer's favorite color?",
+    "Which of the following is wrong?"
+  ],
+  "article": "Hi,I am Jennifer.I am 13 years old.I am from Africa.My father is a teacher and my mother works in a hospital.Now they are working in Beijing.They both like their work and work very hard.My father's favorite animal is pandas.but I like dolphins best.\nI am studying at a middle school.And I like music and drawing best.I want to be a designer .I like to design my room.I like the color pink,so there are a lot of pink things in my room.\nI have three friends in my room.They are Mike.Dora and Peter.They are my toys.I love them.Every night,they sleep on my bed with me.",
+  "id": "asc0279"
+}

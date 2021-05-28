@@ -1,0 +1,50 @@
+{
+  "id": "asc0226",
+  "article": "Good Friend Clothes Store Hello, boys and girls! Welcome to Good Friend. You can buy your clothes at very good prices. We have red and white skirts for only $23. Do you like hats? Blue and black hats are only $15. How much are the jackets? The green jackets are $45 and the blue ones are $42. Do you need trousers? You can get them for only $40. Our T-shirts are on sale, too. You can buy them for $29. What color do you want? We have T-shirts in white, purple and green. How about these black and brown socks? Only $5 for two pairs. Come and see now!",
+  "questions": [
+    "The store sells skirts in _ .",
+    "How much is a blue jacket?",
+    "Cindy has $30. She can buy _ in the store.",
+    "You can have two pairs of socks for _ .",
+    "Sonia can't get _ in the store."
+  ],
+  "answers": [
+    "C",
+    "A",
+    "D",
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "red and black",
+      "blue and white",
+      "red and white",
+      "white and purple"
+    ],
+    [
+      "$42.",
+      "$23.",
+      "$29.",
+      "$45."
+    ],
+    [
+      "three hats",
+      "two jackets",
+      "a pair of trousers",
+      "a T-shirt"
+    ],
+    [
+      "$7",
+      "$5",
+      "$3",
+      "$2"
+    ],
+    [
+      "black hats",
+      "blue shorts",
+      "white T-shirts",
+      "green jackets"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "most people in America or England read newspapers every day",
+      "all people in America or England read newspapers every day",
+      "every person in America or England reads newspapers every day",
+      "all families in America or England read newspapers every day"
+    ],
+    [
+      "only home news",
+      "only world news",
+      "home news and world news",
+      "important things"
+    ]
+  ],
+  "questions": [
+    "This article tells us   _  .",
+    "Newspapers supply us with   _  ."
+  ],
+  "article": "Almost every family in America or England buys at least one copy of a newspaper each day. Some people buy as many as two or three different papers.\nWhy do people read newspapers?\nNewspapers supply us with news about events in our hometowns, in our country, and in other parts of the world. Today we can read about important things that took place in foreign countries on the same day they happened, even in countries far away. But hundreds of years ago, news of things took months or even years to travel from one country to another. In those times, news was often passed from one person to another and never completely true. Newspapers today supply us with more than just what happened in our country or in other countries. If we want to know what the weather will be like, we can read the weather reports. If we want to find out what films are being shown, or what plays or concerts we can go to we can look in the newspapers.\nIn many countries people put notices in newspapers if they are trying to get a job, hunting for a house or rooms that they can rent, or even when looking for a person who is lost.",
+  "id": "asc08999"
+}

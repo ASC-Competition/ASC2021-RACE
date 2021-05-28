@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "A doctor.",
+      "A teacher.",
+      "A farmer.",
+      "A worker."
+    ],
+    [
+      "They're doctors.",
+      "They're teachers.",
+      "His father is a doctor and his mother is a teacher.",
+      "His father is a teacher and his mother is a doctor."
+    ]
+  ],
+  "questions": [
+    "What does Ben's grandfather do?",
+    "What do Ben's parents do?"
+  ],
+  "article": "This is a photo of Ben's family. He has a big family. Look! Ben's grandparents are on the sofa. They are workers. They are old, so they don't work now. Ben's father is a doctor. He works in a hospital. He often drives his car to work. Ben's mother is a teacher. She teaches English in our school. The man in white is Ben's uncle. The young woman in red is Ben's aunt. They are office workers. Ben's family live in Beijing now. Ben and I are classmates. We are good friends.\n,.",
+  "id": "asc20071"
+}

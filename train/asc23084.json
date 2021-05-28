@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "Frank Brown",
+      "Gina Smith",
+      "Alan",
+      "Frank Brown and Wang Wei"
+    ],
+    [
+      "difficult",
+      "relaxing",
+      "not difficult",
+      "fun"
+    ]
+  ],
+  "questions": [
+    "Who doesn't have a soccer?",
+    "Alan thinks it's  _   for him to play soccer at school with his friends."
+  ],
+  "article": "Frank Brown doesn' t have a soccer ball, but his brother Alan does. They go to the same school and they love soccer. They play it at school with their friends. They think it's relaxing.\nGina Smith has two soccer balls, three volleyballs, four basketballs and five baseballs and bats. She loves sports, but she doesn't play them--she only watches them on TV!\nWang Wei doesn't have a soccer. He thinks soccer is difficult. He likes ping-pong. It's not difficult for him. He has three ping-pong balls and two ping-pong bats. After class, he plays ping-pong with his classmates.",
+  "id": "asc23084"
+}

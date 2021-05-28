@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "red",
+      "black",
+      "blue",
+      "white"
+    ],
+    [
+      "the bed",
+      "the desk",
+      "the chair",
+      "the bookcase"
+    ]
+  ],
+  "questions": [
+    "Jack's desk is  _  .",
+    "\"it\" \"  _  \"."
+  ],
+  "article": "Dear Emma,\nThanks for sending me the photo of your room. Here is a photo of my room.\nLook! A bed, a desk, a chair and a bookcase are in my room. My bed is blue and it is near the window . My desk is near the bed and it's black. My books and computer are on _ . An English dictionary is on the bookcase. Where is my pencil box? It is in the desk. My two pens and three rulers are in the pencil box. My school bag is on the chair. My brother's white baseball is under my bed. And you can see a dog in the photo. Its name is Sam.\nMy room is tidy, isn't?\nYours,\nJack\n.",
+  "id": "asc19933"
+}

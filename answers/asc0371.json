@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "B",
+    "B",
+    "C",
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "a teacher",
+      "a student",
+      "a worker",
+      "a driver"
+    ],
+    [
+      "Yes, they do",
+      "No, they don't",
+      "Sorry, I don't know",
+      "Yes ,I think so"
+    ],
+    [
+      "computer",
+      "book",
+      "shirt",
+      "flower"
+    ],
+    [
+      "Because he doesn't listen to them.",
+      "Because he has a bad cold.",
+      "Because he likes watching TV.",
+      "Because he likes the popular hair style."
+    ],
+    [
+      "The nurse knows he is a boy.",
+      "That evening he has a bad cold.",
+      "His parents take him to school.",
+      "He doesn't watch TV and like the popular hair style."
+    ]
+  ],
+  "questions": [
+    "--What does Tony do? --He is  _  .",
+    "--Do his parents and teachers like his hair style? --  _  .",
+    "His mother buys a beautiful   _  for him.",
+    "Why do Tony's parents take him to hospital?",
+    "Which sentence is right?"
+  ],
+  "article": "Tony is a boy. He is 16 years old. He studies in a middle school. He often watches TV and likes the popular hair style . His parents and teachers tell him not to do so, but he doesn't listen to them.\nOne Sunday afternoon his mother buys a beautiful shirt for him and he loves it very much. The next morning, it is cold, but he still puts it on. That evening he has a bad cold. His parents take him to hospital.\nAbout thirty minutes later, a nurse brings him to a women's ward .\"Don't you know I am a boy\"? says Tony.\"Oh, I'm sorry. I don't know you are a boy, because your hair is too long\".",
+  "id": "asc0371"
+}

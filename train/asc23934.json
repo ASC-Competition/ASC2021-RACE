@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "Black.",
+      "Green.",
+      "Red.",
+      "White."
+    ],
+    [
+      "300 yuan.",
+      "900 yuan.",
+      "1500 yuan.",
+      "1800 yuan."
+    ]
+  ],
+  "questions": [
+    "What color is Molly?",
+    "If Miss Jones gets the teacher job, how much can she get a week?"
+  ],
+  "article": "News\nPlace: playground \nTime: 5:00pm this Thursday\nProgram : a friendly soccer game between Class 3 and Class 4\nLost\nHello, everyone! Do you see a cat in the park? Its name is Molly. It is a black cat. If you see Molly, please call Mary at 820-9291.\nWanted\nDo you play the guitar well? We need a guitar teacher to teach kids between the ages of seven and ten. The work time is from Tuesday to Saturday, 300 yuan for each day. Welcome to join us.",
+  "id": "asc23934"
+}

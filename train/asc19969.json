@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Brown"
+    ],
+    [
+      "No,It isn't",
+      "Yes,It is",
+      "It's small.",
+      "I don't know."
+    ]
+  ],
+  "questions": [
+    "What color are the windows?",
+    "Is the garden big?"
+  ],
+  "article": "We have a new house.It has blue windows and a red door.There is a big garden in front of the house.There are many flowers in it.They are red, yellow, pink and white.We have a dog and a cat now.The dog's name is Brownie.She is brown and yellow.The cat's name is Tabby.He is black and grey.They are lovely.Dad, Mum, Brownie, Tabby and I are a happy family.",
+  "id": "asc19969"
+}

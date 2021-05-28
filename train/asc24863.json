@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "Chinese",
+      "an English girl",
+      "an English boy",
+      "a girl"
+    ],
+    [
+      "sisters",
+      "a sister",
+      "brothers",
+      "cousin"
+    ]
+  ],
+  "questions": [
+    "David is    _   .",
+    "David doesn't have    _   ."
+  ],
+  "article": "My name is David Green. I am an English boy. My family are in Beijing. My father and mother work there. I have a sister but no brothers. We have a nice house in Beijing. There is a TV, a radios, a telephone, a computer, two small beds, a big bed and a soccer ball in it. The computer is next to the TV. The telephone is in the big bed. The football is under one of the small beds. I like playing football , but my sister likes watching TV.",
+  "id": "asc24863"
+}

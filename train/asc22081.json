@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "55",
+      "20",
+      "10",
+      "50"
+    ],
+    [
+      "walk",
+      "by bus",
+      "ride a bike",
+      "on foot"
+    ]
+  ],
+  "questions": [
+    "How  many students are there in the class?",
+    "Twenty students   _   to school because they live near the school."
+  ],
+  "article": "There are 55 students in my class. They come from different places, so they go to school in different ways. Twenty students go to school on foot because they live near the school. Ten students ride the bikes to school because they live not far from the school. Ten students go to school by bus because they live far from the school. Ten students go to school in their parents' car. The other five students go to school by boat, because there is a river between their houses and the school.",
+  "id": "asc22081"
+}

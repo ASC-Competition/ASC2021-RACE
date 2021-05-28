@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "gets its energy from sugar",
+      "depends on batteries to work",
+      "can get food for itself",
+      "can work a few minutes without energy"
+    ],
+    [
+      "is a kind of insect",
+      "is a kind of fish",
+      "can't see Slugbot",
+      "can eat Slugbot"
+    ],
+    [
+      "Robots that can provide people with food.",
+      "Robots that can work in dangerous places.",
+      "Robots that can get energy for themselves.",
+      "Robots that can be very small."
+    ],
+    [
+      "Robots need to work in places that have no sockets for power.",
+      "Melhuish is not very satisfied with Ecobot II.",
+      "Maybe there will be three kinds of restrooms in the future.",
+      "Ecobot II can turn its flies into energy completely."
+    ],
+    [
+      "Robots are hard things to invent.",
+      "Scientists are working to improve robots.",
+      "Robots in the future need to eat food like human.",
+      "Scientists at the Bristol Robotics Laboratory are good at robots."
+    ]
+  ],
+  "questions": [
+    "An ordinary robot usually .",
+    "From the passage, we can infer that a slug .",
+    "What kind of robots do inventor Chris Melhuish want?",
+    "Which of the following is NOT true according to this passage?",
+    "What does the passage mainly tell us?"
+  ],
+  "article": "Robots are supposed to run on batteries, right? Well not all of them.\nScientists in England have built a kind of small robots that get their energy from dead flies, bad apples, or sugar.\nOne robot, called Slugbot, was even designed to hunt  garden slugs for dinner!\nWhat's up with all that food?\nWell, scientists at the Bristol Robotics Laboratory want to invent robots that can operate for a long time in dark, dirty, or dangerous places.\nMany of those spots, like the seafloor or Antarctica, don't have electrical sockets .\nSo inventor Chris Melhuish came up with a better idea: Build robots that get their energy just like animals do by hunting and eating food from their environment.\nOne robot, called Ecobot II, could run for 12 days on a diet of eight flies! Of course, it'd still get a lot more power from one AA battery, though.\nMelhuish says his team is now working on a new and improved robot, called Ecobot III, which will have a better digestion system.\nIt seems that after an eight fly dinner, Ecobot II couldn't deal with the leftover  \"waste\".\nMaybe restrooms in the future will have signs for boys, girls, and robots.",
+  "id": "asc0434"
+}

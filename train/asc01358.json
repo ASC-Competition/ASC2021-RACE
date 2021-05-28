@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "teacher",
+      "soccer player",
+      "student",
+      "driver"
+    ],
+    [
+      "fourteen",
+      "thirteen",
+      "fifteen",
+      "sixteen"
+    ]
+  ],
+  "questions": [
+    "Who is Frank? He is a   _  .",
+    "I'm   _   years old this year."
+  ],
+  "article": "Frank is my good friend. We are in the same class. He is fourteen, one year older than me. His parents are both teachers in No 7 Middle School. Frank studies hard. His English and math are very good. He often helps other students with their English and math. Our teachers like him very much.\nWe go to school together by bike in the morning. We have lunch at school. After school in the afternoon, we often play sports. We play soccer and baseball. In the evening, he does his homework at home. Sometimes he watches soccer games on TV. On Sundays, he goes out with his parents in his father's car. They play in the park and do sports there. Sometimes my father takes me there, too. We play sports together. We have a good time.",
+  "id": "asc01358"
+}

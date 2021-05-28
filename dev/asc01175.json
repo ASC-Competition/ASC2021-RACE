@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "6.",
+      "8.",
+      "10.",
+      "12."
+    ],
+    [
+      "Black.",
+      "Blue.",
+      "Red.",
+      "Yellow."
+    ]
+  ],
+  "questions": [
+    "How old is Dave's sister?",
+    "What color is Dave's backpack?"
+  ],
+  "article": "Dave Smith is 12. He has a sister. Her name is Sally. She is 8. Dave has a dictionary. It is blue. The dictionary is in his black backpack. He has a computer game and he likes it. Sally has a watch. It is red. She likes it very much. She has a nice pencil box, too. It is white. Her pencil, ruler, eraser and pen are in the pencil box. Her pencil box is in the yellow backpack.",
+  "id": "asc01175"
+}

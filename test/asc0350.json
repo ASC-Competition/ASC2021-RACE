@@ -1,0 +1,50 @@
+{
+  "id": "asc0350",
+  "article": "Bob Smith is old. He has two big houses and a new car. He has no wife but he is a father of four children. He has two sons and two daughters. One son is from Canada. His name is Jack. The other is from England. His name is Mike. One of his daughters is from China. Her name is Meimei. The other is from America. Her name is Lucy. Meimei and Lucy are both eleven. Bob Smith is not the children's real father, but he loves them very much. The children love their \" father \" , too. Bob Smith has many toys for the children. He gives different toys to different children. The boys play with toy cars. The girls play with doll and toy animals. Bob Smith is their good friend.",
+  "questions": [
+    "Bob Smith has _ .",
+    "Where is Jack from?_",
+    "Who is from America?",
+    "How many people are there in Bob's family?",
+    "Bob is children's _ ."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "a nice wife",
+      "four sons",
+      "four cars",
+      "two big houses"
+    ],
+    [
+      "Canada.",
+      "China.",
+      "England.",
+      "America."
+    ],
+    [
+      "Jack.",
+      "Mike.",
+      "Meimei.",
+      "Lucy."
+    ],
+    [
+      "Two.",
+      "Three.",
+      "Four.",
+      "Five."
+    ],
+    [
+      "real father",
+      "uncle",
+      "English teacher",
+      "friend"
+    ]
+  ]
+}

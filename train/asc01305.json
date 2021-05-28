@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "what the initial philosophy or spirit was",
+      "what inspired Yanez to create the generator",
+      "how the bridge was destroyed in strong wind",
+      "how wind creates powerful vibrations"
+    ],
+    [
+      "The original idea was considered as practical in an engineering firm.",
+      "Yanez and Martin's initial tests by themselves proved to be successful.",
+      "The material for constructing the mast is different from that of the past.",
+      "The new generator is better at creating energy than a comparable bladed one."
+    ]
+  ],
+  "questions": [
+    "The author mentions a short film about the Tacoma Narrows Bridge to show   _  .",
+    "What do we know from the passage?"
+  ],
+  "article": "Wind turbines are efficient sources of cheap energy but also a source of concern as their huge spinning blades   frequently kill birds and bats. A new type of wind generator developed in Spain offers a creative solution to that problem.\nIn 2002, Spanish inventor David Yanez saw a short film about the Tacoma Narrows Bridge in the U.S., collapsing in strong wind. It was a vivid example of the powerful vibrations wind can create when it blows past a long pole, such as a car antenna or even a stick of bamboo. It gave him the idea for a new type of wind-energy generator.\n\"The initial philosophy or spirit was to create a generator of dreams that had all the qualities one would want: It should be as cheap as possible, need as little maintenance as possible, the setup as simple as possible,\" he said.\nYanez and his friend Raoul Martin took the idea to an engineering firm, where they were told it would never work. Undiscouraged, they started experimenting on their own in a small wind tunnel they built.\nGood initial results were repeated by a larger working model called Vortex   installed in a nearby field. \"What we have is a mast  , which is the top piece and acts as a blade,\" Yanez said. \"It's constructed from the same material as a conventional generator, and what it does is it oscillates  , transmitting the oscillation to a conventional alternator, which by its own oscillation converts the wind's energy into electric energy.\"\nYanez said the output of the 6-meter-tall generator, and even that of smaller models, was better than expected. The Vortex creates about 30 percent less energy than a comparable bladed wind turbine, but it is lighter and cheaper to build and maintain. It is made mostly of reinforced plastic and has very few moving parts. Also, it does not create noise and--even more important for many environmentalists--it does not present a threat to passing birds.\nThe current prototype works at wind speeds ranging from 1.5 to 7 meters per second. The inventors say the next step is building a 12.5-meter tall bladeless generator with a 4-kilowatt capacity that could power small businesses or individual homes, or provide supplemental power to a main grid. The commercial version of the Vortex Bladeless generator should be ready for the market by 2017.",
+  "id": "asc01305"
+}

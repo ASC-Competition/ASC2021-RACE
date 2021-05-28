@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "He is a worker.",
+      "He is a teacher.",
+      "He is a doctor.",
+      "He is a farmer."
+    ],
+    [
+      "Because there is no bus.",
+      "Because his factory is not far from his home.",
+      "Because he likes riding a bike.",
+      "Because he doesn't like taking a bus."
+    ]
+  ],
+  "questions": [
+    "What does Mr Smith do?",
+    "Why doesn't Mr Smith go to work by bus?"
+  ],
+  "article": "Mr Smith works in a factory in the middle of the city. The factory is not far from his home. It is about 800 meters away. So Mr Smith doesn't go to work by bus. He usually goes there by bike, sometimes he walks to work. It takes  him 10 minutes to get there by bike or 20 minutes on foot. He usually leaves home at ten minutes to eight. Today something is wrong with his bike. He wants to walk there. His work starts at half past eight in the morning and finishes at a quarter  to five in the afternoon.\n,.",
+  "id": "asc19873"
+}

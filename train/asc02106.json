@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "has been rediscovered because it costs much less and works more efficiently",
+      "is being redesigned because it could be used in places without electricity",
+      "has just been found to be energy-saving and environmentally friendly",
+      "will be fully made use of and become the fridge of the future"
+    ],
+    [
+      "Freon was used in fridges long before the 1950s.",
+      "Freon is what makes current fridges big polluters.",
+      "McCulloch thinks he could improve Einstein's design by using other types of vapors.",
+      "The fridge Malcolm McCulloch and his team designed will be put into production soon."
+    ]
+  ],
+  "questions": [
+    "According to the passage, an early invention by Albert Einstein   _  .",
+    "Which of the following is TRUE according to the text?"
+  ],
+  "article": "An early invention by Albert Einstein has been rebuilt by scientists at Oxford University. They are trying to develop an environmentally friendly refrigerator that runs without electricity.\nWe all know that modern fridges cause damage to the environment. They work by using a kind of man-made greenhouse gas called Freon  , which is far more damaging than carbon dioxide.\nNow Malcolm McCulloch, an electrical engineer at Oxford, is leading a three-year project to develop appliances that can be used in places without electricity.\nHis team has completed a prototype   of a fridge patented in 1930 by Einstein. It used only pressurized gases to keep things cold. The design was partly used in the first refrigerators, but the technology was dropped when more efficient compressors   became popular in the 1950s. That meant a switch to using Freon.\nEinstein's idea uses butane   and water and takes advantage of the fact that liquids boil at lower temperatures, when the air pressure around them is lower.\n\"If you go to the top of Mount Qomolangma, water boils at a much lower temperature than it does when you're at sea level and that's because the pressure is much lower up there,\" said McCulloch.At one side is the evaporator  , a bottle that contains liquid butane. \"If you introduce a new vapor above the butane, the liquid boiling temperature decreases and, as it boils off, it takes energy from the surroundings to do so,\" says McCulloch. \"That's what makes it cold.\"\nThe gas fridges based on Einstein's design were replaced by Freon-compressor fridges partly because Einstein's design was not very efficient. But McCulloch thinks that by changing the design and replacing the types of gases used it will be possible to quadruple   the efficiency.\nHowever, McCulloch's fridge is still in its early stages. \"It's very much a prototype,\" he said. \"Give us another month and we'll have it working.\"",
+  "id": "asc02106"
+}

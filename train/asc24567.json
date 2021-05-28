@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "name",
+      "sister",
+      "brother",
+      "father"
+    ],
+    [
+      "two; one",
+      "one; two",
+      "three; no",
+      "no; three"
+    ]
+  ],
+  "questions": [
+    "My   _   is Paul.",
+    "My parents have   _   sons and   _   daughter(s)."
+  ],
+  "article": "My name is Jenny . I have a sister and a brother, Rose and Paul. We like apples very much. Rose and I like hamburgers. But I don't like salad. Paul doesn't like broccoli. But Rose does. My parents like tomatoes and French fries.",
+  "id": "asc24567"
+}

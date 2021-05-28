@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    [
+      "Li Lei",
+      "Read",
+      "Jack",
+      "Green"
+    ]
+  ],
+  "questions": [
+    "How old is Li Lei?",
+    "What's Li Lei's friend's name?"
+  ],
+  "article": "Hello!This Chinese boy is Li Lei. He's 12. He's in No.3 Middle School. He's in Class 2,Grade 1. His good friend is Jack. He's an English boy. He's in Li Lei's school. He's in Class1.Grade2. Mrs Read is an English teacher in their school.She's an English woman. Jack an Li Lei has a secret ----Jack is their English teacher's son.",
+  "id": "asc22876"
+}

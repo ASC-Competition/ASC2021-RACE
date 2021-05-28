@@ -1,0 +1,50 @@
+{
+  "id": "asc0259",
+  "article": "Like other languages, English has changed greatly, so that an English speaker of 1300 would not have understood the English of 500 nor the English of today. Changes of every sort have taken place in the sounds and in the grammar. Although the pronunciation of English has changed greatly since the 15th century, the spelling of English words has changed very little over the same period. As a result, English spelling is not a reliable guide to the pronunciation of the language. The vocabulary of English has naturally expanded, but many common modern words are derived from the vocabulary of the earliest English, e.g. bread, good, and shower. French words, such as castle, began to come into English shortly before the Norman Conquest in 1066. After the Conquest, Norman French became the language of the court and of official life, and it remained so until the end of the 14th century. During these 300 or more years English remained the language of the common people, but an increasingly large number of French words found their way into the language, so that the French element in the English vocabulary was very considerable. Most legal terms and words denoting social ranks and institutions (such as duke), together with a great number of other words that cannot be classified readily, e.g. honor, courage, season, manner, study, and poor, belong to this period of French influence. Since nearly all of these French words are mainly derived from Late Latin, they may be regarded as an indirect influence of the classical languages upon the English vocabulary. The direct influence of the classical languages began with the Renaissance (the period in Europe in the 14th, 15th and 16th centuries when there was a new interest in art, literature, and science) and has continued ever since; even today Latin and Greek roots are the chief source for English words in science and technology. English vocabulary has also been greatly expanded by the blending of existing words (e.g. smog from smoke and fog) resulting in a new word, usually with a related meaning.",
+  "questions": [
+    "We can learn from the first paragraph that _ .",
+    "After the Norman Conquest, _ .",
+    "Which of the following words came from French?",
+    "The underlined word \" they \" in Para. 4 probably refers to _ .",
+    "It can be learned from the passage that _ ."
+  ],
+  "answers": [
+    "D",
+    "C",
+    "B",
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "English has the most changes of all the languages in the world",
+      "the spelling of English words has changed greatly since the 15<sup>th</sup> century",
+      "we can usually pronounce English words correctly according to the spelling",
+      "English grammar is not the same in different periods"
+    ],
+    [
+      "French became the language of the common people",
+      "the vocabulary of English decreased gradually",
+      "French became the official language in England",
+      "both English and French were spoken in court"
+    ],
+    [
+      "Smog.",
+      "Duke.",
+      "Bread.",
+      "Shower."
+    ],
+    [
+      "Latin words",
+      "French words",
+      "Greek words",
+      "social ranks"
+    ],
+    [
+      "Norman French came into English 1,300 years ago",
+      "the French element in the English vocabulary was not important",
+      "Latin and Greek words make up a great part of scientific English words",
+      "the increase of English words is a worrying phenomenon"
+    ]
+  ]
+}

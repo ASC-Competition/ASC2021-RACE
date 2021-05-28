@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "Hand.",
+      "Sally.",
+      "Sally Hand.",
+      "Hand Sally."
+    ],
+    [
+      "family",
+      "school",
+      "dog",
+      "room"
+    ]
+  ],
+  "questions": [
+    "What's the girl's first name?",
+    "Here's a picture of her   _  ."
+  ],
+  "article": "Hello! I'm Sally Hand. I'm an English girl. I'm in EEC Middle School. Here's a picture of my room.\nA bed, a desk and a chair are in it. They are green. A computer is on the desk. Next to the computer is my telephone. It's red. My phone number is 523-6851. I always call my cousin in the evening. He is in China. Can you see a ring? It's on the desk, too. What's that under the chair? It's my dog. It's Kelly. Kelly is always under the chair. Can you see a tape player on the bed? It's mine. Some tapes are on the bed, too.",
+  "id": "asc22785"
+}

@@ -1,0 +1,34 @@
+{
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "England",
+      "America",
+      "English",
+      "American"
+    ],
+    [
+      "his father",
+      "his mother",
+      "his father and mother",
+      "his friends"
+    ],
+    [
+      "Tony's friends.",
+      "Tony's new school.",
+      "Tony's teachers.",
+      "Tony's parents"
+    ]
+  ],
+  "questions": [
+    "Tony is from  _  .",
+    "Tony comes to China with  _  .",
+    "What is the passage mainly  about?"
+  ],
+  "article": "I'm an American boy. My name is Tony. I'm thirteen this year. I come to China with my parents and study in a new school now. The name of my new school is Yingcai Middle School. It is the best  school in this city. There are nine hundred students in it. Many foreign students study here. We learn to speak Chinese. And many Chinese students can speak English well. I think Chinese is hard to study, but I like it.\nThe students in the school are _ to me, and the teachers take good care of me. I feel very happy every day in my new school.",
+  "id": "asc0273"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "The ground floor",
+      "The first floor",
+      "The top floor",
+      "The sixth floor"
+    ],
+    [
+      "one",
+      "two",
+      "three",
+      "four"
+    ]
+  ],
+  "questions": [
+    "Which floor is the flat on?",
+    "There are   _   bedrooms in the flat."
+  ],
+  "article": "This large flat is on the top floor of a five-story modern building in a quiet part of the city. There are two schools, a restaurant and several shopping centres nearby. A bus stop is only one hundred metres away. The flat has got a large living room , a dining room,a modern kitchen, one large bedroom and two small bedrooms. There is a bedroom with a shower, a sink and a toilet. The flat has also got a small storeroom and there is a large doorway. The price of it is $245,600 without the garage . The price of the garage is $34,560.",
+  "id": "asc23657"
+}

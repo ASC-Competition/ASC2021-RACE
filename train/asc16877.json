@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "robots are very popular",
+      "there are various kinds of robots",
+      "we see robots only at certain times",
+      "robots can be easily controlled"
+    ],
+    [
+      "They should be greatly improved.",
+      "They will probably take over in the future.",
+      "They are very helpful and useful to humans.",
+      "They are machines that break down a lot."
+    ]
+  ],
+  "questions": [
+    "In this passage the author tells us that   _  .",
+    "What does the author seem to inform you about robots?"
+  ],
+  "article": "There are robots all around us. Some do very complicated jobs like flying airplanes and driving subway trains. and some do one simple job. When an automatic washing machine is switched on, water pours in. The machine waits until the water is warm enough for washing clothes. It does this by \"feedback\" . Information about what is happening is feedback into the robot to tell what to do next. Our eyes, ears and other senses are our feedback. They tell us what is going on around us. So robots are like human beings in two ways. They work and they have feedback.\nIn some ways robots are better than human beings. They work quickly and do not make mistakes. They do not get bored doing the same job over and over again. And they never get tired. So robots are very useful in factories. They can be taught to do many different jobs. First their electronic brain must be shown how the job is done. A person moves the robot's \"arms\" and \"hands\" through each part of the job.\nThe most intelligent robots can move and see. Their eyes are cameras. Their fingers can feel shapes and sizes of the objects. These robots have computer brains linked to their eyes and fingers, which control their actions. The expensive robots are used in scientific research. They do such job as handling radioactive materials.",
+  "id": "asc16877"
+}

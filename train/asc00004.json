@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "provides very accurate information",
+      "offers links to most leading media",
+      "covers rich resources of knowledge",
+      "comes available in any language"
+    ],
+    [
+      "provide details of the same articles",
+      "help the users to be better informed",
+      "guarantee the quality of the service",
+      "offer basic guidance on web research"
+    ]
+  ],
+  "questions": [
+    "We know from the passage that Wikipedia  _  .",
+    "The links in Wikipedia to other resources are mainly to  _  ."
+  ],
+  "article": "Below is a page adapted from About Wikipedia   on how to take full advantage of Wikipedia.\nWikipediais a web-based, free-content encyclopedia   in many languages.\nSSExploring Wikipedia\nMany visitors come to Wikipedia to acquire knowledge, while others come to share knowledge. At this very instant, dozens of articles are being improved, and new articles are also being created. Over 3,500 articles have been listed by the Wikipedia community as featured articles. Another 15,000 articles are listed as good articles. Wikipedia is available in more than 280 languages including English. Its related projects include a dictionary, quotations, books, manuals, and scientific reference sources, and a news service. All of these are kept, updated, and managed by separate communities, and often include information and articles that can be hard to find through other common sources.\nSSBasic navigation in Wikipedia\nWikipedia articles are all linked, or cross-referenced. In every article, there are links to some related articles or Wikipedia pages with further in-depth information. Holding the mouse over a certain link will often show to where the link will lead. There are other links towards the ends of most articles, for other articles of interest, related websites and pages and so on. Some articles may also have links to dictionary definitions, audio-book readings, quotations, the same article in other languages etc.\nSSUsing Wikipedia as a research tool\nWiki articles are never considered complete and may be continually edited and improved. Over time, this generally results in an upward trend of quality and a growing agreement over a representation of information. Users should be aware that not all articles are of encyclopedic quality from the start. Indeed, many articles start their lives as displaying a single viewpoint; and, after a long process of discussion, debate, and argument, _ gradually take on a neutral point of view reached through agreement. Others may, for a while, become caught up in a heavily unbalanced viewpoint which can take some time--months perhaps--to achieve better balanced coverage of their subject.\nSSWikipedia vs. paper encyclopedias\nWikipedia has advantages over traditional paper encyclopedias. Wikipedia has a very low \"publishing\" cost for adding or expanding entries and a low environmental impact in some respects, since it never needs to be printed. In addition, Wikipedia has wikilinks instead of in-line   explanations and its articles provide not only summaries but also plenty of details. Additionally, the editorial cycle is short. A paper encyclopedia stays the same until the next edition, while editors can update Wikipedia at any instant, around the clock, to help ensure that articles keep up with the most recent events.",
+  "id": "asc00004"
+}

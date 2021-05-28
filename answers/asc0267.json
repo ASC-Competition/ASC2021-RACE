@@ -1,0 +1,42 @@
+{
+  "id": "asc0267",
+  "article": "Earthquake rescue robots have experienced their final tests in Beijing. Their designers say with these robots, rescuers will be able to buy more time to save lives during an earthquake. This robot, looking like a helicopter, is called the detector bot. At about 4 metres long, it took about 4 years to develop the model. Its main functions are to collect information from the air, and deliver goods of up to 30 kilos to people trapped by an earthquake. This robot is equipped with a high 360\u00addegree panoramic camera. It can work day and night and also be able to send the latest pictures from the quake area. Dr Qi Juntong, from Chinese Academy of Sciences, said, \" The most important feature of this robot is that it doesn't need distant control. We just set the information on it, and then it takes off, and lands by itself. It flies as high as 3,000 metres, and as fast as 100 kilometres per hour. \" This robot has a different function \u2014 it can change as the environment changes. Its main job is to search for any signs of life in places where human rescuers can't go. The robot is equipped with a camera that can work in the dark, as well as a detector that not only finds people, but can also detect poisonous gas. Another use for the rescuers is the supply bot, with its 10\u00admetre\u00adlong pipe. People trapped in the ruins will be able to get supplies including oxygen and liquids. Experts have said that the robots will be produced, and serve as part of the national earthquake rescue team as soon as next year.",
+  "questions": [
+    "We can learn from the passage that the earthquake rescue robot _ .",
+    "According to Dr Qi Juntong, the earthquake rescue robot _ .",
+    "The robot can find people in an earthquake with the help of _ .",
+    "What is the passage mainly about?"
+  ],
+  "answers": [
+    "C",
+    "D",
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "is unable to deliver goods",
+      "is designed to predict the earthquake",
+      "can send pictures even at night",
+      "can be used to clear away poisonous gas"
+    ],
+    [
+      "has a unique shape",
+      "has more functions",
+      "is equipped with more advanced cameras",
+      "can work by itself once given the information"
+    ],
+    [
+      "a remote control",
+      "a detector",
+      "a long pipe",
+      "a helicopter"
+    ],
+    [
+      "Some information about earthquakes.",
+      "How to build earthquake rescue robots.",
+      "An introduction to a kind of earthquake rescue robots.",
+      "Different earthquake rescue robots in the world."
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "asc0235",
+  "article": "This is a photo of my bedroom. In my room, a bed, a dresser, a computer, a desk and a chair are here. Under my bed are a video tape and a baseball. The computer is on the desk. My notebooks and a pencil case are in the drawer of the desk. A computer game is behind the computer. A clock is near the computer. A bookcase is behind the door. My books are in the bookcase.",
+  "questions": [
+    "This is a photo of my _ .",
+    "The computer is _ .",
+    "I have _ under my bed."
+  ],
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "family",
+      "bedroom",
+      "bookcase",
+      "computer"
+    ],
+    [
+      "under the desk",
+      "behind the desk",
+      "on the desk",
+      "in the desk"
+    ],
+    [
+      "a video tape and a hat",
+      "a set of keys and notebooks",
+      "a video tape and a baseball",
+      "notebooks and pencils"
+    ]
+  ]
+}

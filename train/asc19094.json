@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "the police station",
+      "the post office",
+      "the bank",
+      "the shop"
+    ],
+    [
+      "a gun",
+      "the keys",
+      "a wallet",
+      "a handbag"
+    ]
+  ],
+  "questions": [
+    "The man got out of the car, and then he went into  _  .",
+    "The old lady saw  _  in the car."
+  ],
+  "article": "An old lady went out shopping last Sunday. She came to a bank and saw a car near the door . A man got out of it  and went into the bank . She looked into the car. The keys were in the lock.\nThe old lady took the keys and followed the man into the bank. The man took a gun out of his pockets and said to the clerk , \" Give me all the money . \"\nBut the old lady didn't see this. She went to the man and put the keys in his hand and said, \" Young man , you're foolish . Never leave your keys in your car. Someone's going to steal it . \"\nThe man looked at the old woman for a few seconds. Then he looked at the clerk and then he took the keys and ran off the bank, got into his car and drove away quickly without any money .\n,.",
+  "id": "asc19094"
+}

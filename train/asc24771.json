@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "Mr. Wang",
+      "Mr. Wang's wife",
+      "Mr. Wang's classmate",
+      "me"
+    ],
+    [
+      "a teacher",
+      "a worker",
+      "a farmer",
+      "an actor"
+    ]
+  ],
+  "questions": [
+    "The author  writes this note  to   _  .",
+    "Mr. Wang's classmate is   _  ."
+  ],
+  "article": "Dear Mr. Wang,\nSomeone comes to the office to see you in the morning, but you and your wife are out. He comes here at 10am. Because he is very busy, he goes away half an hour later. He tells me that he is your classmate  at college . Now he teaches Chinese in a high school  in this city and he lives near the No. 6 Middle School. He is a very tall man with short hair. He wears a pair of glasses. He tells me his telephone number is 33426685. He is often at home at 7:00 pm. So you can call him in the evening.",
+  "id": "asc24771"
+}

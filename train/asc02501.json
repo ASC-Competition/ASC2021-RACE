@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "encourage people to buy the Locata",
+      "tell us the disadvantages of the GPS",
+      "introduce a new positioning system Locata",
+      "tell us that Locata will replace GPS one day"
+    ],
+    [
+      "Without the help of the satellites, Locata can tell you where you are.",
+      "Locata will be popular with most people even including the US armies.",
+      "Locata has a better signal than GPS in some bad environments.",
+      "In five years, Locata will take the place of GPS."
+    ]
+  ],
+  "questions": [
+    "The passage is written mainly to   _  .",
+    "Which of the following is NOT true about Locata?"
+  ],
+  "article": "A ground-based system that uses much stronger signals than GPS can find your location in cities and indoors. It is a new positioning system that could compete with GPS to make sure you never lose your directions again.\nInstead of satellites, Locata uses ground-based equipment to send a radio signal over a localized area that is a million times stronger on arrival than GPS. It can work indoors as well as outdoors, and the makers claim that the receivers can be shrunk  to fit inside a regular cell phone. Even the US armies, which invented GPS technology, signed a file last month agreeing to a test of Locata at the White Sands Missile Range in New Mexico.\n\"This is one of the most important technology developments for the future of the positioning industry,\" says Nunzio Gambale, CEO and co-founder of the firm Locata, based in Griffith, Australia.\nAs for the Locata's correctness, Christopher Morin of the US Air Force tested it recently at White Sands, and it worked to within 18cm along any axis . Morin said it should be possible to get the _ down to 5cm.\nThe tests were performed in an open desert where GPS also worked beautifully, but its signal was weak--like a car headlight from 20,000 kilometers away--and easily cut off by solid objects . Locata's signal was far stronger, though not guaranteed to work in a complex urban environment, said David, speaker of the UK' s General Lighthouse Authorities.\nLocata's technology will face competition in the race to transform indoor navigation. But it could shine in specific areas, Gambale said. Robots with Locata could easily navigate inside buildings without the complex optical  systems they need at the moment. And the process that handles correct location data could not only guide you around a mall, railway station or airport, but also take you to the exact shelf in a shop for the product you want. It would be small and cheap enough for smart phones and it should be available within five years--a similar path to the one GPS took on its way towards the world, he said.",
+  "id": "asc02501"
+}

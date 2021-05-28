@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "doctor",
+      "driver",
+      "teacher",
+      "worker"
+    ],
+    [
+      "Rose's mother and Peter",
+      "Peter my Mary",
+      "Thomas and Peter's mother",
+      "Rose's grandparents"
+    ]
+  ],
+  "questions": [
+    "Rose's father is a   _  .",
+    "_   are both  doctors."
+  ],
+  "article": "My grandparents have two sons and one daughter. They are my uncle, my aunt and my father. My uncle, Peter, is a doctor. He likes fish and chicken a lot. He has a son and two daughters. I like playing with them. My aunt, Mary, is a teacher. She teaches in No. 5 High School. All the students there love her. My father, Thomas, is a driver. My mother is a doctor. She likes fish and hamburgers very much. I have a sister, Rose. She is 8 years old. Her favorite food is fish. I love my family very much.",
+  "id": "asc21821"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "A"
+  ],
+  "options": [
+    [
+      "dog",
+      "pig",
+      "cat",
+      "fox"
+    ],
+    [
+      "in front of",
+      "in the middle of",
+      "behind",
+      "beside"
+    ]
+  ],
+  "questions": [
+    "One day a tiger caught a   _  .",
+    "The fox walked   _   the tiger."
+  ],
+  "article": "One day a tiger caught a fox  in the forest . Before the tiger eat him , the fox said, \"You can't eat me, I'm king  of the forest. If you eat me , all the other animals in the forest will be angry with you.\" The tiger didn't believe him. The fox said, \"If you don't believe me, then take a walk with me in the forest. You can see whether they are afraid of me.\"\nThe tiger thought it was a good idea, so they started together. The fox walked in front and the tiger went behind. When the other animals saw the tiger coming, they ran away as fast as they could. The fox called out, \" Mr Tiger, you see, all the animals are afraid of me.\" The tiger said, \"Yes, you are quite right.\" He let the fox go .",
+  "id": "asc19787"
+}

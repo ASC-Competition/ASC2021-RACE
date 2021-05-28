@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "train",
+      "engine",
+      "steam engine",
+      "bus"
+    ],
+    [
+      "to lift a 3,300-pound weight",
+      "to show how useful his steam engine was",
+      "to tell people exactly how powerful his steam engine was",
+      "to measure the weight of his steam engine"
+    ]
+  ],
+  "questions": [
+    "Watt made the world's first   _  .",
+    "Watt wanted to find a way   _  ."
+  ],
+  "article": "The horsepower was first used two hundred years ago. James Watt had made the world's first widely used steam engine. He had no way of telling people exactly how powerful it was, for at that time there were no units for measuring power.\n    Watt decided to find out how much work one strong horse could do in one minute. He called that init one horsepower. With this unit he could measure the work his steam engine could do.\n    He discovered that a horse could lift a 3,300-pound weight 10 feet into the air in one minute. His engine could lift a 3,300 pound weight 100 feet in one minute.\n    Because his engine did ten times as much work as the horse, Watt called it a ten-horsepower engine.",
+  "id": "asc08794"
+}

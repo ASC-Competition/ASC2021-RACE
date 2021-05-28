@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "A",
+    "B",
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "In America",
+      "In China.",
+      "In Canada.",
+      "In Australia."
+    ],
+    [
+      "he is busy with his study",
+      "he can't speak English well",
+      "he doesn't like his classmates",
+      "he doesn't know anyone"
+    ],
+    [
+      "He must study hard.",
+      "He must speak English more.",
+      "He must do some new things.",
+      "He must make more friends."
+    ],
+    [
+      "Lin Tao lives in America with his parents.",
+      "The Media Center is Lin Tao's first club.",
+      "Lin Tao doesn't like joining clubs.",
+      "Lin Tao makes many new friends in the first year."
+    ]
+  ],
+  "questions": [
+    "Where is Lin Tao studying now?",
+    "Lin Tao doesn't speak t  the first year because   _  .",
+    "What does Lin Tao think in his second school year?",
+    "What can you learn from the passage ?"
+  ],
+  "article": "My name is Lin Tao. I'm a Chinese boy. Now I'm studying in America. There are many kinds of clubs here. When I first come here, l don't know anything about clubs.\nI'm a shy boy, so I can't speak English well. In my first year in America, l don't like to speak to others. In my second year I have to change myself by doing some new things. I _ that school is not just about getting good grades , it's also about being part of a club. One day, when I go to the Media Center with my classmate Jim, he tells me something about the club, It's interesting, so 1 join it.\nI am in many clubs now, it's good to be part of a club. These clubs help me to make new friends.",
+  "id": "asc0282"
+}

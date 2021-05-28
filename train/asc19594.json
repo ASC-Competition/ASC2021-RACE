@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "Wang Ping",
+      "Zheng Hui",
+      "Zhang Jian",
+      "Li Ming"
+    ],
+    [
+      "Milk and fruit.",
+      "Rice, chicken and vegetables.",
+      "Chicken and hamburgers.",
+      "Vegetables, fruit and salad."
+    ]
+  ],
+  "questions": [
+    "_   likes tomatoes.",
+    "What doesWang Ping have for lunch?"
+  ],
+  "article": "I'm Wang Ping. I'm in Beijing. I like healthy food. I have milk   and fruit for breakfast; rice  , chicken and vegetables for lunch; vegetables, fruit and salad for dinner. Here is what my friends like eating. Let's have a look!\nZhang Jian(inBeijing)Like:\nLi Ming(inShanghai)Like:\nZheng Hui(inBeijing)Like:\n,.",
+  "id": "asc19594"
+}

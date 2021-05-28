@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "Chinese",
+      "English",
+      "Maths",
+      "Art"
+    ],
+    [
+      "The music club.",
+      "The sports club.",
+      "The art club.",
+      "The swimming club."
+    ]
+  ],
+  "questions": [
+    "My   _   is not good.",
+    "What club does Wang Ying want to join?"
+  ],
+  "article": "There are many clubs in our school. My English is not good. I want to join the English club. Wang Ying wants to learn to paint. So he wants to join the art club. Zhang Ping likes running. He wants to join the running club. Li Nan is good at singing and she wants to join the music club. What club does Han Mei join? Oh, she likes eating and she joins the cooking club.",
+  "id": "asc20261"
+}

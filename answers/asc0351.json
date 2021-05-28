@@ -1,0 +1,50 @@
+{
+  "id": "asc0351",
+  "article": "Hi! My name is Jenny. I am a student in PEP Middle School in Hangzhou. And I have a friend, Bob at school. Do you want to know my family? Here is a photo of my family. These are my grandparents. They live in Shanghai now. This is my father. His name is Bill Smith. He is a teacher in No.4 Middle School. His phone number is 13857428849. This is my mother, Sally Smith. She works in a shop. She only sells rulers, pens, erasers, pencil boxes and notebooks. Her phone number is 15857499256. My mother is tidy, but my father isn't.",
+  "questions": [
+    "Jenny Smith is a student in _ . _",
+    " _ is Jenny's friend in school.",
+    "Jenny's father's phone number is _ .",
+    "Jenny's mother only sells _ .",
+    "According to the article, we know _ ."
+  ],
+  "answers": [
+    "A",
+    "B",
+    "B",
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "PEP Middle School",
+      "Shanghai",
+      "No. 4 Middle School",
+      "a shop"
+    ],
+    [
+      "Bill",
+      "Bob",
+      "Sally",
+      "Smith"
+    ],
+    [
+      "15857499256",
+      "13857428849_",
+      "18857428894",
+      "13957482339"
+    ],
+    [
+      "rulers, pens, erasers, boxes and notebooks_",
+      "rulers, pens, erasers, pencils and books_",
+      "rulers, pens, erasers, pencil boxes and books_",
+      "rulers, pens, erasers, pencil boxes and notebooks"
+    ],
+    [
+      "Bill isn't a teacher in school._",
+      "Jenny's grandparents are in Hangzhou now._",
+      "Sally works in a shop._",
+      "Jenny's mother isn't tidy."
+    ]
+  ]
+}

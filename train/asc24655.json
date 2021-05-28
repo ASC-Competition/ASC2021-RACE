@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "primary school",
+      "middle school",
+      "university",
+      "college"
+    ],
+    [
+      "eggs and a cup of milk",
+      "eggs and tea",
+      "tea and milk",
+      "vegetables"
+    ]
+  ],
+  "questions": [
+    "Jane is a school girl in a   _  .",
+    "Jane has   _   for breakfast."
+  ],
+  "article": "Jane is a school girl. She is twelve. She studies at a middle school. She is in Grade Seven. She is a good girl. Jane gets up at seven in the morning. Then she has her breakfast. For breakfast she has eggs and a cup of milk. She doesn't have tea for breakfast.\nAfter breakfast Jane goes to school. At twelve she comes home from school. She has lunch with her mother. For lunch she has hamburgers and salad. She likes salad, but she doesn't like hamburgers.\nAt seven she has supper with her father and mother. They have chicken and vegetables. Her father likes chicken, but Jane doesn't.",
+  "id": "asc24655"
+}

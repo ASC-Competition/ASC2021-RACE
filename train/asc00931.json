@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "find your missing items",
+      "use your phone more wisely",
+      "save your phone's battery power",
+      "connect something to your phone"
+    ],
+    [
+      "The Tile needs to be charged after a year of use.",
+      "One smartphone can only be linked up to one Tile.",
+      "The Tile cannot work when linked up to a phone without Bluetooth.",
+      "A missing item can't be found if it goes out of the needed range."
+    ]
+  ],
+  "questions": [
+    "The Tile app can help you  _  .",
+    "Which of the following is TRUE according to the passage?"
+  ],
+  "article": "If you have a bad habit of losing things, a new device that can be connected to any item that you might lose may be the way to solve your problem. The Tile, a small square linked up to your iPhone or iPad via Bluetooth, lets you see how close you are to the missing item, within a 50-to 150-foot range . If the item goes out of your phone's 150-foot range, it can still be detected   on other smartphones with the same app.\nWhen you log into the app on your phone, it shows you, with green bars that increase or decrease, how far away you are from the Tile. You can also program it to make a sound when you get close to the Tile. And you can link up your phone with up to ten Tiles. And if your lost item -- a dog, for example, or a stolen bike -- goes out of your own phone's 150-foot Bluetooth range, you can set it as a \"lost item\". If any of the phones with the Tile app comes within the range of your lost item, a message will be sent to your own phone, reminding you of its position. The Tile app also has the function to remember where it last saw your Tile, so that you can easily find where you left it.\nSince the Tiles use Bluetooth rather than GPS, they never run out of battery or need to be charged, and they last for one year before needing to be replaced. The app, which will come into the market this winter, works with iPhone 5S, iPhone 6, iPad Mini, iPad 3rd and 4th generation, and iPod 5th generation.",
+  "id": "asc00931"
+}

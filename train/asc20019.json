@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "A big black bird.",
+      "A black bird.",
+      "An old black bird.",
+      "A big old black bird."
+    ],
+    [
+      "Because there is some food in my hand.",
+      "Because the bird eats some food.",
+      "Because the bird likes food.",
+      "Because the bird eats good food."
+    ]
+  ],
+  "questions": [
+    "What's in the tree?",
+    "Why does the bird come down?"
+  ],
+  "article": "There is a big tree in front of my house. A black bird lives in the tree. Every day I take some food to the tree. The bird sees me and comes down. The food is in my hand. The bird comes to my hand and eats it. After that it goes back to the tree.\nI give some food to the bird every day. And so the bird knows me. I like the bird and the bird likes me. We are good friends.",
+  "id": "asc20019"
+}

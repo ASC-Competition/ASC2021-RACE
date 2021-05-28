@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "exciting",
+      "interesting",
+      "relaxing",
+      "important"
+    ],
+    [
+      "answered a question",
+      "visited his granny",
+      "stayed at home",
+      "went to a party"
+    ]
+  ],
+  "questions": [
+    "It's  _  to make someone happy.",
+    "The boy said he  _  yesterday."
+  ],
+  "article": "\"Now, children,\" she said. \"Do any of you ever make someone else glad?\"\n\"Yes, teacher,\" said a small boy. \"I made someone glad yesterday.\"\n\"Well done. Who was that?\"\n\"My granny.\"\n\"Good boy. Now tell us how you made your grandmother glad. \"\n\"Yes, teacher. I went to see her yesterday, and stayed with her for three hours. Then, I said to her: \"Granny, I' m going home,\" and she said: \"Well, I' m glad!\"",
+  "id": "asc22437"
+}

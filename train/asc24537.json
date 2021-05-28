@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "D"
+  ],
+  "options": [
+    [
+      "one",
+      "two",
+      "three",
+      "four"
+    ],
+    [
+      "Shanghai.",
+      "Dalian.",
+      "Fuzhou.",
+      "Shanxi."
+    ]
+  ],
+  "questions": [
+    "There are   _   people in Yang Yang's family.",
+    "Where does Yang Yang's father come from?"
+  ],
+  "article": "There are  three people in Yang Yang's family. They like different kinds of food. Yang Yang likes rice a lot. But she doesn't like chicken at all. Her father is from Shanxi. He doesn't like rice at all. He likes chicken and bread very much. Her mother is from Dalian. She doesn't like rice or bread at all. But she likes fish and vegetables a lot. They love each other and help each other.",
+  "id": "asc24537"
+}

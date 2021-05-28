@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "Natural killer cells are much more in the bloodstreams of runners than in the sedentary mice.",
+      "Levels of interleukin-6 are higher in the blood of the runners than in the sedentary mice.",
+      "Exercise such as running seemed to help the mice fight against the cancer.",
+      "Adrenaline can reduce the severity of cancer or fight it off."
+    ],
+    [
+      "the hormone adrenaline has much higher levels in the blood of the exercising animals",
+      "how these elements in the runners -- their increased adrenaline, IL-6, and natural killer immune cells fight against tumor",
+      "interleukin-6 can both increase and decrease inflammation in the body, depending on where and how it goes to work",
+      "what happens inside mice at high risk for the disease"
+    ]
+  ],
+  "questions": [
+    "In the first experiment, which one is the most important result the scientists found?",
+    "In the follow-up experiments, the scientists found   _  ."
+  ],
+  "article": "The relationship between exercise and cancer has long both intrigued and puzzled oncologists and exercise physiologists.\nExercise is strongly associated with lowered risks for many types of cancer. At the same time, exercise involves biological stress, which typically leads to a short-term increase in inflammation  which can contribute to higher risks for many cancers.\nNow, a new study in mice may offer some clues into the exercise-cancer paradox. It suggests that exercise may change how the immune system deals with cancer by boosting adrenaline , certain immune cells and other chemicals that, together, can reduce the severity of cancer or fight it off altogether.\nTo try to better understand how exercise can both elevate inflammation and simultaneously protect the body against cancer, scientists at the University of Copenhagen in Denmark and other institutions decided to closely examine what happens inside mice at high risk for the disease.\nSo, for the new study, they began by gathering a group of adult lab mice. These animals generally like to run.\nThe scientists then implanted melanoma   skin cancer cells into the mice before providing half of them with running wheels in their cages while the other animals remained sedentary. After four weeks, far fewer of the runners had developed full-blown melanoma than the sedentary mice and those that had been diagnosed with the disease showed fewer and smaller lesions.\nThey drew blood from both the exercising and sedentary animals and cells from any tumors in both groups. As expected, they found much higher levels of the hormone adrenaline in the blood of the exercising animals, especially right after they had been working out on the wheels but also at other times of the day. The body releases adrenaline in response to almost any type of stressful experience, including exercise.\nThey also found higher levels of interleukin-6 in the blood of the runners. This is a substance that is released by working muscles and is believed to both increase and decrease inflammation in the body, depending on where and how it goes to work.\nPerhaps most important, they found much higher numbers in the bloodstreams of runners than in the sedentary mice of a type of immune cell named natural killer cells that are known to be strong cancer fighters.\nSo the scientists repeated their original experiment multiple times, inducing cancer while allowing some mice to run and others to sit. In some of these follow-up experiments, the scientists injected the runners with a substance that blocked the production of adrenaline and gave sedentary animals large doses of added adrenaline.\nWhat they now found was that when running mice could not produce adrenaline, they developed cancer at the same rate as the sedentary animals, while the sedentary animals that had been injected with extra adrenaline fought off their tumors better than other sitting mice.\nMore remarkably, the scientists determined that adrenaline seemed to be sending biochemical signals to some of the animals' IL-6 cells, making them physiologically more alert, so that when a tumor began to develop in the affected animal, those IL-6 cells in turn activated the natural killer cells in the bloodstream and actually directed them to the tumors, like minute guide fish.\nWith these results, \"we show that voluntary wheel running in mice can reduce the growth of tumors, and we have identified an exercise-dependent mobilization of natural killer cells as the underlying cause of this protection,\" said Pernille Hojman, a researcher at the University of Copenhagen who oversaw the new study. It perhaps provides one more incentive for us to get up and move.",
+  "id": "asc04017"
+}

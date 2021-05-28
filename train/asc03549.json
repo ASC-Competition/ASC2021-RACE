@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "Sleeping hours and changes of genes.",
+      "Sleeping hours and diseases.",
+      "Changes of genes and diseases.",
+      "Genes and health."
+    ],
+    [
+      "The experiment was carried out to find the answer to how genes affect sleep.",
+      "The experiment took a period of more than two weeks to reach a conclusion.",
+      "His volunteers were divided into two groups with two different sleeping patterns.",
+      "Blood samples of the volunteers were checked afterwards to decide how many genes changed in sleeping."
+    ]
+  ],
+  "questions": [
+    "What kind of relation is directly discussed in the passage?",
+    "What can we learn about Professor Derk-Jan Kijk's experiment?"
+  ],
+  "article": "I've often wondered how exactly sleep, or lack of it, can have such an awful effect on our bodies and, guess what, how much we sleep switches good genes  on and had genes off.\nIn the first half of 2013, the Sleep Research Centre at the University of Surrey found a direct link between hours spent sleeping and genes. Every cell in our bodies carries genetic instructions in our DNA that act as a kind of operating handbook. However, each cell only \"reads\" the part of this handbook it needs at any given moment.\nCan sleep affect how a gene reads instructions? It's a question asked by Professor Derk-Jan Dijk at the University of Surrey. He set up an experiment and asked his volunteers to spend a week sleeping around seven and a half hours to eight hours a night and the next sleeping six and a half to seven hours.\nBlood samples were taken each week to compare which genes in blood cells were being used during the long and short nights. The results were rather surprising. Several hundred genes changed in the amount they were being used, including some that are linked to heart disease, cancer, and Type 2 diabetes. Genes to do with cell repair and replacement were used much less.\nSleep restriction(six and a half to seven hours a night) changed 380 genes. Of these, 220 genes were down regulated (their power was increased). Those affected included body-clock genes which are linked to diabetes . One of the most downgraded genes is that which has a role in controlling insulin  and is linked to diabetes and insomnia . The most upgraded gene is linked to heart disease.\nSo changing sleep by tiny amounts can upgrade or downgrade genes that can influence our health and the diseases we suffer from when we sleep too little.\nThe important message is that getting close to eight hours of sleep a night can make a dramatic difference to our health in just a few days through the way it looks after our genes.",
+  "id": "asc03549"
+}

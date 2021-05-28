@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "By equipping teachers with cameras.",
+      "By asking test-takers to sign in.",
+      "By providing different tests at a time.",
+      "By recording the test-takers' behaviors."
+    ],
+    [
+      "unreliable",
+      "promising",
+      "wasteful",
+      "instructive"
+    ]
+  ],
+  "questions": [
+    "How can Mettl help to get rid of cheating online?",
+    "We can conclude from the passage that the technology of Mettl is  _  in the MOOC era."
+  ],
+  "article": "Since American students have been introduced into the era of the Massive Open Online Course, the opportunity for cheating appears greater than ever. The all-knowing Google search engine is within easy reach. So how can a teacher handle such a large number of examinees so far away, let alone searching out cheaters taking tests across the Internet?\nUsing technology, of course. While special services via webcam   and cheating detecting software have been developed now, Mettl, an online company, has developed advanced techniques for netting cheaters, which the company claims are even more reliable and easier to use. Whatever small attempt to cheat, he or she will be found out.\nMettl has adopted a mass of technologies on its test-taking platform, creating a mini monitoring state in an exam. Here's how it works: A test-taker signs on to Mettl and selects his/her exam from the site's library of pre-loaded tests. Facial and keystroke recognition technology confirm the person that has signed in is the very person, and the system records both the test-taker (through the webcam) and the test-taker's screen throughout the test.\nMettl's technology uses the test-taker's webcam to detect how many people are using the computer. Soon, it will track eye movement well enough to sense whether the test-taker is looking away from the screen, perhaps to consult a smart phone or a friend in secret. Mettl also monitors the test-taker's screen and can detect when the test-taker has changed a computer or moved from the test. The system will soon be able to record sound, detecting whether the test-taker is talking or being talked to.\nIf any wrongdoings are detected, the system flags the incident and reports it back to the test's administrator. This can bring any number of things, depending on the test-giver's wishes: a complete shutdown of the exam, a warning message that appears on the test-taker's screen, even human instructions from the control center.\nMettl is hoping its technology will help it break into the country's big MOOC markets.",
+  "id": "asc02272"
+}

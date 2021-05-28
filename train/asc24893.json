@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "A"
+  ],
+  "options": [
+    [
+      "Nora and Kate.",
+      "Nora and Betty.",
+      "Betty and Kate.",
+      "Nora, Betty and Kate."
+    ],
+    [
+      "Kate",
+      "Nora",
+      "Betty",
+      "Nora's friend"
+    ]
+  ],
+  "questions": [
+    "Who are sisters?    _",
+    "_    can't find her pen."
+  ],
+  "article": "Nora is an American girl. She studies in a middle school. She has a little sister. Her name is Kate. Kate is only four. Nora likes Kate very much.\nToday is Sunday. Nora wants her pen. She takes out her pencil case. \"Oh, dear! Where's my pen?\" She can't find her pen. She goes to ask her sister in her bedroom.\n\"Kate! I can't find my pen. Can you see......Oh, what are you doing with   my pen?\"\n\"I'm writing to my friend, Betty.\" Kate answers. \"But how can you? You don't know what to write.\".\"It doesn't matter  . Betty can't read.\" Kate says.",
+  "id": "asc24893"
+}

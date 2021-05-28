@@ -1,0 +1,50 @@
+{
+  "id": "asc0217",
+  "article": "Mary is an English girl, but she lives in China. She is six. Her mother says to her, \" You are six now, Mary, you are going to school. I think it is very good. It's a nice school. \" Is it a Chinese school? Mary asks. \" Yes, it is. Her mother says. It is September and the new school year begins. Mary goes to school every day. She likes her lessons and her classmates very much. Her classmates like her, too. Mary can speak a little Chinese. She likes China. She likes the people of China and Chinese food very much.",
+  "questions": [
+    "Mary lives in _ .",
+    "Mary studies in _ .",
+    "Mary likes her _ and _ .",
+    "Mary can speak a little _ .",
+    "She likes _ and _ ."
+  ],
+  "answers": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "England",
+      "France",
+      "Canada",
+      "China"
+    ],
+    [
+      "a French school",
+      "a Chinese school",
+      "a Japanese school",
+      "an English school"
+    ],
+    [
+      "school, class",
+      "lessons, classmates",
+      "students, lessons",
+      "teacher, school"
+    ],
+    [
+      "Chinese",
+      "English",
+      "Japanese",
+      "French"
+    ],
+    [
+      "Chinese, Chinese people",
+      "China, China food",
+      "Chinese food, Chinese people",
+      "the students of China, the food of China"
+    ]
+  ]
+}

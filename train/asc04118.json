@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "The applicants had some things in common at their first two jobs.",
+      "The applicants' resumes and phone numbers are created by Pedulla.",
+      "The applicants' most recent job experiences affected the callback rates.",
+      "Unemployed female applicants got a higher callback rate than males."
+    ],
+    [
+      "Career",
+      "Science",
+      "Culture",
+      "Education"
+    ]
+  ],
+  "questions": [
+    "Which statement is NOT true about Pedulla's experiment?",
+    "In which section may the text appear in a newspaper?"
+  ],
+  "article": "As graduation draws near, those who haven't landed a job yet may be desperate to find one. Perhaps some of the job offers they have received are below their skill and experience levels. Is it better to take these offers, or reject them and remain unemployed?\nRecently, David Pedulla, a University of Texas sociologist, conducted a study about how taking a job below your skill level could affect your future employment.\nIn the study, Pedulla developed resumes for imaginary job applicants. The job seekers he created had a few things in common. They had a college degree, worked nearly two years at their first job, and about 4.5 years at their second job. What differed was their third job in the most recent year. They either had a full-time job that matched their skills, a part-time job below their skill levels, or were unemployed.\nThen Pedulla submitted 2,420 resumes based on his imaginary job seekers, along with cover letters, to online ads for 1,210 real jobs. Each applicant had a real phone number that employers could contact if they were interested in talking with the applicant further.\nThe callback rates varied widely based on how the imaginary job seekers had spent their last year. The applicants who had full-time jobs the previous year were called back 10.4 percent of the time. Those whose most recent year of employment was in a job below their skill levels were only called back about 5 percent. Male applicants unemployed for a year were called back 4.2 percent of the time, while the figure is 7.5 percent for unemployed females.\nHowever, Pedulla cautioned that the experiment only measured the initial interest of employers in his fictional job candidates, not whether the employers would hire them or what they would be paid based on their most recent job experiences.",
+  "id": "asc04118"
+}

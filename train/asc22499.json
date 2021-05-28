@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "a hospital",
+      "a police station",
+      "a school",
+      "a restaurant"
+    ],
+    [
+      "Chinese",
+      "Japanese",
+      "Spanish",
+      "French"
+    ]
+  ],
+  "questions": [
+    "Mr Smith works in   _  .",
+    "Mr Smithis good at   _  ."
+  ],
+  "article": "Mr Smith is an English teacher. He comes from America. He has a daughter.\nHer name is Amy, and she is a good engineer in New York. Mr Smith likes traveling very much, and he can speak Spanish very well. Now he is in China, so he wants to learn some Chinese. He works very hard at his Chinese, and goes to Chinese classes every evening. He has a lot of friends in China and they often help him. He likes to talk with them. He tells his daughter that he can speak good Chinese, and he doesn't have anytrouble with his Chinese, but the Chinese have a lot .",
+  "id": "asc22499"
+}

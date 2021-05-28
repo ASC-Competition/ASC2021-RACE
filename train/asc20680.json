@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "B"
+  ],
+  "options": [
+    [
+      "by ship",
+      "by plane",
+      "by car",
+      "by train"
+    ],
+    [
+      "quick",
+      "expensive",
+      "comfortable",
+      "pleasant"
+    ]
+  ],
+  "questions": [
+    "The most popular way to Paris is  _  .",
+    "Traveling from London to Paris by taxi is  _  ."
+  ],
+  "article": "There are many different ways to travel to Paris from London. One of the quickest and most popular ways is by train. From Waterloo Railway station, you can travel all the way to Paris. The journey takes about three hours. The train, called the Eurostar, is very modern, and the seats are comfortable.\nYou can also travel to France by ship. First, you go to Dover, on the coast  , by bus from London. The bus stops at the Ferry Terminal Seven in Dover. You can buy your tickets there. People who travel by car can drive on to the ferry  , too.\nAnother way to travel to Paris is by plane. There are several airports with international flights to Paris and other cities in France. You can travel to London Airport by bus or underground. Some people even go by taxi but this is a very expensive way to travel!",
+  "id": "asc20680"
+}

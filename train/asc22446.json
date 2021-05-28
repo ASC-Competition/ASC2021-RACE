@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "Say hello to each other.",
+      "Say goodbye to each other.",
+      "Talk about the weather.",
+      "Talk about their personal matters."
+    ],
+    [
+      "Fine,thank you.How are you?",
+      "How are you?",
+      "How do you do?",
+      "I'm fine,too."
+    ]
+  ],
+  "questions": [
+    "What are the first words when English people meet?",
+    "What's the answer to\"How do you do?\""
+  ],
+  "article": "When two English people meet,their first words will be\"How do you do?\"or\"How are you?\"After the reply\"How do you do?\"or\"Fine,thank you.How are you?\"they often talk about the weather.The reason for this is not simply that their weather is interesting and changeable but that the English people don't like talking about personal matters with people who are not friends.Talking about the weather can be a useful way of starting a conversation with a stranger in public.",
+  "id": "asc22446"
+}

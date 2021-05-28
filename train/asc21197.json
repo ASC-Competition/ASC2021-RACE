@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "D"
+  ],
+  "options": [
+    [
+      "yellow",
+      "blue",
+      "nice",
+      "big"
+    ],
+    [
+      "My English book",
+      "My Chinese book",
+      "My pencil box",
+      "All the three"
+    ]
+  ],
+  "questions": [
+    "My bag is   _  .",
+    "What's in my bag?   _  ."
+  ],
+  "article": "Look at this.It's a blue bag.It is my bag.What's in it? Look,this is my English book.It's blue,too.My Chinese book is also in my bag.It is yellow.This is my pencil box.It's big and nice.I like English and Chinese.My bag is my good friend.",
+  "id": "asc21197"
+}

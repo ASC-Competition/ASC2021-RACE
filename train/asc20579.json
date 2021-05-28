@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "Because she doesn't like sports.",
+      "Because she likes eating vegetables",
+      "Because she likes eating snacks.",
+      "Because she likes eating fruit."
+    ],
+    [
+      "Two.",
+      "Three.",
+      "Four",
+      "Five."
+    ]
+  ],
+  "questions": [
+    "Why has Wang Yan become overweight?",
+    "How many pieces of advice do health experts give in this passage?"
+  ],
+  "article": "Wang Yan, a 15-year-old Chinese girl, likes eating snacks very much. She prefers cream biscuits, McDonald's food, KFC chicken. As a result, she has become overweight.\nToday in China, there are many children like Wang Yan. Health experts say that children should have healthy eating habits. First, they must eat regular meals and begin with a healthy breakfast. Second, they should have different kinds of foods, such as fruit, vegetables, grain, eggs, milk and meat. Third, children shouldn't eat too much junk food. It's delicious, but eating it often is bad for their health. If children do as the experts say, they won't become overweight. They will be healthier. Students won't become tired at school, and they will have enough energy to study hard.",
+  "id": "asc20579"
+}

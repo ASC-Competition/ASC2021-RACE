@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "New York",
+      "London",
+      "Paris",
+      "Beijing"
+    ],
+    [
+      "7,000,000",
+      "7,500,000",
+      "8,000,000",
+      "8,500,000"
+    ]
+  ],
+  "questions": [
+    "Cathy's family went to   _   for their summer vacation.",
+    "New York has about   _   people."
+  ],
+  "article": "Last summer, Cathy's family went to New York City for their summer vacation. They stay there for two weeks. New York City has about seven and a half million people. _ is the largest city in the United States.\nFirst they visited the Statue of Liberty. It is one of New York's most well-known historical sites . Millions of people visit it every year.   On the second day, they went to the Empire State Building. From the top of the building, they saw most parts of New York. On the third day, they visited the Metropolitan Museum. In this museum, they saw a lot of famous paintings. During the rest time of the week, Cathy went to Bronx Zoo with her younger brother and sister.\nIn the second week, the family visited Long Island. They all had a good time.",
+  "id": "asc20045"
+}

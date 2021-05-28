@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "D",
+    "C"
+  ],
+  "options": [
+    [
+      "Tuesday",
+      "Thursday",
+      "Monday",
+      "Saturday"
+    ],
+    [
+      "washing",
+      "driving",
+      "repairing",
+      "cleaning"
+    ]
+  ],
+  "questions": [
+    "Today is   _  .",
+    "Mr Black is   _   his car."
+  ],
+  "article": "Look at the car. It is Mr Black's car. It doesn't work now. Mr Black is under it. He is repairing it. Mrs Black is near the car. She is helping Mr Black. A girl is in the car. She is Kate, Mr Black's daughter. Who is the boy in the car? He is Jim, Kate's brother. It is Saturday today. They don't work. They want to go to Zhongshan Park. They all look worried.",
+  "id": "asc03678"
+}

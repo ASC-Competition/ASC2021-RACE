@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "D",
+    "D",
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "Every day.",
+      "Five days a week.",
+      "Only on Saturdays and Sundays.",
+      "Six days a week."
+    ],
+    [
+      "He goes to have lessons.",
+      "He goes to a club.",
+      "He goes to the bookshop.",
+      "He watches TV."
+    ],
+    [
+      "On Sunday evening.",
+      "On Sunday morning.",
+      "On Saturday evening.",
+      "On Sunday afternoon."
+    ],
+    [
+      "John watches TV after dinner on Saturdays.",
+      "John exercises on Sundays.",
+      "John plays computer games on Sunday afternoon.",
+      "John finishes his homework very late on Sundays."
+    ]
+  ],
+  "questions": [
+    "How often does John need to get up early?",
+    "What does John do on Sunday morning?",
+    "When does John do his weekend homework?",
+    "Which of these is not right?"
+  ],
+  "article": "John gets up early from Monday to Saturday, because he must go to school before 7:30 on weekdays  and go to Drawing Club at 8:00 on Saturday mornings. He usually goes to the bookshop on Saturday afternoon, and after dinner he watches TV until  midnight .\nHe doesn't get up early on Sundays. John's parents both work on Sundays. John always watches TV after he gets up. Then he usually goes to KFC to have a hamburger and some juice for lunch. After that, he goes back home and starts to play computer games until his parents come back. He does his homework after dinner. He usually has lots of weekend homework, so he must spend three hours on it. He usually goes to bed at about 11:00 p.m. on Sundays. He often complains  he has too much homework to do.\n,.",
+  "id": "asc0395"
+}

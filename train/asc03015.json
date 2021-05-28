@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "Two",
+      "Three",
+      "Four",
+      "Seven"
+    ],
+    [
+      "an individual reading room",
+      "a computer room",
+      "a group study room",
+      "a seminar room"
+    ]
+  ],
+  "questions": [
+    "How many locked rooms can students and teaching staff use?",
+    "If teachers want to print, they can go to   _  ."
+  ],
+  "article": "A Guide\nTo use or protect all kinds of facilities in the library, follow the procedures given at the circulation desk.\nGroup Study Rooms(2F)\nStudents and teaching staff can use these rooms for group study. Students are advised to use unlocked rooms(4 rooms for 2 people, 3 rooms for 4 people) available for free. When you use locked rooms(2 rooms for 4 people, 2 rooms for 10 people), you need to go through reservation procedures at the circulation desk. These rooms are available for group discussion.\nIndividual Reading Rooms(1-3F)\nThere are 4 single rooms available for use by teaching staff and visiting scholars. Each room is equipped with a computer together 1 printer and 6 scanners. Reservation of these rooms is available for a period up to seven days on end.\nMeeting Rooms and Seminar Rooms(1-3F)\nOnly teaching staff and graduate students can apply to use these rooms and reserve them one day in advance. The total number of seats is 40. They are available for workshops and small seminars.\nComputer Rooms(4F)\nThese rooms are available for classes or seminars and so on. The total number of seats is 88. Only teaching staff can apply to use the computer rooms and reserve them one day in advance.",
+  "id": "asc03015"
+}

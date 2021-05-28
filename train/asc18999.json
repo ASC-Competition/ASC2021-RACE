@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "sister",
+      "teacher",
+      "mum",
+      "father"
+    ],
+    [
+      "Beijing",
+      "Shanghai",
+      "England",
+      "Nanning"
+    ]
+  ],
+  "questions": [
+    "Tony is Ling Tao's  _  .",
+    "Tony is from  _  ."
+  ],
+  "article": "Ling Tao is a student in Class 6, Grade 1. He has a good friend in the school, and his name is Tony. Tony is not a student. He is Ling Tao's English teacher. He is from England. He is only twenty-three years old, and he is a tall boy. He likes to wear blue clothes. He likes eating healthy food.\nTony is good at singing. He often teaches the students to sing English songs and plays games with them. The students all love him and he loves them, too.\n,.",
+  "id": "asc18999"
+}

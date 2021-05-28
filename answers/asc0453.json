@@ -1,0 +1,50 @@
+{
+  "answers": [
+    "B",
+    "A",
+    "D",
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "big",
+      "poor",
+      "rich",
+      "small"
+    ],
+    [
+      "In 1952.",
+      "In 1955.",
+      "In 1961.",
+      "In 1987."
+    ],
+    [
+      "In Kansas.",
+      "In Kenya.",
+      "In Golumbia.",
+      "In Hawaii."
+    ],
+    [
+      "The writer Mo Yan lived in a big city before he got the prize.",
+      "Park Geun-hue will lead South Korea till the year 2018.",
+      "Obama studied in Columbia University and Harvard Law School.",
+      "Among the three persons, Park Geun-hue is the oldest."
+    ],
+    [
+      "an e-mail",
+      "a letter",
+      "news",
+      "an ad"
+    ]
+  ],
+  "questions": [
+    "When Mo Yan was young, his family might be   _  .",
+    "When was Park Geun-hue born?",
+    "Where was Barack Obama born?",
+    "Which of the following is NOT true about the passages?",
+    "The three passages may be from   _  .        ."
+  ],
+  "article": "Chinese writer Mo Yan won the Nobel Prize in Literature in 2012. Mo, who was born in 1955 from a farmer's family in Gaomi county in Shandong Province, is the first person in China to win the Nobel Prize in Literature. In his early years, life was not easy and he experienced hunger. These things have influence Mo Yan's later writings.\nPark Geun-hue is 64 years old this year. She was selected the new President of South Korea in December, 2012. She is the country's first female head of state and her term will last five years from 2013. \"I will become a president who puts people's living before anything else,\" she told the cheering people in central Seoul as she accepted her win. \"I will keep my promises.\"\nBarack Obama (born in Honolulu, Hawaii in 1961), who was elected the 44th President of the United States in 2008, has been elected again to a second term. Obama is a graduate of Columbia University and Harvard Law School. His father was from Kenya. And his mother was born in Wichita, Kansas.",
+  "id": "asc0453"
+}

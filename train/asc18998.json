@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "C"
+  ],
+  "options": [
+    [
+      "one boy and a girl",
+      "two boys",
+      "two girls",
+      "a girls"
+    ],
+    [
+      "Mr Wang's",
+      "Mrs Wang's",
+      "Wang Fang's",
+      "Mr and Mrs Wang's"
+    ]
+  ],
+  "questions": [
+    "Mr and Mrs Wang have   _  .",
+    "Wang Li is    _   sister."
+  ],
+  "article": "This is a picture of Mr Wang's family. The man in the middle is Mr Wang, the father. The woman is the mother. They have two daughters. One is Wang Fang. She is twelve. The other is Wang Li. She is thirteen. Wang Fang and Wang Li are in the same school, but not in the same   grade. Wang Fang is in Grade One. Wang Li is in Grade Two. They are good students.",
+  "id": "asc18998"
+}

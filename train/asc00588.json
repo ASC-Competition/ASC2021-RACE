@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "Two, one blue and one red.",
+      "Three, two blue and one red.",
+      "Three, one blue and two red.",
+      "Four, two blue and two red."
+    ],
+    [
+      "the original blue card with syrup on it",
+      "the new blue card with no syrup on it",
+      "the empty space where original blue card was",
+      "the new blue card with syrup on it"
+    ]
+  ],
+  "questions": [
+    "To do the experiment, altogether how many cards do you need to prepare?",
+    "During step 2 of the experiment, the bees come to  _  ."
+  ],
+  "article": "To discover whether bees can see colors, the following experiment is set up. A table is put in a garden and on the table is a piece of blue cardboard   with a drop of syrup   on it. After a short time, bees come to the syrup. The bees then fly to their hive   and give the syrup to other bees in the hive. Then they return to the feeding-place which they have discovered. After a while, the blue cardboard with the syrup on it is taken away. Instead of this card, a blue card is now put on the left side of the first feeding-place and a red card to its right. These new card have no syrup on them. Thus, the blue card is on the left, the red card on the right, and there is nothing where the first blue feeding-card used to be. Very soon bees arrive again, and fly straight to the blue card. None to the red card.",
+  "id": "asc00588"
+}

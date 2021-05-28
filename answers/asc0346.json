@@ -1,0 +1,50 @@
+{
+  "id": "asc0346",
+  "article": "Hi, I 'm Peter. This is the photo of my family. My grandfather is with glasses. He has little hair. The one standing next to him is my father. He is wearing a cap. My grandmother has gray hair. She is a kind woman. She is holding my younger sister. She has short curly hair. The woman standing behind me is my mom. She has straight brown hair. There is a little boy sitting on the table. His name is Paul. He is my brother. He is wearing a green T-shirt and a pair of green socks. It's his favorite color. Which one is my uncle? Well, he is wearing glasses, too. He is in brown shorts and brown shoes. His name is Sam. Now, do you know where he is?",
+  "questions": [
+    "Where is Peter in the photo?",
+    "What is Paul's favorite color?",
+    "How many children do Peter's parents have?",
+    "Who is wearing glasses?",
+    "Which is NOT true?"
+  ],
+  "answers": [
+    "B",
+    "A",
+    "C",
+    "C",
+    "B"
+  ],
+  "options": [
+    [
+      "He's next to his father.",
+      "He's in front of his mother.",
+      "He's on the table.",
+      "He's behind his mother."
+    ],
+    [
+      "Green.",
+      "Black.",
+      "Yellow.",
+      "White."
+    ],
+    [
+      "One.",
+      "Two.",
+      "Three.",
+      "Four"
+    ],
+    [
+      "Peter and his father.",
+      "Peter and his brother.",
+      "Peter's grandpa and uncle.",
+      "Peter's grandpa and father."
+    ],
+    [
+      "Peter has one uncle in the picture._",
+      "Peter's younger sister has long curly hair.",
+      "Peter's grandfather doesn't have much hair.",
+      "Peter's brother wears a green T-shirt."
+    ]
+  ]
+}

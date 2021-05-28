@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "D",
+    "D",
+    "A",
+    "C"
+  ],
+  "options": [
+    [
+      "China.",
+      "England.",
+      "America.",
+      "Australia."
+    ],
+    [
+      "Red and blue.",
+      "Red and yellow.",
+      "Green and yellow.",
+      "Green and blue."
+    ],
+    [
+      "Running.",
+      "Basketball.",
+      "Football.",
+      "Table tennis."
+    ],
+    [
+      "Nancy and Wendy are 12 years old.",
+      "Wendy is a student and she is English.",
+      "Everyone in Class Four likes Wendy.",
+      "Nancy has a cat and Wendy has a dog."
+    ]
+  ],
+  "questions": [
+    "Where is Wendy from?",
+    "What colours does Nancy like?",
+    "What's Wendy's favourite sport?",
+    "Which is TRUE ?"
+  ],
+  "article": "My name is Nancy. I'm twelve years old. I have a good friend. Her name is Wendy. She is thirteen. She is from Australia. We are friends, but we are in _ classes. Wendy is in Class Four and I'm in Class Three. I like green and blue but Wendy likes red and yellow. She is a good student, and all the students and teachers in her class like her. Wendy likes running, and she often runs after school. I like basketball and football. I often play basketball with my sister in the afternoon.\nWe like animals. I have a dog, and she has a cat.     Where are we now? Oh, we are in the park. We play with our dog and cat.",
+  "id": "asc0442"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "Canada",
+      "America",
+      "England",
+      "Australia"
+    ],
+    [
+      "Swimming",
+      "Running",
+      "Playing basketball",
+      "Walking"
+    ]
+  ],
+  "questions": [
+    "Where are Sam and Sue from?",
+    "What sport does Mrs. Smith like?"
+  ],
+  "article": "Mr. and Mrs. Smith come from London, England. They work in China now. They teach English in a middle school. They like their work very much. They have two children, Sam and Sue.  They are both in Shanghai with their parents. Mr. Smith can't speak Chinese, but his wife can speak it very well.\nMr. Smith likes swimming and reading, and Mrs. Smith likes swimming and reading, too. They often go swimming in the afternoon and read in the evening. Sam and Sue like playing games with Chinese boys and girls.\nSam's uncle works on a farm near London. He likes swimming, too. He wants to work in Shanghai, but he can' t speak Chinese. So he is still  there and goes to Chinese classes every day.",
+  "id": "asc24360"
+}

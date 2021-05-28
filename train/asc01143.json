@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "A",
+    "B"
+  ],
+  "options": [
+    [
+      "fact and opinion",
+      "cause and effect",
+      "definition and classification",
+      "time and events"
+    ],
+    [
+      "It's necessary and useful for people to wash their hands frequently every day.",
+      "We can wash our hands with water that is at a \"comfortable\" temperature.",
+      "Using cold water to wash hands is necessary and much healthier.",
+      "Hot water can't kill germs."
+    ]
+  ],
+  "questions": [
+    "This passage is organized in the pattern of   _  .",
+    "What can we learn from the passage?"
+  ],
+  "article": "People typically wash their hands seven times a day in the United States, but they do it at a far higher temperature than is necessary to kill germs   , a new study says. The energy waste is equivalent to the fuel use of a small country.\nAmanda R. Carrico, a research assistant professor at the Vanderbilt Institute for Energy and Environment in Tennessee, told National Geographic that hand washing is often \"a case where people act in ways that they think are in their best interest, but they in fact have inaccurate beliefs or outdated perceptions.\"\nCarrico said, \"It's certainly true that heat kills bacteria, but if you were going to use hot water to kill them it would have to be way too hot for you to tolerate.\"\nCarrico said that after a review of the scientific literature, her team found \"no evidence that using hot water that a person could stand would have any benefit in killing bacteria.\" Even water as cold as 40degF (4.4degC) appeared to reduce bacteria as well as hotter water, if hands were scrubbed, rinsed and dried properly.\nUsing hot water to wash hands is therefore unnecessary, as well as wasteful, Carrico said, particularly when it comes to the environment. According to her research, people use warm or hot water 64 percent of the time when they wash their hands. Using that number, Carrico's team calculated a significant impact on the planet.\n\"Although the choice of water temperature during a single hand wash may appear unimportant, when multiplied by the nearly 800 billion hand washes performed by Americans each year, this practice results in more than 6 million metric tons of CO2 equivalent emissions annually,\" she said.\nThe researchers published their results in the July 2013 issue of International Journal of Consumer Studies. They recommended washing with water that is at a \"comfortable\" temperature, which they noted may be warmer in cold months and cooler in hot ones.",
+  "id": "asc01143"
+}

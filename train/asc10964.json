@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "C"
+  ],
+  "options": [
+    [
+      "an introduction to some products",
+      "An advertisement for selling goods",
+      "a direction of a kind of washing machine",
+      "A notice about a football game"
+    ],
+    [
+      "don't delay joining us in playing",
+      "You should buy 500,000 packets of splash",
+      "please buy a packet of splash",
+      "Please drive a car as quickly as possible"
+    ]
+  ],
+  "questions": [
+    "This is   _  .",
+    "If you want to get prize,   _  ."
+  ],
+  "article": "Cars!!! Holidays! Thousands of prizes ! Hurry !\nFREE with every packet  of SPLASH! Your personal lucky number!\nWill be among the 500,000 Winners!\nUse SPLASH for the SOFTEST ...\nQIUCKEST...WHITEST WASH!\nDON'T DELAY ... BUY A PACKET TODAY!",
+  "id": "asc10964"
+}

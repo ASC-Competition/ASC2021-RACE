@@ -1,0 +1,42 @@
+{
+  "answers": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "options": [
+    [
+      "Everyone has an inborn number sense.",
+      "Those who have a strong number sense are sure to do well in math.",
+      "Some of the math skills are inborn.",
+      "Doing a lot of math exercises may help to learn math well."
+    ],
+    [
+      "look at the students' math scores dating back to kindergarten.",
+      "ask the students to estimate the dots",
+      "see if a person's inborn number sense has something to do with math learning",
+      "decide how to learn math well"
+    ],
+    [
+      "one should have an inborn number sense",
+      "one should practice a lot",
+      "one should do a lot of tests",
+      "one should do a lot of counting"
+    ],
+    [
+      "Students who did well in the tests also did well in math exams.",
+      "One cannot be successful in math if he has a well number sense.",
+      "One who has a strong number sense can not do math well.",
+      "One should do a lot of math homework if he wants to have a number sense."
+    ]
+  ],
+  "questions": [
+    "Which of the following is not true according to the passage?",
+    "Justin Halberda and his colleagues ran some tests to_.",
+    "According to the passage, the most important thing to learn math well is that_.",
+    "What is the result of Justin Halberda's tests?"
+  ],
+  "article": "NOT all math skills are learned in the classroom. Some of them come naturally. Consider the split-second calculations  you make when you estimate   the number of empty seats on the school bus or the number of cookies in a cookie jar.\nThese estimates can often be done without counting. That's because humans are born with the ability to closely guess the number of items in a group. Researchers call this ability a person's \"number sense\".\nTo see how a person's inborn number sense might be linked to mathematical performance in the classroom, psychologist Justin Halberda and his colleagues from Johns Hopkins University in prefix = st1 /Baltimore,USran some tests.\nThe scientists asked 64 14-year-olds to look at images   of yellow and blue dots that flashed on a computer screen for a fraction   of a second. Each image contained between 10 and 32 dots that varied in size.\nSome images contained twice as many blue dots  as yellow dots. In other images, however, the number of blue and yellow dots was nearly equal. For each image, the students were asked to estimate which color1 had more dots.\nThe scientists found a wide variation in how well students could pick the color1 with the most dots.\nThe scientists then looked at the students' math scores dating back to kindergarten. Children that performed best in the image test also scored the highest in standard math tests.\nThe same finding held true at the other end of the spectrum  . Students who didn't score well on the image test received lower math scores.\nThe study was the first to show a link between a person's inborn number sense and his or her achievement in formal math training.\nDoes this connection mean that one cannot be good in math if they have a weak number sense? Or that having a strong number sense is a guarantee for good grades in math? The answers are not clear.\nWhile scientists continue looking at the possible links between a person's number sense and math achievement, one thing is certain: Doing lots of math homework will   _ your chances of success.",
+  "id": "asc0138"
+}

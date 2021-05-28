@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "B"
+  ],
+  "options": [
+    [
+      "It's a classroom.",
+      "It's a bedroom.",
+      "It's a big room.",
+      "It's a nice room."
+    ],
+    [
+      "Lily's coat is on her bed.",
+      "Lucy's shoes are under her chair.",
+      "There are two beds in the room.",
+      "They are students."
+    ]
+  ],
+  "questions": [
+    "What kind  of room is it?",
+    "Which one is NOT TURE?"
+  ],
+  "article": "Here are the twin sisters, Lily and Lucy. They are in Miss Gao's class. They are two new students. They're eleven. This is their room. It's a nice room. There are two beds in the room. One is Lucy's and the other is Lily's. They look the same. Their coats are on their beds. We can't see their shoes. They're under their beds.\nThe twins have two desks and chairs. Their clocks, books and pencil boxes are on the desks. Their schoolbags are behind the chairs.",
+  "id": "asc01355"
+}

@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "B",
+    "A"
+  ],
+  "options": [
+    [
+      "not small",
+      "not big",
+      "very new",
+      "very old"
+    ],
+    [
+      "is a bookcase and a desk",
+      "are some desks and a chair",
+      "is a desk and a picture",
+      "are some chairs and a desk"
+    ]
+  ],
+  "questions": [
+    "Alan's room is   _  .",
+    "There   _  in his room."
+  ],
+  "article": "Hi! I'm Alan.This is my dream house .It has a small but nice room.Some pictures are on the wall.There is  a bookcase in my room.There is a desk and a chair in it.My schoolbag is on the desk.Oh!Where is my pencil case?It is under the chair.There are some pencils and a ruler in the pencil case.My shoes and a basketball are under the bed.I like my dream house very much.",
+  "id": "asc22055"
+}

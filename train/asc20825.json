@@ -1,0 +1,26 @@
+{
+  "answers": [
+    "C",
+    "A"
+  ],
+  "options": [
+    [
+      "eat grains",
+      "eat vegetables",
+      "eat dessert",
+      "drink milk"
+    ],
+    [
+      "fuel",
+      "car",
+      "friend",
+      "teacher"
+    ]
+  ],
+  "questions": [
+    "From the passage, we know people should try not to   _   all the time if they want to keep healthy.",
+    "The writer thinks breakfast is like the   _"
+  ],
+  "article": "\"Eat your breakfast. It's the most important meal of the day!\" Why are parents always saying that?\nWell, a person is like a car. After a long night of sleeping, there is no fuel in your fuel tank . Breakfast is like the fuel. It makes you work or walk on the road.\nWhat should you eat? Any breakfast is better than no breakfast, but try not to have hamburgers or dessert  all the time. They don't have the necessary nutrients . And if you have a hamburger for breakfast, you won't feel full for long.\nTry to eat all kinds of foods like grains, fruit, vegetables and drink some milk. Oh, try to eat more apples because an apple a day can help to keep the doctor away.",
+  "id": "asc20825"
+}
